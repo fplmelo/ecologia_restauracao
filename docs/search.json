@@ -347,7 +347,7 @@
     "href": "exercises/index.html",
     "title": "Lista de exercícios",
     "section": "",
-    "text": "Confira abaixo a lista de exercícios e seus tutoriais\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nAuthor\n\n\n\n\n\n\n\n\nJun 26, 2026\n\n\nExercício 1: O Mosaico no Lance de Vista\n\n\nFelipe Melo\n\n\n\n\n\n\nJun 26, 2026\n\n\nExercício 2 - Workbook de Ecologia de Paisagens\n\n\nFelipe Melo\n\n\n\n\n\n\nJun 26, 2026\n\n\nExercício 3 - Pacotes R para Ecologia de Paisagens\n\n\nProf. Felipe Melo\n\n\n\n\n\n\nJun 26, 2026\n\n\nExercício 4: Amostragem de Paisagens com Restrição de Borda — Murici-AL\n\n\nFelipe Melo\n\n\n\n\n\n\nJun 26, 2026\n\n\nExercício Prático 5: Descrevendo uma paisagem\n\n\nFelipe Melo\n\n\n\n\n\n\nNo matching items"
+    "text": "Confira abaixo a lista de exercícios e seus tutoriais\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nAuthor\n\n\n\n\n\n\n\n\nJun 26, 2026\n\n\nExercício 1: O Mosaico no Lance de Vista\n\n\nFelipe Melo\n\n\n\n\n\n\nJun 26, 2026\n\n\nExercício 3 - Pacotes R para Ecologia de Paisagens\n\n\nProf. Felipe Melo\n\n\n\n\n\n\nJun 26, 2026\n\n\nExercício 4: Amostragem de Paisagens com Restrição de Borda — Murici-AL\n\n\nFelipe Melo\n\n\n\n\n\n\nJun 26, 2026\n\n\nExercício Prático 5: Descrevendo uma paisagem\n\n\nFelipe Melo\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "exercises/ex5/ex5.html",
@@ -2734,7 +2734,7 @@
     "href": "sessions/index.html",
     "title": "Conteúdo",
     "section": "",
-    "text": "Semana 01: Origens e Conceitos de Escala\n\n\n\n\n\n\nFelipe Melo\n\n\n\n\n\n\n\n\n\n\n\nSemana 02: O Modelo Mancha-Corredor-Matriz e a Heterogeneidade\n\n\n\n\n\n\nFelipe Melo\n\n\nJun 26, 2026\n\n\n\n\n\n\n\n\n\n\n\nSemana 03: Dinâmica de Perturbação\n\n\n\n\n\n\nFelipe Melo\n\n\nJun 26, 2026\n\n\n\n\n\n\n\n\n\n\n\nSemana 04: Teoria de Biogeografia de Ilhas e Fragmentação\n\n\n\n\n\n\nFelipe Melo\n\n\nJun 26, 2026\n\n\n\n\n\n\n\n\n\n\n\nSemana 05: Efeito de Borda\n\n\n\n\n\n\nFelipe Melo\n\n\n\n\n\n\n\n\n\n\n\nSemana 06: Conectividade Ecológica vs. Conexidade Física\n\n\n\n\n\n\nProf. Felipe Melo\n\n\nJun 26, 2026\n\n\n\n\n\n\n\n\n\n\n\nSemana 07: Metapopulações e Dinâmica de Extinção-Colonização\n\n\n\n\n\n\nProf. Felipe Melo\n\n\nJun 26, 2026\n\n\n\n\n\n\n\n\n\n\n\nSemana 08: Fluxos de Energia e Ciclagem de Nutrientes no Nível de Paisagem\n\n\n\n\n\n\nProf. Felipe Melo\n\n\nJun 26, 2026\n\n\n\n\n\n\n\n\n\n\n\nSemana 09: Tipos de Métricas de Paisagem\n\n\n\n\n\n\nProf. Felipe Melo\n\n\nJun 26, 2026\n\n\n\n\n\n\n\n\n\n\n\nSemana 12: Ecologia Política\n\n\n\n\n\n\nProf. Felipe Melo\n\n\nJun 26, 2026\n\n\n\n\n\n\n\n\n\n\n\nSemana 13: Planejamento Territorial da Conservação\n\n\n\n\n\n\nProf. Felipe Melo\n\n\nJun 26, 2026\n\n\n\n\n\n\nNo matching items"
+    "text": "Semana 01: Origens e Conceitos de Escala\n\n\n\n\n\n\nFelipe Melo\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "sessions/week8/semana8_fluxos_energia.html",
@@ -3406,7 +3406,7 @@
     "href": "schedule.html",
     "title": "Cronograma de Aulas",
     "section": "",
-    "text": "Semana 1: Origens da Ecologia de Paisagens e o conceito de Escala (Grão e Extensão).\nSemana 2: O Modelo Mancha-Corredor-Matriz e o conceito de Heterogeneidade.\nSemana 3: Dinâmica de Perturbação: Como eventos naturais e antrópicos moldam o mosaico.\nSemana 4: Teoria de Biogeografia de Ilhas e sua aplicação em paisagens fragmentadas."
+    "text": "Compreender a restauração ecológica como campo científico e prático orientado por teoria ecológica, governança, justiça ambiental, economia da restauração e integração de conhecimentos científicos, tradicionais e locais."
   },
   {
     "objectID": "schedule.html#módulo-iv-ecologia-política-e-gestão-12h",
@@ -3518,7 +3518,7 @@
     "href": "index.html",
     "title": "\n            Ecologia da Restauração\n        ",
     "section": "",
-    "text": "Teoria ecológica e contexto social aplicados à reconstrução da Natureza\n        \n        \n            BO-304  2026.2  Centro de Biociências  Universidade Federal de Pernambuco"
+    "text": "BO-304  2026.2  Centro de Biociências  Universidade Federal de Pernambuco"
   },
   {
     "objectID": "index.html#bem-vind",
@@ -3701,5 +3701,54 @@
     "title": "Quiz example",
     "section": "",
     "text": "Bill Gates was the founder of:\n\n\n\n\n ✗Apple\n\n\n ✓Microsoft\n\n\n ✗Facebook\n\n\n ✗Google"
+  },
+  {
+    "objectID": "schedule.html#objetivo-geral",
+    "href": "schedule.html#objetivo-geral",
+    "title": "Cronograma de Aulas",
+    "section": "",
+    "text": "Compreender a restauração ecológica como campo científico e prático orientado por teoria ecológica, governança, justiça ambiental, economia da restauração e integração de conhecimentos científicos, tradicionais e locais."
+  },
+  {
+    "objectID": "schedule.html#cronograma-de-15-semanas",
+    "href": "schedule.html#cronograma-de-15-semanas",
+    "title": "Cronograma de Aulas",
+    "section": "Cronograma de 15 Semanas",
+    "text": "Cronograma de 15 Semanas\n\n\n\n\n\n\n\n\n\nSemana\nTema da Aula\nConteúdos Centrais\nLeitura-base\n\n\n\n\n1\nIntrodução à ecologia da restauração\nDefinições, escopo, restauração como intervenção para reparar danos ambientais, evolução do campo\nHobbs & Cramer 2008; Hobbs & Harris 2001\n\n\n2\nBases conceituais e definição de metas\nMetas futuras versus estados históricos, critérios de sucesso, limiares ecológicos\nHobbs & Harris 2001; Hobbs 2004\n\n\n3\nDinâmica de ecossistemas e mudança ambiental rápida\nNão-equilíbrio, estados alternativos, novidade ecológica, mudanças globais\nHobbs & Cramer 2008; Perring et al. 2015\n\n\n4\nTeoria ecológica aplicada à restauração I\nSucessão, montagem de comunidades, dispersão, recrutamento\nPalmer et al. 1997; Young et al. 2005\n\n\n5\nTeoria ecológica aplicada à restauração II\nTraços funcionais, coexistência, facilitação, integração recente entre teoria e prática\nWainwright et al. 2018; Silliman et al. 2024\n\n\n6\nEscala de paisagem e seleção de áreas\nConectividade, colonização, persistência, priorização espacial e restaurabilidade\nPerring et al. 2015; Lindenmayer 2020; Török & Helm 2017\n\n\n7\nIntervenções e trajetórias de recuperação\nRegeneração passiva, intervenções bióticas e abióticas, barreiras e gargalos\nHobbs & Cramer 2008; Gann et al. 2019\n\n\n8\nMonitoramento e avaliação de sucesso\nIndicadores, monitoramento de longo prazo, manejo adaptativo, aprendizado institucional\nLindenmayer 2020; Gann et al. 2019; Thompson 2018\n\n\n9\nGovernança e política da restauração\nGovernança multinível, instituições, disputas de interesse, critérios processuais de sucesso\nBaker et al. 2014; Thompson 2018\n\n\n10\nEcologia política da restauração\nPoder, desigualdade, justiça e causas estruturais da degradação\nOsborne et al. 2021; Svarstad et al. 2018\n\n\n11\nFeminist political ecology e inclusão\nGênero, colonialidade, política do conhecimento, participação democrática\nElias et al. 2021\n\n\n12\nConhecimentos tradicionais e locais\nTEK, LEK, coprodução de conhecimento, benefícios ecológicos, sociais e culturais\nGann et al. 2019; Elias et al. 2021\n\n\n13\nEconomia da restauração e trade-offs\nCustos relativos, competição por uso do espaço, metas socialmente aceitáveis\nHobbs & Harris 2001; Hobbs 2004; Perring et al. 2015\n\n\n14\nRestauração urbana, turismo e justiça territorial\nRestauração em paisagens urbanas e transfronteiriças, participação e distribuição de benefícios\nPietta & Tononi 2021; Clark & Nyaupane 2023; Igwe et al. 2025\n\n\n15\nIntegração e seminários finais\nRestauração como transformação socioecológica, síntese de projetos e agendas futuras\nTedesco et al. 2023; Silliman et al. 2024"
+  },
+  {
+    "objectID": "schedule.html#estratégia-didática",
+    "href": "schedule.html#estratégia-didática",
+    "title": "Cronograma de Aulas",
+    "section": "Estratégia Didática",
+    "text": "Estratégia Didática\nCada aula pode combinar exposição dialogada, discussão de textos e análise de casos, refletindo que a restauração funciona como teste da teoria ecológica e também como processo social-ecológico inclusivo."
+  },
+  {
+    "objectID": "schedule.html#avaliação-sugerida",
+    "href": "schedule.html#avaliação-sugerida",
+    "title": "Cronograma de Aulas",
+    "section": "Avaliação Sugerida",
+    "text": "Avaliação Sugerida\n\nParticipação e fichamentos de leitura semanal.\nSeminário temático em dupla sobre um bloco do curso.\nTrabalho final com proposta de priorização ou desenho de restauração para um caso real."
+  },
+  {
+    "objectID": "schedule.html#references",
+    "href": "schedule.html#references",
+    "title": "Cronograma de Aulas",
+    "section": "References",
+    "text": "References\nBaker, S., Eckerberg, K., & Zachrisson, A. (2014). Political science and ecological restoration. Environmental Politics, 23, 509 - 524. https://doi.org/10.1080/09644016.2013.835201\nGann, G. D., McDonald, T., Walder, B., Aronson, J., Nelson, C. R., Jonson, J., Hallett, J., Eisenberg, C., Guariguata, M., Liu, J., Hua, F., Echeverría, C., Gonzales, E., Shaw, N., Decleer, K., & Dixon, K. (2019). International principles and standards for the practice of ecological restoration. Second edition. Restoration Ecology, 27. https://doi.org/10.1111/rec.13035\nHobbs, R. J., & Harris, J. A. (2001). Restoration Ecology: Repairing the Earth’s Ecosystems in the New Millennium. Restoration Ecology, 9. https://doi.org/10.1046/j.1526-100x.2001.009002239.x\nOsborne, T., Brock, S., Chazdon, R., Chomba, S., Garen, E., Gutierrez, V., Lave, R., Lefèvre, M., & Sundberg, J. (2021). The political ecology playbook for ecosystem restoration: Principles for effective, equitable, and transformative landscapes. Global Environmental Change-human and Policy Dimensions, 70, 102320. https://doi.org/10.1016/j.gloenvcha.2021.102320\nPerring, M., Standish, R., Price, J., Craig, M., Erickson, T. E., Ruthrof, K., Whiteley, A., Valentine, L., & Hobbs, R. (2015). Advances in restoration ecology: rising to the challenges of the coming decades. Ecosphere, 6, 1-25. https://doi.org/10.1890/es15-00121.1\nTedesco, A., López-Cubillos, S., Chazdon, R., Rhodes, J. R., Archibald, C. L., Pérez-Hämmerle, K.-V., Brancalion, P., Wilson, K., Oliveira, M. C., Correa, D. F., Ota, L., Morrison, T., Possingham, H., Mills, M., Santos, F. C., & Dean, A. (2023). Beyond ecology: ecosystem restoration as a process for social-ecological transformation.. Trends in ecology & evolution. https://doi.org/10.1016/j.tree.2023.02.007"
+  },
+  {
+    "objectID": "schedule.html#referencias",
+    "href": "schedule.html#referencias",
+    "title": "Cronograma de Aulas",
+    "section": "Referencias",
+    "text": "Referencias\nBaker, S., Eckerberg, K., & Zachrisson, A. (2014). Political science and ecological restoration. Environmental Politics, 23, 509 - 524. https://doi.org/10.1080/09644016.2013.835201\nGann, G. D., McDonald, T., Walder, B., Aronson, J., Nelson, C. R., Jonson, J., Hallett, J., Eisenberg, C., Guariguata, M., Liu, J., Hua, F., Echeverría, C., Gonzales, E., Shaw, N., Decleer, K., & Dixon, K. (2019). International principles and standards for the practice of ecological restoration. Second edition. Restoration Ecology, 27. https://doi.org/10.1111/rec.13035\nHobbs, R. J., & Harris, J. A. (2001). Restoration Ecology: Repairing the Earth’s Ecosystems in the New Millennium. Restoration Ecology, 9. https://doi.org/10.1046/j.1526-100x.2001.009002239.x\nOsborne, T., Brock, S., Chazdon, R., Chomba, S., Garen, E., Gutierrez, V., Lave, R., Lefèvre, M., & Sundberg, J. (2021). The political ecology playbook for ecosystem restoration: Principles for effective, equitable, and transformative landscapes. Global Environmental Change-human and Policy Dimensions, 70, 102320. https://doi.org/10.1016/j.gloenvcha.2021.102320\nPerring, M., Standish, R., Price, J., Craig, M., Erickson, T. E., Ruthrof, K., Whiteley, A., Valentine, L., & Hobbs, R. (2015). Advances in restoration ecology: rising to the challenges of the coming decades. Ecosphere, 6, 1-25. https://doi.org/10.1890/es15-00121.1\nTedesco, A., López-Cubillos, S., Chazdon, R., Rhodes, J. R., Archibald, C. L., Pérez-Hämmerle, K.-V., Brancalion, P., Wilson, K., Oliveira, M. C., Correa, D. F., Ota, L., Morrison, T., Possingham, H., Mills, M., Santos, F. C., & Dean, A. (2023). Beyond ecology: ecosystem restoration as a process for social-ecological transformation.. Trends in ecology & evolution. https://doi.org/10.1016/j.tree.2023.02.007"
+  },
+  {
+    "objectID": "schedule.html#referências",
+    "href": "schedule.html#referências",
+    "title": "Cronograma de Aulas",
+    "section": "Referências",
+    "text": "Referências\nBaker, S., Eckerberg, K., & Zachrisson, A. (2014). Political science and ecological restoration. Environmental Politics, 23, 509 - 524. https://doi.org/10.1080/09644016.2013.835201\nGann, G. D., McDonald, T., Walder, B., Aronson, J., Nelson, C. R., Jonson, J., Hallett, J., Eisenberg, C., Guariguata, M., Liu, J., Hua, F., Echeverría, C., Gonzales, E., Shaw, N., Decleer, K., & Dixon, K. (2019). International principles and standards for the practice of ecological restoration. Second edition. Restoration Ecology, 27. https://doi.org/10.1111/rec.13035\nHobbs, R. J., & Harris, J. A. (2001). Restoration Ecology: Repairing the Earth’s Ecosystems in the New Millennium. Restoration Ecology, 9. https://doi.org/10.1046/j.1526-100x.2001.009002239.x\nOsborne, T., Brock, S., Chazdon, R., Chomba, S., Garen, E., Gutierrez, V., Lave, R., Lefèvre, M., & Sundberg, J. (2021). The political ecology playbook for ecosystem restoration: Principles for effective, equitable, and transformative landscapes. Global Environmental Change-human and Policy Dimensions, 70, 102320. https://doi.org/10.1016/j.gloenvcha.2021.102320\nPerring, M., Standish, R., Price, J., Craig, M., Erickson, T. E., Ruthrof, K., Whiteley, A., Valentine, L., & Hobbs, R. (2015). Advances in restoration ecology: rising to the challenges of the coming decades. Ecosphere, 6, 1-25. https://doi.org/10.1890/es15-00121.1\nTedesco, A., López-Cubillos, S., Chazdon, R., Rhodes, J. R., Archibald, C. L., Pérez-Hämmerle, K.-V., Brancalion, P., Wilson, K., Oliveira, M. C., Correa, D. F., Ota, L., Morrison, T., Possingham, H., Mills, M., Santos, F. C., & Dean, A. (2023). Beyond ecology: ecosystem restoration as a process for social-ecological transformation.. Trends in ecology & evolution. https://doi.org/10.1016/j.tree.2023.02.007"
   }
 ]

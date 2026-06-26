@@ -30,19 +30,9 @@ website:
         href: resources/index.qmd
       - text: "Tipo de Avaliação"
         href: assessment.qmd
-      - text: "Prova Final"
-        href: avaliacao_final.qmd
-        
-    tools:
-      - icon: twitter
-        href: https://twitter.com/quarto_pub
-        text: Quarto Twitter
-      - icon: github
-        href: https://github.com/quarto-dev/quarto-cli
-        text: Quarto GitHub
-      - icon: rss
-        href: https://quarto.org/docs/blog/index.xml
-        text: Quarto Blog RSS
+      # - text: "Prova Final"
+      #   href: avaliacao_final.qmd
+  
   
  
   page-footer:

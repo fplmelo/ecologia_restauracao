@@ -1,7 +1,6 @@
 ---
 title: "Ecologia da Restauração"
-#title-block-banner: "#9e043d"
-subtitle: "Teoria ecológica e contexto social aplicados à reconstrução da Natureza"
+subtitle: "<h4> Teoria ecológica e contexto social aplicados à reconstrução da Natureza </h4>"
 details: "BO-304 <br> 2026.2 <br> Centro de Biociências <br> Universidade Federal de Pernambuco"
 sidebar: false
 toc: false
