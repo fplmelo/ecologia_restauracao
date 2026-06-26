@@ -19,26 +19,9 @@ website:
         href: syllabus.qmd
       - text: "Cronograma"
         href: schedule.qmd
-      - text: "R Intro"
-        menu:
-          - text: "1 - Instalar R & Rstudio"
-            icon: "emoji-sunglasses-fill"
-            href: get-started/1-install.qmd
-          - text: "2 - Introdução Básica ao R e Rstudio"
-            icon: "tools"
-            href: get-started/2-basic-intro.qmd
-          - text: "3 - Sintaxe & Estrutura de Dados"
-            icon: "tools"
-            href: get-started/3-syntax.qmd
-          - text: "4 - Funções e Comandos"
-            icon: "tools"
-            href: get-started/4-functions.qmd
-          - text: "5 - Dados em R"
-            icon: "tools"
-            href: get-started/5-data.qmd
-          - text: "6 - Seu próprio site"
-            icon: "tools"
-            href: workbook/workbook.qmd
+      - text: "Seu próprio site"
+        icon: "tools"
+        href: workbook/workbook.qmd
       - text: "Todas as Aulas"
         href: sessions/index.qmd
       - text: "Exercícios"

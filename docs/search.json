@@ -347,7 +347,7 @@
     "href": "exercises/index.html",
     "title": "Lista de exercícios",
     "section": "",
-    "text": "Confira abaixo a lista de exercícios e seus tutoriais\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nAuthor\n\n\n\n\n\n\n\n\nMar 17, 2026\n\n\nExercício 1: O Mosaico no Lance de Vista\n\n\nFelipe Melo\n\n\n\n\n\n\nMar 27, 2026\n\n\nExercício 2 - Workbook de Ecologia de Paisagens\n\n\nFelipe Melo\n\n\n\n\n\n\nMar 27, 2026\n\n\nExercício 3 - Pacotes R para Ecologia de Paisagens\n\n\nProf. Felipe Melo\n\n\n\n\n\n\nApr 24, 2026\n\n\nExercício 4: Amostragem de Paisagens com Restrição de Borda — Murici-AL\n\n\nFelipe Melo\n\n\n\n\n\n\nApr 24, 2026\n\n\nExercício Prático 5: Descrevendo uma paisagem\n\n\nFelipe Melo\n\n\n\n\n\n\nNo matching items"
+    "text": "Confira abaixo a lista de exercícios e seus tutoriais\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nAuthor\n\n\n\n\n\n\n\n\nJun 26, 2026\n\n\nExercício 1: O Mosaico no Lance de Vista\n\n\nFelipe Melo\n\n\n\n\n\n\nJun 26, 2026\n\n\nExercício 2 - Workbook de Ecologia de Paisagens\n\n\nFelipe Melo\n\n\n\n\n\n\nJun 26, 2026\n\n\nExercício 3 - Pacotes R para Ecologia de Paisagens\n\n\nProf. Felipe Melo\n\n\n\n\n\n\nJun 26, 2026\n\n\nExercício 4: Amostragem de Paisagens com Restrição de Borda — Murici-AL\n\n\nFelipe Melo\n\n\n\n\n\n\nJun 26, 2026\n\n\nExercício Prático 5: Descrevendo uma paisagem\n\n\nFelipe Melo\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "exercises/ex5/ex5.html",
@@ -1165,8 +1165,8 @@
     "objectID": "slides/aula2_modelo.html#objetivos-da-aula",
     "href": "slides/aula2_modelo.html#objetivos-da-aula",
     "title": "O Modelo Mancha-Corredor-Matriz e a Heterogeneidade",
-    "section": "Objetivos da Aula",
-    "text": "Objetivos da Aula\n\nDefinir a paisagem sob a ótica funcional da ecologia.\nCompreender os elementos fundamentais do modelo: Mancha, Corredor e Matriz.\nAnalisar as fontes de heterogeneidade espacial e suas consequências biológicas.\nDiferenciar conectividade estrutural de funcional no mosaico."
+    "section": "",
+    "text": "Definir a paisagem sob a ótica funcional da ecologia.\nCompreender os elementos fundamentais do modelo: Mancha, Corredor e Matriz.\nAnalisar as fontes de heterogeneidade espacial e suas consequências biológicas.\nDiferenciar conectividade estrutural de funcional no mosaico."
   },
   {
     "objectID": "slides/aula2_modelo.html#o-que-é-uma-paisagem",
@@ -1312,8 +1312,8 @@
     "objectID": "slides/week13_slides.html#objetivos-da-aula",
     "href": "slides/week13_slides.html#objetivos-da-aula",
     "title": "Planejamento Territorial: Áreas Protegidas, Corredores e Legislação",
-    "section": "Objetivos da Aula",
-    "text": "Objetivos da Aula\n\nCompreender o papel da Ecologia da Paisagem no planejamento territorial\nAnalisar a eficácia das Áreas Protegidas e dos Corredores de Biodiversidade\nDiscutir o Código Florestal Brasileiro como ferramenta de gestão do mosaico :::\n\n\n\n:::"
+    "section": "",
+    "text": "Compreender o papel da Ecologia da Paisagem no planejamento territorial\nAnalisar a eficácia das Áreas Protegidas e dos Corredores de Biodiversidade\nDiscutir o Código Florestal Brasileiro como ferramenta de gestão do mosaico :::\n\n\n\n\n:::"
   },
   {
     "objectID": "slides/week13_slides.html#ecologia-da-paisagem-e-tomada-de-decisão",
@@ -1424,8 +1424,8 @@
     "objectID": "slides/aula4_tbi_slides.html#introdução-à-tbi",
     "href": "slides/aula4_tbi_slides.html#introdução-à-tbi",
     "title": "Teoria de Biogeografia de Ilhas e sua Aplicação",
-    "section": "Introdução à TBI",
-    "text": "Introdução à TBI\n\n\n\nProposta originalmente em 1967 por MacArthur e Wilson.\nPadrões de riqueza de espécies em sistemas isolados.\nBase fundamental para a Ecologia de Paisagens."
+    "section": "",
+    "text": "Proposta originalmente em 1967 por MacArthur e Wilson.\nPadrões de riqueza de espécies em sistemas isolados.\nBase fundamental para a Ecologia de Paisagens."
   },
   {
     "objectID": "slides/aula4_tbi_slides.html#contexto-histórico-e-científico",
@@ -1662,8 +1662,8 @@
     "objectID": "slides/aula3_perturb.html#o-conceito-de-distúrbio",
     "href": "slides/aula3_perturb.html#o-conceito-de-distúrbio",
     "title": "Dinâmica de Perturbação na Ecologia da Paisagem",
-    "section": "O Conceito de Distúrbio",
-    "text": "O Conceito de Distúrbio\n\n\n\nEvento discreto que causa modificação de um sistema\nAltera a disponibilidade de recursos\nPode ser um evento natural ou de origem antrópica"
+    "section": "",
+    "text": "Evento discreto que causa modificação de um sistema\nAltera a disponibilidade de recursos\nPode ser um evento natural ou de origem antrópica"
   },
   {
     "objectID": "slides/aula3_perturb.html#o-paradigma-padrão-processo",
@@ -1837,8 +1837,8 @@
     "objectID": "slides/slides_semana6.html#o-problema-central",
     "href": "slides/slides_semana6.html#o-problema-central",
     "title": "Conectividade Ecológica vs. Conectividade Física",
-    "section": "O problema central",
-    "text": "O problema central\n\n\n\nA mesma estrutura física pode ser:\n\nUma passagem funcional para uns\nUma barreira intransponível para outros\n\nA resposta depende sempre da espécie"
+    "section": "",
+    "text": "A mesma estrutura física pode ser:\n\nUma passagem funcional para uns\nUma barreira intransponível para outros\n\nA resposta depende sempre da espécie"
   },
   {
     "objectID": "slides/slides_semana6.html#o-que-é-conectividade-física",
@@ -1977,8 +1977,8 @@
     "objectID": "slides/aula5_borda.html#interface-e-transição",
     "href": "slides/aula5_borda.html#interface-e-transição",
     "title": "Efeito de Borda",
-    "section": "Interface e Transição",
-    "text": "Interface e Transição\n\n\n\nA borda é a zona de contato entre duas unidades de paisagem.\nResulta (com frequência) da fragmentação de habitats contínuos.\nRepresenta uma quebra na homogeneidade ecológica."
+    "section": "",
+    "text": "A borda é a zona de contato entre duas unidades de paisagem.\nResulta (com frequência) da fragmentação de habitats contínuos.\nRepresenta uma quebra na homogeneidade ecológica."
   },
   {
     "objectID": "slides/aula5_borda.html#componentes-abióticos",
@@ -2096,8 +2096,8 @@
     "objectID": "slides/aula1_apresentacao.html#objetivos-do-curso",
     "href": "slides/aula1_apresentacao.html#objetivos-do-curso",
     "title": "Estrutura do Curso & Origens da Ecologia da Paisagem",
-    "section": "Objetivos do Curso",
-    "text": "Objetivos do Curso\n\nCompreender a ecologia da paisagem como o estudo da heterogeneidade espacial e suas causas e consequências biológicas\nAnalisar as inter-relações entre o homem e seu espaço de vida, abordando aspectos naturais e culturais\nCapacitar o aluno no uso de métodos quantitativos e ferramentas de SIG para análise espacial\nAplicar conceitos de conectividade e dinâmica de manchas para a conservação da biodiversidade\nDesenvolver habilidades profissionais em comunicação científica e elaboração de projetos independentes"
+    "section": "",
+    "text": "Compreender a ecologia da paisagem como o estudo da heterogeneidade espacial e suas causas e consequências biológicas\nAnalisar as inter-relações entre o homem e seu espaço de vida, abordando aspectos naturais e culturais\nCapacitar o aluno no uso de métodos quantitativos e ferramentas de SIG para análise espacial\nAplicar conceitos de conectividade e dinâmica de manchas para a conservação da biodiversidade\nDesenvolver habilidades profissionais em comunicação científica e elaboração de projetos independentes"
   },
   {
     "objectID": "slides/aula1_apresentacao.html#orgiens-da-ecologia-de-paisagem",
@@ -2181,7 +2181,7 @@
     "href": "slides/aula1_apresentacao.html#escala-do-efeito",
     "title": "Estrutura do Curso & Origens da Ecologia da Paisagem",
     "section": "Escala do “efeito”",
-    "text": "Escala do “efeito”\n\nMoraga et al (2019)"
+    "text": "Escala do “efeito”\n\n\n\n\n\nMoraga et al (2019)"
   },
   {
     "objectID": "slides/aula1_apresentacao.html#o-que-devemos-saber-hoje",
@@ -2209,7 +2209,7 @@
     "href": "slides/aula7_metapop.html#a-pergunta-desta-semana",
     "title": "Metapopulações e Dinâmica de Extinção-Colonização",
     "section": "A pergunta desta semana",
-    "text": "A pergunta desta semana\n\n\nO problema central:\n\nPopulações locais em fragmentos são inerentemente transitórias\nExtinções estocásticas são inevitáveis em fragmentos pequenos\nComo a espécie persiste em escala regional se populações locais se extinguem?\nA resposta depende de dois processos opostos:\n\nExtinções locais — empurram para colapso\nRecolonizações — garantem persistência regional\n\n\n\n\n\nA unidade de conservação relevante não é a população local — é a rede de populações."
+    "text": "A pergunta desta semana\n\n\nO problema central:\n\nPopulações locais em fragmentos são inerentemente transitórias\nExtinções estocásticas são inevitáveis em fragmentos pequenos\nComo a espécie persiste em escala regional se populações locais se extinguem?\nA resposta depende de dois processos opostos:\n\nExtinções locais — empurram para colapso\nRecolonizações — garantem persistência regional\n\n\n\n\n\n\n\n\nA unidade de conservação relevante não é a população local — é a rede de populações."
   },
   {
     "objectID": "slides/aula7_metapop.html#o-que-é-uma-metapopulação",
@@ -2306,8 +2306,8 @@
     "objectID": "slides/slides_semana12.html#o-que-a-ecologia-de-paisagens-não-pergunta-mas-deveria",
     "href": "slides/slides_semana12.html#o-que-a-ecologia-de-paisagens-não-pergunta-mas-deveria",
     "title": "Ecologia Política",
-    "section": "O que a Ecologia de Paisagens não pergunta — mas deveria",
-    "text": "O que a Ecologia de Paisagens não pergunta — mas deveria\n\nQuem decidiu que a paisagem seria configurada assim?\nEm benefício de quem opera esse arranjo espacial?\nA que custo — e para quem — foi produzida esta paisagem?\nQuem foi excluído para que esta paisagem existisse?\n\n\n\n\nO mapa de fragmentação não é neutro. É o produto material de relações de poder."
+    "section": "",
+    "text": "Quem decidiu que a paisagem seria configurada assim?\nEm benefício de quem opera esse arranjo espacial?\nA que custo — e para quem — foi produzida esta paisagem?\nQuem foi excluído para que esta paisagem existisse?\n\n\n\n\n\n\n\nO mapa de fragmentação não é neutro. É o produto material de relações de poder."
   },
   {
     "objectID": "slides/slides_semana12.html#o-que-é-ecologia-política",
@@ -2321,14 +2321,14 @@
     "href": "slides/slides_semana12.html#a-cadeia-de-explicação",
     "title": "Ecologia Política",
     "section": "A cadeia de explicação",
-    "text": "A cadeia de explicação\nBlaikie & Brookfield (1987) — Land Degradation and Society:\nPara entender a degradação ambiental, é preciso subir a cadeia de causas:\n\nLocal: o agricultor derruba a floresta\nRegional: políticas de crédito favorecem monocultura\nNacional: reforma agrária bloqueada, grilagem tolerada\nGlobal: demanda por soja, carne e commodities\n\n\nA paisagem que medimos é a sedimentação histórica dessas cadeias causais"
+    "text": "A cadeia de explicação\nBlaikie & Brookfield (1987) — Land Degradation and Society:\nPara entender a degradação ambiental, é preciso subir a cadeia de causas:\n\n\nLocal: o agricultor derruba a floresta\nRegional: políticas de crédito favorecem monocultura\nNacional: reforma agrária bloqueada, grilagem tolerada\nGlobal: demanda por soja, carne e commodities\n\n\n\nA paisagem que medimos é a sedimentação histórica dessas cadeias causais"
   },
   {
     "objectID": "slides/slides_semana12.html#a-paisagem-como-arena-de-poder",
     "href": "slides/slides_semana12.html#a-paisagem-como-arena-de-poder",
     "title": "Ecologia Política",
     "section": "A paisagem como arena de poder",
-    "text": "A paisagem como arena de poder\n\nAgronegócio — capital, tecnologia, lobbying legislativo\nEstado — regulação, licenciamento, omissão seletiva\nPovos e comunidades — direitos territoriais, saberes, resistência\nConservação — ciência, ONGs, acordos internacionais\nMineração e infraestrutura — licenças, financiamento público\nMercado de terras — especulação fundiária, grilagem"
+    "text": "A paisagem como arena de poder\n\n\nAgronegócio — capital, tecnologia, lobbying legislativo\nEstado — regulação, licenciamento, omissão seletiva\nPovos e comunidades — direitos territoriais, saberes, resistência\nConservação — ciência, ONGs, acordos internacionais\nMineração e infraestrutura — licenças, financiamento público\nMercado de terras — especulação fundiária, grilagem"
   },
   {
     "objectID": "slides/slides_semana12.html#a-paisagem-como-arena-de-poder-1",
@@ -2356,7 +2356,7 @@
     "href": "slides/slides_semana12.html#territórios-em-disputa-no-brasil",
     "title": "Ecologia Política",
     "section": "Territórios em disputa no Brasil",
-    "text": "Territórios em disputa no Brasil\n\nTerras Indígenas — 14% do território; pressão garimpeira; violências\nTerritórios Quilombolas — 4,3% titulados (Censo 2022); violências\nUnidades de Conservação — ~17% do território; conflito com populações pré-existentes; paper parks\nFronteira Agropecuária — MATOPIBA, Cerrado; grilagem; expulsão de posseiros; Arco do Desmatamento"
+    "text": "Territórios em disputa no Brasil\n\n\nTerras Indígenas — 14% do território; pressão garimpeira; violências\nTerritórios Quilombolas — 4,3% titulados (Censo 2022); violências\nUnidades de Conservação — ~17% do território; conflito com populações pré-existentes; paper parks\nFronteira Agropecuária — MATOPIBA, Cerrado; grilagem; expulsão de posseiros; Arco do Desmatamento"
   },
   {
     "objectID": "slides/slides_semana12.html#territórios-em-disputa-no-brasil-1",
@@ -2734,7 +2734,7 @@
     "href": "sessions/index.html",
     "title": "Conteúdo",
     "section": "",
-    "text": "Semana 01: Origens e Conceitos de Escala\n\n\n\n\n\n\nFelipe Melo\n\n\n\n\n\n\n\n\n\n\n\nSemana 02: O Modelo Mancha-Corredor-Matriz e a Heterogeneidade\n\n\n\n\n\n\nFelipe Melo\n\n\nMay 20, 2026\n\n\n\n\n\n\n\n\n\n\n\nSemana 03: Dinâmica de Perturbação\n\n\n\n\n\n\nFelipe Melo\n\n\nMay 20, 2026\n\n\n\n\n\n\n\n\n\n\n\nSemana 04: Teoria de Biogeografia de Ilhas e Fragmentação\n\n\n\n\n\n\nFelipe Melo\n\n\nMay 20, 2026\n\n\n\n\n\n\n\n\n\n\n\nSemana 05: Efeito de Borda\n\n\n\n\n\n\nFelipe Melo\n\n\n\n\n\n\n\n\n\n\n\nSemana 06: Conectividade Ecológica vs. Conexidade Física\n\n\n\n\n\n\nProf. Felipe Melo\n\n\nMay 22, 2026\n\n\n\n\n\n\n\n\n\n\n\nSemana 07: Metapopulações e Dinâmica de Extinção-Colonização\n\n\n\n\n\n\nProf. Felipe Melo\n\n\nMay 22, 2026\n\n\n\n\n\n\n\n\n\n\n\nSemana 08: Fluxos de Energia e Ciclagem de Nutrientes no Nível de Paisagem\n\n\n\n\n\n\nProf. Felipe Melo\n\n\nMay 22, 2026\n\n\n\n\n\n\n\n\n\n\n\nSemana 09: Tipos de Métricas de Paisagem\n\n\n\n\n\n\nProf. Felipe Melo\n\n\nMay 22, 2026\n\n\n\n\n\n\n\n\n\n\n\nSemana 12: Ecologia Política\n\n\n\n\n\n\nProf. Felipe Melo\n\n\nMay 22, 2026\n\n\n\n\n\n\n\n\n\n\n\nSemana 13: Planejamento Territorial da Conservação\n\n\n\n\n\n\nProf. Felipe Melo\n\n\nMay 22, 2026\n\n\n\n\n\n\nNo matching items"
+    "text": "Semana 01: Origens e Conceitos de Escala\n\n\n\n\n\n\nFelipe Melo\n\n\n\n\n\n\n\n\n\n\n\nSemana 02: O Modelo Mancha-Corredor-Matriz e a Heterogeneidade\n\n\n\n\n\n\nFelipe Melo\n\n\nJun 26, 2026\n\n\n\n\n\n\n\n\n\n\n\nSemana 03: Dinâmica de Perturbação\n\n\n\n\n\n\nFelipe Melo\n\n\nJun 26, 2026\n\n\n\n\n\n\n\n\n\n\n\nSemana 04: Teoria de Biogeografia de Ilhas e Fragmentação\n\n\n\n\n\n\nFelipe Melo\n\n\nJun 26, 2026\n\n\n\n\n\n\n\n\n\n\n\nSemana 05: Efeito de Borda\n\n\n\n\n\n\nFelipe Melo\n\n\n\n\n\n\n\n\n\n\n\nSemana 06: Conectividade Ecológica vs. Conexidade Física\n\n\n\n\n\n\nProf. Felipe Melo\n\n\nJun 26, 2026\n\n\n\n\n\n\n\n\n\n\n\nSemana 07: Metapopulações e Dinâmica de Extinção-Colonização\n\n\n\n\n\n\nProf. Felipe Melo\n\n\nJun 26, 2026\n\n\n\n\n\n\n\n\n\n\n\nSemana 08: Fluxos de Energia e Ciclagem de Nutrientes no Nível de Paisagem\n\n\n\n\n\n\nProf. Felipe Melo\n\n\nJun 26, 2026\n\n\n\n\n\n\n\n\n\n\n\nSemana 09: Tipos de Métricas de Paisagem\n\n\n\n\n\n\nProf. Felipe Melo\n\n\nJun 26, 2026\n\n\n\n\n\n\n\n\n\n\n\nSemana 12: Ecologia Política\n\n\n\n\n\n\nProf. Felipe Melo\n\n\nJun 26, 2026\n\n\n\n\n\n\n\n\n\n\n\nSemana 13: Planejamento Territorial da Conservação\n\n\n\n\n\n\nProf. Felipe Melo\n\n\nJun 26, 2026\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "sessions/week8/semana8_fluxos_energia.html",
@@ -3042,7 +3042,7 @@
     "href": "img/slides_semana9.html#o-paradoxo-que-motiva-esta-aula",
     "title": "Tipos de Métricas de Paisagem",
     "section": "O paradoxo que motiva esta aula",
-    "text": "O paradoxo que motiva esta aula\n\n\nDuas paisagens, composição idêntica:\n\nFloresta: 50% em ambas\nAgricultura: 50% em ambas\nSHDI: igual em ambas\nLPI: diferente\n\nEcologicamente são opostas:\n\nPaisagem A: dezenas de fragmentos minúsculos, borda máxima, sem área de núcleo, isolamento elevado\nPaisagem B: dois grandes blocos, pouca borda, grande área de núcleo, baixo isolamento\n\n\n\n\nMétricas de composição sozinhas são insuficientes para descrever a estrutura ecológica de uma paisagem."
+    "text": "O paradoxo que motiva esta aula\n\n\nDuas paisagens, composição idêntica:\n\nFloresta: 50% em ambas\nAgricultura: 50% em ambas\nSHDI: igual em ambas\nLPI: diferente\n\nEcologicamente são opostas:\n\nPaisagem A: dezenas de fragmentos minúsculos, borda máxima, sem área de núcleo, isolamento elevado\nPaisagem B: dois grandes blocos, pouca borda, grande área de núcleo, baixo isolamento\n\n\n\n\n\n\n\nMétricas de composição sozinhas são insuficientes para descrever a estrutura ecológica de uma paisagem."
   },
   {
     "objectID": "img/slides_semana9.html#a-divisão-fundamental-mcgarigal-marks-1995",
@@ -3496,8 +3496,8 @@
     "objectID": "example_presentation.html#a-basic-example",
     "href": "example_presentation.html#a-basic-example",
     "title": "Quiz example",
-    "section": "A basic example",
-    "text": "A basic example\n\nBill Gates was the founder of:\n\n\n\n\n ✗Apple\n\n\n ✓Microsoft\n\n\n ✗Facebook\n\n\n ✗Google"
+    "section": "",
+    "text": "Bill Gates was the founder of:\n\n\n\n\n ✗Apple\n\n\n ✓Microsoft\n\n\n ✗Facebook\n\n\n ✗Google"
   },
   {
     "objectID": "example_presentation.html#a-quiz-with-a-clear-answer-button",
@@ -3516,14 +3516,14 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "\n            Ecologia de Paisagens\n        ",
+    "title": "\n            Ecologia da Restauração\n        ",
     "section": "",
-    "text": "Biodiversidade, pessoas e processos no espaço\n        \n        \n            BO-304  2026.1  Centro de Biociências  Universidade Federal de Pernambuco"
+    "text": "Teoria ecológica e contexto social aplicados à reconstrução da Natureza\n        \n        \n            BO-304  2026.2  Centro de Biociências  Universidade Federal de Pernambuco"
   },
   {
     "objectID": "index.html#bem-vind",
     "href": "index.html#bem-vind",
-    "title": "\n            Ecologia de Paisagens\n        ",
+    "title": "\n            Ecologia da Restauração\n        ",
     "section": "Bem-vind@",
     "text": "Bem-vind@"
   },
@@ -3624,5 +3624,82 @@
     "title": "Usando Quarto",
     "section": "Formatos de saída",
     "text": "Formatos de saída\nDefina no YAML:\nformat:\n  html: default\n  pdf: default\n  docx: default\n\nPágina traduzida de: Andrew Heiss"
+  },
+  {
+    "objectID": "img/slides_semana9.html",
+    "href": "img/slides_semana9.html",
+    "title": "Tipos de Métricas de Paisagem",
+    "section": "",
+    "text": "Tipos de Métricas de Paisagem\nComposição vs. Configuração\nO que há na paisagem · Como está arranjado\nSemana 9 · BO-304 · Prof. Felipe Melo · UFPE"
+  },
+  {
+    "objectID": "slides/aula2_modelo.html",
+    "href": "slides/aula2_modelo.html",
+    "title": "O Modelo Mancha-Corredor-Matriz e a Heterogeneidade",
+    "section": "",
+    "text": "Definir a paisagem sob a ótica funcional da ecologia.\nCompreender os elementos fundamentais do modelo: Mancha, Corredor e Matriz.\nAnalisar as fontes de heterogeneidade espacial e suas consequências biológicas.\nDiferenciar conectividade estrutural de funcional no mosaico."
+  },
+  {
+    "objectID": "slides/slides_semana12.html",
+    "href": "slides/slides_semana12.html",
+    "title": "Ecologia Política",
+    "section": "",
+    "text": "Quem decidiu que a paisagem seria configurada assim?\nEm benefício de quem opera esse arranjo espacial?\nA que custo — e para quem — foi produzida esta paisagem?\nQuem foi excluído para que esta paisagem existisse?\n\n\n\n\n\n\n\nO mapa de fragmentação não é neutro. É o produto material de relações de poder."
+  },
+  {
+    "objectID": "slides/aula1_apresentacao.html",
+    "href": "slides/aula1_apresentacao.html",
+    "title": "Estrutura do Curso & Origens da Ecologia da Paisagem",
+    "section": "",
+    "text": "Compreender a ecologia da paisagem como o estudo da heterogeneidade espacial e suas causas e consequências biológicas\nAnalisar as inter-relações entre o homem e seu espaço de vida, abordando aspectos naturais e culturais\nCapacitar o aluno no uso de métodos quantitativos e ferramentas de SIG para análise espacial\nAplicar conceitos de conectividade e dinâmica de manchas para a conservação da biodiversidade\nDesenvolver habilidades profissionais em comunicação científica e elaboração de projetos independentes"
+  },
+  {
+    "objectID": "slides/aula5_borda.html",
+    "href": "slides/aula5_borda.html",
+    "title": "Efeito de Borda",
+    "section": "",
+    "text": "A borda é a zona de contato entre duas unidades de paisagem.\nResulta (com frequência) da fragmentação de habitats contínuos.\nRepresenta uma quebra na homogeneidade ecológica."
+  },
+  {
+    "objectID": "slides/slides_semana6.html",
+    "href": "slides/slides_semana6.html",
+    "title": "Conectividade Ecológica vs. Conectividade Física",
+    "section": "",
+    "text": "A mesma estrutura física pode ser:\n\nUma passagem funcional para uns\nUma barreira intransponível para outros\n\nA resposta depende sempre da espécie"
+  },
+  {
+    "objectID": "slides/aula3_perturb.html",
+    "href": "slides/aula3_perturb.html",
+    "title": "Dinâmica de Perturbação na Ecologia da Paisagem",
+    "section": "",
+    "text": "Evento discreto que causa modificação de um sistema\nAltera a disponibilidade de recursos\nPode ser um evento natural ou de origem antrópica"
+  },
+  {
+    "objectID": "slides/week13_slides.html",
+    "href": "slides/week13_slides.html",
+    "title": "Planejamento Territorial: Áreas Protegidas, Corredores e Legislação",
+    "section": "",
+    "text": "Compreender o papel da Ecologia da Paisagem no planejamento territorial\nAnalisar a eficácia das Áreas Protegidas e dos Corredores de Biodiversidade\nDiscutir o Código Florestal Brasileiro como ferramenta de gestão do mosaico :::\n\n\n\n\n:::"
+  },
+  {
+    "objectID": "slides/aula4_tbi_slides.html",
+    "href": "slides/aula4_tbi_slides.html",
+    "title": "Teoria de Biogeografia de Ilhas e sua Aplicação",
+    "section": "",
+    "text": "Proposta originalmente em 1967 por MacArthur e Wilson.\nPadrões de riqueza de espécies em sistemas isolados.\nBase fundamental para a Ecologia de Paisagens."
+  },
+  {
+    "objectID": "slides/aula7_metapop.html",
+    "href": "slides/aula7_metapop.html",
+    "title": "Metapopulações e Dinâmica de Extinção-Colonização",
+    "section": "",
+    "text": "Metapopulações\ne Dinâmica de Extinção-Colonização\nDa população local à persistência regional\nSemana 7 · BO-304 · Prof. Felipe Melo · UFPE"
+  },
+  {
+    "objectID": "example_presentation.html",
+    "href": "example_presentation.html",
+    "title": "Quiz example",
+    "section": "",
+    "text": "Bill Gates was the founder of:\n\n\n\n\n ✗Apple\n\n\n ✓Microsoft\n\n\n ✗Facebook\n\n\n ✗Google"
   }
 ]
