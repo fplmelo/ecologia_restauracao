@@ -1,0 +1,9 @@
+---
+title: Lista de sites úteis
+listing:
+  type: table
+title-block-banner: "#990000"
+---
+
+Incluí abaixo uma lista de sites e materiais online como: cursos, apresentações e video-aulas. Aproveitem!
+

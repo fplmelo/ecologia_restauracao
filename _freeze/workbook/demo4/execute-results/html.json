@@ -1,0 +1,15 @@
+{
+  "hash": "413c118a1c207119d962c06aace2bf20",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Demo ex 4\"\neditor: visual\n---\n## Objetivos específicos\nCompreender a importância da projeção cartográfica para análises métricas.\nAplicar buffer negativo para restrição de borda de mapa.\nRealizar amostragem aleatória com distância mínima entre pontos.\nExtrair e quantificar a composição da paisagem em buffers circulares.\nCalcular métricas de paisagem com landscapemetrics.\nProduzir um painel de visualização das paisagens amostrais.\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(terra)\n```\n\n::: {.cell-output .cell-output-stderr}\n\n```\nterra 1.9.11\n```\n\n\n:::\n\n```{.r .cell-code}\nlibrary(tidyverse)\n```\n\n::: {.cell-output .cell-output-stderr}\n\n```\n── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.2.1     ✔ readr     2.1.5\n✔ forcats   1.0.0     ✔ stringr   1.5.2\n✔ ggplot2   4.0.2     ✔ tibble    3.3.0\n✔ lubridate 1.9.4     ✔ tidyr     1.3.1\n✔ purrr     1.1.0     \n```\n\n\n:::\n\n::: {.cell-output .cell-output-stderr}\n\n```\n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ tidyr::extract() masks terra::extract()\n✖ dplyr::filter()  masks stats::filter()\n✖ dplyr::lag()     masks stats::lag()\nℹ Use the conflicted package (<http://conflicted.r-lib.org/>) to force all conflicts to become errors\n```\n\n\n:::\n\n```{.r .cell-code}\nlibrary(landscapemetrics)\n\nsetwd(\"/home/felipe/ecologia_paisagem/exercises/ex4-analises\") # mude para o seu próprio diretório\n\nr_murici <- rast(\"/home/felipe/ecologia_paisagem/exercises/ex4-analises/2024_murici.tif\")\n```\n:::\n\n\n\n## Projetar\n\n\n::: {.cell}\n\n```{.r .cell-code}\nr_utm <- project(r_murici, \"EPSG:31985\", method = \"near\")\n```\n:::\n\n\n\n## Legenda\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlegenda <- data.frame(\n  id = c(3, 4, 11, 15, 20, 21, 24, 25, 33),\n  Categoria = c(\"Formação Florestal\", \"Formação Savânica\", \"Campo Alagado\", \n                \"Pastagem\", \"Cana\", \"Mosaico de Usos\", \"Área Urbanizada\", \n                \"Outras Áreas não Vegetadas\", \"Corpo d'Água\"),\n  Cores = c(\"#006400\", \"#7cfc00\", \"#00ffff\", \"#ffff00\", \"#ff4500\", \n            \"#f4a460\", \"#ff0000\", \"#d3d3d3\", \"#0000ff\")\n)\n\nlevels(r_utm) <- legenda[,1:2]\n```\n:::\n\n\n## Definirarea\n\n\n::: {.cell}\n\n```{.r .cell-code}\nvetor_total <- as.polygons(r_utm, dissolve = TRUE)\nmunicipio_limite <- aggregate(vetor_total)\nlimite_seguro <- buffer(municipio_limite, width = -2000)\n\nfloresta <- vetor_total[vetor_total$Categoria == \"Formação Florestal\", ]\narea_sorteio <- crop(floresta, limite_seguro)\n\nif (is.list(area_sorteio)) {\n  area_sorteio <- do.call(rbind, area_sorteio)\n}\n\nif (nrow(area_sorteio) == 0) {\n  stop(\"Erro: Nenhuma floresta encontrada a mais de 2km da borda.\")\n}\n```\n:::\n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

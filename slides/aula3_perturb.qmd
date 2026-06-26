@@ -1,0 +1,285 @@
+---
+title: "Dinâmica de Perturbação na Ecologia da Paisagem"
+subtitle: "Implicações para Conservação e Ecologia Política"
+author: "Felipe Melo - UFPE"
+format: revealjs
+theme: default
+transition: slide
+slide-number: true
+self-contained: true
+lang: pt
+---
+
+## O Conceito de Distúrbio
+
+::: {.columns}
+::: {.column width="50%"}
+*   Evento discreto que causa modificação de um sistema
+*   Altera a disponibilidade de **recursos** 
+*   Pode ser um evento natural ou de origem antrópica 
+:::
+
+::: {.column width="50%"}
+
+![](https://static.todamateria.com.br/upload/de/sm/desmatamentoamazonia-cke.jpg)
+:::
+:::
+
+## O Paradigma Padrão-Processo
+
+::: {.columns}
+::: {.column width="50%"}
+*   O distúrbio é o motor que gera a heterogeneidade espacial
+*   Afeta a estrutura da paisagem spacio-temporalmente
+*   Padrões resultantes do distúrbio determinam as funções futuras do ecossistema
+:::
+
+::: {.column width="50%"}
+![](/img/frag_hist.png)
+:::
+:::
+
+## Fontes "neutras" de perturbação
+
+::: {.columns}
+::: {.column width="50%"}
+*   Eventos geofísicos: fogo, tornados e deslizamentos 
+*   Dinâmicas climáticas: enchentes, tempestades e geadas 
+*   Ações bióticas: pragas e desequilíbrios populacionais 
+:::
+
+::: {.column width="50%"}
+
+![Pantanal Inundado](https://projetocolabora.com.br/wp-content/uploads/2024/07/pantanal-14-scaled-e1720094773109.jpg)
+
+:::
+:::
+
+## Perturbações antrópicas contemporâneas
+
+*   Ação humana em escala sem precedentes históricos 
+*   Mudança no uso do solo: agricultura e urbanização 
+*   Infraestrutura linear: estradas e redes de transmissão 
+
+
+##
+
+![](/img/antroma.png){fig-align=center width=150%}
+
+
+## Escalas temporais do distúrbio
+
+::: {.columns}
+::: {.column width="50%"}
+
+*   Padrões podem ser efêmeros ou permanecer por tempos geológicos
+*   A "memória" do distúrbio é frequentemente retida na paisagem
+
+:::
+
+::: {.column width="50%"}
+
+![](/img/defauna.png)
+:::
+:::
+
+## Legados e rugosidades
+
+::: {.columns}
+::: {.column width="50%"}
+*   "Rugosidades": formas antigas que restam de processos passados
+*   Paisagens atuais não são estáticas; carregam história embutida 
+*   Mesmo áreas "intocadas" são fruto de decisões humanas históricas
+:::
+
+::: {.column width="50%"}
+![](/img/rugosity.png)
+:::
+:::
+
+## Fragmentação como perturbação
+
+::: {.columns}
+::: {.column width="50%"}
+*   Divisão de habitats contínuos em manchas menores e isoladas
+*   Causa perda de conectividade funcional e aumento do isolamento
+*   Inserção de matrizes antrópicas no mosaico original
+
+:::
+
+::: {.column width="50%"}
+
+![](https://ccte.ca/resources/images/Fig5.1.png)
+:::
+:::
+
+## O Efeito de Borda
+
+::: {.columns}
+::: {.column width="50%"}
+*   **Ecótono** entre manchas perturbadas e remanescentes naturais 
+*   Alterações microclimáticas: maior entrada de luz e vento 
+*   Impacta a estabilidade do interior dos fragmentos 
+:::
+
+::: {.column width="50%"}
+![](https://wildflowerturf.co.uk/wp-content/uploads/2011/11/principles8-12n4vvp.jpg)
+:::
+:::
+
+## Distúrbios compostos e resiliência
+
+::: {.columns}
+::: {.column width="50%"}
+*   Interação entre múltiplos distúrbios (ex: seca seguida de fogo) 
+*   Pode levar a sistemas a estados alternativos de degradação 
+*   Desestabilização da capacidade de regeneração natural
+:::
+
+::: {.column width="50%"}
+
+![](https://ensia.com/wp-content/uploads/2020/06/Explainer_TippingPoints_vectorgraphic-920x604.jpg)
+:::
+:::
+
+## Limiares críticos de extinção
+
+::: {.columns}
+::: {.column width="50%"}
+*   A "regra dos 30%": a configuração importa mais quando resta pouco habitat 
+*   Perda de conectividade 
+*   Perda de espécies sensíveis 
+:::
+
+::: {.column width="50%"}
+
+![](/img/threshold.png)
+:::
+:::
+
+## Ecologia Política - Causas da perturbação
+
+::: {.columns}
+::: {.column width="50%"}
+*   Grandes empreendimentos: mineração, usinas e infraestrutura 
+*   Expansão agrícola voltada para demandas globais 
+*   Conflitos de poder e decisão sobre o uso do território 
+:::
+
+::: {.column width="50%"}
+![](https://www.ncronline.org/files/2023-06/P815%20EnviroJustice%20hi%20res.jpg)
+:::
+:::
+
+## Ecologia Política - Populações vulneráveis
+
+::: {.columns}
+::: {.column width="50%"}
+*   Comunidades locais que dependem de ecossistemas estáveis *   Insegurança alimentar e escassez hídrica pós-distúrbio 
+*   Populações excluídas dos benefícios da exploração de recursos 
+:::
+
+::: {.column width="50%"}
+
+![Os últimos Piripkura](https://comissaoarns.org/media/images/piripikura_DaUlZMZ.width-800.jpg)
+:::
+:::
+
+
+## Ecologia de estradas e perturbação
+
+::: {.columns}
+::: {.column width="50%"}
+*   Estradas agem como vetores de espécies invasoras e doenças
+
+*   Causa fragmentação física e mortalidade por atropelamento 
+*   Aumenta a capilaridade da interferência humana no território
+:::
+
+::: {.column width="50%"}
+![](https://www.team-bhp.com/sites/default/files/pictures2024-01/elkcarmarkgockefix.jpg)
+:::
+:::
+
+## Percepção do distúrbio
+
+::: {.columns}
+::: {.column width="50%"}
+*   Diferentes organismos percebem a perturbação em escalas distintas 
+*   Espécies especialistas são as mais impactadas pela mudança estrutural 
+*   O que é matriz hostil para uma espécie pode ser habitat para outra 
+:::
+
+::: {.column width="50%"}
+
+![](https://static.elsevier.es/multimedia/25300644/0000002000000001/v1_202203030737/S2530064421000778/v1_202203030737/en/main.assets/fx1.jpeg?xkr=4JCBPxMSmyEzl8J4W+BB1XjvZGzPY1bERTxiP0k+wJwlP3FSVLk345JtOIRFYXJj)
+:::
+:::
+
+## Gestão Integrada de Paisagens (GIP)
+
+::: {.columns}
+::: {.column width="50%"}
+*   Conciliar objetivos sociais, econômicos e ambientais 
+*   Conceito de Socio-ecossistemas 
+*   Visão de longo prazo 
+:::
+
+::: {.column width="50%"}
+
+![](/img/ipbes_view.png)
+:::
+:::
+
+## Restauração no nível da paisagem
+
+::: {.columns}
+::: {.column width="50%"}
+*   Utiliza o regime de distúrbio como base para recuperação 
+*   Abordagem de "4 Retornos": natural, social, financeiro e inspiracional 
+*   Restauração da conectividade funcional através de corredores 
+:::
+
+::: {.column width="50%"}
+![](/img/bc_model.png)
+:::
+:::
+
+## Conservação e terras privadas
+
+::: {.columns}
+::: {.column width="50%"}
+*   A maior parte das terras e remanescentes está em mãos privadas no Brasil
+*   Impossível atingir metas (ex: 30x30) sem engajar proprietários rurais 
+*   Necessidade de mecanismos legais e estímulos para conservação 
+:::
+
+::: {.column width="50%"}
+
+![Propriedade "legal" segundo o código florestal](https://adenilsongiovanini.com.br/blog/wp-content/webp-express/webp-images/uploads/2021/10/APP-na-reserva-legal.jpg.webp)
+:::
+:::
+
+## Crise da biodiversidade e o antropoceno
+
+::: {.columns}
+::: {.column width="50%"}
+*   Interferência humana atingindo escala de força geológica 
+*   Declínio drástico (70%) de populações de vertebrados desde 1970 
+*   Ecologia de paisagem como resposta científica a essa crise 
+:::
+
+::: {.column width="50%"}
+
+![](/img/anthromes.png)
+:::
+:::
+
+## Conclusão: planejar para a ação
+
+
+*   A escala da paisagem é a escala de ação do homem no seu meio 
+*   Mudar o paradigma: o homem é parte integrante do sistema, não perturbador externo 
+*   Planejar a paisagem como um todo para garantir sustentabilidade
+
+## FIM{.center}

@@ -1,0 +1,17 @@
+{
+  "hash": "ced13f5ea77443b5cdb172d4f96c11ac",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Exercicio 3\"\neditor: visual\n---\n\n\n\n##  INtrodução\n\nNesste exercíco eu tenho que instalar os pacotes necesaŕios para análises de paiagem\n\n\n::: {.cell}\n\n```{.r .cell-code}\n# Vetor com todos os pacotes necessários\npacotes <- c(\n  # Dados espaciais\n  \"terra\",          # Análise de dados raster (sucessor moderno do 'raster')\n  \"sf\",             # Dados vetoriais em formato tidy (Simple Features)\n  \n  # Métricas de paisagem\n  \"landscapemetrics\", # >130 métricas de padrão de paisagem (substitui FRAGSTATS)\n  \n  # Visualização\n  \"tmap\",           # Mapas temáticos estáticos e interativos\n  \"ggplot2\",        # Gráficos e visualizações gerais\n  \"tidyterra\",      # Integração do terra com ggplot2\n  \n  # Ecologia\n  \"vegan\",          # Diversidade, ordenação, análises multivariadas\n  \"iNEXT\",          # Rarefação e extrapolação de diversidade\n  \n  # Manipulação de dados (Tidyverse)\n  \"dplyr\",          # Manipulação de tabelas (filter, select, mutate...)\n  \"tidyr\",          # Organização de dados (pivot_longer, pivot_wider...)\n  \"readr\",          # Leitura de arquivos CSV e similares\n  \"tibble\",         # Tabelas melhoradas (alternativa ao data.frame)\n  \"purrr\",          # Programação funcional (map, walk...)\n  \n  # Acesso a dados abertos\n  \"geodata\",        # Download de dados climáticos, elevação, etc.\n  \"rgbif\",          # Acesso ao GBIF (ocorrências de espécies)\n  \"rnaturalearth\",  # Fronteiras e mapas-base do Natural Earth\n  \"rnaturalearthdata\", # Dados complementares do Natural Earth\n  \"geobr\" ,        # Shapefiles da geografia Brasileira\n  \n  # Utilitários\n  \"remotes\",        # Instalar pacotes do GitHub\n  \"here\"            # Gerenciamento de caminhos de arquivo\n)\n\n# Instalar apenas os que ainda não estão instalados\nnovos <- pacotes[!(pacotes %in% installed.packages()[, \"Package\"])]\n\nif (length(novos) > 0) {\n  cat(\"Instalando\", length(novos), \"pacote(s)...\\n\")\n  install.packages(novos)\n} else {\n  cat(\"Todos os pacotes já estão instalados!\\n\")\n}\n```\n:::\n\n\n## Verifacando a insrtalaão\n\n\n::: {.cell}\n\n```{.r .cell-code}\nlibrary(terra)\nlibrary(sf)\nlibrary(landscapemetrics)\nlibrary(tmap)\nlibrary(vegan)\nlibrary(tidyverse)\n\ncat(\"✓ Todos os pacotes carregados com sucesso!\\n\")\n```\n:::\n\n\n\n\n",
+    "supporting": [
+      "demo]_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,237 @@
+---
+title: "Efeito de Borda"
+subtitle: "Ecologia da Paisagem - Semana 5"
+author: "Felipe Melo"
+format: revealjs 
+theme: default
+slide-number: true
+chalkboard: true
+self-contained: false
+lang: pt-br
+---
+
+## Interface e Transição
+
+::: {.columns}
+::: {.column width="50%"}
+*   A **borda** é a zona de contato entre duas unidades de paisagem.
+*   Resulta (com frequência) da fragmentação  de habitats contínuos.
+*   Representa uma quebra na *homogeneidade* ecológica.
+:::
+
+::: {.column width="50%"}
+![](https://revistapesquisa.fapesp.br/wp-content/uploads/2025/03/rpf-fragmento-sloss-2025-03-1140.jpg)
+:::
+:::
+
+## Componentes Abióticos
+
+::: {.columns}
+::: {.column width="50%"}
+
+![](/img/borda_biu.png)
+
+:::
+
+::: {.column width="50%"}
+*   Mudanças microclimáticas drásticas.
+*   Aumento da temperatura e luminosidade.
+*   Redução da umidade relativa do ar.
+:::
+:::
+
+## Dinâmica dos Ventos
+
+::: {.columns}
+::: {.column width="50%"}
+*   Ventos penetram lateralmente nos fragmentos.
+*   Provocam a "derrubada por vento" (*windthrow*) de árvores.
+*   Alteram a estrutura física da vegetação.
+:::
+
+::: {.column width="50%"}
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLrhldd5Tx1zNiPgp_Jss7vag6sR47AotEH6zcjdji_hqITq_Rx9fLHJABHs_kk7TLoJXVVQRpY95-X2Qb8jrB6DQpEutqoKmqdoEryWlSmRqpsdKVq5-_wp_Q3UnKefWSTPafdcBRSy0/s1600/AAA.jpg){width=80%}
+:::
+:::
+
+## Resposta da Flora
+
+::: {.columns}
+::: {.column width="50%"}
+![](https://revistapesquisa.fapesp.br/wp-content/uploads/2020/11/056-060_efeito-de-borda_264.jpg)
+:::
+
+::: {.column width="50%"}
+*   Aumento de espécies pioneiras e colonizadoras.
+*   Proliferação de lianas e trepadeiras nas margens.
+*   Mortalidade de árvores de dossel sensíveis.
+:::
+:::
+
+## Impacto sobre a Fauna
+
+::: {.columns}
+::: {.column width="50%"}
+*   Perda de habitat para espécies de interior
+*   Aumento de riscos de predação por espécies da matriz
+*   Espécies sensíveis evitam áreas a menos de 100m da borda 
+:::
+
+::: {.column width="50%"}
+![](/img/edge2.png)
+
+Fonte [Pfeifer et al (2017)](https://www.nature.com/articles/nature24457)
+:::
+:::
+
+## Exemplo: Lobo-guará
+
+::: {.columns}
+::: {.column width="50%"}
+![](/img/guara.jpeg){width=150%}
+:::
+
+::: {.column width="50%"}
+*   O lobo-guará é uma espécie associada a bordas
+*   Sua ocorrência aumenta conforme a quantidade de interface aumenta
+*   Contraste com o macaco-aranha, que depende do núcleo florestal
+:::
+:::
+
+## Exemplo: Macaco-aranha
+
+::: {.columns}
+::: {.column width="50%"}
+![](https://s2-g1.glbimg.com/N26kpTYyiTjHK1uShgbaxOnR2qI=/0x0:3358x5036/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/m/3/FVoak3QAeGVlOm5x3jwA/t0a3557-alta.jpg){width=150%}
+:::
+
+::: {.column width="50%"}
+*   A maioria dos primatas frugívoos depende de boas florestas
+*   Bordas são habitats de baixa qualidade
+*   Isolamento de populações
+:::
+:::
+
+## Geometria e Proporção
+
+::: {.columns}
+::: {.column width="50%"}
+*   O efeito de borda depende da forma do fragmento 
+*   Formas alongadas ~ 100% de área sob efeito de borda
+*   Formas circulares minimizam a influência externa
+:::
+
+::: {.column width="50%"}
+![](https://ccte.ca/resources/images/Fig5.1.png)
+:::
+:::
+
+## Fragmento vs. Interior
+
+::: {.columns}
+::: {.column width="50%"}
+![](https://habitatlossfragmentation.weebly.com/uploads/1/8/0/5/18056111/6505062.jpg)
+:::
+
+::: {.column width="50%"}
+*   A área funcional é menor que a área total 
+*   Fragmentos muito pequenos podem ser "toda borda"
+*   Essencial para o cálculo de viabilidade populacional
+:::
+:::
+
+## O Papel da Matriz
+
+::: {.columns}
+::: {.column width="50%"}
+*   Contraste físico  
+*   Choques estruturais e microclimáticos
+*   A permeabilidade da matriz dita a severidade da borda 
+:::
+
+::: {.column width="50%"}
+![](/img/matrix1.png){.absolute top=20 right=200}
+
+![](/img/matrix2.png){.absolute top=320 right=10}
+
+:::
+:::
+
+## Estradas como Bordas Lineares
+
+::: {.columns}
+::: {.column width="50%"}
+
+![](/img/edge_caat.png)
+
+:::
+
+::: {.column width="50%"}
+*   Estradas criam bordas internas em áreas protegidas
+*   Vetores de espécies invasoras e fogo 
+*   Fragmentam populações sem suprimir área total
+:::
+:::
+
+
+## Sinergia de Impactos
+
+![](https://imgs.mongabay.com/wp-content/uploads/sites/29/2023/01/31191419/science.abp8622-fa-scaled-e1675193384769.jpg)
+
+## Zonas de Amortecimento
+
+::: {.columns}
+::: {.column width="50%"}
+![](https://content.cld.iop.org/journals/1748-9326/18/12/124016/revision2/erlad039ef1_hr.jpg)
+:::
+
+::: {.column width="50%"}
+*   Áreas de transição manejadas para reduzir impactos 
+*   Uso de vegetação secundária para "selar" a borda
+*   Essencial no planejamento de Unidades de Conservação
+:::
+:::
+
+## Efeito Inverso de Borda
+
+::: {.columns}
+::: {.column width="50%"}
+*   O fragmento influencia a matriz vizinha 
+*   Fornece polinizadores e dispersores de sementes.
+*   Define o potencial de regeneração da matriz degradada 
+:::
+
+::: {.column width="50%"}
+![](/img/breeze.png)
+:::
+:::
+
+## Gestão de Bordas
+
+::: {.columns}
+::: {.column width="50%"}
+![](https://www.idam.am.gov.br/wp-content/uploads/2013/06/car.png)
+:::
+
+::: {.column width="50%"}
+*   Envolver proprietários rurais no manejo de cercas e aceiros 
+*   Restauração focada na conectividade funcional 
+*   Melhorar a estrutura da matriz para mitigar choques 
+:::
+:::
+
+## Conclusão
+
+::: {.columns}
+::: {.column width="50%"}
+*   A borda altera a "assinatura" ecológica do fragmento
+*   Planejar para o interior é planejar para a resiliência
+*   Interfaces são locais de conflito e oportunidade de manejo
+:::
+
+::: {.column width="50%"}
+![](https://images.squarespace-cdn.com/content/v1/569ec99b841abaccb7c7e74c/1584726421362-8XKB7NVTK12RWAPXKKV8/Picture3.png)
+:::
+:::
+
+## FIM{.center}

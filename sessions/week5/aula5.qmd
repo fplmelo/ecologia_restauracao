@@ -1,0 +1,66 @@
+---
+title: "Semana 05: Efeito de Borda"
+subtitle: "Mudanças bióticas e abióticas nas interfaces da paisagem"
+author: "Felipe Melo"
+date-format: "long"
+filters:
+  - naquiz
+format:
+  html:
+    toc: true
+    toc-expanded: 3
+    toc-title: "Nesta página"
+---
+
+
+## Slides desta aula
+
+Tela cheia [CLIQUE AQUI](https://fplmelo.github.io/ecologia_paisagem/slides/aula5_borda.html#/title-slide) e depois pressione 'f'
+
+<iframe class="slide-deck" src="https://fplmelo.github.io/ecologia_paisagem/slides/aula5_borda.html#/title-slide" width="700px" height="500px"></iframe>
+
+## Introdução: O que é a Borda?
+
+Na ecologia de paisagens, a **borda** é definida como a área de transição entre duas unidades distintas da paisagem. Quando um habitat contínuo é subdividido em fragmentos, cria-se uma interface direta com a **matriz** (áreas agrícolas, urbanas ou pastagens), gerando uma zona de choque onde as condições do entorno penetram no interior do remanescente.
+
+O efeito de borda é um dos impactos mais severos da fragmentação, pois reduz a área efetiva de "habitat de interior", mesmo que a mancha pareça grande visualmente.
+
+> ![**FIGURA 1: Ilustração esquemática mostrando a diferença entre a área total de um fragmento e sua área de interior útil após descontar a faixa de borda**](https://brasil.mapbiomas.org/wp-content/uploads/sites/4/2024/07/unnamed.png) 
+
+Fonte: [MapBiomas](https://brasil.mapbiomas.org/metodo-degradacao/)
+
+## Mudanças Abióticas (Microclima)
+
+A interface entre a floresta e a matriz aberta provoca alterações físicas imediatas. As bordas sofrem com:
+*   **Maior incidência luminosa:** Aumenta a temperatura e a dessecação do solo.
+*   **Alteração do regime de ventos:** O vento penetra com mais força, aumentando a queda de árvores e alterando a umidade relativa.
+*   **Mudança no ciclo hidrológico:** Há maior perda de água por evapotranspiração nas zonas periféricas.
+
+## Mudanças Bióticas e Respostas da Biodiversidade
+
+As alterações microclimáticas desencadeiam uma cascata de efeitos biológicos. Espécies especialistas de interior costumam ser substituídas por espécies generalistas ou colonizadoras.
+
+1.  **Vegetação:** Aumento da mortalidade de árvores de madeira densa e crescimento acelerado de lianas e espécies pioneiras.
+2.  **Fauna de Interior:** Aves de sub-bosque e pequenos mamíferos sensíveis perdem estabilidade e podem ser extintos localmente devido à predação ou falta de recursos específicos.
+3.  **Invasão Biológica:** As estradas e bordas agem como vetores para espécies invasoras (como capins exóticos) que competem com a flora nativa.
+
+> ![FIGURA 2: Gráfico comparativo mostrando a abundância de espécies de interior versus espécies de borda em relação à distância da interface](/img/edge.png)
+
+fonte: [Laurance et al (2017)](https://onlinelibrary.wiley.com/doi/10.1111/brv.12343?utm_source=researchgate.net&utm_medium=article)
+
+## Fatores Determinantes: Forma e Matriz
+
+O impacto da borda não é uniforme em todas as paisagens. Ele depende de:
+*   **Geometria da Mancha:** Fragmentos irregulares e alongados possuem uma proporção de borda muito maior que fragmentos circulares do mesmo tamanho.
+*   **Permeabilidade da Matriz:** Uma matriz de silvicultura (eucalipto) pode "suavizar" o efeito de borda para algumas espécies em comparação com uma matriz de pastagem aberta, pois oferece mais sombra e proteção contra o vento.
+*   **Efeito Inverso:** Recentemente, estuda-se o papel do fragmento sobre a matriz, como a capacidade de fornecer sementes para a regeneração natural em áreas adjacentes.
+
+---
+
+## Sugestões de Leitura
+
+*   [**Efeito de Borda Wikipedia**](https://pt.wikipedia.org/wiki/Efeito_de_borda) - Wikipedia é sempre um bom começo.
+*   [**As engrenagens da Floresta**](https://revistapesquisa.fapesp.br/as-engrenagens-da-floresta/) - Texto muito bom na Revista Pesquisa Fapesp
+*   [**Saunders et al. (1991). Biological consequences of ecosystem fragmentation.**](https://doi.org/10.1111/j.1523-1739.1991.tb00384.x) - Artigo clássico sobre as mudanças nas interfaces.
+*   [**Fahrig (2003). Effects of habitat fragmentation on biodiversity.**](https://www.annualreviews.org/doi/abs/10.1146/annurev.ecolsys.34.011802.132419) - Revisão sobre perda de habitat e configuração.
+

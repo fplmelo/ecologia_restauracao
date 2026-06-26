@@ -1,0 +1,94 @@
+<svg width="100%" viewBox="0 0 680 360" xmlns="http://www.w3.org/2000/svg" font-family="sans-serif">
+<defs>
+  <style>
+    text { font-family: sans-serif; }
+    .th { font-size:13px; font-weight:600; fill:#1a1a18; }
+    .ts { font-size:11px; font-weight:400; fill:#2c2c2a; }
+    .eq { font-size:12px; font-weight:600; fill:#0C447C; font-style:italic; }
+  </style>
+</defs>
+
+<!-- Título geral -->
+<text class="th" x="340" y="20" text-anchor="middle">Métricas de Composição — sem referência espacial</text>
+
+<!-- CARD 1: PLAND -->
+<rect x="20" y="34" width="150" height="145" rx="8" fill="#EAF3DE" stroke="#639922" stroke-width="1"/>
+<text class="th" x="95" y="56" text-anchor="middle" fill="#173404">PLAND</text>
+<text class="ts" x="95" y="72" text-anchor="middle">% da paisagem</text>
+<text class="eq" x="95" y="96" text-anchor="middle">PLAND = (aᵢ / A) × 100</text>
+<text class="ts" x="32" y="116">aᵢ = área total da classe i</text>
+<text class="ts" x="32" y="132">A = área total da paisagem</text>
+<text class="ts" x="32" y="150">Intervalo: 0 &lt; PLAND ≤ 100</text>
+<text class="ts" x="95" y="170" text-anchor="middle" fill="#639922">→ composição bruta</text>
+
+<!-- Barra proporcional ilustrativa PLAND -->
+<rect x="32" y="128" width="108" height="16" rx="3" fill="#e0e0e0"/>
+<rect x="32" y="128" width="65" height="16" rx="3" fill="#27500A" opacity="0.82"/>
+<text class="ts" x="70" y="140" text-anchor="middle" fill="white">60%</text>
+
+<!-- CARD 2: PR (Riqueza) -->
+<rect x="182" y="34" width="150" height="145" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="1"/>
+<text class="th" x="257" y="56" text-anchor="middle" fill="#0C447C">PR</text>
+<text class="ts" x="257" y="72" text-anchor="middle">Riqueza de patch types</text>
+<text class="eq" x="257" y="96" text-anchor="middle">PR = m</text>
+<text class="ts" x="194" y="116">m = nº de tipos de patch</text>
+<text class="ts" x="194" y="132">distintos na paisagem</text>
+<text class="ts" x="194" y="148">PR = 1 → monocultura</text>
+<text class="ts" x="194" y="164">PR = 5 → 5 tipos distintos</text>
+<text class="ts" x="257" y="170" text-anchor="middle" fill="#185FA5">→ heterogeneidade</text>
+
+<!-- Ícones de tipos: 5 quadradinhos coloridos -->
+<rect x="196" y="118" width="14" height="14" rx="2" fill="#27500A"/>
+<rect x="214" y="118" width="14" height="14" rx="2" fill="#BA7517"/>
+<rect x="232" y="118" width="14" height="14" rx="2" fill="#185FA5"/>
+<rect x="250" y="118" width="14" height="14" rx="2" fill="#A32D2D"/>
+<rect x="268" y="118" width="14" height="14" rx="2" fill="#888780"/>
+<text class="ts" x="257" y="148" text-anchor="middle" fill="#0C447C">PR = 5</text>
+
+<!-- CARD 3: SHDI -->
+<rect x="344" y="34" width="150" height="145" rx="8" fill="#FAEEDA" stroke="#BA7517" stroke-width="1"/>
+<text class="th" x="419" y="56" text-anchor="middle" fill="#633806">SHDI</text>
+<text class="ts" x="419" y="72" text-anchor="middle">Índice de Shannon</text>
+<text class="eq" x="419" y="96" text-anchor="middle">H' = −Σ(pᵢ · ln pᵢ)</text>
+<text class="ts" x="356" y="116">pᵢ = proporção da classe i</text>
+<text class="ts" x="356" y="132">H' = 0 → só 1 tipo</text>
+<text class="ts" x="356" y="148">H' máx = ln(m) se equit.</text>
+<text class="ts" x="419" y="170" text-anchor="middle" fill="#BA7517">→ diversidade de tipos</text>
+
+<!-- Mini gráfico de barras SHDI -->
+<rect x="358" y="118" width="20" height="28" fill="#27500A" opacity="0.82"/>
+<rect x="382" y="126" width="20" height="20" fill="#BA7517" opacity="0.72"/>
+<rect x="406" y="130" width="20" height="16" fill="#185FA5" opacity="0.75"/>
+<rect x="430" y="134" width="20" height="12" fill="#A32D2D" opacity="0.7"/>
+<text class="ts" x="419" y="155" text-anchor="middle" fill="#BA7517">H' = 1.32</text>
+
+<!-- CARD 4: LPI -->
+<rect x="506" y="34" width="154" height="145" rx="8" fill="#FCEBEB" stroke="#A32D2D" stroke-width="1"/>
+<text class="th" x="583" y="56" text-anchor="middle" fill="#791F1F">LPI</text>
+<text class="ts" x="583" y="72" text-anchor="middle">Índice do maior patch</text>
+<text class="eq" x="583" y="96" text-anchor="middle">LPI = (a_max / A) × 100</text>
+<text class="ts" x="518" y="116">a_max = área do maior patch</text>
+<text class="ts" x="518" y="132">A = área total da paisagem</text>
+<text class="ts" x="518" y="148">LPI → 0: muitos patches</text>
+<text class="ts" x="518" y="164">LPI = 100: 1 patch domina</text>
+<text class="ts" x="583" y="170" text-anchor="middle" fill="#A32D2D">→ dominância</text>
+
+<!-- Mini visual LPI: patch grande vs paisagem -->
+<rect x="518" y="118" width="80" height="40" rx="3" fill="#e0e0e0"/>
+<rect x="518" y="118" width="56" height="40" rx="3" fill="#A32D2D" opacity="0.65"/>
+<text class="ts" x="558" y="142" text-anchor="middle" fill="white">70%</text>
+
+<!-- Linha divisória abaixo dos cards -->
+<line x1="20" y1="190" x2="660" y2="190" stroke="#c8c6be" stroke-width="0.6" stroke-dasharray="5,4"/>
+
+<!-- Seção de texto: o que composição NÃO inclui -->
+<text class="th" x="340" y="212" text-anchor="middle">O que métricas de composição NÃO medem</text>
+<text class="ts" x="60" y="234">✗  Onde cada classe está localizada na paisagem</text>
+<text class="ts" x="60" y="252">✗  Se os patches são contíguos ou fragmentados</text>
+<text class="ts" x="60" y="270">✗  A forma ou complexidade de cada patch</text>
+<text class="ts" x="60" y="288">✗  A proximidade ou isolamento entre patches do mesmo tipo</text>
+<text class="ts" x="60" y="306">✗  A quantidade de borda entre classes diferentes</text>
+<rect x="40" y="222" width="600" height="92" rx="6" fill="none" stroke="#A32D2D" stroke-width="0.8" stroke-dasharray="4,3"/>
+
+<text class="ts" x="340" y="340" text-anchor="middle">Figura 2 — As quatro principais métricas de composição (McGarigal &amp; Marks 1995 / FRAGSTATS)</text>
+</svg>

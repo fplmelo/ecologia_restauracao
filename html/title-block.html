@@ -1,0 +1,18 @@
+<header id="title-block-header">
+<h1 class="title">$title$</h1>
+$if(subtitle)$
+<h2 class="subtitle">$subtitle$</h2>
+$endif$
+
+$if(date)$
+$if(date_end)$
+<div class="date-block $date-heading.class$ text-white p-2">
+    <p class="date">$date-heading.content$ $date$–$date_end$</p>
+</div>
+$else$
+<div class="date-block $date-heading.class$ text-white p-2">
+  <p class="date">$date-heading.content$ $date$</p>
+</div>
+$endif$
+$endif$
+</header>

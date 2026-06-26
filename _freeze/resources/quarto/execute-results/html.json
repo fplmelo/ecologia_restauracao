@@ -1,0 +1,17 @@
+{
+  "hash": "2a2c5eb4cd5651b3be91207317efefed",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Usando Quarto\"\nauthor: \"Andrew Heiss\"\ntoc: true\n---\n\n\n\n[Quarto Markdown](https://quarto.org/) é o [Markdown comum](/resource/markdown.qmd) com código R e resultados intercalados. Você pode fazer tudo o que faz com o [Markdown comum](/resource/markdown.qmd), mas pode incorporar gráficos, tabelas e outros resultados de código diretamente no seu documento. Você pode criar documentos em HTML, PDF e Word, apresentações em PowerPoint e HTML, sites, livros e até dashboards interativos com o Quarto. Todo este site do curso foi criado com o Quarto.\n\nQuarto é essencialmente um \"R Markdown 2.0\", projetado para ser agnóstico em relação à linguagem. Você pode [usar código R](https://quarto.org/docs/computations/r.html), [Python](https://quarto.org/docs/computations/python.html), [Julia](https://quarto.org/docs/computations/julia.html), [Observable JS](https://quarto.org/docs/computations/ojs.html) e até [Stata](https://gist.github.com/andrewheiss/f38ceb81d362a7fc7cda3ae9ccf1283c) no mesmo documento. É mágico.\n\n::: callout-tip\n### Documentação do Quarto\n\nA [documentação do Quarto](https://quarto.org/) é extremamente abrangente! Aqui estão algumas das páginas mais importantes:\n\n- [**Guia**](https://quarto.org/docs/guide/)\n- [**Referência de HTML**](https://quarto.org/docs/reference/formats/html.html)\n:::\n\n## Termos-chave\n\n- **Documento**: Um arquivo Markdown onde você digita o conteúdo.\n\n- **Chunk**: Um pedaço de código R incluído no seu documento. Ele se parece com isto:\n\n\n::: {.cell layout-align=\"center\"}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n\n## Adicionar chunks\n\nExistem três maneiras de inserir chunks:\n\n- Pressione `Ctrl + Alt + I` no Windows ou `Cmd + Option + I` no macOS.\n- Clique no botão **Insert** no topo da janela do editor.\n- Digite manualmente as crases (não recomendado).\n\n## Opções de chunk\n\nConfigure as opções seguindo o prefixo `#|` no topo do chunk:\n\n\n::: {.cell layout-align=\"center\"}\n::: {.cell-output-display}\n![Legenda do gráfico](quarto_files/figure-html/fig-exemplo-1.png){#fig-exemplo fig-align='center' width=672}\n:::\n:::\n\n\n**Opções comuns:**\n\n- `echo: false`: O código não aparece, mas o resultado sim.\n- `warning: false`: Omite avisos.\n- `message: false`: Omite mensagens de carregamento.\n\n## Chunks inline\n\nPara incluir resultados no texto, use a sintaxe de uma crase seguida de `r`. Por exemplo:\n\n\n::: {.cell layout-align=\"center\"}\n\n:::\n\n\nA média é 20.1.\n\n## Formatos de saída\n\nDefina no YAML:\n\n```yaml\nformat:\n  html: default\n  pdf: default\n  docx: default\n```\n\n--------------------------------------------------------------------------------------------\nPágina traduzida de: [Andrew Heiss](https://datavizf24.classes.andrewheiss.com/resource/quarto.html)",
+    "supporting": [
+      "quarto_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,9 @@
+---
+title: Lista de exercícios
+listing:
+  type: table
+title-block-banner: "#990000"
+---
+
+Confira abaixo a lista de exercícios e seus tutoriais
+

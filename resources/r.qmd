@@ -1,0 +1,52 @@
+---
+title: "Cursos de R Excelentes e Gratuitos"
+author: "Felipe Melo"
+---
+
+## Tutoriais Gratuitos de R e RStudio e Recursos de Estatística
+
+Aqui está uma lista de sites e canais do YouTube que oferecem tutoriais e recursos gratuitos para aprender R, RStudio e estatística, agora com links diretos:
+
+## Sites:
+
+* [**R-Project.org:**](https://www.r-project.org/) O site oficial da linguagem de programação R. Contém documentação abrangente, manuais e links para diversos recursos. Embora não seja estruturado como um tutorial, é uma referência inestimável.
+
+* [**RStudio Education (Posit Education):**](https://education.rstudio.com/) A página oficial de educação da RStudio (agora Posit). Eles oferecem uma infinidade de recursos gratuitos, incluindo webinars, guias e links para outros materiais de aprendizado.
+
+* [**Dicas de Quarto:**](https://www.productive-r-workflow.com/quarto-tricks) Muitas dicas para ajustar seu site e caderno de exercícios em Quarto.
+
+## Livros
+
+* [**R for Data Science (r4ds.had.co.nz):**](https://r4ds.had.co.nz/) Um livro online gratuito e abrangente de Hadley Wickham e Garrett Grolemund, focado no uso do R para tarefas de ciência de dados.
+
+* [**Advanced R (adv-r.hadley.nz):**](https://adv-r.hadley.nz/) Outro excelente livro online gratuito de Hadley Wickham, aprofundando-se em aspectos mais avançados da programação em R.
+ 
+ 
+## Cursos de R online gratuitos
+
+* [**R and the Tidyverse for working with data**:](https://carpentries-incubator.github.io/r-tidyverse-4-datasets/) O básico de R e Tidyverse, incluindo ggplot e manipulação de dados (*data wrangling*);
+
+* [**Introduction to R**:](https://hbctraining.github.io/Intro-to-R-flipped/schedules/links-to-lessons.html) Outro curso de R online simples e direto.
+
+* [**STAT 545:**](https://stat545.com/) Manipulação, exploração e análise de dados com R.
+
+
+## Fóruns
+
+* [**Stack Overflow:**](https://stackoverflow.com/) Um site de perguntas e respostas onde você pode encontrar soluções para problemas específicos relacionados a R e estatística.
+
+* [**Cross Validated (stats.stackexchange.com):**](https://stats.stackexchange.com/) Um site do Stack Exchange dedicado exclusivamente a questões de estatística.
+
+
+## Canais no YouTube:
+
+* [**Posit PBC:**](https://www.youtube.com/@PositPBC) Site oficial da empresa Posit (RStudio, Quarto e Tidyverse).
+
+* [**StatQuest com Josh Starmer:**](https://www.youtube.com/@statquest) Embora não seja focado exclusivamente em R, este canal oferece explicações excelentes e intuitivas sobre conceitos estatísticos.
+    
+* [**Equitable Equations:**](https://www.youtube.com/@EquitableEquations) Oferece uma ampla gama de tutoriais de estatística, muitos demonstrando a implementação em R.
+    
+* [**RichardOnData:**](https://www.youtube.com/@RichardOnData) Fornece tutoriais e explicações sobre vários tópicos de ciência de dados, incluindo programação em R e análise estatística.
+
+
+Por favor, note que a disponibilidade de conteúdo gratuito nessas plataformas pode mudar com o tempo. Sempre verifique o site ou canal específico para ver as ofertas atuais.

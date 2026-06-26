@@ -1,0 +1,67 @@
+---
+title: "Cronograma de Aulas"
+title-block-banner: "#990000"
+format:
+  html:
+    toc: true
+    language: 
+      toc-title-website: "Nesta página"
+---
+
+
+
+### Módulo I: Fundamentos e Estrutura (12h)
+
+- Semana 1: Origens da Ecologia de Paisagens e o conceito de Escala (Grão e Extensão).
+
+- Semana 2: O Modelo Mancha-Corredor-Matriz e o conceito de Heterogeneidade.
+
+- Semana 3: Dinâmica de Perturbação: Como eventos naturais e antrópicos moldam o mosaico.
+
+- Semana 4: Teoria de Biogeografia de Ilhas e sua aplicação em paisagens fragmentadas.
+
+### Módulo II: Processos e Fluxos (12h)
+
+- Semana 5: Efeito de Borda: Mudanças bióticas e abióticas nas interfaces.
+
+- Semana 6: Conectividade Ecológica vs. Conexidade Física.
+
+- Semana 7: Dinâmicas de Metapopulações e a importância da Matriz na permeabilidade.
+
+- Semana 8: Fluxos de energia e ciclagem de nutrientes no nível de paisagem.
+
+### Módulo III: Métricas e Análise Espacial (9h)
+Abordagem prática e quantitativa (pode ser realizada em laboratório).
+
+- Semana 9: Tipos de Métricas: Composição (o que há) vs. Configuração (como está arranjado).
+
+- Semana 10: Prática de SIG: Introdução ao cálculo de índices (Área, Isolamento, Forma) via software (QGIS/R).
+
+- Semana 11: Interpretação de dados: O que as métricas nos dizem sobre a saúde do ecossistema?
+
+## Módulo IV: Ecologia Política e Gestão (12h)
+A dimensão humana e o planejamento.
+
+- Semana 12: Ecologia Política: Conflitos de terra, poder e a construção social da paisagem.
+
+- Semana 13: Planejamento Territorial: Áreas Protegidas, Corredores de Biodiversidade e o Código Florestal.
+
+- Semana 14: Restauração em Nível de Paisagem e Serviços Ecossistêmicos.
+
+- Semana 15: Apresentação de Projeto Final: Diagnóstico e Proposta para uma Paisagem Real.
+
+## Dinâmica do curso
+
+Prática Integrada: As métricas não são ensinadas apenas como matemática, mas aplicadas diretamente na análise de um estudo de caso que será usado no projeto final.
+
+Foco na Ecologia Política: Em vez de uma unidade puramente teórica, a Ecologia Política é discutida através de estudos de caso brasileiros (ex: expansão da fronteira agrícola ou urbanização).
+
+## Critérios de Avaliação
+- Atividades Práticas (30%): Relatórios de análise de métricas espaciais.
+
+- Participação em Seminários (20%): Discussão sobre textos de Ecologia Política.
+
+- Projeto de Paisagem (50%): Um trabalho escrito e apresentação onde o aluno identifica um problema de fragmentação em uma área real e propõe soluções baseadas em métricas e políticas públicas.
+
+
+

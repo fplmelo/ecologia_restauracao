@@ -1,0 +1,81 @@
+project:
+  type: website
+  output-dir: docs
+
+execute:
+  freeze: auto  # Re-render only when source changes
+
+website:
+  navbar:
+    background: light
+    logo: img/logo_branco_ufpe.png
+    logo-alt: "UFPE logo"
+    title: false
+    collapse-below: lg
+    left:
+      - text: "Início"
+        href: index.qmd
+      - text: "Objetivos"
+        href: syllabus.qmd
+      - text: "Cronograma"
+        href: schedule.qmd
+      - text: "R Intro"
+        menu:
+          - text: "1 - Instalar R & Rstudio"
+            icon: "emoji-sunglasses-fill"
+            href: get-started/1-install.qmd
+          - text: "2 - Introdução Básica ao R e Rstudio"
+            icon: "tools"
+            href: get-started/2-basic-intro.qmd
+          - text: "3 - Sintaxe & Estrutura de Dados"
+            icon: "tools"
+            href: get-started/3-syntax.qmd
+          - text: "4 - Funções e Comandos"
+            icon: "tools"
+            href: get-started/4-functions.qmd
+          - text: "5 - Dados em R"
+            icon: "tools"
+            href: get-started/5-data.qmd
+          - text: "6 - Seu próprio site"
+            icon: "tools"
+            href: workbook/workbook.qmd
+      - text: "Todas as Aulas"
+        href: sessions/index.qmd
+      - text: "Exercícios"
+        href: exercises/index.qmd
+      - text: "Recursos"
+        href: resources/index.qmd
+      - text: "Tipo de Avaliação"
+        href: assessment.qmd
+      - text: "Prova Final"
+        href: avaliacao_final.qmd
+        
+    tools:
+      - icon: twitter
+        href: https://twitter.com/quarto_pub
+        text: Quarto Twitter
+      - icon: github
+        href: https://github.com/quarto-dev/quarto-cli
+        text: Quarto GitHub
+      - icon: rss
+        href: https://quarto.org/docs/blog/index.xml
+        text: Quarto Blog RSS
+  
+ 
+  page-footer:
+    left: |
+      Content {{< fa brands creative-commons >}} {{< var course.copyright_year >}} by [{{< var instructor.name_no_title >}}]({{< var instructor.url >}}) <br>
+      All content licensed under a {{< fa brands creative-commons >}}
+      {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-nc >}}
+      [Creative Commons Attribution-NonCommercial 4.0 International license (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)
+    right: |
+      Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)<br>
+      [View the source at {{< fa brands github >}} GitHub]({{< var course.github >}})
+          
+
+format:
+  html:
+    theme: styles.scss
+    #css: styles.css
+    toc: false
+    page-layout: full

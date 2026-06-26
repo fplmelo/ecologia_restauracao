@@ -1,0 +1,59 @@
+---
+title: "Semana 04: Teoria de Biogeografia de Ilhas e Fragmentação"
+subtitle: "Ecologia da Paisagem - Bacharelado em Ciências Biológicas (UFPE)"
+author: "Felipe Melo"
+date: "last-modified"
+date-format: "long"
+filters:
+  - naquiz
+format:
+  html:
+    toc: true
+    toc-expanded: 3
+    toc-title: "Nesta página"
+---
+
+## Slides desta aula
+
+Tela cheia [CLIQUE AQUI](https://fplmelo.github.io/ecologia_paisagem/slides/aula4_tbi_slides.html#/title-slide) e depois pressione 'f'
+
+<iframe class="slide-deck" src="https://fplmelo.github.io/ecologia_paisagem/slides/aula4_tbi_slides.html#/title-slide" width="700px" height="500px"></iframe>
+## 1. Origens e o Modelo de Equilíbrio
+
+A **Teoria de Biogeografia de Ilhas (TBI)** foi proposta em 1967 pelos ecólogos **Robert MacArthur e Edward Wilson**. O modelo baseia-se na ideia de que a riqueza de espécies em uma ilha é determinada por um equilíbrio dinâmico entre dois processos opostos: a **imigração** (colonização) de novas espécies e a **extinção** de espécies já presentes.
+
+### Os Dois Pilares da TBI:
+1.  **Efeito da Área:** Ilhas maiores tendem a sustentar populações maiores, o que reduz as taxas de extinção por estocasticidade. Além disso, áreas maiores geralmente possuem maior diversidade de habitats.
+2.  **Efeito do Isolamento:** Ilhas mais próximas do continente (fonte de propágulos) apresentam taxas de imigração mais elevadas em comparação com ilhas distantes.
+
+> ![Gráfico do Modelo de Equilíbrio de MacArthur-Wilson, mostrando as curvas de imigração e extinção e como o ponto de equilíbrio (S) muda com o tamanho e a distância da ilha](/img/biogeo.png)
+
+## 2. A "Versão Terrestre": Aplicação em Paisagens Fragmentadas
+
+A partir da década de 1980, a TBI tornou-se o principal arcabouço teórico para o planejamento de reservas naturais em ambientes continentais [6]. Nesse contexto, os **fragmentos de vegetação nativa** são tratados como "ilhas" imersas em um "mar" de matrizes antrópicas (como pastagens ou áreas urbanas).
+
+A aplicação da TBI em terra permitiu prever que:
+*   **Fragmentos grandes e próximos** tendem a manter maior riqueza biológica do que fragmentos pequenos e isolados.
+*   A configuração espacial da paisagem torna-se um fator-chave para determinar os riscos de extinção local e as possibilidades de recolonização.
+
+## 3. Limitações e Críticas ao Modelo
+
+Embora revolucionária, a TBI apresenta limitações quando aplicada a sistemas terrestres:
+*   **A Matriz não é um "Mar" Estéril:** Diferente do oceano, a matriz terrestre possui diferentes graus de **permeabilidade**. Uma matriz de eucalipto pode facilitar o movimento de certas aves mais do que uma pastagem aberta.
+*   **O Limiar de 30%:** Estudos sugerem que o efeito da configuração espacial (isolamento e forma) torna-se crítico apenas quando o habitat remanescente cobre menos de **30% da paisagem**; acima disso, a quantidade total de área é o fator dominante.
+
+> ![Comparação visual entre uma paisagem "variegada" (com transições graduais, à esquerda) e uma paisagem "fragmentada" (com alto contraste mancha-matriz, à direita), ilustrando onde a TBI é mais aplicável](https://jornal.usp.br/wp-content/uploads/2025/04/20250403_Mato-Grosso_satelite.jpg)
+
+## 4. Evolução para a Teoria de Metapopulações
+
+A TBI forneceu a base para a **Teoria de Metapopulações**, que será abordada no Módulo II. Enquanto a TBI foca na riqueza de espécies (comunidade), a metapopulação foca na persistência de uma única espécie através da dinâmica de colonização e extinção em um conjunto de manchas conectadas.
+
+---
+
+## Sugestões de Leitura
+
+*   [**Metzger, J. P. (2001). O que é ecologia de paisagens?**](http://www.biotaneotropica.org.br/v1n12/pt/abstract?thematic-review+BN00701122001) - Um artigo fundamental em português que explica a influência da TBI na ecologia espacial brasileira.
+*   [**Turner, M. G. & Gardner, R. H. (2015). Landscape Ecology in Theory and Practice.**](https://doi.org/10.1007/978-1-4939-2794-4) - Capítulo sobre a base teórica da ecologia de paisagens (disponível via SpringerLink).
+*   [**Fahrig, L. (2003). Effects of habitat fragmentation on biodiversity.**](https://www.annualreviews.org/doi/abs/10.1146/annurev.ecolsys.34.011802.132419) - Uma revisão clássica sobre como o isolamento e o tamanho das manchas impactam a vida silvestre.
+*   [**Haddad et al. (2015). Habitat fragmentation and its lasting impact on Earth’s ecosystems.**](https://doi.org/10.1126/sciadv.1500052) - Estudo que utiliza princípios da TBI para analisar experimentos de fragmentação em escala global.
+*   [**Conservar a biodiversidade exige grandes áreas florestais e paisagens contínuas**](https://jornal.usp.br/ciencias/conservar-a-biodiversidade-exige-grandes-areas-florestais-e-paisagens-continuas/) - Em artigo publicado na Nature, comparação da biodiversidade entre paisagens apontou diminuição de espécies em pequenos fragmentos florestais

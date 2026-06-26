@@ -1,0 +1,76 @@
+---
+title: "Semana 01: Origens e Conceitos de Escala"
+subtitle: "Ecologia da Paisagem - Bacharelado em Ciências Biológicas (UFPE)"
+author: "Felipe Melo"
+date-format: "long"
+filters:
+  - naquiz
+format:
+  html:
+    toc: true
+    toc-expanded: 3
+    toc-title: "Nesta página"
+---
+
+![](/img/paisagem.png){width="500"}
+
+Foto: Paisagem fragmentada na Usina Serra Grande, Ibateguara, Alagoas.
+
+
+## Slides desta aula
+
+Tela cheia [CLIQUE AQUI](https://fplmelo.github.io/ecologia_paisagem/slides/aula1_apresentacao.html#/title-slide) e depois pressione 'f'
+
+<iframe class="slide-deck" src="https://fplmelo.github.io/ecologia_paisagem/slides/aula1_apresentacao.html#/title-slide" width="700px" height="500px"></iframe>
+
+
+
+## Introdução às Origens da Ecologia da Paisagem
+
+A ecologia da paisagem surgiu como uma disciplina interdisciplinar que combina a **abordagem espacial da geografia com o estudo funcional da ecologia** [[1]](#ref1). O termo foi cunhado em 1939 pelo biogeógrafo alemão **Carl Troll**, que se inspirou no potencial da análise de fotografias aéreas para entender as inter-relações entre o ambiente e os seres vivos [[2]](#ref2), [[3]](#ref3).
+
+Historicamente, a disciplina consolidou-se através de duas frentes principais:
+1.  **Abordagem Geográfica:** Focada no "espaço vivido pelo homem", priorizando o planejamento territorial e a gestão de paisagens culturais [[4]](#ref4).
+2.  **Abordagem Ecológica:** Enfatiza o efeito da estrutura espacial sobre os processos biológicos e a conservação da biodiversidade [[4]](#ref4).
+
+A paisagem é definida como um **mosaico heterogêneo** formado por unidades interativas, onde a heterogeneidade existe para pelo menos um fator, segundo um observador e em uma escala específica [[1]](#ref1).
+
+## O Paradigma Padrão-Processo
+
+O núcleo pedagógico desta disciplina se baseia no paradigma **"padrão-processo"**, que afirma que o arranjo espacial dos elementos de uma paisagem dita significativamente os processos ecológicos que nela ocorrem [[7]](#ref7). 
+
+## O Conceito de Escala: Grão e Extensão
+
+Para quantificar padrões espaciais, é vital distinguir os componentes da escala [[5]](#ref5):
+
+*   **Grão (ou Resolução):** Refere-se à menor unidade de representação espacial (ex: o tamanho do pixel de 10m do satélite Sentinel-2) [[11]](#ref11).
+*   **Extensão:** Indica as dimensões totais da área de estudo ou a "janela" de observação [[11]](#ref11).
+
+À medida que o grão aumenta, detalhes finos da paisagem são perdidos, o que pode causar o **"efeito de transmutação"**, onde as propriedades do sistema mudam conforme a escala de análise [[11]](#ref11).
+
+## Escala de Percepção: A Lente Biológica
+
+A paisagem não é definida apenas por critérios humanos. Cada espécie possui sua própria **"escala de percepção"**, baseada em suas características ecológicas, como tamanho do território e capacidade de locomoção. 
+
+> **Exemplo Prático:** 
+> Enquanto um pequeno inseto percebe a heterogeneidade em manchas de gramíneas em poucos metros quadrados, uma onça-parda (*Puma concolor*) percebe a paisagem em escalas geográficas amplas de quilômetros quadrados [[5]](#ref5), [[6]](#ref6).
+
+Identificar a **"escala de efeito"** — o ponto onde a relação entre a biodiversidade e a paisagem é mais forte — é crucial para modelos precisos de conservação [[13]](#ref13).
+
+---
+
+## Referências Bibliográficas
+
+<a name="ref1"></a>[1] [Metzger, J. P. (2001). O que é ecologia de paisagens? *Biota Neotropica*.](https://www.scielo.br/j/bn/a/Jbchd6rjY35PGkY5BHPz63S/?format=html&lang=pt)
+
+<a name="ref2"></a>[2] [Rocha, C. H., et al. (1997). Ecologia da paisagem e manejo sustentável dos recursos naturais. *Geografia*.](https://www.periodicos.rc.biblioteca.unesp.br/index.php/ageteo/article/view/14887/11526)
+
+<a name="ref3"></a>[3] [Troll, C. (1971). Landscape ecology (geo-ecology) and biogeocenology: a terminological study. *Geoforum*.](https://doi.org/10.1016/0016-7185(71)90029-7)
+
+<a name="ref4"></a>[4] [Rossi, L. C., et al. (2020). Structural Vegetation Index (SVI) as a proxy for habitat complexity. *Remote Sensing in Ecology and Conservation*.](https://doi.org/10.1002/rse2.130)
+
+<a name="ref7"></a>[7] [Turner, M. G., & Gardner, R. H. (2015). *Landscape Ecology in Theory and Practice*. Springer.](https://doi.org/10.1007/978-1-4939-2794-4); [link alternativo](https://www.andreasaltelli.eu/file/repository/Landscape_Ecology_in_Theory_and_Practice_.pdf)
+
+<a name="ref11"></a>[11] [Bissonette, J. A. (1997). Scale-sensitive ecological properties. In: *Wildlife and Landscape Ecology*. Springer.](https://doi.org/10.1007/978-1-4612-1918-7_1)
+
+<a name="ref13"></a>[13] [Fletcher, R. J., et al. (2023). Addressing the problem of scale that emerges with habitat fragmentation. *Global Ecology and Biogeography*.](https://doi.org/10.1111/geb.13658)

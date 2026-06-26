@@ -1,0 +1,536 @@
+---
+title: "Metapopulações e Dinâmica de Extinção-Colonização"
+subtitle: "Semana 7 — Ecologia de Paisagens BO-304"
+author: "Prof. Felipe Melo"
+institute: "Departamento de Botânica · UFPE"
+date: today
+lang: pt
+format:
+  revealjs:
+    theme: default
+    slide-number: true
+    transition: fade
+    transition-speed: fast
+    logo: "https://fplmelo.github.io/img/logo_branco_ufpe.png"
+    footer: "BO-304 Ecologia de Paisagens · UFPE · 2026.1"
+    incremental: false
+    fig-align: center
+    css: slides_custom.css
+    scrollable: true
+---
+
+## {background-color="#173404"}
+
+::: {style="text-align: center; padding-top: 70px;"}
+
+[**Metapopulações**]{style="font-size: 2.6em; color: #C0DD97; font-weight: 700;"}
+
+[**e Dinâmica de Extinção-Colonização**]{style="font-size: 1.5em; color: #97C459; display: block; margin-top: 0.3em;"}
+
+[Da população local à persistência regional]{style="font-size: 1em; color: #639922; display: block; margin-top: 1.4em;"}
+
+[Semana 7 · BO-304 · Prof. Felipe Melo · UFPE]{style="font-size: 0.85em; color: #639922; display: block; margin-top: 0.5em;"}
+
+:::
+
+---
+
+## A pergunta desta semana
+
+:::: {.columns}
+
+::: {.column width="48%"}
+
+**O problema central:**
+
+- Populações locais em fragmentos são **inerentemente transitórias**
+- Extinções estocásticas são inevitáveis em fragmentos pequenos
+- Como a espécie **persiste em escala regional** se populações locais se extinguem?
+- A resposta depende de dois processos opostos:
+  - **Extinções locais** — empurram para colapso
+  - **Recolonizações** — garantem persistência regional
+
+::: {.callout-note appearance="minimal"}
+A unidade de conservação relevante não é a população local — é a **rede de populações**.
+:::
+
+:::
+
+::: {.column width="4%"}
+:::
+
+::: {.column width="48%"}
+
+![](/img/s7_fig1_metapopulacao_conceito.svg)
+
+:::
+
+::::
+
+---
+
+## O que é uma metapopulação?
+
+:::: {.columns}
+
+::: {.column width="48%"}
+
+**Definição (Levins 1969; Hanski 1999):**
+
+- "Uma **população de populações**" — conjuntos de populações locais conectadas por dispersão
+- Sobrevivência de longo prazo depende do balanço entre extinções e recolonizações no mosaico de paisagens
+
+**Quatro condições necessárias:**
+
+1. Habitat em **manchas discretas** com populações reprodutivas
+2. **Risco real de extinção local** em todos os patches
+3. **Recolonização possível** a partir de patches vizinhos
+4. **Assincronia** entre as dinâmicas locais
+
+:::
+
+::: {.column width="4%"}
+:::
+
+::: {.column width="48%"}
+
+![](/img/s7_fig1_metapopulacao_conceito.svg)
+
+:::
+
+::::
+
+---
+
+## O modelo de Levins (1969)
+
+:::: {.columns}
+
+::: {.column width="48%"}
+
+**A equação fundamental:**
+
+$$\frac{dp}{dt} = c \cdot p \cdot (1-p) - e \cdot p$$
+
+- $p$ = fração de patches ocupados
+- $c$ = taxa de colonização
+- $e$ = taxa de extinção local
+
+**Equilíbrio:**
+
+$$p^* = 1 - \frac{e}{c}$$
+
+**Regra de persistência:**
+
+- $c > e$ → metapopulação **persiste**
+- $c \leq e$ → extinção regional **inevitável**
+
+:::
+
+::: {.column width="4%"}
+:::
+
+::: {.column width="48%"}
+
+![](/img/s7_fig2_modelo_levins.svg)
+
+:::
+
+::::
+
+---
+
+## O efeito resgate
+
+:::: {.columns}
+
+::: {.column width="48%"}
+
+**O que é o efeito resgate? (Brown & Kodric-Brown 1977)**
+
+- Imigrantes de patches vizinhos **reforçam** populações locais em declínio
+- Uma população que extinguiria por estocasticidade demográfica **sobrevive** graças ao fluxo de imigrantes
+- Modifica o modelo de Levins: $e$ passa a ser função decrescente de $p$
+
+**Consequências:**
+
+- Patches com **muitos vizinhos ocupados** têm menor P(extinção)
+- Isolamento duplo: ausência de colonizadores **e** ausência de resgate
+- Confirma a importância da conectividade funcional *(semana 6)*
+
+:::
+
+::: {.column width="4%"}
+:::
+
+::: {.column width="48%"}
+
+![](/img/s7_fig2_modelo_levins.svg)
+
+:::
+
+::::
+
+---
+
+## Tipos de metapopulação
+
+:::: {.columns}
+
+::: {.column width="48%"}
+
+**Quatro estruturas fundamentais:**
+
+- **1. Clássica (Levins)** — patches equivalentes; extinções e colonizações balanceadas
+- **2. Mainland-island** — fonte permanente supre ilhas sem risco de extinção própria
+- **3. Source-sink (Pulliam 1988)** — patches fonte ($\lambda>1$) exportam indivíduos para patches sumidouro ($\lambda<1$)
+- **4. Não-equilíbrio** — extinções superam colonizações; declínio rumo à extinção regional
+
+**Por que isso importa para conservação?**
+
+- Cada estrutura tem implicações distintas para quais patches proteger prioritariamente
+
+:::
+
+::: {.column width="4%"}
+:::
+
+::: {.column width="48%"}
+
+![](/img/s7_fig3_tipos_metapop.svg)
+
+:::
+
+::::
+
+---
+
+## Estrutura source-sink
+
+:::: {.columns}
+
+::: {.column width="48%"}
+
+**Modelo de Pulliam (1988):**
+
+- **Source** ($\lambda > 1$): produz excedente de indivíduos — nascimentos > mortes
+- **Sink** ($\lambda < 1$): só persiste graças à imigração — mortes > nascimentos sem imigrantes
+
+**Implicações críticas:**
+
+- A remoção de um **único patch-fonte** pode desencadear colapso de múltiplos sinks dependentes
+- Sinks podem ser grandes e visualmente "saudáveis" — mas são demograficamente deficitários
+- Fragmentação tende a **aumentar a proporção de sinks** na paisagem
+
+**Exemplo neotropical:** reservas grandes como REBIO Poço das Antas funcionam como *source* para fragmentos menores da região
+
+:::
+
+::: {.column width="4%"}
+:::
+
+::: {.column width="48%"}
+
+![](/img/s7_fig3_tipos_metapop.svg)
+
+:::
+
+::::
+
+---
+
+## O paradigma área-isolamento
+
+:::: {.columns}
+
+::: {.column width="48%"}
+
+**Dois preditores-chave da dinâmica metapopulacional:**
+
+- **Área do patch:**
+  - Patch grande → população grande → menor estocasticidade
+  - Patch grande → alvo maior para dispersores
+  - **↑ Área → ↓ P(extinção)**
+
+- **Isolamento:**
+  - Patch próximo → mais dispersores recebidos
+  - Patch próximo → efeito resgate mais eficiente
+  - **↑ Isolamento → ↓ P(colonização)**
+
+**Paradoxo do paradigma:**
+
+- Patches pequenos e isolados têm alta extinção e baixa colonização simultaneamente — dupla vulnerabilidade
+
+:::
+
+::: {.column width="4%"}
+:::
+
+::: {.column width="48%"}
+
+![](/img/s7_fig4_area_isolamento.svg)
+
+:::
+
+::::
+
+---
+
+## Extinção em dívida
+
+:::: {.columns}
+
+::: {.column width="48%"}
+
+**O conceito (Tilman et al. 1994):**
+
+- Após fragmentação, espécies **não desaparecem imediatamente**
+- Persistem temporariamente — mas estão condenadas
+- Há uma **defasagem** entre perda de habitat e perda de biodiversidade
+
+**Por que isso acontece?**
+
+- Populações demoram gerações para declinar até extinção
+- Efeito resgate entre populações ainda funciona por um tempo
+- Espécies de vida longa têm dívidas maiores
+
+**Implicações práticas:**
+
+- Inventários em fragmentos recentes **superestimam** biodiversidade sustentável
+- Modelos baseados em equilíbrio atual são **otimistas demais**
+- Proteção de fragmentos recentes ainda pode "quitar" parte da dívida
+
+:::
+
+::: {.column width="4%"}
+:::
+
+::: {.column width="48%"}
+
+![](/img/s7_fig5_extincao_divida.svg)
+
+:::
+
+::::
+
+---
+
+## Destruição de habitat e limiar de extinção
+
+:::: {.columns}
+
+::: {.column width="48%"}
+
+**A destruição de habitat afeta $c$ e $e$ simultaneamente:**
+
+- ↓ Cobertura de habitat → ↓ $c$ (menos patches ocupados = menos dispersores)
+- ↓ Área dos patches → ↑ $e$ (patches menores = extinção mais provável)
+- O efeito é **não linear**: próximo do limiar, pequenas perdas adicionais têm impacto catastrófico
+
+**O limiar metapopulacional:**
+
+$$h_{limiar} = 1 - \frac{e}{c}$$
+
+- $h$ = fração de habitat remanescente
+- Abaixo do limiar → $p^* = 0$ inevitavelmente
+- Análogo ao limiar de percolação da semana 6
+
+:::
+
+::: {.column width="4%"}
+:::
+
+::: {.column width="48%"}
+
+![](/img/s7_fig5_extincao_divida.svg)
+
+:::
+
+::::
+
+---
+
+## Caso empírico: Glanville fritillary
+
+:::: {.columns}
+
+::: {.column width="48%"}
+
+***Melitaea cinxia* · Åland, Finlândia*
+
+- ~1.500 patches mapeados; ~800 ocupados em média
+- Monitoramento contínuo desde **1993** (Hanski et al.)
+- Taxa de extinção local: ~**20% por geração**
+
+**Resultados confirmados empiricamente:**
+
+- Patches pequenos e isolados → P(extinção) significativamente maior
+- Efeito resgate confirmado: vizinhos ocupados reduzem extinção local
+- Diversidade genética correlacionada com conectividade
+- Modelo de função de incidência (IFM) prediz ocupação com precisão
+
+**Por que este sistema é único?**
+
+- Primeira validação quantitativa completa de todos os parâmetros do modelo de Hanski em campo
+
+:::
+
+::: {.column width="4%"}
+:::
+
+::: {.column width="48%"}
+
+![](/img/s7_fig6_fritillary.svg)
+
+:::
+
+::::
+
+---
+
+## Metapopulações no Brasil
+
+:::: {.columns}
+
+::: {.column width="48%"}
+
+**Mata Atlântica (<12% de cobertura):**
+
+- Redes metapopulacionais sob forte pressão
+- *Leontopithecus rosalia*: estrutura source-sink clara
+- Grandes reservas = fontes para fragmentos menores dependentes
+
+**Cerrado:**
+
+- Fragmentação mais recente → espécies provavelmente em "dívida"
+- Populações presentes hoje podem estar condenadas
+
+**Caatinga:**
+
+- Fragmentação crescente por pastagem e agricultura
+- Conectividade funcional pouco quantificada para a maioria das espécies
+- Lacuna de estudos metapopulacionais no Nordeste
+
+:::
+
+::: {.column width="4%"}
+:::
+
+::: {.column width="48%"}
+
+![](/img/s7_fig3_tipos_metapop.svg)
+
+:::
+
+::::
+
+---
+
+## Medindo no R: simulando Levins
+
+:::: {.columns}
+
+::: {.column width="48%"}
+
+**Simulação numérica do modelo:**
+
+```r
+levins <- function(p0, c, e, t_max=100) {
+  p <- p0; dt <- 0.1
+  traj <- data.frame(t=0, p=p0)
+  for(i in 1:(t_max/dt)) {
+    dp <- (c*p*(1-p) - e*p)*dt
+    p  <- max(0, min(1, p+dp))
+    if(i%%10==0)
+      traj <- rbind(traj,
+        data.frame(t=i*dt, p=p))
+  }
+  traj
+}
+```
+
+**Três cenários:**
+
+| $c$ | $e$ | $p^*$ | Resultado |
+|-----|-----|--------|-----------|
+| 0.40 | 0.10 | 0.75 | Persiste |
+| 0.30 | 0.25 | 0.17 | Frágil |
+| 0.15 | 0.30 | 0 | Colapso |
+
+:::
+
+::: {.column width="4%"}
+:::
+
+::: {.column width="48%"}
+
+![](/img/s7_fig4_area_isolamento.svg)
+
+:::
+
+::::
+
+---
+
+## Síntese: quatro lições
+
+:::: {.columns}
+
+::: {.column width="48%"}
+
+**1. Populações locais são transitórias**
+- Extinções locais são esperadas — o problema é quando a recolonização falha
+
+**2. Conectividade determina $c$**
+- Permeabilidade da matriz, corredores e stepping stones modulam diretamente a taxa de colonização
+
+**3. Extinção em dívida é invisível**
+- Fragmentos recentes parecem saudáveis mas estão em trajetória de colapso
+
+**4. Patches-fonte merecem prioridade**
+- A perda de um único source pode colapsar múltiplos sinks dependentes
+
+:::
+
+::: {.column width="4%"}
+:::
+
+::: {.column width="48%"}
+
+![](/img/s7_fig6_fritillary.svg)
+
+:::
+
+::::
+
+---
+
+## {background-color="#173404"}
+
+::: {style="text-align: center; padding-top: 55px;"}
+
+[**Resumo**]{style="font-size: 1.8em; color: #C0DD97; font-weight: 700;"}
+
+:::
+
+::: {style="color: #97C459; font-size: 1em; max-width: 680px; margin: 0 auto; line-height: 1.9;"}
+
+→ Metapopulação = rede de populações locais conectadas por dispersão
+
+→ Persistência regional depende de **c > e** — colonização superar extinção
+
+→ Tipos: clássica, mainland-island, source-sink, não-equilíbrio
+
+→ Área ↑ → P(extinção) ↓ · Isolamento ↑ → P(colonização) ↓
+
+→ Extinção em dívida: espécies condenadas ainda presentes hoje
+
+→ Conectividade funcional (semana 6) = mecanismo que determina **c**
+
+→ Caso empírico: *Melitaea cinxia* em Åland — 30 anos de dados validando a teoria
+
+:::
+
+::: {style="margin-top: 1.5em; color: #639922; font-size: 0.82em; text-align: center;"}
+BO-304 Ecologia de Paisagens · Prof. Felipe Melo · UFPE 2026.1
+:::

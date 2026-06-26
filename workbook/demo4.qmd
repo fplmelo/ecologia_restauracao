@@ -1,0 +1,69 @@
+---
+title: "Demo ex 4"
+editor: visual
+---
+## Objetivos específicos
+Compreender a importância da projeção cartográfica para análises métricas.
+Aplicar buffer negativo para restrição de borda de mapa.
+Realizar amostragem aleatória com distância mínima entre pontos.
+Extrair e quantificar a composição da paisagem em buffers circulares.
+Calcular métricas de paisagem com landscapemetrics.
+Produzir um painel de visualização das paisagens amostrais.
+
+```{r}
+
+library(terra)
+library(tidyverse)
+library(landscapemetrics)
+
+setwd("/home/felipe/ecologia_paisagem/exercises/ex4-analises") # mude para o seu próprio diretório
+
+r_murici <- rast("/home/felipe/ecologia_paisagem/exercises/ex4-analises/2024_murici.tif")
+
+
+```
+
+
+## Projetar
+
+```{r}
+r_utm <- project(r_murici, "EPSG:31985", method = "near")
+```
+
+
+## Legenda
+
+```{r}
+legenda <- data.frame(
+  id = c(3, 4, 11, 15, 20, 21, 24, 25, 33),
+  Categoria = c("Formação Florestal", "Formação Savânica", "Campo Alagado", 
+                "Pastagem", "Cana", "Mosaico de Usos", "Área Urbanizada", 
+                "Outras Áreas não Vegetadas", "Corpo d'Água"),
+  Cores = c("#006400", "#7cfc00", "#00ffff", "#ffff00", "#ff4500", 
+            "#f4a460", "#ff0000", "#d3d3d3", "#0000ff")
+)
+
+levels(r_utm) <- legenda[,1:2]
+```
+
+## Definirarea
+
+```{r}
+vetor_total <- as.polygons(r_utm, dissolve = TRUE)
+municipio_limite <- aggregate(vetor_total)
+limite_seguro <- buffer(municipio_limite, width = -2000)
+
+floresta <- vetor_total[vetor_total$Categoria == "Formação Florestal", ]
+area_sorteio <- crop(floresta, limite_seguro)
+
+if (is.list(area_sorteio)) {
+  area_sorteio <- do.call(rbind, area_sorteio)
+}
+
+if (nrow(area_sorteio) == 0) {
+  stop("Erro: Nenhuma floresta encontrada a mais de 2km da borda.")
+}
+
+
+```
+

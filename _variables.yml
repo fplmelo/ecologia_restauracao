@@ -1,0 +1,32 @@
+author: Felipe Melo
+
+instructor:
+  name: Dr. Felipe Melo
+  name_no_title: felipe Melo
+  email: felipe.plmelo@ufpe.br
+  url: "https://ecoaplic.org/"
+  bluesky: "https://bsky.app/profile/fplmelo.bsky.social"
+  github: fplmelo
+  office: "Departamento do Botânica, Centro de Biociências"
+  contact_policy: "E-mail and Slack are the best ways to get in contact with me. I will try to respond to all course-related e-mails and Slack messages within 24 hours (*really*), but also remember that life can be busy and chaotic for everyone (including me!), so if I don't respond right away, don't worry!"
+  appointment_url: "https://outlook.office.com/bookwithme/user/5120d559d4e9484488ccaebe321870d1@ntu.ac.uk/meetingtype/kHsxHM8VN06_wL272nMy1Q2?anonymous&ep=mlink"
+  
+course:
+  number: "BO304"
+  semester: "2026.1"
+  days: "Quintas-feiras"
+  time: "10-13h"
+  location: "Sala 5 CB-UFPE"
+  dates: "2026.1"
+  github: "https://github.com/fplmelo/ecologia_paisagens"
+  url: "https://fplmelo.github.io/ecologia_paisagens/"
+  copyright_year: "2026"
+  
+
+university:
+  name: Universidade Federal de Pernambuco
+  url: "https://www.ufpe.br"
+
+school:
+  name: Centro de Biociências
+  url: "https://www.ufpe.br/cb"

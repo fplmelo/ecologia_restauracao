@@ -1,0 +1,85 @@
+---
+title: "Usando Quarto"
+author: "Andrew Heiss"
+toc: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(fig.align = "center")
+```
+
+[Quarto Markdown](https://quarto.org/) é o [Markdown comum](/resource/markdown.qmd) com código R e resultados intercalados. Você pode fazer tudo o que faz com o [Markdown comum](/resource/markdown.qmd), mas pode incorporar gráficos, tabelas e outros resultados de código diretamente no seu documento. Você pode criar documentos em HTML, PDF e Word, apresentações em PowerPoint e HTML, sites, livros e até dashboards interativos com o Quarto. Todo este site do curso foi criado com o Quarto.
+
+Quarto é essencialmente um "R Markdown 2.0", projetado para ser agnóstico em relação à linguagem. Você pode [usar código R](https://quarto.org/docs/computations/r.html), [Python](https://quarto.org/docs/computations/python.html), [Julia](https://quarto.org/docs/computations/julia.html), [Observable JS](https://quarto.org/docs/computations/ojs.html) e até [Stata](https://gist.github.com/andrewheiss/f38ceb81d362a7fc7cda3ae9ccf1283c) no mesmo documento. É mágico.
+
+::: callout-tip
+### Documentação do Quarto
+
+A [documentação do Quarto](https://quarto.org/) é extremamente abrangente! Aqui estão algumas das páginas mais importantes:
+
+- [**Guia**](https://quarto.org/docs/guide/)
+- [**Referência de HTML**](https://quarto.org/docs/reference/formats/html.html)
+:::
+
+## Termos-chave
+
+- **Documento**: Um arquivo Markdown onde você digita o conteúdo.
+
+- **Chunk**: Um pedaço de código R incluído no seu documento. Ele se parece com isto:
+
+```{r}
+#| label: exemplo-soma
+1 + 1
+```
+
+## Adicionar chunks
+
+Existem três maneiras de inserir chunks:
+
+- Pressione `Ctrl + Alt + I` no Windows ou `Cmd + Option + I` no macOS.
+- Clique no botão **Insert** no topo da janela do editor.
+- Digite manualmente as crases (não recomendado).
+
+## Opções de chunk
+
+Configure as opções seguindo o prefixo `#|` no topo do chunk:
+
+```{r}
+#| label: fig-exemplo
+#| fig-cap: "Legenda do gráfico"
+#| echo: false
+
+plot(1:10)
+```
+
+**Opções comuns:**
+
+- `echo: false`: O código não aparece, mas o resultado sim.
+- `warning: false`: Omite avisos.
+- `message: false`: Omite mensagens de carregamento.
+
+## Chunks inline
+
+Para incluir resultados no texto, use a sintaxe de uma crase seguida de `r`. Por exemplo:
+
+```{r}
+#| label: calculo-exemplo
+#| echo: false
+valor_medio <- mean(mtcars$mpg)
+```
+
+A média é `r round(valor_medio, 1)`.
+
+## Formatos de saída
+
+Defina no YAML:
+
+```yaml
+format:
+  html: default
+  pdf: default
+  docx: default
+```
+
+--------------------------------------------------------------------------------------------
+Página traduzida de: [Andrew Heiss](https://datavizf24.classes.andrewheiss.com/resource/quarto.html)

@@ -1,0 +1,123 @@
+---
+title: "Estrutura do Curso & Origens da Ecologia da Paisagem"
+subtitle: "Bacharelado em Ciências Biológicas - UFPE"
+author: "Felipe Melo"
+format: revealjs
+theme: default
+transition: fade
+slide-number: true
+incremental: true
+chalkboard: true
+scrollable: true
+lang: pt
+---
+
+## Objetivos do Curso
+
+*   Compreender a ecologia da paisagem como o estudo da **heterogeneidade espacial** e suas causas e consequências biológicas
+*   Analisar as inter-relações entre o **homem e seu espaço de vida**, abordando aspectos naturais e culturais
+*   Capacitar o aluno no uso de **métodos quantitativos** e ferramentas de SIG para análise espacial
+*   Aplicar conceitos de conectividade e dinâmica de manchas para a **conservação da biodiversidade** 
+*   Desenvolver habilidades profissionais em **comunicação científica** e elaboração de projetos independentes 
+
+## Orgiens da Ecologia de Paisagem{.center}
+
+##  Carl Troll (1899-1975)
+
+:::{.columns}
+:::{.column}
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Carl_Th._Troll.jpg/250px-Carl_Th._Troll.jpg)
+
+:::
+
+:::{.column}
+- Carl Troll foi um geógrafo alemão.
+- Fusionou conceitos de Geografia e Ecologia
+- Criou o termo "Ecologia de Paisagem"
+- Pavimentou o caminho para o que hoje conhecemos como uma disciplina com duas principais "escolas"
+  - Europeia
+  - Estadunidense
+:::
+:::
+
+## Escolas da Ecologia de Paisagem
+
+| Característica | Abordagem Geográfica (Escola Europeia) | Abordagem Ecológica (Escola Norte-Americana) |
+| :--- | :--- | :--- |
+| **Origem Histórica** | Consolidada por volta de **1940**, liderada por **Carl Troll**. | Surgiu na década de **1980**, com foco em ecologia espacial. |
+| **Definição de Paisagem** | Entidade **espacial e visual total** do "espaço vivido pelo homem". | Área **espacialmente heterogênea** ou mosaico de ecossistemas interativos. |
+| **Foco Principal** | **Holístico** e centrado na sociedade; foco na gestão de paisagens. | Centrado na **ecologia**; busca entender a relação entre o **padrão e o processo**. |
+| **Tipo de Paisagem** | Predominância de **paisagens culturais** e antropizadas. | Foco em **paisagens naturais** ou fragmentos de hábitat. |
+| **Escala de Análise** | Prioritariamente **macro-escalas** espaciais e temporais. | Escala funcional, definida conforme a **percepção da espécie** em estudo. |
+| **Aplicação** | Voltada para o **planejamento territorial** e ordenamento do território. | Voltada para a **conservação da biodiversidade** e manejo de habitats. |
+
+
+## Uma Síntese Transdisciplinar
+
+A Ecologia de Paisagem pode ser definida como:
+
+> "A ciência que estuda a **heterogeneidade espacial** e a interação entre **padrões e processos** ecológicos em múltiplas escalas, integrando as dimensões **ecológicas** (fluxo de energia e espécies) e **humanas** (influência cultural e gestão territorial) para compreender a dinâmica de mosaicos ambientais."
+
+
+
+## Os Pilares da Definição Unificada
+
+1.  **Estrutura (O Mosaico):** Refere-se à configuração espacial (fragmentos, corredores e matriz). 
+2.  **Função (O Fluxo):** Analisa como o padrão espacial influencia o que acontece nas paisagens
+3.  **Mudança (A Dinâmica):** Foca na evolução da paisagem ao longo do tempo
+
+
+
+##
+
+![](/img/frag.gif)
+
+## O mosaico heterogêneo
+
+![](/img/frag2.png){fig-align="center"}
+
+## Padrões na paisagem
+
+![](/img/padroes.gif){fig-align="center"}
+
+## O conceito de "escala"
+
+![](/img/escala.png){fig-align="center"}
+
+## Resolução (grão) e Extensão
+
+![](/img/grain.png){fig-align="center"}
+
+
+## Resolução (grão) e Extensão
+
+![](/img/escala2.png){fig-align="center"}
+
+## Escala de percepção
+
+
+![](/img/percepcao.png){fig-align="left" width=60%}
+
+![](/img/jaguar.jpg){.absolute top="10%" right="5%"}
+
+![](/img/bird.png){.absolute top="50%" right="5%" width=20%}
+
+## Escala do "efeito"
+
+![](/img/scale_effect.png){fig-align="center" width=65%}
+
+[Moraga et al (2019)](https://doi.org/10.1007/s10980-019-00808-9)
+
+## O que devemos saber hoje
+
+- Definir Ecologia de Paisagem
+- Entender os "pilares" de uma abordagem de paisagem
+- Saber o que é 'escala' e 'resolução'
+
+## FIM
+
+
+
+
+
