@@ -34,14 +34,15 @@ Slides da Aula
 
 Toda intervenção de restauração ecológica pressupõe, explícita ou implicitamente, uma resposta à pergunta: **restaurar em direção a quê?** Essa pergunta, aparentemente simples, esconde um dos debates mais profundos e produtivos da Ecologia da Restauração contemporânea.
 
+![](https://lp.selvaflorestal.com/wp-content/uploads/2022/12/pasted-image-0.png)
 Durante décadas, a resposta padrão foi: *em direção ao estado histórico pré-distúrbio*. Restaurar seria, nessa visão, sinônimo de "voltar ao passado" — reconstituir a composição, estrutura e funcionamento do ecossistema tal como existia antes da perturbação humana. Essa visão é intuitivamente poderosa, mas enfrenta obstáculos crescentes: mudanças climáticas globais, espécies extintas regionalmente irrecuperáveis, solos permanentemente alterados e paisagens profundamente transformadas tornam o "passado" um alvo frequentemente inatingível ou até indesejável [@hobbs2014].
 
 A alternativa emergente é orientar a restauração por **metas futuras**: estados ecológicos que sejam ecologicamente viáveis, socialmente legítimos e funcionalmente robustos no contexto das condições ambientais projetadas para as próximas décadas. Essa mudança de perspectiva transforma radicalmente como se definem metas, como se avaliam critérios de sucesso e como se interpretam os limiares que separam trajetórias restaurativas de trajetórias de colapso ecossistêmico [@ser2023].
 
 ::: {.callout-note}
-## Dica do Professor
+## Ponto importante
 
-A tensão entre "estado histórico" e "meta futura" não é apenas acadêmica — ela tem consequências práticas diretas. Em laudos técnicos, PRATAs e planos de manejo, a definição do estado de referência determina quais espécies serão plantadas, quais métricas serão monitoradas e quando o projeto será considerado "concluído". Vale a pena ler @jackson2014 para uma crítica rigorosa ao uso de estados históricos como referência universal.
+A tensão entre "estado histórico" e "meta futura" não é apenas acadêmica — ela tem consequências práticas diretas. Em laudos técnicos, PRADAs e planos de manejo, a definição do estado de referência determina quais espécies serão plantadas, quais métricas serão monitoradas e quando o projeto será considerado "concluído". Vale a pena ler @jackson2014 para uma crítica rigorosa ao uso de estados históricos como referência universal.
 :::
 
 ---
@@ -56,6 +57,8 @@ O modelo clássico da SER, consolidado nos documentos de 2004 e revisado em 2023
 - **Documentos históricos**: fotografias aéreas antigas, relatos de naturalistas, inventários coloniais, mapas de vegetação históricos;
 - **Remanescentes nativos**: fragmentos de vegetação nativa próximos ao sítio que escaparam da perturbação e funcionam como janelas para o estado pré-distúrbio;
 - **Conhecimento ecológico local**: memória biocultural de comunidades tradicionais sobre a composição e dinâmica pretéritas do ecossistema.
+
+![Paisagem desenhada na expedição de Martius, no início do século 19, exibe vegetação rarefeita com cactos, palmeiras e até uma barriguda (Cavanillesia umbellata). Fonte: Flora brasiliensis online, Centro de Referência em Informação Ambiental, CRIA.](https://oeco.org.br/wp-content/uploads/oeco-migration//images/stories/out2012/nova-visao-caatingas-sao-francisco-foto2.jpg)
 
 **Vantagens do modelo histórico:**
 

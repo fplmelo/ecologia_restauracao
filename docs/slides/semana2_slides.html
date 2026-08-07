@@ -9,7 +9,7 @@
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
   <meta name="generator" content="quarto-1.9.38">
 
-  <meta name="author" content="Prof.&nbsp;Dr.&nbsp;Felipe Melo">
+  <meta name="author" content="Prof.&nbsp;Felipe Melo">
   <title>Bases Conceituais e Definição de Metas</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -31,26 +31,7 @@
       margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
       vertical-align: middle;
     }
-    /* CSS for citations */
-    div.csl-bib-body { }
-    div.csl-entry {
-      clear: both;
-    }
-    .hanging-indent div.csl-entry {
-      margin-left:2em;
-      text-indent:-2em;
-    }
-    div.csl-left-margin {
-      min-width:2em;
-      float:left;
-    }
-    div.csl-right-inline {
-      margin-left:2em;
-      padding-left:1em;
-    }
-    div.csl-indent {
-      margin-left: 2em;
-    }  </style>
+  </style>
   <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto-2740581606dc327e82f18f789b69d8a0.css">
   <link href="../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="../site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
@@ -69,6 +50,7 @@
     }
     .reveal .slide:not(.center) {
       height: 100%;
+      overflow-y: auto;
     }
     .reveal .slide.scrollable {
       overflow-y: auto;
@@ -157,7 +139,7 @@
 <div class="quarto-title-authors">
 <div class="quarto-title-author">
 <div class="quarto-title-author-name">
-Prof.&nbsp;Dr.&nbsp;Felipe Melo 
+Prof.&nbsp;Felipe Melo 
 </div>
 </div>
 </div>
@@ -177,7 +159,6 @@ Prof.&nbsp;Dr.&nbsp;Felipe Melo
 <ul>
 <li>Explicar o conceito de <strong>limiar ecológico</strong></li>
 <li>Usar o modelo de <strong>estados alternativos</strong> para diagnosticar sítios</li>
-<li>Reconhecer o papel da <strong>histerese</strong> no custo da restauração</li>
 </ul>
 </div></div>
 <aside class="notes">
@@ -199,7 +180,7 @@ Prof.&nbsp;Dr.&nbsp;Felipe Melo
 <div class="columns">
 <div class="column" style="width:55%;">
 <blockquote>
-<p><em>“Restauração sem meta clara é jardinagem com pretensões ecológicas.”</em> — Adaptado de <span class="citation" data-cites="hobbs2007">@hobbs2007</span></p>
+<p><em>“Restauração sem meta clara é jardinagem com pretensões ecológicas.”</em></p>
 </blockquote>
 <p><strong>O problema central:</strong></p>
 <ul>
@@ -211,8 +192,8 @@ Prof.&nbsp;Dr.&nbsp;Felipe Melo
 </div><div class="column" style="width:45%;">
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><img data-src="img/meta_passado_futuro.png"></p>
-<figcaption>Figura: tensão entre passado e futuro na definição de metas. Fonte: elaboração própria</figcaption>
+<p><img data-src="../img/target2.png"></p>
+<figcaption>Onde queremo chegar?</figcaption>
 </figure>
 </div>
 </div></div>
@@ -228,30 +209,23 @@ Prof.&nbsp;Dr.&nbsp;Felipe Melo
 <li><strong>Remanescentes nativos</strong> locais</li>
 <li>Conhecimento ecológico local (memória oral)</li>
 </ul>
-<p><strong>Vantagens:</strong></p>
-<ul>
-<li>Alvo concreto e comunicável</li>
-<li>Preserva identidade biogeográfica</li>
-<li>Respaldo legal (Código Florestal)</li>
-</ul>
 </div><div class="column" style="width:50%;">
 <p><strong>Limitações crescentes:</strong></p>
 <ul>
 <li>Espécies extintas localmente → irrecuperáveis</li>
 <li>Solo permanentemente alterado</li>
 <li>Clima futuro ≠ clima histórico</li>
-<li>Ignora milênios de <strong>manejo indígena</strong></li>
 </ul>
-<div class="callout callout-warning callout-titled callout-style-default">
+<div class="callout callout-tip callout-titled callout-style-default">
 <div class="callout-body">
 <div class="callout-title">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
-<p><strong>Aviso</strong></p>
+<p><strong>Dica</strong></p>
 </div>
 <div class="callout-content">
-<p>O passado “natural” nunca foi intocado</p>
+<p>O passado “natural” nunca foi intocado (Leia <a href="https://theconversation.com/ecologia-a-amazonia-nao-e-uma-floresta-virgem-mas-um-grande-jardim-plantado-culturalmente-pelos-povos-indigenas-225160">este artigo</a>)</p>
 </div>
 </div>
 </div>
@@ -263,51 +237,43 @@ Prof.&nbsp;Dr.&nbsp;Felipe Melo
 <div class="column" style="width:55%;">
 <p><strong>Baseada em:</strong></p>
 <ul>
-<li>Modelos de distribuição de espécies (2050–2100)</li>
-<li>Cenários climáticos IPCC <span class="citation" data-cites="ipcc2022">[@ipcc2022]</span></li>
+<li>Modelos de distribuição de espécies</li>
+<li>Cenários climáticos IPCC</li>
 <li>Diversidade <strong>funcional</strong> &gt; diversidade taxonômica</li>
 <li>Metas sociais negociadas com a comunidade</li>
-</ul>
-<p><strong>Exemplo — Caatinga sob aquecimento global:</strong></p>
-<ul>
-<li>+2–4°C até 2070 no Semiárido</li>
-<li>Priorizar espécies de <strong>maior tolerância à seca</strong></li>
-<li><em>Mimosa tenuiflora</em>, <em>Croton sonderianus</em>, <em>Aspidosperma pyrifolium</em></li>
 </ul>
 </div><div class="column" style="width:45%;">
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><img data-src="img/caatinga_projecao.png"></p>
-<figcaption>Figura: projeção de adequabilidade climática de espécies da Caatinga para 2070. Fonte: IPCC (2022) / ModelR</figcaption>
+<p><img data-src="https://super.abril.com.br/wp-content/uploads/2021/09/SI_431_clima_danca.png?quality=70&amp;w=1024&amp;crop=1"></p>
+<figcaption>Mudança na aptidão agrícola</figcaption>
 </figure>
 </div>
 </div></div>
 </section>
-<section id="síntese-ecossistema-de-referência-dinâmico" class="slide level2" data-background-color="#ffffff">
+<section id="síntese-ecossistema-de-referência-dinâmico" class="slide level2 scrollable" data-background-color="#ffffff">
 <h2>Síntese: Ecossistema de Referência Dinâmico</h2>
 <div class="columns">
 <div class="column" style="width:50%;">
-<p><strong>Integra os dois paradigmas <span class="citation" data-cites="ser2023 gann2019">[@ser2023; @gann2019]</span>:</strong></p>
+<p><strong>Integra os dois paradigmas:</strong></p>
 <ul>
 <li><strong>Âncora histórica</strong>: espécies nativas locais, identidade biogeográfica</li>
 <li><strong>Projeção futura</strong>: resiliência climática, diversidade funcional</li>
 <li><strong>Revisão periódica</strong>: atualizar com novos dados</li>
 </ul>
+</div><div class="column" style="width:50%;">
 <p><strong>Na prática:</strong></p>
 <ol type="1">
 <li>Remanescentes locais → composição base</li>
 <li>Bioprospecção climática → enriquecer o elenco</li>
 <li>Priorizar <strong>grupos funcionais</strong> sobre listas de espécies</li>
 </ol>
-</div><div class="column" style="width:50%;">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="img/referencia_dinamica.png"></p>
-<figcaption>Figura: conceito de ecossistema de referência dinâmico. Fonte: SER (2023), Fig. 4</figcaption>
-</figure>
-</div>
 </div></div>
 </section>
+<section id="section" class="slide level2">
+<h2></h2>
+
+<img data-src="../img/target3.png" class="r-stretch quarto-figure-center"><p class="caption">Ecossistema de referência dinâmico</p></section>
 <section id="o-problema-da-avaliação" class="slide level2" data-background-color="#1b4332">
 <h2>O Problema da Avaliação</h2>
 <div class="columns">
@@ -321,7 +287,7 @@ Prof.&nbsp;Dr.&nbsp;Felipe Melo
 <p><strong>O que medir?</strong></p>
 <ul>
 <li>Estado pontual <strong>ou</strong> trajetória ao longo do tempo?</li>
-<li>Trajetória é mais informativa → <span class="citation" data-cites="ruiz-jaen2005">@ruiz-jaen2005</span></li>
+<li>Trajetória é mais informativa</li>
 </ul>
 </div><div class="column" style="width:50%;">
 <p><strong>Quem define o sucesso?</strong></p>
@@ -334,13 +300,13 @@ Prof.&nbsp;Dr.&nbsp;Felipe Melo
 <p><strong>→ Metas precisam ser negociadas</strong></p>
 </div></div>
 </section>
-<section id="os-5-atributos-de-sucesso-ser-2023" class="slide level2" data-background-color="#f0f4f1">
+<section id="os-5-atributos-de-sucesso-ser-2023" class="slide level2 scrollable" data-background-color="#f0f4f1">
 <h2>Os 5 Atributos de Sucesso — SER (2023)</h2>
 <div class="columns">
 <div class="column" style="width:45%;">
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><img data-src="img/recovery_star.png"></p>
+<p><img data-src="https://www.ser.org/resource/resmgr/sernews/SERNews_31-1/5-start_tool.JPG"></p>
 <figcaption>Figura: Estrela da Recuperação (Recovery Star). Fonte: SER (2023), Fig. 5</figcaption>
 </figure>
 </div>
@@ -352,11 +318,10 @@ Prof.&nbsp;Dr.&nbsp;Felipe Melo
 <li><strong>Estrutura</strong> — estratificação, cobertura, habitat</li>
 <li><strong>Funcionamento</strong> — processos ecológicos ativos?</li>
 </ol>
-<p><em>A Recovery Star posiciona o sítio em cada dimensão — a diferença para o polígono de referência é o déficit de recuperação</em></p>
 </div></div>
 </section>
-<section id="atributo-1-ausência-de-ameaças" class="slide level2" data-background-color="#ffffff">
-<h2>Atributo 1 — Ausência de Ameaças</h2>
+<section id="atributo-1-controle-de-ameaças" class="slide level2">
+<h2>Atributo 1 — Controle de Ameaças</h2>
 <div class="columns">
 <div class="column" style="width:50%;">
 <p><strong>Indicadores:</strong></p>
@@ -364,17 +329,14 @@ Prof.&nbsp;Dr.&nbsp;Felipe Melo
 <li>Cobertura de espécies invasoras (%)</li>
 <li>Pressão de herbivoria (trilhas, fezes, pastejo)</li>
 <li>Frequência de fogo não-manejado</li>
-<li>Extração ilegal de madeira/fauna</li>
 </ul>
-<p><strong>Pré-requisito absoluto:</strong></p>
-<p>Sem controle das ameaças → todos os outros atributos são instáveis</p>
+<p><em>Sem controle das ameaças, todos os outros atributos são instáveis</em></p>
 </div><div class="column" style="width:50%;">
 <p><strong>Métodos de monitoramento:</strong></p>
 <ul>
-<li>Transectos de Braun-Blanquet (cobertura)</li>
+<li>Transectos de vegetação (cobertura)</li>
 <li>Armadilhas fotográficas (fauna perturbadora)</li>
 <li>Análise de imagens de satélite (fogo, desmatamento)</li>
-<li>Denúncias comunitárias (pressão social)</li>
 </ul>
 <div class="callout callout-tip callout-titled callout-style-default">
 <div class="callout-body">
@@ -391,8 +353,8 @@ Prof.&nbsp;Dr.&nbsp;Felipe Melo
 </div>
 </div></div>
 </section>
-<section id="atributo-2-integridade-abiótica" class="slide level2" data-background-color="#f0f4f1">
-<h2>Atributo 2 — Integridade Abiótica</h2>
+<section id="atributo-2-integridade-abiótica" class="slide level2">
+<h2>Atributo 2 — Integridade abiótica</h2>
 <div class="columns">
 <div class="column" style="width:55%;">
 <p><strong>Indicadores de solo:</strong></p>
@@ -400,22 +362,19 @@ Prof.&nbsp;Dr.&nbsp;Felipe Melo
 <li>Densidade aparente (g/cm³) → compactação</li>
 <li>Condutividade hidráulica saturada → infiltração</li>
 <li>pH, matéria orgânica, CTC → fertilidade</li>
-<li>Macrofauna edáfica → bioindicadores</li>
 </ul>
 <p><strong>Indicadores hídricos:</strong></p>
 <ul>
 <li>Profundidade do lençol freático</li>
 <li>Regime de cheias em APPs ciliares</li>
-<li>Umidade gravimétrica em épocas críticas</li>
 </ul>
 </div><div class="column" style="width:45%;">
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><img data-src="img/solo_perfil.png"></p>
-<figcaption>Figura: perfil de solo compactado versus estruturado. Fonte: Embrapa Solos</figcaption>
+<p><img data-src="https://phycoterra.com/wp-content/uploads/2023/10/AdobeStock_531970176-768x672.jpeg.webp"></p>
+<figcaption>Perfil de solo compactado versus estruturado</figcaption>
 </figure>
 </div>
-<p><em>Densidade aparente &gt; 1,4 g/cm³ → limiar de compactação impeditivo para raízes</em></p>
 </div></div>
 </section>
 <section id="atributos-3-e-4-composição-e-estrutura" class="slide level2" data-background-color="#ffffff">
@@ -425,45 +384,23 @@ Prof.&nbsp;Dr.&nbsp;Felipe Melo
 <h3 id="composição">Composição</h3>
 <ul>
 <li>Riqueza de espécies nativas (N)</li>
-<li>Índice de similaridade com referência (Jaccard, Bray-Curtis)</li>
+<li>Beta-diversidade</li>
 <li>Presença de espécies de <strong>estágios tardios</strong></li>
-<li>Ausência de dominância por exóticas</li>
 </ul>
 <h3 id="estrutura">Estrutura</h3>
 <ul>
-<li>Índice de Área Foliar (IAF)</li>
 <li>Altura e cobertura do dossel (%)</li>
 <li>Estratificação vertical (nº de estratos)</li>
 <li>Densidade de ocos, serrapilheira, sub-bosque</li>
 </ul>
 </div><div class="column" style="width:50%;">
-<p><strong>Métodos:</strong></p>
-<ul>
-<li>Parcelas de 20×20 m (inventário arbóreo)</li>
-<li>Transectos de Gentry (lianas, arbustos)</li>
-<li>Densiômetro esférico (cobertura)</li>
-<li>Sensoriamento remoto (NDVI, LiDAR)</li>
-</ul>
-<div class="callout callout-note callout-titled callout-style-default">
-<div class="callout-body">
-<div class="callout-title">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<p><strong>Nota</strong></p>
-</div>
-<div class="callout-content">
-<p>Não confundir <strong>cobertura</strong> (fechamento do dossel) com <strong>composição</strong> (identidade das espécies). Um eucaliptal pode ter 90% de cobertura e zero de composição nativa</p>
-</div>
-</div>
-</div>
+<p><img data-src="https://scontent.frec53-1.fna.fbcdn.net/v/t1.6435-9/49897367_2031555410296999_6576448490501570560_n.jpg?stp=dst-jpg_tt6&amp;cstp=mx1130x1863&amp;ctp=s1130x1863&amp;_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=9amcSW9WiRgQ7kNvwH-bJxk&amp;_nc_oc=Adr6bFG_qsy1F_UOAiFTtcZpP6RvlaUjwp8apSroP9IF9xuB5-vf1hOBsjaIXHozeXQ&amp;_nc_zt=23&amp;_nc_ht=scontent.frec53-1.fna&amp;_nc_gid=Vs2rj0OwMRszOUe7RecDKA&amp;_nc_ss=7b289&amp;oh=00_AQFQMIOHzrAZ51gXvDnueMdJzHhCkso_Cyk_0miPXs9AGQ&amp;oe=6A9DC1EB" style="width:70.0%"></p>
 </div></div>
 </section>
-<section id="atributo-5-funcionamento" class="slide level2" data-background-color="#f0f4f1">
+<section id="atributo-5-funcionamento" class="slide level2">
 <h2>Atributo 5 — Funcionamento</h2>
 <div class="columns">
 <div class="column" style="width:55%;">
-<p><strong>O atributo mais difícil de medir — e o mais importante:</strong></p>
 <ul>
 <li><strong>Recrutamento natural</strong> de plântulas nativas (parcelas de regeneração)</li>
 <li><strong>Dispersão de sementes</strong> (armadilhas de sementes)</li>
@@ -471,22 +408,20 @@ Prof.&nbsp;Dr.&nbsp;Felipe Melo
 <li><strong>Ciclagem de nutrientes</strong> (decomposição de serrapilheira)</li>
 <li><strong>Controle biológico</strong> (predação de herbívoros)</li>
 </ul>
-<p><strong>Indicador síntese:</strong></p>
-<p><em>O ecossistema se regenera sem intervenção humana?</em> → autossustentação</p>
 </div><div class="column" style="width:45%;">
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><img data-src="img/dispersao_rede.png"></p>
-<figcaption>Figura: rede de dispersão de sementes em área restaurada. Fonte: Acervo TREEsLab / UFPE</figcaption>
+<p><img data-src="https://figures.semanticscholar.org/2b285cf27b3d205f4332fbb2b8b588cf9065098d/4-Figure1-1.png"></p>
+<figcaption>Redes de Interação</figcaption>
 </figure>
 </div>
 </div></div>
 </section>
-<section id="trajetória-versus-estado-final" class="slide level2" data-background-color="#ffffff">
+<section id="trajetória-versus-estado-final" class="slide level2">
 <h2>Trajetória versus Estado Final</h2>
 <div class="columns">
 <div class="column" style="width:55%;">
-<p><strong>Mudança conceitual central <span class="citation" data-cites="ruiz-jaen2005">[@ruiz-jaen2005]</span>:</strong></p>
+<p><strong>Mudança conceitual central:</strong></p>
 <ul>
 <li>Foco em <strong>estado final</strong> → fotografia estática, frequentemente decepcionante nos primeiros anos</li>
 <li>Foco em <strong>trajetória</strong> → vídeo, muito mais informativo</li>
@@ -501,33 +436,27 @@ Prof.&nbsp;Dr.&nbsp;Felipe Melo
 </div><div class="column" style="width:45%;">
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><img data-src="img/trajetoria_recuperacao.png"></p>
-<figcaption>Figura: curvas de trajetória de recuperação em diferentes estratégias. Fonte: elaboração própria</figcaption>
+<p><img data-src="../img/target.png"></p>
+<figcaption>Figura: curvas de trajetória de recuperação</figcaption>
 </figure>
 </div>
 </div></div>
 </section>
-<section id="o-conceito-de-limiar-ecológico" class="slide level2" data-background-color="#1b4332">
-<h2>O Conceito de Limiar Ecológico</h2>
+<section id="o-conceito-de-limiar-ecológico" class="slide level2">
+<h2>O Conceito de “Limiar Ecológico”</h2>
 <div class="columns">
 <div class="column" style="width:55%;">
 <p><strong>Limiar (<em>threshold</em>):</strong></p>
 <blockquote>
-<p>Ponto crítico em que o ecossistema muda de trajetória de forma <strong>não-linear</strong>, <strong>rápida</strong> e frequentemente <strong>irreversível</strong> <span class="citation" data-cites="scheffer2001">[@scheffer2001]</span></p>
+<p>Ponto crítico em que o ecossistema muda de trajetória de forma <strong>não-linear</strong>, <strong>rápida</strong> e frequentemente <strong>irreversível</strong></p>
 </blockquote>
 <p><strong>Implicação prática:</strong></p>
 <ul>
 <li>Abaixo do limiar → ecossistema resiliente, restauração passiva possível</li>
 <li>Acima do limiar → captura em estado alternativo, intervenção ativa necessária</li>
 </ul>
-<p><strong>A mesma intervenção produz resultados muito diferentes</strong> dependendo do lado do limiar</p>
 </div><div class="column" style="width:45%;">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="img/ball_cup.png"></p>
-<figcaption>Figura: diagrama de bola-e-taça (ball-and-cup). Fonte: Scheffer et al.&nbsp;(2001), Fig. 1</figcaption>
-</figure>
-</div>
+<p><img data-src="https://media.springernature.com/full/springer-static/image/prt%3A978-1-4020-4410-6%2F1/MediaObjects/978-1-4020-4410-6_1_Part_Fig1-199_HTML.jpg?as=webp"></p>
 </div></div>
 </section>
 <section id="estados-alternativos-estáveis" class="slide level2" data-background-color="#f0f4f1">
@@ -540,78 +469,18 @@ Prof.&nbsp;Dr.&nbsp;Felipe Melo
 → mantém umidade do solo<br>
 → facilita recrutamento arbóreo<br>
 → dossel fechado ✓</p>
-<p><strong>Retroalimentação no estado degradado:</strong></p>
-<p>Solo exposto<br>
-→ erosão e perda de nutrientes<br>
-→ gramíneas exóticas dominam<br>
-→ competem com regeneração nativa<br>
-→ impedimento do dossel<br>
-→ solo exposto ✓</p>
+<p><strong>Retroalimentação no estado degradado</strong></p>
 </div><div class="column" style="width:50%;">
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><img data-src="img/estados_alternativos.png"></p>
+<p><img data-src="../img/desert.jpg"></p>
 <figcaption>Figura: diagrama de estados alternativos com retroalimentações. Fonte: Suding &amp; Hobbs (2008), Fig. 2</figcaption>
 </figure>
 </div>
 <p><em>Cada estado é estabilizado por retroalimentações positivas que resistem à mudança</em></p>
 </div></div>
 </section>
-<section id="histerese-a-assimetria-fundamental" class="slide level2" data-background-color="#ffffff">
-<h2>Histerese: a assimetria fundamental</h2>
-<div class="columns">
-<div class="column" style="width:55%;">
-<p><strong>Por que restaurar é mais caro que degradar:</strong></p>
-<ul>
-<li>Degradação: perturbação de intensidade <strong>X</strong> → mudança de estado</li>
-<li>Restauração: precisa de intervenção de intensidade <strong>Y &gt;&gt; X</strong> para retornar</li>
-<li>As retroalimentações do estado degradado precisam ser ativamente quebradas</li>
-</ul>
-<p><strong>Exemplos de quebra de retroalimentação:</strong></p>
-<ul>
-<li>Compactação → <strong>escarificação mecânica</strong></li>
-<li>Gramíneas invasoras → <strong>capina intensiva + herbicida seletivo</strong></li>
-<li>Ausência de dispersores → <strong>poleiros + reintrodução de fauna</strong></li>
-</ul>
-</div><div class="column" style="width:45%;">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="img/histerese.png"></p>
-<figcaption>Figura: curva de histerese — trajetórias assimétricas de degradação e restauração. Fonte: Scheffer et al.&nbsp;(2001)</figcaption>
-</figure>
-</div>
-</div></div>
-</section>
-<section id="tipos-de-limiar-em-restauração" class="slide level2" data-background-color="#f0f4f1">
-<h2>Tipos de Limiar em Restauração</h2>
-<div class="columns">
-<div class="column" style="width:33%;">
-<h3 id="biótico">Biótico</h3>
-<ul>
-<li>Perda de espécies-chave</li>
-<li>Dispersores, polinizadores, engenheiros</li>
-<li>Extinção local de uma espécie pode bloquear dezenas de outras</li>
-<li><strong>Como superar:</strong> reintrodução de fauna, poleiros, translocação</li>
-</ul>
-</div><div class="column" style="width:33%;">
-<h3 id="abiótico">Abiótico</h3>
-<ul>
-<li>Compactação severa do solo</li>
-<li>Rebaixamento do lençol freático</li>
-<li>Salinização, acidificação</li>
-<li><strong>Como superar:</strong> escarificação, drenagem, calagem, matéria orgânica</li>
-</ul>
-</div><div class="column" style="width:33%;">
-<h3 id="paisagem">Paisagem</h3>
-<ul>
-<li>Cobertura nativa &lt; 10–30% <span class="citation" data-cites="fahrig2003">[@fahrig2003]</span></li>
-<li>Conectividade funcional colapsada</li>
-<li>Colonização natural improvável</li>
-<li><strong>Como superar:</strong> criar corredores, priorizar sítios próximos a remanescentes</li>
-</ul>
-</div></div>
-</section>
-<section id="integrando-tudo-o-ciclo-de-metas" class="slide level2" data-background-color="#1b4332">
+<section id="integrando-tudo-o-ciclo-de-metas" class="slide level2 scrollable" data-background-color="#1b4332">
 <h2>Integrando Tudo: o Ciclo de Metas</h2>
 <div class="columns">
 <div class="column" style="width:50%;">
@@ -624,104 +493,7 @@ Prof.&nbsp;Dr.&nbsp;Felipe Melo
 </ol>
 <p><em>O ciclo nunca termina — é a lógica do manejo adaptativo</em></p>
 </div><div class="column" style="width:50%;">
-<p><strong>Exemplo: APP do Rio Capibaribe (PE)</strong></p>
-<ul>
-<li>Diagnóstico: solo compactado, braquiária dominante, sem regeneração → limiares abiótico e biótico-competitivo</li>
-<li>Referência: Mata Ciliar Atlântica com remanescentes locais</li>
-<li>Meta ano 3: 60% cobertura nativa, &lt; 20% braquiária, 30 sp/ha</li>
-<li>Meta ano 10: recrutamento natural detectado, 50 sp/ha, dossel fechado</li>
-</ul>
-</div></div>
-</section>
-<section id="metas-socialmente-negociadas" class="slide level2" data-background-color="#f0f4f1">
-<h2>Metas Socialmente Negociadas</h2>
-<div class="columns">
-<div class="column" style="width:55%;">
-<p><strong>Por que não basta a ecologia:</strong></p>
-<ul>
-<li>Comunidades têm <strong>direitos</strong> sobre o território</li>
-<li>Possuem <strong>conhecimento</strong> que melhora as metas</li>
-<li>Precisam de <strong>benefícios concretos</strong> para aderir</li>
-<li>Sem participação → conflito, abandono, fracasso <span class="citation" data-cites="lave2018">[@lave2018]</span></li>
-</ul>
-<p><strong>Como operacionalizar:</strong></p>
-<ul>
-<li>Oficinas de diagnóstico participativo</li>
-<li>Mapeamento do CEL (Conhecimento Ecológico Local)</li>
-<li>Definição conjunta de espécies-alvo de interesse comunitário</li>
-<li>Monitoramento participativo (guardas-florestais locais)</li>
-</ul>
-</div><div class="column" style="width:45%;">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="img/participacao_comunidade.png"></p>
-<figcaption>Figura: oficina de planejamento participativo em comunidade sertaneja. Fonte: Acervo TREEsLab</figcaption>
-</figure>
-</div>
-</div></div>
-</section>
-<section id="armadilhas-comuns-na-definição-de-metas" class="slide level2" data-background-color="#ffffff">
-<h2>Armadilhas Comuns na Definição de Metas</h2>
-<div class="columns">
-<div class="column" style="width:50%;">
-<p><strong>Erros técnicos:</strong></p>
-<ul>
-<li>Usar lista de espécies de outro bioma ou região</li>
-<li>Definir metas apenas para o ano 2 ou 3</li>
-<li>Confundir cobertura vegetal com biodiversidade</li>
-<li>Ignorar o estado abiótico na avaliação</li>
-<li>Não ter parcelas de referência para comparação</li>
-</ul>
-</div><div class="column" style="width:50%;">
-<p><strong>Erros de processo:</strong></p>
-<ul>
-<li>Definir metas sem participação comunitária</li>
-<li>Ignorar o conhecimento ecológico local</li>
-<li>Não prever revisão periódica das metas</li>
-<li>Avaliar apenas indicadores “fáceis de medir”</li>
-<li>Confundir “plantou mudas” com “restaurou”</li>
-</ul>
-<div class="callout callout-warning callout-titled callout-style-default">
-<div class="callout-body">
-<div class="callout-title">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<p><strong>Aviso</strong></p>
-</div>
-<div class="callout-content">
-<p><strong>Plantar ≠ Restaurar.</strong> A meta é um ecossistema autossustentável, não um plantio bem-sucedido</p>
-</div>
-</div>
-</div>
-</div></div>
-</section>
-<section id="exemplo-integrado-rio-são-francisco" class="slide level2" data-background-color="#1b4332">
-<h2>Exemplo Integrado — Rio São Francisco</h2>
-<div class="columns">
-<div class="column" style="width:55%;">
-<p><strong>Matas ciliares, Submédio São Francisco (PE/BA)</strong></p>
-<p><strong>Diagnóstico de limiares:</strong></p>
-<ul>
-<li>Solo compactado (pecuária histórica) → <strong>abiótico</strong></li>
-<li>Ausência de <em>Tapirus terrestris</em> → <strong>biótico</strong></li>
-<li>&lt; 5% de cobertura nativa na paisagem → <strong>paisagem</strong></li>
-</ul>
-<p><strong>Intervenções integradas (ANA/CODEVASF):</strong></p>
-<ul>
-<li>Escarificação mecanizada do solo</li>
-<li>Semeadura direta de pioneiras ripárias</li>
-<li>Poleiros artificiais em grade de 20×20 m</li>
-<li>Cercamento e exclusão total de bovinos</li>
-</ul>
-<p><strong>Resultado esperado (10 anos):</strong> 60% cobertura, 40 sp/ha, recrutamento ativo</p>
-</div><div class="column" style="width:45%;">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="img/sao_francisco_mapa.png"></p>
-<figcaption>Figura: mapa de intervenções no Submédio São Francisco. Fonte: ANA (2021)</figcaption>
-</figure>
-</div>
+<p><img data-src="../img/riouna.jpg"></p>
 </div></div>
 </section>
 <section id="glossário-da-semana-2" class="slide level2" data-background-color="#f0f4f1">
@@ -767,67 +539,17 @@ ciclo iterativo de planejamento, implementação, monitoramento e revisão
 </dl>
 </div></div>
 </section>
-<section id="síntese-os-três-conceitos-que-estruturam-esta-semana" class="slide level2" data-background-color="#ffffff">
-<h2>Síntese: os três conceitos que estruturam esta semana</h2>
-<div class="columns">
-<div class="column" style="width:33%;">
-<h3 id="para-onde-ir">Para onde ir?</h3>
-<p><strong>Estado de referência</strong></p>
+<section id="tarefa" class="slide level2">
+<h2>Tarefa</h2>
 <ul>
-<li>Histórico → âncora identitária</li>
-<li>Futuro → resiliência climática</li>
-<li>Dinâmico → integração das duas lógicas</li>
-<li>Negociado → legitimidade social</li>
+<li>Escolha um ecossistema degradado que você conhece.</li>
+<li>Identifique <strong>um limiar</strong> (biótico, abiótico ou de paisagem) presente.</li>
+<li>Descreva <strong>uma intervenção</strong> específica para superá-lo.</li>
 </ul>
-</div><div class="column" style="width:33%;">
-<h3 id="como-saber-se-chegamos">Como saber se chegamos?</h3>
-<p><strong>Critérios de sucesso</strong></p>
-<ul>
-<li>5 atributos da SER</li>
-<li>Indicadores mensuráveis</li>
-<li>Horizonte temporal longo</li>
-<li>Foco em <strong>trajetória</strong>, não em estado pontual</li>
-</ul>
-</div><div class="column" style="width:33%;">
-<h3 id="o-que-pode-impedir">O que pode impedir?</h3>
-<p><strong>Limiares ecológicos</strong></p>
-<ul>
-<li>Biótico, abiótico, paisagem</li>
-<li>Histerese → assimetria de custo</li>
-<li>Diagnóstico → escolha de estratégia</li>
-<li>Quebrar retroalimentações → restauração ativa</li>
-</ul>
-</div></div>
+<p><strong>Máximo 300 palavras</strong></p>
 </section>
-<section id="para-a-próxima-aula" class="slide level2" data-background-color="#f0f4f1">
-<h2>Para a Próxima Aula</h2>
-<div class="columns">
-<div class="column" style="width:55%;">
-<p><strong>Tema — Semana 3:</strong> Dinâmica de ecossistemas e mudança ambiental rápida</p>
-<ul>
-<li>Não-equilíbrio, novidade ecológica, ecossistemas novos</li>
-<li>Mudanças globais como contexto inescapável da restauração</li>
-</ul>
-<p><strong>Leitura obrigatória:</strong></p>
-<ul>
-<li>Hobbs et al.&nbsp;(2014) — <em>Managing the Whole Landscape</em></li>
-<li>Scheffer et al.&nbsp;(2001) — <em>Catastrophic Shifts in Ecosystems</em></li>
-</ul>
-<p><strong>Tarefa prévia (Google Sala de Aula — 48h antes):</strong></p>
-<p>Escolha um ecossistema degradado que você conhece. Identifique <strong>um limiar</strong> (biótico, abiótico ou de paisagem) presente. Descreva <strong>uma intervenção</strong> específica para superá-lo. Máximo 300 palavras.</p>
-</div><div class="column" style="width:45%;">
-<p><strong>Questões para refletir:</strong></p>
-<ol type="1">
-<li><p>Um projeto avaliado como sucesso no ano 3 pode ser um fracasso no ano 10?</p></li>
-<li><p>A histerese implica que projetos de restauração custam <strong>sempre</strong> mais do que a degradação que os gerou. Quais as implicações para políticas de compensação ambiental?</p></li>
-</ol>
-</div></div>
-</section>
-<section id="referências" class="slide level2 smaller scrollable" data-background-color="#ffffff">
-<h2>Referências</h2>
-<div id="refs" role="list">
-
-</div>
+<section id="fim" class="slide level2 center">
+<h2>FIM</h2>
 
 
 </section>
@@ -835,7 +557,7 @@ ciclo iterativo de planejamento, implementação, monitoramento e revisão
   <div class="quarto-auto-generated-content" style="display: none;">
 <p><img src="../../img/logo_branco_ufpe.png" class="slide-logo"></p>
 <div class="footer footer-default">
-<p>Ecologia da Restauração · UFPE · Felipe Melo</p>
+
 </div>
 </div></div>
 

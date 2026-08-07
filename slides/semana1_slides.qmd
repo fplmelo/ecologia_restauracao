@@ -57,7 +57,7 @@ Apresentar os objetivos e perguntar quem já teve contato com algum projeto de r
 :::
 
 ::: {.column width="45%"}
-![Figura: perda de habitat global. Fonte: IPBES (2019)](img/habitat_loss.png)
+![Perda de habitat no Cerrado](https://static.elsevier.es/multimedia/16790073/0000001300000001/v1_201507110009/S1679007315000031/v1_201507110009/en/main.assets/thumbnail/gr1.jpeg?xkr=MC17Bcf6GKNgzAyAfdyGs8mAisKuYrVQmUU+Ib/m0R/Jod//bRkQgJUOPa+m1HRK){width=80%}
 :::
 
 ::::
@@ -72,22 +72,25 @@ Apresentar os objetivos e perguntar quem já teve contato com algum projeto de r
 ### Ecologia da Restauração
 *a ciência*
 
+:::{.incremental}
 - Investiga **processos** subjacentes à degradação e recuperação
 - Produto: **teorias, modelos, predições**
 - Agentes: **pesquisadores, universidades**
 - Pergunta: *"como e por que funciona?"*
 :::
-
+:::
 ::: {.column width="50%"}
 ### Restauração Ecológica
 *a prática*
+
+:::{.incremental}
 
 - Intervenção intencional para **assistir a recuperação**
 - Produto: **ecossistemas recuperados**
 - Agentes: **técnicos, governos, comunidades**
 - Pergunta: *"o que, onde e como fazer?"*
 :::
-
+:::
 ::::
 
 ::: {.notes}
@@ -103,9 +106,6 @@ Enfatizar que a distinção não é hierárquica — ciência e prática se retr
 ::: {.column width="55%"}
 > *"Ecological restoration is the process of assisting the recovery of an ecosystem that has been degraded, damaged, or destroyed."*
 >
-> — @ser2023
-
-**Palavras-chave:**
 
 - *Assistir* → não substituir a natureza
 - *Recuperação* → trajetória, não ponto fixo
@@ -113,14 +113,14 @@ Enfatizar que a distinção não é hierárquica — ciência e prática se retr
 :::
 
 ::: {.column width="45%"}
-![Figura: capa do documento SER (2023). Fonte: ser.org](img/ser2023_cover.png)
+![Inernational Standards SER 2026](https://www.ser.org/resource/resmgr/custompages/publications/ser_standards/rec.70470.fp.png)
 :::
 
 ::::
 
 ---
 
-## O Contínuo Restaurativo {background-color="#ffffff"}
+## O Contínuo Restaurativo
 
 :::: {.columns}
 
@@ -136,7 +136,7 @@ Enfatizar que a distinção não é hierárquica — ciência e prática se retr
 :::
 
 ::: {.column width="50%"}
-![Figura: espectro de intervenções restaurativas. Fonte: McDonald et al. (2016), Fig. 1.2](img/continuo_restaurativo.png)
+![Espectro de intervenções restaurativas](https://imgs.mongabay.com/wp-content/uploads/sites/20/2024/12/20001336/continuum.jpg)
 :::
 
 ::::
@@ -164,7 +164,7 @@ Enfatizar que a distinção não é hierárquica — ciência e prática se retr
 ::::
 
 ::: {.callout-tip}
-**Fluxograma de decisão:** consultar Suganuma & Durigan (2018), Fig. 4.1 — lógica de escolha entre estratégias passiva, assistida e ativa.
+**Fluxograma de decisão:** Você conseguiria gerar um fluxograma de decisão que o ajudasse a decidir por métodos *ativos* ou *passivos* de restauração?
 :::
 
 ::: {.notes}
@@ -206,19 +206,19 @@ Pedir para os alunos pensarem em um sítio que conhecem e responderem as pergunt
 - Pode ser um fragmento remanescente local
 
 ::: {.callout-warning}
-**Alvo móvel:** em biomas sob mudanças climáticas (Caatinga, Cerrado), o alvo pode precisar ser *projetado para o futuro* — ver @hobbs2014.
+**Alvo móvel:** em biomas sob mudanças climáticas (Caatinga, Cerrado), o alvo pode precisar ser *projetado para o futuro* 
 :::
 :::
 
 ::: {.column width="45%"}
-![Figura: fluxo de definição do ecossistema de referência. Fonte: SER (2023)](img/ecossistema_referencia.png)
+![Sua referência é o paraíso?](/img/jw.png){width=80%}
 :::
 
 ::::
 
 ---
 
-## Princípio 2 — Engajamento de Stakeholders {background-color="#f0f4f1"}
+## Princípio 2 — Engajamento de grupos sociais {background-color="#f0f4f1"}
 
 :::: {.columns}
 
@@ -245,7 +245,9 @@ Pedir para os alunos pensarem em um sítio que conhecem e responderem as pergunt
 
 ::::
 
----
+##
+
+![](https://repam.org.br/wp-content/uploads/2022/08/RS9023_IMG_9875-lpr-1-2000x1000.jpg)
 
 ## Princípio 7 — Benefícios Sociais {background-color="#ffffff"}
 
@@ -265,9 +267,9 @@ Pedir para os alunos pensarem em um sítio que conhecem e responderem as pergunt
 :::
 
 ::: {.column width="55%"}
-![Figura: Social Benefits Wheel. Fonte: SER (2023), Fig. 3](img/social_benefits_wheel.png)
 
-*Disponível em: ser.org e IUCN*
+![](/img/benefit_wheel.jpg)
+
 :::
 
 ::::
@@ -285,18 +287,11 @@ Pedir para os alunos pensarem em um sítio que conhecem e responderem as pergunt
 - Vegetação nativa no entorno (< 500 m)
 - Fator de distúrbio controlável (ex.: gado)
 
-**Como fazer:**
 
-- Exclusão de herbívoros
-- Retirada de espécies invasoras
-- Monitoramento periódico
-
-**Custo:** muito baixo  
-**Tempo:** variável (5–30 anos)
 :::
 
 ::: {.column width="45%"}
-![Figura: cronosequência de regeneração natural. Fonte: Chazdon (2014)](img/regeneracao_passiva.png)
+![Regeneração Natural](https://imgs.mongabay.com/wp-content/uploads/sites/29/2022/02/01172600/2.-Wet-forest-landscape-Tefe-Brazil_credits-Frans-Bongers-1200x800.jpg)
 :::
 
 ::::
@@ -322,7 +317,7 @@ Pedir para os alunos pensarem em um sítio que conhecem e responderem as pergunt
 :::
 
 ::: {.column width="50%"}
-![Figura: poleiro artificial e nucleação. Fonte: Acervo TREEsLab](img/nucleacao.png)
+![Nucleação](https://cdn.sanity.io/images/71jmx9y3/production/5516eb887f7f71fc044f02eef9b77e757df02aca-2038x2859.jpg?auto=format&fit=max&q=75&w=2038)
 :::
 
 ::::
@@ -352,247 +347,11 @@ Pedir para os alunos pensarem em um sítio que conhecem e responderem as pergunt
 :::
 
 ::: {.column width="45%"}
-![Figura: plantio em ilhas de diversidade. Fonte: Acervo TREEsLab](img/plantio_ativo.png)
+![Plantio Mata Atlântica](/img/plantio.png)
 :::
 
 ::::
 
----
-
-## Exemplo: Extremo Sul da Bahia {background-color="#1b4332"}
-
-:::: {.columns}
-
-::: {.column width="55%"}
-**Corredor Una–Lontras (IESB + parceiros)**
-
-- Fragmentos pós-pecuária → **regeneração passiva**
-- Capoeiras estabelecidas → **enriquecimento assistido**
-- Pastagens antigas → **plantio ativo** (80+ espécies)
-
-**Espécies-chave locais:**
-
-- *Dalbergia nigra* (jacarandá-da-bahia)
-- *Peltogyne confertiflora* (roxinho)
-- *Cariniana legalis* (jequitibá-rosa)
-
-Manejo **adaptativo**: diagnóstico anual de resiliência [@pinto2014]
-:::
-
-::: {.column width="45%"}
-![Figura: mapa do corredor Una–Lontras, Mata Atlântica. Fonte: IESB](img/corredor_bahia.png)
-:::
-
-::::
-
----
-
-## Marco Legal: Lei 12.651/2012 {background-color="#f0f4f1"}
-
-:::: {.columns}
-
-::: {.column width="50%"}
-### APP — Área de Preservação Permanente
-*Art. 3º, II*
-
-- Margens de cursos d'água
-- Entorno de lagos e nascentes
-- Topos de morro, encostas > 45°
-- Restingas e manguezais
-
-**Restauração obrigatória** — independe de culpa
-:::
-
-::: {.column width="50%"}
-### Reserva Legal
-*Art. 3º, III*
-
-- Amazônia: **80%** da propriedade
-- Cerrado (Amazônia Legal): **35%**
-- Demais biomas: **20%**
-
-Déficit → **restaurar** ou compensar em outra área
-:::
-
-::::
-
----
-
-## CAR e PRADA {background-color="#ffffff"}
-
-:::: {.columns}
-
-::: {.column width="55%"}
-### CAR — Cadastro Ambiental Rural
-- Registro **eletrônico obrigatório**
-- Georreferencia APP, RL e áreas consolidadas
-- Ponto de entrada para regularização ambiental
-- Base para planejamento em **escala de paisagem**
-
-### PRA → PRADA
-- PRA: compromisso do proprietário com o Estado
-- PRADA: **documento técnico** detalhando:
-  - áreas a restaurar · metodologias
-  - cronograma · indicadores de monitoramento
-:::
-
-::: {.column width="45%"}
-![Figura: fluxo CAR–PRA–PRADA. Fonte: MMA (2017)](img/fluxo_car_prada.png)
-:::
-
-::::
-
-::: {.notes}
-Mencionar: é o documento que vocês serão contratados para elaborar como ecólogos(as).
-:::
-
----
-
-## Limitação Crítica do Código Florestal {background-color="#f0f4f1"}
-
-:::: {.columns}
-
-::: {.column width="55%"}
-**A "anistia" de 2012:**
-
-- Passivos anteriores a **22/jul/2008**
-- Em imóveis de até **4 módulos fiscais**
-- → **não precisam** recompor integralmente APP e RL
-
-**Consequência científica:**
-
-- Estima-se perda de **50–100 mi ha** de recomposição obrigatória
-- Distorção dos incentivos para restauração
-- Debatido em @soares2014 (*Science*)
-:::
-
-::: {.column width="45%"}
-> *"O Código Florestal pode ter anistiado mais desmatamento do que qualquer outro instrumento na história ambiental brasileira."*
->
-> — Soares-Filho et al. (2014)
-:::
-
-::::
-
----
-
-## Ecologia Política: restauração para quem? {background-color="#1b4332"}
-
-:::: {.columns}
-
-::: {.column width="50%"}
-**Perguntas que a ciência não faz sozinha:**
-
-- Quem **financia** e quais os interesses?
-- Quem **perde acesso** à terra?
-- Quais conhecimentos são **valorizados**?
-- Quem **se beneficia** dos serviços ecossistêmicos?
-:::
-
-::: {.column width="50%"}
-**Casos críticos:**
-
-- Comunidades **quilombolas** e cercamento para restauração
-- **Grilagem verde** via valorização de terras nativas
-- Monoculturas de *Eucalyptus* como "restauração"
-- Créditos de carbono concentrados em poucos biomas
-:::
-
-::::
-
----
-
-## Conhecimento Ecológico Local (CEL) {background-color="#ffffff"}
-
-:::: {.columns}
-
-::: {.column width="55%"}
-**O que é:**
-
-- Acumulado por povos indígenas, quilombolas, agricultores
-- Insubstituível por bases de dados científicas
-- Inclui: espécies, processos, regimes de perturbação
-
-**Restauração biocultural:**
-
-- CEL integrado ao planejamento técnico
-- Paisagens como **co-produções** humano-natureza
-- Exemplo: manejo da Caatinga por sertanejos  
-  → poda seletiva, fogo controlado, proteção de úteis [@melo2026]
-:::
-
-::: {.column width="45%"}
-![Figura: agricultores e pesquisadores em campo, Caatinga. Fonte: Acervo TREEsLab](img/cel_caatinga.png)
-:::
-
-::::
-
----
-
-## Mercado de Carbono: oportunidade ou armadilha? {background-color="#f0f4f1"}
-
-:::: {.columns}
-
-::: {.column width="50%"}
-**Oportunidades:**
-
-- Novo fluxo de financiamento
-- Escala de restauração ampliada
-- Engajamento do setor privado
-:::
-
-::: {.column width="50%"}
-**Riscos:**
-
-- Concentração em biomas "rentáveis" (Amazônia, Mata Atlântica)
-- Monoculturas registradas como restauração
-- Grilagem verde e deslocamento de comunidades
-- Redução da biodiversidade a **métricas de carbono**
-:::
-
-::::
-
-::: {.callout-warning}
-**Regra de ouro:** antes de avaliar qualquer projeto — pergunte *quem paga, quem decide, quem se beneficia e quem arca com os custos.*
-:::
-
----
-
-## Glossário Rápido {background-color="#f0f4f1"}
-
-:::: {.columns}
-
-::: {.column width="50%"}
-**Ecossistema de referência**
-: estado-alvo ecologicamente viável para um projeto
-
-**Contínuo restaurativo**
-: espectro de intervenções do menos ao mais intensivo
-
-**Nucleação**
-: criação de ilhas de biodiversidade para atrair dispersores
-
-**Resiliência local**
-: capacidade do sítio de regenerar-se internamente
-:::
-
-::: {.column width="50%"}
-**Resiliência de paisagem**
-: suporte externo de propágulos e fauna via conectividade
-
-**PRADA**
-: Projeto de Recomposição de Áreas Degradadas e Alteradas
-
-**CEL**
-: Conhecimento Ecológico Local (povos e comunidades)
-
-**Restauração biocultural**
-: integração de CEL e valores culturais à prática restaurativa
-:::
-
-::::
-
----
 
 ## Síntese: três eixos integrados {background-color="#ffffff"}
 
@@ -610,7 +369,6 @@ Mencionar: é o documento que vocês serão contratados para elaborar como ecól
 ### Técnico-Operacional
 - Passiva / assistida / ativa
 - Resiliência local e de paisagem
-- APP, RL, CAR, PRADA
 - Manejo adaptativo
 :::
 
@@ -618,7 +376,6 @@ Mencionar: é o documento que vocês serão contratados para elaborar como ecól
 ### Crítico-Social
 - Ecologia Política
 - CEL e restauração biocultural
-- Mercado de carbono
 - Equidade e poder
 :::
 
@@ -626,39 +383,21 @@ Mencionar: é o documento que vocês serão contratados para elaborar como ecól
 
 ---
 
-## Para a próxima aula {background-color="#f0f4f1"}
-
-:::: {.columns}
-
-::: {.column width="55%"}
-**Tema:** Diagnóstico de áreas degradadas e escolha de estratégias
-
-**Leitura obrigatória:**
-
-- Brancalion, Gandolfi & Rodrigues (2015), Cap. 5
-- Suganuma & Durigan (2018), Fig. 4.1
-
-**Tarefa prévia:**
+## Tarefa
 
 Identifique no Google Earth uma área degradada próxima a Recife e responda: qual estratégia do contínuo restaurativo você adotaria? Por quê?
 
-Entrega via Google Sala de Aula até **48h antes da aula**
-:::
+Entrega via Google Sala de Aula até *a próxima aula**
 
-::: {.column width="45%"}
+
 **Questões para refletir:**
 
 1. Como definir o ecossistema de referência para uma área de Caatinga no Sertão de PE?
 
-2. Um projeto de restauração de APP às margens do Rio Capibaribe deve considerar o CEL das comunidades ribeirinhas. Como operacionalizar isso?
-:::
+2. Um projeto de restauração de APP às margens do Rio Capibaribe deve considerar o Conhecimento Ecológico Local (CEL) das comunidades ribeirinhas. Como operacionalizar isso?
 
-::::
 
 ---
 
-## Referências {background-color="#ffffff"}
-
-::: {#refs}
-:::
+## FIM{.center}
 

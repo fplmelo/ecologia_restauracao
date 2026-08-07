@@ -431,7 +431,7 @@
     "href": "sessions/week2/2-bases-conceituais.html#sec-historico",
     "title": "Semana 02: Bases Conceituais e Definição de Metas",
     "section": "2.1 O paradigma histórico",
-    "text": "2.1 O paradigma histórico\nO modelo clássico da SER, consolidado nos documentos de 2004 e revisado em 2023, ancora a definição de metas no conceito de ecossistema de referência (Society for Ecological Restoration 2023). Na versão histórica desse conceito, o estado de referência é inferido a partir de:\n\nRegistros paleo-ecológicos: pólen fóssil, carvão sedimentar, anéis de crescimento arbóreo, registros em camadas de turfeiras;\nDocumentos históricos: fotografias aéreas antigas, relatos de naturalistas, inventários coloniais, mapas de vegetação históricos;\nRemanescentes nativos: fragmentos de vegetação nativa próximos ao sítio que escaparam da perturbação e funcionam como janelas para o estado pré-distúrbio;\nConhecimento ecológico local: memória biocultural de comunidades tradicionais sobre a composição e dinâmica pretéritas do ecossistema.\n\nVantagens do modelo histórico:\n\nFornece um alvo concreto, ecologicamente fundamentado e comunicável;\nPreserva a identidade biogeográfica local (espécies co-evoluídas, interações coevolutivas);\nTem respaldo legal no Brasil: o Código Florestal define APPs e RLs com referência implícita à vegetação nativa original.\n\nLimitações crescentes:\n\nMuitos estados históricos são irrecuperáveis (espécies extintas, solos irreversivelmente degradados);\nO clima futuro pode ser incompatível com a vegetação histórica;\nO conceito ignora que os ecossistemas “históricos” já eram produtos de séculos de manejo humano (especialmente por povos indígenas) — não eram “natureza intocada”."
+    "text": "2.1 O paradigma histórico\nO modelo clássico da SER, consolidado nos documentos de 2004 e revisado em 2023, ancora a definição de metas no conceito de ecossistema de referência (Society for Ecological Restoration 2023). Na versão histórica desse conceito, o estado de referência é inferido a partir de:\n\nRegistros paleo-ecológicos: pólen fóssil, carvão sedimentar, anéis de crescimento arbóreo, registros em camadas de turfeiras;\nDocumentos históricos: fotografias aéreas antigas, relatos de naturalistas, inventários coloniais, mapas de vegetação históricos;\nRemanescentes nativos: fragmentos de vegetação nativa próximos ao sítio que escaparam da perturbação e funcionam como janelas para o estado pré-distúrbio;\nConhecimento ecológico local: memória biocultural de comunidades tradicionais sobre a composição e dinâmica pretéritas do ecossistema.\n\n\n\n\nPaisagem desenhada na expedição de Martius, no início do século 19, exibe vegetação rarefeita com cactos, palmeiras e até uma barriguda (Cavanillesia umbellata). Fonte: Flora brasiliensis online, Centro de Referência em Informação Ambiental, CRIA.\n\n\nVantagens do modelo histórico:\n\nFornece um alvo concreto, ecologicamente fundamentado e comunicável;\nPreserva a identidade biogeográfica local (espécies co-evoluídas, interações coevolutivas);\nTem respaldo legal no Brasil: o Código Florestal define APPs e RLs com referência implícita à vegetação nativa original.\n\nLimitações crescentes:\n\nMuitos estados históricos são irrecuperáveis (espécies extintas, solos irreversivelmente degradados);\nO clima futuro pode ser incompatível com a vegetação histórica;\nO conceito ignora que os ecossistemas “históricos” já eram produtos de séculos de manejo humano (especialmente por povos indígenas) — não eram “natureza intocada”."
   },
   {
     "objectID": "sessions/week2/2-bases-conceituais.html#sec-futuro",
@@ -613,7 +613,7 @@
     "href": "slides/semana1_slides.html#por-que-restaurar",
     "title": "Fundamentos e Princípios da Ecologia da Restauração",
     "section": "Por que restaurar?",
-    "text": "Por que restaurar?\n\n\n\n&gt; 50% das terras produtivas do planeta degradadas\nBrasil: ~20% da biodiversidade mundial\nMetas globais: 30×30 (Kunming-Montreal, 2022)\nBrasil: restaurar 12 milhões de ha até 2030\n\n\n“A restauração é a maior oportunidade de conservação do século.”\n— Chazdon (2014)\n\n\n\n\n\nFigura: perda de habitat global. Fonte: IPBES (2019)"
+    "text": "Por que restaurar?\n\n\n\n&gt; 50% das terras produtivas do planeta degradadas\nBrasil: ~20% da biodiversidade mundial\nMetas globais: 30×30 (Kunming-Montreal, 2022)\nBrasil: restaurar 12 milhões de ha até 2030\n\n\n“A restauração é a maior oportunidade de conservação do século.”\n— Chazdon (2014)\n\n\n\n\n\nPerda de habitat no Cerrado"
   },
   {
     "objectID": "slides/semana1_slides.html#ciência-prática",
@@ -627,21 +627,21 @@
     "href": "slides/semana1_slides.html#definição-canônica-ser-2023",
     "title": "Fundamentos e Princípios da Ecologia da Restauração",
     "section": "Definição canônica — SER (2023)",
-    "text": "Definição canônica — SER (2023)\n\n\n\n“Ecological restoration is the process of assisting the recovery of an ecosystem that has been degraded, damaged, or destroyed.”\n— @ser2023\n\nPalavras-chave:\n\nAssistir → não substituir a natureza\nRecuperação → trajetória, não ponto fixo\nDegradado / danificado / destruído → gradações\n\n\n\n\n\nFigura: capa do documento SER (2023). Fonte: ser.org"
+    "text": "Definição canônica — SER (2023)\n\n\n\n“Ecological restoration is the process of assisting the recovery of an ecosystem that has been degraded, damaged, or destroyed.”\n\n\nAssistir → não substituir a natureza\nRecuperação → trajetória, não ponto fixo\nDegradado / danificado / destruído → gradações\n\n\n\n\n\nInernational Standards SER 2026"
   },
   {
     "objectID": "slides/semana1_slides.html#o-contínuo-restaurativo",
     "href": "slides/semana1_slides.html#o-contínuo-restaurativo",
     "title": "Fundamentos e Princípios da Ecologia da Restauração",
     "section": "O Contínuo Restaurativo",
-    "text": "O Contínuo Restaurativo\n\n\nDo menos ao mais intensivo:\n\nProteção — cessar o distúrbio\nReabilitação — recuperar funções\nRestauração assistida — acelerar sucessão\nRestauração ativa plena — reconstituir tudo\n\nA escolha depende do grau de degradação e da resiliência do sítio\n\n\n\n\nFigura: espectro de intervenções restaurativas. Fonte: McDonald et al. (2016), Fig. 1.2"
+    "text": "O Contínuo Restaurativo\n\n\nDo menos ao mais intensivo:\n\nProteção — cessar o distúrbio\nReabilitação — recuperar funções\nRestauração assistida — acelerar sucessão\nRestauração ativa plena — reconstituir tudo\n\nA escolha depende do grau de degradação e da resiliência do sítio\n\n\n\n\nEspectro de intervenções restaurativas"
   },
   {
     "objectID": "slides/semana1_slides.html#resiliência-a-chave-da-decisão",
     "href": "slides/semana1_slides.html#resiliência-a-chave-da-decisão",
     "title": "Fundamentos e Princípios da Ecologia da Restauração",
     "section": "Resiliência: a chave da decisão",
-    "text": "Resiliência: a chave da decisão\n\n\nResiliência local\n\nBanco de sementes ativo?\nRebrotas visíveis?\nSolo minimamente estruturado?\n\n\nResiliência de paisagem\n\nVizinhança com vegetação nativa?\nDispersores presentes?\nCorredor ecológico próximo?\n\n\n\n\n\n\n\n\nDica\n\n\nFluxograma de decisão: consultar Suganuma & Durigan (2018), Fig. 4.1 — lógica de escolha entre estratégias passiva, assistida e ativa.\n\n\n\n\nPedir para os alunos pensarem em um sítio que conhecem e responderem as perguntas mentalmente."
+    "text": "Resiliência: a chave da decisão\n\n\nResiliência local\n\nBanco de sementes ativo?\nRebrotas visíveis?\nSolo minimamente estruturado?\n\n\nResiliência de paisagem\n\nVizinhança com vegetação nativa?\nDispersores presentes?\nCorredor ecológico próximo?\n\n\n\n\n\n\n\n\nDica\n\n\nFluxograma de decisão: Você conseguiria gerar um fluxograma de decisão que o ajudasse a decidir por métodos ativos ou passivos de restauração?\n\n\n\n\nPedir para os alunos pensarem em um sítio que conhecem e responderem as perguntas mentalmente."
   },
   {
     "objectID": "slides/semana1_slides.html#os-8-princípios-da-ser-2023",
@@ -655,7 +655,7 @@
     "href": "slides/semana1_slides.html#princípio-1-ecossistema-de-referência",
     "title": "Fundamentos e Princípios da Ecologia da Restauração",
     "section": "Princípio 1 — Ecossistema de Referência",
-    "text": "Princípio 1 — Ecossistema de Referência\n\n\n\nEstado-alvo ecologicamente viável\nNão é necessariamente o estado histórico pré-distúrbio\nDeve considerar mudanças climáticas futuras\nPode ser um fragmento remanescente local\n\n\n\n\n\n\n\nAviso\n\n\nAlvo móvel: em biomas sob mudanças climáticas (Caatinga, Cerrado), o alvo pode precisar ser projetado para o futuro — ver @hobbs2014.\n\n\n\n\n\n\n\nFigura: fluxo de definição do ecossistema de referência. Fonte: SER (2023)"
+    "text": "Princípio 1 — Ecossistema de Referência\n\n\n\nEstado-alvo ecologicamente viável\nNão é necessariamente o estado histórico pré-distúrbio\nDeve considerar mudanças climáticas futuras\nPode ser um fragmento remanescente local\n\n\n\n\n\n\n\nAviso\n\n\nAlvo móvel: em biomas sob mudanças climáticas (Caatinga, Cerrado), o alvo pode precisar ser projetado para o futuro\n\n\n\n\n\n\n\nSua referência é o paraíso?"
   },
   {
     "objectID": "slides/semana1_slides.html#princípio-2-engajamento-de-stakeholders",
@@ -669,28 +669,28 @@
     "href": "slides/semana1_slides.html#princípio-7-benefícios-sociais",
     "title": "Fundamentos e Princípios da Ecologia da Restauração",
     "section": "Princípio 7 — Benefícios Sociais",
-    "text": "Princípio 7 — Benefícios Sociais\n\n\nRoda de Benefícios Sociais (SER, 2023):\n\nSegurança alimentar\nSaúde\nÁgua\nMeios de vida\nIdentidade cultural\nConhecimento\nBem-estar espiritual\nEquidade\n\n\n\n\n\nFigura: Social Benefits Wheel. Fonte: SER (2023), Fig. 3\n\n\nDisponível em: ser.org e IUCN"
+    "text": "Princípio 7 — Benefícios Sociais\n\n\nRoda de Benefícios Sociais (SER, 2023):\n\nSegurança alimentar\nSaúde\nÁgua\nMeios de vida\nIdentidade cultural\nConhecimento\nBem-estar espiritual\nEquidade"
   },
   {
     "objectID": "slides/semana1_slides.html#estratégia-1-regeneração-natural-passiva",
     "href": "slides/semana1_slides.html#estratégia-1-regeneração-natural-passiva",
     "title": "Fundamentos e Princípios da Ecologia da Restauração",
     "section": "Estratégia 1 — Regeneração Natural (Passiva)",
-    "text": "Estratégia 1 — Regeneração Natural (Passiva)\n\n\nQuando usar:\n\nAlta resiliência local e de paisagem\nVegetação nativa no entorno (&lt; 500 m)\nFator de distúrbio controlável (ex.: gado)\n\nComo fazer:\n\nExclusão de herbívoros\nRetirada de espécies invasoras\nMonitoramento periódico\n\nCusto: muito baixo\nTempo: variável (5–30 anos)\n\n\n\n\nFigura: cronosequência de regeneração natural. Fonte: Chazdon (2014)"
+    "text": "Estratégia 1 — Regeneração Natural (Passiva)\n\n\nQuando usar:\n\nAlta resiliência local e de paisagem\nVegetação nativa no entorno (&lt; 500 m)\nFator de distúrbio controlável (ex.: gado)\n\n\n\n\n\nRegeneração Natural"
   },
   {
     "objectID": "slides/semana1_slides.html#estratégia-2-restauração-assistida",
     "href": "slides/semana1_slides.html#estratégia-2-restauração-assistida",
     "title": "Fundamentos e Princípios da Ecologia da Restauração",
     "section": "Estratégia 2 — Restauração Assistida",
-    "text": "Estratégia 2 — Restauração Assistida\n\n\nTécnicas principais:\n\nNucleação — ilhas de biodiversidade, poleiros\nSemeadura direta — menor custo que mudas\nEnriquecimento de capoeiras — inserir espécies clímax\nTransposição de solo — banco de sementes\n\nQuando usar:\n\nResiliência local moderada\nRegeneração estagnada em estágio inicial\n\n\n\n\n\nFigura: poleiro artificial e nucleação. Fonte: Acervo TREEsLab"
+    "text": "Estratégia 2 — Restauração Assistida\n\n\nTécnicas principais:\n\nNucleação — ilhas de biodiversidade, poleiros\nSemeadura direta — menor custo que mudas\nEnriquecimento de capoeiras — inserir espécies clímax\nTransposição de solo — banco de sementes\n\nQuando usar:\n\nResiliência local moderada\nRegeneração estagnada em estágio inicial\n\n\n\n\n\nNucleação"
   },
   {
     "objectID": "slides/semana1_slides.html#estratégia-3-restauração-ativa-plena",
     "href": "slides/semana1_slides.html#estratégia-3-restauração-ativa-plena",
     "title": "Fundamentos e Princípios da Ecologia da Restauração",
     "section": "Estratégia 3 — Restauração Ativa Plena",
-    "text": "Estratégia 3 — Restauração Ativa Plena\n\n\nQuando usar:\n\nBaixa ou nula resiliência local\nSolo severamente degradado\nPastagem antiga sem regeneração visível\n\nComo fazer:\n\nPlantio de alta diversidade (≥ 80 espécies)\nGrupos funcionais: pioneiras + secundárias + clímax\nRestauração de processos abióticos (solo, drenagem)\nReintrodução de fauna dispersora\n\nCusto: elevado\nTempo: 20–50 anos até autossustentação\n\n\n\n\nFigura: plantio em ilhas de diversidade. Fonte: Acervo TREEsLab"
+    "text": "Estratégia 3 — Restauração Ativa Plena\n\n\nQuando usar:\n\nBaixa ou nula resiliência local\nSolo severamente degradado\nPastagem antiga sem regeneração visível\n\nComo fazer:\n\nPlantio de alta diversidade (≥ 80 espécies)\nGrupos funcionais: pioneiras + secundárias + clímax\nRestauração de processos abióticos (solo, drenagem)\nReintrodução de fauna dispersora\n\nCusto: elevado\nTempo: 20–50 anos até autossustentação\n\n\n\n\nPlantio Mata Atlântica"
   },
   {
     "objectID": "slides/semana1_slides.html#exemplo-extremo-sul-da-bahia",
@@ -753,7 +753,7 @@
     "href": "slides/semana1_slides.html#síntese-três-eixos-integrados",
     "title": "Fundamentos e Princípios da Ecologia da Restauração",
     "section": "Síntese: três eixos integrados",
-    "text": "Síntese: três eixos integrados\n\n\nConceitual-Científico\n\nCiência × prática\nContínuo restaurativo\n8 princípios SER\nEcossistema de referência\n\n\nTécnico-Operacional\n\nPassiva / assistida / ativa\nResiliência local e de paisagem\nAPP, RL, CAR, PRADA\nManejo adaptativo\n\n\nCrítico-Social\n\nEcologia Política\nCEL e restauração biocultural\nMercado de carbono\nEquidade e poder"
+    "text": "Síntese: três eixos integrados\n\n\nConceitual-Científico\n\nCiência × prática\nContínuo restaurativo\n8 princípios SER\nEcossistema de referência\n\n\nTécnico-Operacional\n\nPassiva / assistida / ativa\nResiliência local e de paisagem\nManejo adaptativo\n\n\nCrítico-Social\n\nEcologia Política\nCEL e restauração biocultural\nEquidade e poder"
   },
   {
     "objectID": "slides/semana1_slides.html#para-a-próxima-aula",
@@ -809,49 +809,49 @@
     "href": "slides/semana2_slides.html#objetivos-da-aula",
     "title": "Bases Conceituais e Definição de Metas",
     "section": "Objetivos da Aula",
-    "text": "Objetivos da Aula\n\n\nAo final desta aula você será capaz de:\n\nDistinguir metas históricas de metas futuras\nAplicar os 5 atributos de sucesso da SER\nDefinir indicadores mensuráveis para um projeto\n\n\n\nExplicar o conceito de limiar ecológico\nUsar o modelo de estados alternativos para diagnosticar sítios\nReconhecer o papel da histerese no custo da restauração\n\n\n\nComeçar com a pergunta: “Se eu te pedir para restaurar um fragmento de Caatinga, qual seria sua primeira pergunta?” — induzir à resposta “para onde restaurar?”"
+    "text": "Objetivos da Aula\n\n\nAo final desta aula você será capaz de:\n\nDistinguir metas históricas de metas futuras\nAplicar os 5 atributos de sucesso da SER\nDefinir indicadores mensuráveis para um projeto\n\n\n\nExplicar o conceito de limiar ecológico\nUsar o modelo de estados alternativos para diagnosticar sítios\n\n\n\nComeçar com a pergunta: “Se eu te pedir para restaurar um fragmento de Caatinga, qual seria sua primeira pergunta?” — induzir à resposta “para onde restaurar?”"
   },
   {
     "objectID": "slides/semana2_slides.html#a-pergunta-fundamental",
     "href": "slides/semana2_slides.html#a-pergunta-fundamental",
     "title": "Bases Conceituais e Definição de Metas",
     "section": "A Pergunta Fundamental",
-    "text": "A Pergunta Fundamental\n\n\n\n“Restauração sem meta clara é jardinagem com pretensões ecológicas.” — Adaptado de @hobbs2007\n\nO problema central:\n\nToda restauração pressupõe um estado-alvo\nMas qual estado? Passado ou futuro?\nDefinido por quem? Com que critérios?\nVálido por quanto tempo?\n\n\n\n\n\nFigura: tensão entre passado e futuro na definição de metas. Fonte: elaboração própria"
+    "text": "A Pergunta Fundamental\n\n\n\n“Restauração sem meta clara é jardinagem com pretensões ecológicas.”\n\nO problema central:\n\nToda restauração pressupõe um estado-alvo\nMas qual estado? Passado ou futuro?\nDefinido por quem? Com que critérios?\nVálido por quanto tempo?\n\n\n\n\n\nOnde queremo chegar?"
   },
   {
     "objectID": "slides/semana2_slides.html#paradigma-i-estado-histórico",
     "href": "slides/semana2_slides.html#paradigma-i-estado-histórico",
     "title": "Bases Conceituais e Definição de Metas",
     "section": "Paradigma I — Estado Histórico",
-    "text": "Paradigma I — Estado Histórico\n\n\nFontes para inferir o passado:\n\nRegistros paleo-ecológicos (pólen, carvão, anéis)\nDocumentos históricos (fotos aéreas, mapas, relatos)\nRemanescentes nativos locais\nConhecimento ecológico local (memória oral)\n\nVantagens:\n\nAlvo concreto e comunicável\nPreserva identidade biogeográfica\nRespaldo legal (Código Florestal)\n\n\nLimitações crescentes:\n\nEspécies extintas localmente → irrecuperáveis\nSolo permanentemente alterado\nClima futuro ≠ clima histórico\nIgnora milênios de manejo indígena\n\n\n\n\n\n\n\nAviso\n\n\nO passado “natural” nunca foi intocado"
+    "text": "Paradigma I — Estado Histórico\n\n\nFontes para inferir o passado:\n\nRegistros paleo-ecológicos (pólen, carvão, anéis)\nDocumentos históricos (fotos aéreas, mapas, relatos)\nRemanescentes nativos locais\nConhecimento ecológico local (memória oral)\n\n\nLimitações crescentes:\n\nEspécies extintas localmente → irrecuperáveis\nSolo permanentemente alterado\nClima futuro ≠ clima histórico\n\n\n\n\n\n\n\nDica\n\n\nO passado “natural” nunca foi intocado (Leia este artigo)"
   },
   {
     "objectID": "slides/semana2_slides.html#paradigma-ii-meta-futura",
     "href": "slides/semana2_slides.html#paradigma-ii-meta-futura",
     "title": "Bases Conceituais e Definição de Metas",
     "section": "Paradigma II — Meta Futura",
-    "text": "Paradigma II — Meta Futura\n\n\nBaseada em:\n\nModelos de distribuição de espécies (2050–2100)\nCenários climáticos IPCC [@ipcc2022]\nDiversidade funcional &gt; diversidade taxonômica\nMetas sociais negociadas com a comunidade\n\nExemplo — Caatinga sob aquecimento global:\n\n+2–4°C até 2070 no Semiárido\nPriorizar espécies de maior tolerância à seca\nMimosa tenuiflora, Croton sonderianus, Aspidosperma pyrifolium\n\n\n\n\n\nFigura: projeção de adequabilidade climática de espécies da Caatinga para 2070. Fonte: IPCC (2022) / ModelR"
+    "text": "Paradigma II — Meta Futura\n\n\nBaseada em:\n\nModelos de distribuição de espécies\nCenários climáticos IPCC\nDiversidade funcional &gt; diversidade taxonômica\nMetas sociais negociadas com a comunidade\n\n\n\n\n\nMudança na aptidão agrícola"
   },
   {
     "objectID": "slides/semana2_slides.html#síntese-ecossistema-de-referência-dinâmico",
     "href": "slides/semana2_slides.html#síntese-ecossistema-de-referência-dinâmico",
     "title": "Bases Conceituais e Definição de Metas",
     "section": "Síntese: Ecossistema de Referência Dinâmico",
-    "text": "Síntese: Ecossistema de Referência Dinâmico\n\n\nIntegra os dois paradigmas [@ser2023; @gann2019]:\n\nÂncora histórica: espécies nativas locais, identidade biogeográfica\nProjeção futura: resiliência climática, diversidade funcional\nRevisão periódica: atualizar com novos dados\n\nNa prática:\n\nRemanescentes locais → composição base\nBioprospecção climática → enriquecer o elenco\nPriorizar grupos funcionais sobre listas de espécies\n\n\n\n\n\nFigura: conceito de ecossistema de referência dinâmico. Fonte: SER (2023), Fig. 4"
+    "text": "Síntese: Ecossistema de Referência Dinâmico\n\n\nIntegra os dois paradigmas:\n\nÂncora histórica: espécies nativas locais, identidade biogeográfica\nProjeção futura: resiliência climática, diversidade funcional\nRevisão periódica: atualizar com novos dados\n\n\nNa prática:\n\nRemanescentes locais → composição base\nBioprospecção climática → enriquecer o elenco\nPriorizar grupos funcionais sobre listas de espécies"
   },
   {
     "objectID": "slides/semana2_slides.html#o-problema-da-avaliação",
     "href": "slides/semana2_slides.html#o-problema-da-avaliação",
     "title": "Bases Conceituais e Definição de Metas",
     "section": "O Problema da Avaliação",
-    "text": "O Problema da Avaliação\n\n\nQuando avaliar?\n\nAno 1–2: muito cedo → artefatos de plantio\nAno 5–10: adequado para estrutura inicial\nAno 20+: necessário para funcionamento\n\nO que medir?\n\nEstado pontual ou trajetória ao longo do tempo?\nTrajetória é mais informativa → @ruiz-jaen2005\n\n\nQuem define o sucesso?\n\nEcólogo → diversidade de espécies nativas\nAgricultor → serviços hídricos, madeira\nGestor público → cobertura vegetal (satélite)\nComunidade → identidade cultural, alimento\n\n→ Metas precisam ser negociadas"
+    "text": "O Problema da Avaliação\n\n\nQuando avaliar?\n\nAno 1–2: muito cedo → artefatos de plantio\nAno 5–10: adequado para estrutura inicial\nAno 20+: necessário para funcionamento\n\nO que medir?\n\nEstado pontual ou trajetória ao longo do tempo?\nTrajetória é mais informativa\n\n\nQuem define o sucesso?\n\nEcólogo → diversidade de espécies nativas\nAgricultor → serviços hídricos, madeira\nGestor público → cobertura vegetal (satélite)\nComunidade → identidade cultural, alimento\n\n→ Metas precisam ser negociadas"
   },
   {
     "objectID": "slides/semana2_slides.html#os-5-atributos-de-sucesso-ser-2023",
     "href": "slides/semana2_slides.html#os-5-atributos-de-sucesso-ser-2023",
     "title": "Bases Conceituais e Definição de Metas",
     "section": "Os 5 Atributos de Sucesso — SER (2023)",
-    "text": "Os 5 Atributos de Sucesso — SER (2023)\n\n\n\n\n\nFigura: Estrela da Recuperação (Recovery Star). Fonte: SER (2023), Fig. 5\n\n\n\n\nAusência de ameaças — distúrbio controlado?\nIntegridade abiótica — solo, água, microclima\nComposição de espécies — nativas presentes?\nEstrutura — estratificação, cobertura, habitat\nFuncionamento — processos ecológicos ativos?\n\nA Recovery Star posiciona o sítio em cada dimensão — a diferença para o polígono de referência é o déficit de recuperação"
+    "text": "Os 5 Atributos de Sucesso — SER (2023)\n\n\n\n\n\nFigura: Estrela da Recuperação (Recovery Star). Fonte: SER (2023), Fig. 5\n\n\n\n\nAusência de ameaças — distúrbio controlado?\nIntegridade abiótica — solo, água, microclima\nComposição de espécies — nativas presentes?\nEstrutura — estratificação, cobertura, habitat\nFuncionamento — processos ecológicos ativos?"
   },
   {
     "objectID": "slides/semana2_slides.html#atributo-1-ausência-de-ameaças",
@@ -864,43 +864,43 @@
     "objectID": "slides/semana2_slides.html#atributo-2-integridade-abiótica",
     "href": "slides/semana2_slides.html#atributo-2-integridade-abiótica",
     "title": "Bases Conceituais e Definição de Metas",
-    "section": "Atributo 2 — Integridade Abiótica",
-    "text": "Atributo 2 — Integridade Abiótica\n\n\nIndicadores de solo:\n\nDensidade aparente (g/cm³) → compactação\nCondutividade hidráulica saturada → infiltração\npH, matéria orgânica, CTC → fertilidade\nMacrofauna edáfica → bioindicadores\n\nIndicadores hídricos:\n\nProfundidade do lençol freático\nRegime de cheias em APPs ciliares\nUmidade gravimétrica em épocas críticas\n\n\n\n\n\nFigura: perfil de solo compactado versus estruturado. Fonte: Embrapa Solos\n\n\nDensidade aparente &gt; 1,4 g/cm³ → limiar de compactação impeditivo para raízes"
+    "section": "Atributo 2 — Integridade abiótica",
+    "text": "Atributo 2 — Integridade abiótica\n\n\nIndicadores de solo:\n\nDensidade aparente (g/cm³) → compactação\nCondutividade hidráulica saturada → infiltração\npH, matéria orgânica, CTC → fertilidade\n\nIndicadores hídricos:\n\nProfundidade do lençol freático\nRegime de cheias em APPs ciliares\n\n\n\n\n\nPerfil de solo compactado versus estruturado"
   },
   {
     "objectID": "slides/semana2_slides.html#atributos-3-e-4-composição-e-estrutura",
     "href": "slides/semana2_slides.html#atributos-3-e-4-composição-e-estrutura",
     "title": "Bases Conceituais e Definição de Metas",
     "section": "Atributos 3 e 4 — Composição e Estrutura",
-    "text": "Atributos 3 e 4 — Composição e Estrutura\n\n\nComposição\n\nRiqueza de espécies nativas (N)\nÍndice de similaridade com referência (Jaccard, Bray-Curtis)\nPresença de espécies de estágios tardios\nAusência de dominância por exóticas\n\nEstrutura\n\nÍndice de Área Foliar (IAF)\nAltura e cobertura do dossel (%)\nEstratificação vertical (nº de estratos)\nDensidade de ocos, serrapilheira, sub-bosque\n\n\nMétodos:\n\nParcelas de 20×20 m (inventário arbóreo)\nTransectos de Gentry (lianas, arbustos)\nDensiômetro esférico (cobertura)\nSensoriamento remoto (NDVI, LiDAR)\n\n\n\n\n\n\n\nNota\n\n\nNão confundir cobertura (fechamento do dossel) com composição (identidade das espécies). Um eucaliptal pode ter 90% de cobertura e zero de composição nativa"
+    "text": "Atributos 3 e 4 — Composição e Estrutura\n\n\nComposição\n\nRiqueza de espécies nativas (N)\nBeta-diversidade\nPresença de espécies de estágios tardios\n\nEstrutura\n\nAltura e cobertura do dossel (%)\nEstratificação vertical (nº de estratos)\nDensidade de ocos, serrapilheira, sub-bosque"
   },
   {
     "objectID": "slides/semana2_slides.html#atributo-5-funcionamento",
     "href": "slides/semana2_slides.html#atributo-5-funcionamento",
     "title": "Bases Conceituais e Definição de Metas",
     "section": "Atributo 5 — Funcionamento",
-    "text": "Atributo 5 — Funcionamento\n\n\nO atributo mais difícil de medir — e o mais importante:\n\nRecrutamento natural de plântulas nativas (parcelas de regeneração)\nDispersão de sementes (armadilhas de sementes)\nPolinização (redes de interação flor-polinizador)\nCiclagem de nutrientes (decomposição de serrapilheira)\nControle biológico (predação de herbívoros)\n\nIndicador síntese:\nO ecossistema se regenera sem intervenção humana? → autossustentação\n\n\n\n\nFigura: rede de dispersão de sementes em área restaurada. Fonte: Acervo TREEsLab / UFPE"
+    "text": "Atributo 5 — Funcionamento\n\n\n\nRecrutamento natural de plântulas nativas (parcelas de regeneração)\nDispersão de sementes (armadilhas de sementes)\nPolinização (redes de interação flor-polinizador)\nCiclagem de nutrientes (decomposição de serrapilheira)\nControle biológico (predação de herbívoros)\n\n\n\n\n\nRedes de Interação"
   },
   {
     "objectID": "slides/semana2_slides.html#trajetória-versus-estado-final",
     "href": "slides/semana2_slides.html#trajetória-versus-estado-final",
     "title": "Bases Conceituais e Definição de Metas",
     "section": "Trajetória versus Estado Final",
-    "text": "Trajetória versus Estado Final\n\n\nMudança conceitual central [@ruiz-jaen2005]:\n\nFoco em estado final → fotografia estática, frequentemente decepcionante nos primeiros anos\nFoco em trajetória → vídeo, muito mais informativo\n\nIndicadores de trajetória:\n\nTaxa anual de incremento de cobertura nativa\nCurva de acumulação de espécies tardias\nRedução progressiva de exóticas (% ao ano)\nAumento da diversidade funcional no tempo\n\n\n\n\n\nFigura: curvas de trajetória de recuperação em diferentes estratégias. Fonte: elaboração própria"
+    "text": "Trajetória versus Estado Final\n\n\nMudança conceitual central:\n\nFoco em estado final → fotografia estática, frequentemente decepcionante nos primeiros anos\nFoco em trajetória → vídeo, muito mais informativo\n\nIndicadores de trajetória:\n\nTaxa anual de incremento de cobertura nativa\nCurva de acumulação de espécies tardias\nRedução progressiva de exóticas (% ao ano)\nAumento da diversidade funcional no tempo\n\n\n\n\n\nFigura: curvas de trajetória de recuperação"
   },
   {
     "objectID": "slides/semana2_slides.html#o-conceito-de-limiar-ecológico",
     "href": "slides/semana2_slides.html#o-conceito-de-limiar-ecológico",
     "title": "Bases Conceituais e Definição de Metas",
-    "section": "O Conceito de Limiar Ecológico",
-    "text": "O Conceito de Limiar Ecológico\n\n\nLimiar (threshold):\n\nPonto crítico em que o ecossistema muda de trajetória de forma não-linear, rápida e frequentemente irreversível [@scheffer2001]\n\nImplicação prática:\n\nAbaixo do limiar → ecossistema resiliente, restauração passiva possível\nAcima do limiar → captura em estado alternativo, intervenção ativa necessária\n\nA mesma intervenção produz resultados muito diferentes dependendo do lado do limiar\n\n\n\n\nFigura: diagrama de bola-e-taça (ball-and-cup). Fonte: Scheffer et al. (2001), Fig. 1"
+    "section": "O Conceito de “Limiar Ecológico”",
+    "text": "O Conceito de “Limiar Ecológico”\n\n\nLimiar (threshold):\n\nPonto crítico em que o ecossistema muda de trajetória de forma não-linear, rápida e frequentemente irreversível\n\nImplicação prática:\n\nAbaixo do limiar → ecossistema resiliente, restauração passiva possível\nAcima do limiar → captura em estado alternativo, intervenção ativa necessária"
   },
   {
     "objectID": "slides/semana2_slides.html#estados-alternativos-estáveis",
     "href": "slides/semana2_slides.html#estados-alternativos-estáveis",
     "title": "Bases Conceituais e Definição de Metas",
     "section": "Estados Alternativos Estáveis",
-    "text": "Estados Alternativos Estáveis\n\n\nRetroalimentação no estado florestal:\nDossel fechado\n→ suprime gramíneas invasoras\n→ mantém umidade do solo\n→ facilita recrutamento arbóreo\n→ dossel fechado ✓\nRetroalimentação no estado degradado:\nSolo exposto\n→ erosão e perda de nutrientes\n→ gramíneas exóticas dominam\n→ competem com regeneração nativa\n→ impedimento do dossel\n→ solo exposto ✓\n\n\n\n\nFigura: diagrama de estados alternativos com retroalimentações. Fonte: Suding & Hobbs (2008), Fig. 2\n\n\nCada estado é estabilizado por retroalimentações positivas que resistem à mudança"
+    "text": "Estados Alternativos Estáveis\n\n\nRetroalimentação no estado florestal:\nDossel fechado\n→ suprime gramíneas invasoras\n→ mantém umidade do solo\n→ facilita recrutamento arbóreo\n→ dossel fechado ✓\nRetroalimentação no estado degradado\n\n\n\n\nFigura: diagrama de estados alternativos com retroalimentações. Fonte: Suding & Hobbs (2008), Fig. 2\n\n\nCada estado é estabilizado por retroalimentações positivas que resistem à mudança"
   },
   {
     "objectID": "slides/semana2_slides.html#histerese-a-assimetria-fundamental",
@@ -921,7 +921,7 @@
     "href": "slides/semana2_slides.html#integrando-tudo-o-ciclo-de-metas",
     "title": "Bases Conceituais e Definição de Metas",
     "section": "Integrando Tudo: o Ciclo de Metas",
-    "text": "Integrando Tudo: o Ciclo de Metas\n\n\n4 etapas iterativas:\n\nDiagnóstico — estado atual, posição em relação a limiares\nEstado de referência — remanescentes + projeção futura\nMetas operacionais — indicadores mensuráveis + prazos\nRevisão adaptativa — monitorar, comparar, ajustar\n\nO ciclo nunca termina — é a lógica do manejo adaptativo\n\nExemplo: APP do Rio Capibaribe (PE)\n\nDiagnóstico: solo compactado, braquiária dominante, sem regeneração → limiares abiótico e biótico-competitivo\nReferência: Mata Ciliar Atlântica com remanescentes locais\nMeta ano 3: 60% cobertura nativa, &lt; 20% braquiária, 30 sp/ha\nMeta ano 10: recrutamento natural detectado, 50 sp/ha, dossel fechado"
+    "text": "Integrando Tudo: o Ciclo de Metas\n\n\n4 etapas iterativas:\n\nDiagnóstico — estado atual, posição em relação a limiares\nEstado de referência — remanescentes + projeção futura\nMetas operacionais — indicadores mensuráveis + prazos\nRevisão adaptativa — monitorar, comparar, ajustar\n\nO ciclo nunca termina — é a lógica do manejo adaptativo"
   },
   {
     "objectID": "slides/semana2_slides.html#metas-socialmente-negociadas",
@@ -1089,7 +1089,7 @@
     "href": "sessions/index.html",
     "title": "Conteúdo",
     "section": "",
-    "text": "Semana 01: Fundamentos e Princípios da Ecologia da Restauração\n\n\n\n\n\n\nFelipe Melo\n\n\nJul 29, 2026\n\n\n\n\n\n\n\n\n\n\n\nSemana 02: Bases Conceituais e Definição de Metas\n\n\nGuia de estudos cobrindo os fundamentos conceituais para a definição de metas em projetos de restauração: a tensão entre estados históricos e futuros, critérios e…\n\n\n\nFelipe Melo\n\n\nJul 29, 2026\n\n\n\n\n\n\n\n\n\n\n\nSemana 03: Dinâmica de Ecossistemas e Mudança Ambiental Rápida\n\n\nResumo de aula cobrindo os paradigmas de equilíbrio e não-equilíbrio em ecologia, o conceito de novidade ecológica, a tipologia de ecossistemas novos, e as implicações das…\n\n\n\nFelipe Melo\n\n\nJul 29, 2026\n\n\n\n\n\n\nNo matching items"
+    "text": "Semana 01: Fundamentos e Princípios da Ecologia da Restauração\n\n\n\n\n\n\nFelipe Melo\n\n\nAug 7, 2026\n\n\n\n\n\n\n\n\n\n\n\nSemana 02: Bases Conceituais e Definição de Metas\n\n\nGuia de estudos cobrindo os fundamentos conceituais para a definição de metas em projetos de restauração: a tensão entre estados históricos e futuros, critérios e…\n\n\n\nFelipe Melo\n\n\nAug 7, 2026\n\n\n\n\n\n\n\n\n\n\n\nSemana 03: Dinâmica de Ecossistemas e Mudança Ambiental Rápida\n\n\nResumo de aula cobrindo os paradigmas de equilíbrio e não-equilíbrio em ecologia, o conceito de novidade ecológica, a tipologia de ecossistemas novos, e as implicações das…\n\n\n\nFelipe Melo\n\n\nJul 29, 2026\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "syllabus.html",
@@ -1517,5 +1517,61 @@
     "title": "Usando Quarto",
     "section": "Formatos de saída",
     "text": "Formatos de saída\nDefina no YAML:\nformat:\n  html: default\n  pdf: default\n  docx: default\n\nPágina traduzida de: Andrew Heiss"
+  },
+  {
+    "objectID": "slides/semana1_slides.html#princípio-2-engajamento-de-grupos-sociais",
+    "href": "slides/semana1_slides.html#princípio-2-engajamento-de-grupos-sociais",
+    "title": "Fundamentos e Princípios da Ecologia da Restauração",
+    "section": "Princípio 2 — Engajamento de grupos sociais",
+    "text": "Princípio 2 — Engajamento de grupos sociais\n\n\nQuem deve ser engajado:\n\nComunidades locais e povos indígenas\nAgricultores familiares\nGovernos municipal, estadual, federal\nSetor privado e ONGs\n\nEngajamento ≠ consulta\n→ participação desde o planejamento\n\nPor que é técnico, não só ético:\n\nConhecimento local = dados que a ciência não tem\nProjetos sem consulta → espécies erradas\nConflitos fundiários → inviabilizam intervenções\nAbandono pós-projeto → sem manutenção"
+  },
+  {
+    "objectID": "slides/semana1_slides.html#tarefa-prévia",
+    "href": "slides/semana1_slides.html#tarefa-prévia",
+    "title": "Fundamentos e Princípios da Ecologia da Restauração",
+    "section": "Tarefa prévia",
+    "text": "Tarefa prévia\nIdentifique no Google Earth uma área degradada próxima a Recife e responda: qual estratégia do contínuo restaurativo você adotaria? Por quê?\nEntrega via Google Sala de Aula até 48h antes da aula :::\n\nQuestões para refletir:\n\nComo definir o ecossistema de referência para uma área de Caatinga no Sertão de PE?\nUm projeto de restauração de APP às margens do Rio Capibaribe deve considerar o CEL das comunidades ribeirinhas. Como operacionalizar isso?\n\n::::"
+  },
+  {
+    "objectID": "slides/semana1_slides.html#fim",
+    "href": "slides/semana1_slides.html#fim",
+    "title": "Fundamentos e Princípios da Ecologia da Restauração",
+    "section": "FIM",
+    "text": "FIM"
+  },
+  {
+    "objectID": "slides/semana1_slides.html#tarefa",
+    "href": "slides/semana1_slides.html#tarefa",
+    "title": "Fundamentos e Princípios da Ecologia da Restauração",
+    "section": "Tarefa",
+    "text": "Tarefa\nIdentifique no Google Earth uma área degradada próxima a Recife e responda: qual estratégia do contínuo restaurativo você adotaria? Por quê?\nEntrega via Google Sala de Aula até *a próxima aula**\nQuestões para refletir:\n\nComo definir o ecossistema de referência para uma área de Caatinga no Sertão de PE?\nUm projeto de restauração de APP às margens do Rio Capibaribe deve considerar o Conhecimento Ecológico Local (CEL) das comunidades ribeirinhas. Como operacionalizar isso?"
+  },
+  {
+    "objectID": "slides/semana2_slides.html#section",
+    "href": "slides/semana2_slides.html#section",
+    "title": "Bases Conceituais e Definição de Metas",
+    "section": "",
+    "text": "Ecossistema de referência dinâmico"
+  },
+  {
+    "objectID": "slides/semana2_slides.html#atributo-1-controle-de-ameaças",
+    "href": "slides/semana2_slides.html#atributo-1-controle-de-ameaças",
+    "title": "Bases Conceituais e Definição de Metas",
+    "section": "Atributo 1 — Controle de Ameaças",
+    "text": "Atributo 1 — Controle de Ameaças\n\n\nIndicadores:\n\nCobertura de espécies invasoras (%)\nPressão de herbivoria (trilhas, fezes, pastejo)\nFrequência de fogo não-manejado\n\nSem controle das ameaças, todos os outros atributos são instáveis\n\nMétodos de monitoramento:\n\nTransectos de vegetação (cobertura)\nArmadilhas fotográficas (fauna perturbadora)\nAnálise de imagens de satélite (fogo, desmatamento)\n\n\n\n\n\n\n\nDica\n\n\nRegra prática: checar ameaças antes de qualquer plantio — plantar em área sob pressão contínua é desperdício de recursos"
+  },
+  {
+    "objectID": "slides/semana2_slides.html#tarefa",
+    "href": "slides/semana2_slides.html#tarefa",
+    "title": "Bases Conceituais e Definição de Metas",
+    "section": "Tarefa",
+    "text": "Tarefa\n\nEscolha um ecossistema degradado que você conhece.\nIdentifique um limiar (biótico, abiótico ou de paisagem) presente.\nDescreva uma intervenção específica para superá-lo.\n\nMáximo 300 palavras"
+  },
+  {
+    "objectID": "slides/semana2_slides.html#fim",
+    "href": "slides/semana2_slides.html#fim",
+    "title": "Bases Conceituais e Definição de Metas",
+    "section": "FIM",
+    "text": "FIM"
   }
 ]
