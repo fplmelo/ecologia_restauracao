@@ -34,7 +34,7 @@ course-logo: img/logo_curso.png
 ::: {.g-col-12 .g-col-md-4 .contact-policy}
 ### Recursos on-line
 
-Este curso se baseia em duas principais ferramentas: 1) Este Site e; 2) [Google Sala de Aula](https://classroom.google.com/c/NzkzMjczNzA0MDMz?cjc=womqndmt) onde as tarefas devem ser submetidas.
+Este curso se baseia em duas principais ferramentas: 1) Este Site e; 2) [Google Sala de Aula](https://classroom.google.com/c/ODcxMjI4MDg1NDkz?cjc=s4nihi6w) onde as tarefas devem ser submetidas.
 
 :::
 ::::::

@@ -1,0 +1,9 @@
+---
+title: "Observatório da Restauração"
+author: ""
+---
+
+# [A Plataforma Nacional de Monitoramento da Restauração](https://observatoriodarestauracao.org.br/home)
+O Observatório é o repositório nacional dos dados de restauração. A plataforma centraliza dados e informações sobre as diversas iniciativas de restauração de ecossistemas em andamento no Brasil - originadas a partir de empresas, academia, governos e sociedade civil organizada - incluindo dados de vegetação secundária¹ que são oriundos do Mapbiomas, e contabilizados a partir de 2008 - linha de base da Lei de Proteção da Vegetação Nativa.
+
+![](/img/obs_rest.png)

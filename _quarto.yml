@@ -26,8 +26,8 @@ website:
         href: sessions/index.qmd
       # - text: "Exercícios"
       #   href: exercises/index.qmd
-      # - text: "Recursos"
-      #   href: resources/index.qmd
+      - text: "Recursos"
+        href: resources/index.qmd
       - text: "Tipo de Avaliação"
         href: avaliacao_final.qmd
       # - text: "Prova Final"

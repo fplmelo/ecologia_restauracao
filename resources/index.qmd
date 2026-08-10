@@ -1,5 +1,5 @@
 ---
-title: Lista de sites úteis
+title: Lista de materiais úteis
 listing:
   type: table
 title-block-banner: "#990000"

@@ -1,6 +1,6 @@
 ---
 title: "Cursos de R Excelentes e Gratuitos"
-author: "Felipe Melo"
+author: ""
 ---
 
 ## Tutoriais Gratuitos de R e RStudio e Recursos de Estatística
