@@ -14,10 +14,10 @@ instructor:
 course:
   number: "BO304"
   semester: "2026.1"
-  days: "Quintas-feiras"
+  days: "Terças-feiras"
   time: "10-13h"
-  location: "Sala 5 CB-UFPE"
-  dates: "2026.1"
+  location: "Niate CB- Sala 302"
+  dates: "2026.2"
   github: "https://github.com/fplmelo/ecologia_paisagens"
   url: "https://fplmelo.github.io/ecologia_paisagens/"
   copyright_year: "2026"
