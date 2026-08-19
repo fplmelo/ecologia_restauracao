@@ -1,13 +1,5 @@
 [
   {
-    "listing": "/sessions/index.html",
-    "items": [
-      "/sessions/week1/1-intro.html",
-      "/sessions/week2/2-bases-conceituais.html",
-      "/sessions/week3/3-dinamica-ecossistemas.html"
-    ]
-  },
-  {
     "listing": "/exercises/index.html",
     "items": [
       "/exercises/ex1-paisagem/ex-1.html",
@@ -21,6 +13,14 @@
     "items": [
       "/resources/r.html",
       "/resources/observ_rest.html"
+    ]
+  },
+  {
+    "listing": "/sessions/index.html",
+    "items": [
+      "/sessions/week1/1-intro.html",
+      "/sessions/week2/2-bases-conceituais.html",
+      "/sessions/week3/3-dinamica-ecossistemas.html"
     ]
   }
 ]
