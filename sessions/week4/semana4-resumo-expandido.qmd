@@ -1,0 +1,140 @@
+---
+title: "Semana 4 — Teoria Ecológica Aplicada à Restauração I"
+subtitle: "Sucessão, montagem de comunidades, dispersão e recrutamento"
+author: "Ecologia da Restauração — UFPE"
+date: last-modified
+lang: pt
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    toc-location: left
+    number-sections: true
+    # theme: cosmo
+    code-fold: false
+    smooth-scroll: true
+bibliography: refs.bib
+csl: https://www.zotero.org/styles/associacao-brasileira-de-normas-tecnicas
+nocite: |
+  @duarte2016, @guerin2013, @nave2016, @silva2023, @tymus2018, @canedoli2021, @crouzeilles2017, @elias2021, @gann2019, @ostapchuk2023, @young2005, @caiafa2023, @brasil2012, @mongabay2021, @wikipedia_restauracao_pt2026, @wikipedia_restoration_en2024, @arizona_libraries, @undecade
+---
+
+Slides da Aula
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; border-radius: 8px; margin: 20px 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <iframe src="/slides/semana4-slides.html" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
+
+## Introdução
+
+A restauração ecológica não é apenas uma técnica de plantio: é uma prática fundamentada em **teoria ecológica**. Compreender como as comunidades se formam, se recuperam e se mantêm ao longo do tempo é essencial para orientar decisões práticas — desde a escolha de espécies até a definição de qual estratégia de intervenção (ativa, passiva ou nucleadora) é mais adequada para cada contexto.
+
+Esta semana trata de quatro conceitos centrais e interligados:
+
+1. **Sucessão ecológica** — como as comunidades mudam ao longo do tempo após um distúrbio;
+2. **Montagem de comunidades (community assembly)** — quais processos determinam quais espécies coexistem em um dado local;
+3. **Dispersão** — como propágulos (sementes, esporos, indivíduos) chegam a um sítio;
+4. **Recrutamento** — como esses propágulos efetivamente se estabelecem e se tornam parte da comunidade adulta.
+
+Juntos, esses processos explicam por que alguns ecossistemas se regeneram espontaneamente enquanto outros permanecem degradados indefinidamente sem intervenção humana.
+
+## Sucessão ecológica
+
+### Conceitos clássicos
+
+A teoria da sucessão tem raízes no início do século XX, com duas visões clássicas frequentemente contrastadas:
+
+- **Clements (visão organísmica):** a comunidade se comporta como um "superorganismo" que se desenvolve em direção a um estado clímax único e previsível, determinado pelo clima regional.
+- **Gleason (visão individualista):** cada espécie responde independentemente às condições ambientais e à disponibilidade de propágulos; a comunidade é uma coleção contingente de indivíduos, não uma unidade coesa com trajetória fixa.
+
+A visão individualista de Gleason é a que melhor sustenta a ecologia da restauração contemporânea, pois explica por que trajetórias sucessionais podem variar bastante entre sítios aparentemente semelhantes.
+
+### Mecanismos de sucessão (Connell & Slatyer, 1977)
+
+Um marco na teoria de sucessão, revisitado em textos fundamentais de ecologia da restauração [@young2005], foi a proposição de três mecanismos não excludentes pelos quais espécies pioneiras influenciam a colonização por espécies posteriores:
+
+- **Facilitação:** espécies pioneiras modificam o ambiente (sombra, matéria orgânica, microclima) de forma a favorecer o estabelecimento de espécies subsequentes.
+- **Tolerância:** espécies posteriores conseguem se estabelecer independentemente da presença de pioneiras, apenas mais lentamente.
+- **Inibição:** espécies pioneiras dificultam ativamente a entrada de outras espécies (por competição, alelopatia), atrasando a sucessão até que sejam removidas por distúrbio, senescência ou herbivoria.
+
+### Sucessão primária x secundária
+
+- **Primária:** ocorre em substratos sem solo orgânico preexistente (afloramentos rochosos, depósitos vulcânicos, áreas de mineração muito degradadas). É lenta, pois depende da formação de solo.
+- **Secundária:** ocorre onde o solo e o banco de sementes/propágulos já existem, mesmo após remoção da vegetação (pastagens abandonadas, áreas de agricultura). É o cenário mais comum em projetos de restauração florestal no Brasil.
+
+### Trajetórias não lineares e estados alternativos
+
+Nem toda área degradada segue uma trajetória sucessional em direção à floresta original. Barreiras bióticas (gramíneas exóticas competitivamente dominantes, ausência de dispersores) e abióticas (solo compactado, fogo recorrente) podem travar a sucessão em um **estado estável alternativo**, exigindo intervenção ativa para "destravar" o processo — um dos princípios reconhecidos nos padrões internacionais de restauração ecológica [@gann2019].
+
+## Montagem de comunidades (Community Assembly)
+
+A teoria de montagem de comunidades busca responder: *de todas as espécies do pool regional, por que apenas um subconjunto ocorre em um determinado local?* A resposta é organizada em torno da metáfora dos **filtros ecológicos**, aplicados sequencialmente:
+
+1. **Filtro de dispersão:** a espécie precisa conseguir chegar ao local.
+2. **Filtro abiótico (ambiental):** as condições físico-químicas do sítio (solo, luz, água) precisam permitir a sobrevivência da espécie.
+3. **Filtro biótico:** interações com outras espécies já presentes (competição, predação, facilitação, patógenos) determinam se o indivíduo se estabelece e persiste.
+
+### Regras de montagem e efeitos de prioridade
+
+Além dos filtros, a **ordem de chegada** das espécies pode influenciar fortemente a composição final da comunidade — o chamado **efeito de prioridade** (priority effect). Espécies que chegam primeiro podem monopolizar recursos e alterar as condições do sítio, favorecendo ou impedindo a entrada de espécies posteriores. Isso tem implicações diretas para o planejamento de restauração: a sequência e a proporção de espécies plantadas podem direcionar a trajetória sucessional.
+
+## Dispersão
+
+A dispersão é o processo pelo qual propágulos se movem do local de origem até um novo sítio. Em paisagens fragmentadas, a dispersão é frequentemente o principal **fator limitante** da regeneração natural.
+
+### Síndromes de dispersão
+
+- **Zoocoria:** dispersão por animais (aves, morcegos, mamíferos terrestres) — predominante em florestas tropicais.
+- **Anemocoria:** dispersão pelo vento.
+- **Autocoria:** dispersão por mecanismos próprios da planta (explosão de frutos, gravidade).
+- **Hidrocoria:** dispersão pela água.
+
+A zoocoria é particularmente relevante em florestas tropicais, o que conecta diretamente a restauração à conservação da fauna dispersora — sem aves e mamíferos frugívoros, muitas espécies arbóreas de estágios avançados de sucessão simplesmente não conseguem recolonizar áreas restauradas [@tymus2018].
+
+### Limitação de dispersão
+
+O conceito de **limitação de dispersão** (dispersal limitation) descreve situações em que sementes viáveis de uma espécie não chegam a sítios ambientalmente adequados, mesmo que esses sítios pudessem sustentar a espécie caso as sementes chegassem lá. Isso é distinto da limitação por condições ambientais desfavoráveis, e a distinção tem implicações práticas centrais: se a limitação é de dispersão, medidas como poleiros artificiais, plantio de espécies atrativas para fauna e proximidade a fragmentos-fonte podem resolver o problema; se é uma limitação ambiental, isso pode exigir manejo do solo, controle de competidores ou irrigação.
+
+## Recrutamento
+
+Recrutamento é o processo pelo qual um propágulo disperso efetivamente se torna um indivíduo estabelecido na comunidade — envolvendo germinação, sobrevivência de plântula e crescimento até estágios menos vulneráveis.
+
+### O modelo de Nathan & Muller-Landau
+
+Um marco conceitual amplamente utilizado separa o recrutamento em dois componentes sequenciais:
+
+- **Limitação de dispersão:** a semente não chega ao sítio.
+- **Limitação de estabelecimento (ou recrutamento propriamente dito):** mesmo chegando, a semente não germina, ou a plântula não sobrevive, devido a condições de solo, luz, predação de sementes, herbivoria ou patógenos.
+
+Essa distinção é fundamental porque orienta diagnósticos práticos em projetos de restauração: uma área pode ter alta chegada de sementes (baixa limitação de dispersão) mas baixíssimo recrutamento efetivo devido a predação intensa por roedores ou formigas cortadeiras, ou à dominância de gramíneas exóticas que impedem a germinação.
+
+### Banco de sementes e banco de plântulas
+
+- **Banco de sementes do solo:** reservatório de sementes viáveis armazenadas no solo, que pode manter dormência por anos. É uma fonte importante de regeneração secundária, mas se esgota ou se torna dominado por espécies pioneiras/invasoras em áreas com histórico de uso intensivo.
+- **Banco de plântulas:** conjunto de plântulas já estabelecidas no sub-bosque, aguardando condições (clareiras) para crescer até o dossel.
+
+## Conectando teoria e prática: implicações para a restauração
+
+A integração desses quatro conceitos fundamenta a escolha entre diferentes estratégias de restauração:
+
+- **Regeneração natural (passiva):** viável quando dispersão e recrutamento não são fortemente limitados — proximidade de fragmentos-fonte, presença de fauna dispersora, banco de sementes/plântulas ativo, ausência de barreiras bióticas fortes.
+- **Restauração ativa (plantio):** necessária quando há limitação severa de dispersão e/ou recrutamento — paisagens muito fragmentadas, solos degradados, dominância de gramíneas exóticas.
+- **Nucleação:** técnicas como poleiros artificiais, ilhas de alta diversidade e transposição de solo/serapilheira atuam diretamente sobre os filtros de dispersão e recrutamento, "adiantando" etapas da sucessão sem exigir o plantio de toda a área [@nave2016].
+
+Meta-análises amplas mostram que, em florestas tropicais, a regeneração natural frequentemente apresenta maior sucesso relativo de restauração (biodiversidade e estrutura) por unidade de custo quando comparada à restauração ativa [@crouzeilles2017], o que reforça a importância de diagnosticar corretamente quais filtros (dispersão, ambiental, biótico) estão de fato limitando a regeneração em cada sítio antes de decidir a estratégia de intervenção.
+
+## Síntese
+
+| Conceito | Pergunta-chave | Implicação prática |
+|---|---|---|
+| Sucessão | Como a comunidade muda ao longo do tempo? | Define expectativas de trajetória e tempo de recuperação |
+| Montagem de comunidades | Quais filtros determinam quem coexiste? | Orienta diagnóstico de barreiras (dispersão, solo, biótica) |
+| Dispersão | Os propágulos conseguem chegar ao sítio? | Justifica poleiros, conectividade, proximidade de fontes |
+| Recrutamento | Os propágulos que chegam se estabelecem? | Justifica manejo de solo, controle de competidores, proteção contra predação |
+
+## Referências
+
+::: {#refs}
+:::
+
+

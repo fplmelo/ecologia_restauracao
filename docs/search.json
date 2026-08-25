@@ -1355,6 +1355,181 @@
     "href": "sessions/index.html",
     "title": "Conteúdo",
     "section": "",
-    "text": "Semana 01: Fundamentos e Princípios da Ecologia da Restauração\n\n\n\n\n\n\nFelipe Melo\n\n\nAug 10, 2026\n\n\n\n\n\n\n\n\n\n\n\nSemana 02: Bases Conceituais e Definição de Metas\n\n\nGuia de estudos cobrindo os fundamentos conceituais para a definição de metas em projetos de restauração: a tensão entre estados históricos e futuros, critérios e…\n\n\n\nFelipe Melo\n\n\nAug 10, 2026\n\n\n\n\n\n\n\n\n\n\n\nSemana 03: Dinâmica de Ecossistemas e Mudança Ambiental Rápida\n\n\nResumo de aula cobrindo os paradigmas de equilíbrio e não-equilíbrio em ecologia, o conceito de novidade ecológica, a tipologia de ecossistemas novos, e as implicações das…\n\n\n\nFelipe Melo\n\n\nAug 10, 2026\n\n\n\n\n\n\nNo matching items"
+    "text": "Semana 01: Fundamentos e Princípios da Ecologia da Restauração\n\n\n\n\n\n\nFelipe Melo\n\n\nAug 20, 2026\n\n\n\n\n\n\n\n\n\n\n\nSemana 02: Bases Conceituais e Definição de Metas\n\n\nGuia de estudos cobrindo os fundamentos conceituais para a definição de metas em projetos de restauração: a tensão entre estados históricos e futuros, critérios e…\n\n\n\nFelipe Melo\n\n\nAug 10, 2026\n\n\n\n\n\n\n\n\n\n\n\nSemana 03: Dinâmica de Ecossistemas e Mudança Ambiental Rápida\n\n\nResumo de aula cobrindo os paradigmas de equilíbrio e não-equilíbrio em ecologia, o conceito de novidade ecológica, a tipologia de ecossistemas novos, e as implicações das…\n\n\n\nFelipe Melo\n\n\nAug 10, 2026\n\n\n\n\n\n\n\n\n\n\n\nSemana 4 — Teoria Ecológica Aplicada à Restauração I\n\n\n\n\n\n\nEcologia da Restauração — UFPE\n\n\nAug 25, 2026\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "sessions/week4/semana4-resumo-expandido.html",
+    "href": "sessions/week4/semana4-resumo-expandido.html",
+    "title": "Semana 4 — Teoria Ecológica Aplicada à Restauração I",
+    "section": "",
+    "text": "Slides da Aula"
+  },
+  {
+    "objectID": "sessions/week4/semana4-resumo-expandido.html#introdução",
+    "href": "sessions/week4/semana4-resumo-expandido.html#introdução",
+    "title": "Semana 4 — Teoria Ecológica Aplicada à Restauração I",
+    "section": "1 Introdução",
+    "text": "1 Introdução\nA restauração ecológica não é apenas uma técnica de plantio: é uma prática fundamentada em teoria ecológica. Compreender como as comunidades se formam, se recuperam e se mantêm ao longo do tempo é essencial para orientar decisões práticas — desde a escolha de espécies até a definição de qual estratégia de intervenção (ativa, passiva ou nucleadora) é mais adequada para cada contexto.\nEsta semana trata de quatro conceitos centrais e interligados:\n\nSucessão ecológica — como as comunidades mudam ao longo do tempo após um distúrbio;\nMontagem de comunidades (community assembly) — quais processos determinam quais espécies coexistem em um dado local;\nDispersão — como propágulos (sementes, esporos, indivíduos) chegam a um sítio;\nRecrutamento — como esses propágulos efetivamente se estabelecem e se tornam parte da comunidade adulta.\n\nJuntos, esses processos explicam por que alguns ecossistemas se regeneram espontaneamente enquanto outros permanecem degradados indefinidamente sem intervenção humana."
+  },
+  {
+    "objectID": "sessions/week4/semana4-resumo-expandido.html#sucessão-ecológica",
+    "href": "sessions/week4/semana4-resumo-expandido.html#sucessão-ecológica",
+    "title": "Semana 4 — Teoria Ecológica Aplicada à Restauração I",
+    "section": "2 Sucessão ecológica",
+    "text": "2 Sucessão ecológica\n\n2.1 Conceitos clássicos\nA teoria da sucessão tem raízes no início do século XX, com duas visões clássicas frequentemente contrastadas:\n\nClements (visão organísmica): a comunidade se comporta como um “superorganismo” que se desenvolve em direção a um estado clímax único e previsível, determinado pelo clima regional.\nGleason (visão individualista): cada espécie responde independentemente às condições ambientais e à disponibilidade de propágulos; a comunidade é uma coleção contingente de indivíduos, não uma unidade coesa com trajetória fixa.\n\nA visão individualista de Gleason é a que melhor sustenta a ecologia da restauração contemporânea, pois explica por que trajetórias sucessionais podem variar bastante entre sítios aparentemente semelhantes.\n\n\n2.2 Mecanismos de sucessão (Connell & Slatyer, 1977)\nUm marco na teoria de sucessão, revisitado em textos fundamentais de ecologia da restauração (Young; Petersen; Clary, 2005), foi a proposição de três mecanismos não excludentes pelos quais espécies pioneiras influenciam a colonização por espécies posteriores:\n\nFacilitação: espécies pioneiras modificam o ambiente (sombra, matéria orgânica, microclima) de forma a favorecer o estabelecimento de espécies subsequentes.\nTolerância: espécies posteriores conseguem se estabelecer independentemente da presença de pioneiras, apenas mais lentamente.\nInibição: espécies pioneiras dificultam ativamente a entrada de outras espécies (por competição, alelopatia), atrasando a sucessão até que sejam removidas por distúrbio, senescência ou herbivoria.\n\n\n\n2.3 Sucessão primária x secundária\n\nPrimária: ocorre em substratos sem solo orgânico preexistente (afloramentos rochosos, depósitos vulcânicos, áreas de mineração muito degradadas). É lenta, pois depende da formação de solo.\nSecundária: ocorre onde o solo e o banco de sementes/propágulos já existem, mesmo após remoção da vegetação (pastagens abandonadas, áreas de agricultura). É o cenário mais comum em projetos de restauração florestal no Brasil.\n\n\n\n2.4 Trajetórias não lineares e estados alternativos\nNem toda área degradada segue uma trajetória sucessional em direção à floresta original. Barreiras bióticas (gramíneas exóticas competitivamente dominantes, ausência de dispersores) e abióticas (solo compactado, fogo recorrente) podem travar a sucessão em um estado estável alternativo, exigindo intervenção ativa para “destravar” o processo — um dos princípios reconhecidos nos padrões internacionais de restauração ecológica (Gann et al., 2019)."
+  },
+  {
+    "objectID": "sessions/week4/semana4-resumo-expandido.html#montagem-de-comunidades-community-assembly",
+    "href": "sessions/week4/semana4-resumo-expandido.html#montagem-de-comunidades-community-assembly",
+    "title": "Semana 4 — Teoria Ecológica Aplicada à Restauração I",
+    "section": "3 Montagem de comunidades (Community Assembly)",
+    "text": "3 Montagem de comunidades (Community Assembly)\nA teoria de montagem de comunidades busca responder: de todas as espécies do pool regional, por que apenas um subconjunto ocorre em um determinado local? A resposta é organizada em torno da metáfora dos filtros ecológicos, aplicados sequencialmente:\n\nFiltro de dispersão: a espécie precisa conseguir chegar ao local.\nFiltro abiótico (ambiental): as condições físico-químicas do sítio (solo, luz, água) precisam permitir a sobrevivência da espécie.\nFiltro biótico: interações com outras espécies já presentes (competição, predação, facilitação, patógenos) determinam se o indivíduo se estabelece e persiste.\n\n\n3.1 Regras de montagem e efeitos de prioridade\nAlém dos filtros, a ordem de chegada das espécies pode influenciar fortemente a composição final da comunidade — o chamado efeito de prioridade (priority effect). Espécies que chegam primeiro podem monopolizar recursos e alterar as condições do sítio, favorecendo ou impedindo a entrada de espécies posteriores. Isso tem implicações diretas para o planejamento de restauração: a sequência e a proporção de espécies plantadas podem direcionar a trajetória sucessional."
+  },
+  {
+    "objectID": "sessions/week4/semana4-resumo-expandido.html#dispersão",
+    "href": "sessions/week4/semana4-resumo-expandido.html#dispersão",
+    "title": "Semana 4 — Teoria Ecológica Aplicada à Restauração I",
+    "section": "4 Dispersão",
+    "text": "4 Dispersão\nA dispersão é o processo pelo qual propágulos se movem do local de origem até um novo sítio. Em paisagens fragmentadas, a dispersão é frequentemente o principal fator limitante da regeneração natural.\n\n4.1 Síndromes de dispersão\n\nZoocoria: dispersão por animais (aves, morcegos, mamíferos terrestres) — predominante em florestas tropicais.\nAnemocoria: dispersão pelo vento.\nAutocoria: dispersão por mecanismos próprios da planta (explosão de frutos, gravidade).\nHidrocoria: dispersão pela água.\n\nA zoocoria é particularmente relevante em florestas tropicais, o que conecta diretamente a restauração à conservação da fauna dispersora — sem aves e mamíferos frugívoros, muitas espécies arbóreas de estágios avançados de sucessão simplesmente não conseguem recolonizar áreas restauradas (Tymus et al., 2018).\n\n\n4.2 Limitação de dispersão\nO conceito de limitação de dispersão (dispersal limitation) descreve situações em que sementes viáveis de uma espécie não chegam a sítios ambientalmente adequados, mesmo que esses sítios pudessem sustentar a espécie caso as sementes chegassem lá. Isso é distinto da limitação por condições ambientais desfavoráveis, e a distinção tem implicações práticas centrais: se a limitação é de dispersão, medidas como poleiros artificiais, plantio de espécies atrativas para fauna e proximidade a fragmentos-fonte podem resolver o problema; se é uma limitação ambiental, isso pode exigir manejo do solo, controle de competidores ou irrigação."
+  },
+  {
+    "objectID": "sessions/week4/semana4-resumo-expandido.html#recrutamento",
+    "href": "sessions/week4/semana4-resumo-expandido.html#recrutamento",
+    "title": "Semana 4 — Teoria Ecológica Aplicada à Restauração I",
+    "section": "5 Recrutamento",
+    "text": "5 Recrutamento\nRecrutamento é o processo pelo qual um propágulo disperso efetivamente se torna um indivíduo estabelecido na comunidade — envolvendo germinação, sobrevivência de plântula e crescimento até estágios menos vulneráveis.\n\n5.1 O modelo de Nathan & Muller-Landau\nUm marco conceitual amplamente utilizado separa o recrutamento em dois componentes sequenciais:\n\nLimitação de dispersão: a semente não chega ao sítio.\nLimitação de estabelecimento (ou recrutamento propriamente dito): mesmo chegando, a semente não germina, ou a plântula não sobrevive, devido a condições de solo, luz, predação de sementes, herbivoria ou patógenos.\n\nEssa distinção é fundamental porque orienta diagnósticos práticos em projetos de restauração: uma área pode ter alta chegada de sementes (baixa limitação de dispersão) mas baixíssimo recrutamento efetivo devido a predação intensa por roedores ou formigas cortadeiras, ou à dominância de gramíneas exóticas que impedem a germinação.\n\n\n5.2 Banco de sementes e banco de plântulas\n\nBanco de sementes do solo: reservatório de sementes viáveis armazenadas no solo, que pode manter dormência por anos. É uma fonte importante de regeneração secundária, mas se esgota ou se torna dominado por espécies pioneiras/invasoras em áreas com histórico de uso intensivo.\nBanco de plântulas: conjunto de plântulas já estabelecidas no sub-bosque, aguardando condições (clareiras) para crescer até o dossel."
+  },
+  {
+    "objectID": "sessions/week4/semana4-resumo-expandido.html#conectando-teoria-e-prática-implicações-para-a-restauração",
+    "href": "sessions/week4/semana4-resumo-expandido.html#conectando-teoria-e-prática-implicações-para-a-restauração",
+    "title": "Semana 4 — Teoria Ecológica Aplicada à Restauração I",
+    "section": "6 Conectando teoria e prática: implicações para a restauração",
+    "text": "6 Conectando teoria e prática: implicações para a restauração\nA integração desses quatro conceitos fundamenta a escolha entre diferentes estratégias de restauração:\n\nRegeneração natural (passiva): viável quando dispersão e recrutamento não são fortemente limitados — proximidade de fragmentos-fonte, presença de fauna dispersora, banco de sementes/plântulas ativo, ausência de barreiras bióticas fortes.\nRestauração ativa (plantio): necessária quando há limitação severa de dispersão e/ou recrutamento — paisagens muito fragmentadas, solos degradados, dominância de gramíneas exóticas.\nNucleação: técnicas como poleiros artificiais, ilhas de alta diversidade e transposição de solo/serapilheira atuam diretamente sobre os filtros de dispersão e recrutamento, “adiantando” etapas da sucessão sem exigir o plantio de toda a área (Nave et al., 2016).\n\nMeta-análises amplas mostram que, em florestas tropicais, a regeneração natural frequentemente apresenta maior sucesso relativo de restauração (biodiversidade e estrutura) por unidade de custo quando comparada à restauração ativa (Crouzeilles et al., 2017), o que reforça a importância de diagnosticar corretamente quais filtros (dispersão, ambiental, biótico) estão de fato limitando a regeneração em cada sítio antes de decidir a estratégia de intervenção."
+  },
+  {
+    "objectID": "sessions/week4/semana4-resumo-expandido.html#síntese",
+    "href": "sessions/week4/semana4-resumo-expandido.html#síntese",
+    "title": "Semana 4 — Teoria Ecológica Aplicada à Restauração I",
+    "section": "7 Síntese",
+    "text": "7 Síntese\n\n\n\n\n\n\n\n\nConceito\nPergunta-chave\nImplicação prática\n\n\n\n\nSucessão\nComo a comunidade muda ao longo do tempo?\nDefine expectativas de trajetória e tempo de recuperação\n\n\nMontagem de comunidades\nQuais filtros determinam quem coexiste?\nOrienta diagnóstico de barreiras (dispersão, solo, biótica)\n\n\nDispersão\nOs propágulos conseguem chegar ao sítio?\nJustifica poleiros, conectividade, proximidade de fontes\n\n\nRecrutamento\nOs propágulos que chegam se estabelecem?\nJustifica manejo de solo, controle de competidores, proteção contra predação"
+  },
+  {
+    "objectID": "sessions/week4/semana4-resumo-expandido.html#referências",
+    "href": "sessions/week4/semana4-resumo-expandido.html#referências",
+    "title": "Semana 4 — Teoria Ecológica Aplicada à Restauração I",
+    "section": "8 Referências",
+    "text": "8 Referências\n\n\nBRASIL. Lei nº 12.651, de 25 de maio de 2012. Dispõe sobre a proteção da vegetação nativa (Código Florestal Brasileiro). Brasília, DFDiário Oficial da União, 2012.\n\n\nCAIAFA, Alessandra Nasser et al. Expectativa e realidade sobre os cursos em restauração de ecossistemas no Brasil: diagnóstico para apoio ao desenvolvimento de políticas públicas. Londrina, PR: Sociedade Brasileira de Restauração Ecológica (SOBRE), 2023.\n\n\nCANEDOLI, Claudia et al. Re-Naturing the City: Linking Urban Political Ecology and Cultural Ecosystem Services. Sustainability, v. 13, n. 4, p. 1786, 2021.\n\n\nCROUZEILLES, Renato et al. Ecological restoration success is higher for natural regeneration than for active restoration in tropical forests. Science Advances, v. 3, n. 11, p. e1701345, 2017.\n\n\nDUARTE, Edson Ferreira. Recursos e estratégias para a restauração florestal: ações para o Recôncavo da Bahia. Cruz das Almas, BA: EDUFRB, 2016. p. 154\n\n\nELIAS, Marlène; SIGMAN, Elizabeth; et al. Restoration for Whom, by Whom? A Feminist Political Ecology of Restoration. Ecological Restoration, v. 39, n. 1-2, p. 3–26, 2021.\n\n\nGANN, George D. et al. International principles and standards for the practice of ecological restoration. Restoration Ecology, v. 27, n. S1, p. S1–S46, 2019.\n\n\nGUERIN, Natalia; ISERNHAGEN, Ingo. Plantar, criar e conservar: unindo produtividade e meio ambiente. São Paulo: Instituto Socioambiental (ISA); Brasília, DF: Embrapa, 2013. p. 143\n\n\nMONGABAY. New restoration \"Playbook\" calls for political, economic, and social change. Mongabay Environmental News, 2021.\n\n\nNAVE, André Gustavo et al. Manual de Restauração Ecológica: técnicos e produtores rurais no Extremo Sul da Bahia. Piracicaba, SP: Bioflora / LERF / LASTROP / ESALQ-USP; Salvador, BA: Ministério Público do Estado da Bahia (MPBA), 2016. p. 48\n\n\nOSTAPCHUK, S. M. et al. Assessment of resilience and recovery potential of regional ecosystems under extreme conditions and sustainable management models. Em: Kyiv, Ukraine: European Association of Geoscientists & Engineers, 2023.\n\n\nSILVA, Thiago Cardoso et al. Guia metodológico para monitoramento do carbono em plantios mistos de recuperação da cobertura florestal na Amazônia. 1. ed. Porto Velho, RO: Ecoporé: Editora da Universidade Federal de Rondônia (UNIR), 2023.\n\n\nTYMUS, Julio Ricardo Caetano et al. Restauração da vegetação nativa no Brasil: caracterização de técnicas e estimativas de custo como subsídio a programas e políticas públicas e privadas de restauração em larga escala. Brasília, DF: The Nature Conservancy (TNC) / IPEA / Embrapa, 2018. p. 72\n\n\nUN DECADE ON ECOSYSTEM RESTORATION. Sobre a década da ONU (2021-2030). Organização das Nações Unidas / UNEP, [S.d.]. Disponível em: &lt;https://www.decadeonrestoration.org/pt-br/sobre-decada-da-onu&gt;\n\n\nUNIVERSITY OF ARIZONA LIBRARIES. Power theories in political ecology. Tucson, AZJournal of Political Ecology, University of Arizona Libraries, [S.d.].\n\n\nWIKIMEDIA FOUNDATION. Ecological restoration. FlóridaWikipedia, the free encyclopedia, 2024. Acesso em: 2024\n\n\nWIKIMEDIA FOUNDATION. Restauração ecológica. FlóridaWikipédia, a enciclopédia livre, 2026. Disponível em: &lt;https://pt.wikipedia.org/wiki/Restauração_ecológica&gt;. Acesso em: 2026\n\n\nYOUNG, Truman P.; PETERSEN, D. A.; CLARY, J. J. The ecology of restoration: historical links, emerging issues and unexplored realms. Ecology Letters, v. 8, n. 6, p. 662–673, 2005."
+  },
+  {
+    "objectID": "slides/semana4-slides.html",
+    "href": "slides/semana4-slides.html",
+    "title": "Teoria Ecológica Aplicada à Restauração I",
+    "section": "",
+    "text": "Restauração não é só “plantar árvores”\nÉ preciso entender como comunidades se formam e se recuperam\nQuatro conceitos-chave desta semana:\n\nSucessão ecológica\nMontagem de comunidades\nDispersão\nRecrutamento"
+  },
+  {
+    "objectID": "slides/semana4-slides.html#por-que-teoria-importa",
+    "href": "slides/semana4-slides.html#por-que-teoria-importa",
+    "title": "Teoria Ecológica Aplicada à Restauração I",
+    "section": "Por que teoria importa?",
+    "text": "Por que teoria importa?\n\nRestauração não é só “plantar árvores”\nÉ preciso entender como comunidades se formam e se recuperam\nQuatro conceitos-chave desta semana:\n\nSucessão ecológica\nMontagem de comunidades\nDispersão\nRecrutamento"
+  },
+  {
+    "objectID": "slides/semana4-slides.html#duas-visões-clássicas",
+    "href": "slides/semana4-slides.html#duas-visões-clássicas",
+    "title": "Teoria Ecológica Aplicada à Restauração I",
+    "section": "Duas visões clássicas",
+    "text": "Duas visões clássicas\n\nClements: comunidade como “superorganismo”, trajetória única e previsível rumo ao clímax\nGleason: visão individualista — cada espécie responde por conta própria; comunidade é contingente\n\n\nA visão de Gleason é a que melhor sustenta a restauração moderna, pois explica variação entre sítios semelhantes."
+  },
+  {
+    "objectID": "slides/semana4-slides.html#mecanismos-de-connell-slatyer-1977",
+    "href": "slides/semana4-slides.html#mecanismos-de-connell-slatyer-1977",
+    "title": "Teoria Ecológica Aplicada à Restauração I",
+    "section": "Mecanismos de Connell & Slatyer (1977)",
+    "text": "Mecanismos de Connell & Slatyer (1977)\n\n\n\n\n\n\n\nMecanismo\nO que faz\n\n\n\n\nFacilitação\nPioneira melhora o ambiente para as próximas espécies\n\n\nTolerância\nEspécies posteriores se estabelecem independente das pioneiras\n\n\nInibição\nPioneira dificulta a entrada de outras espécies"
+  },
+  {
+    "objectID": "slides/semana4-slides.html#primária-x-secundária",
+    "href": "slides/semana4-slides.html#primária-x-secundária",
+    "title": "Teoria Ecológica Aplicada à Restauração I",
+    "section": "Primária x Secundária",
+    "text": "Primária x Secundária\n\nSucessão primária: sem solo orgânico prévio (rocha nua, mineração severa) → lenta\nSucessão secundária: solo/banco de sementes já existem (pastagem abandonada) → cenário mais comum no Brasil"
+  },
+  {
+    "objectID": "slides/semana4-slides.html#trajetórias-não-lineares",
+    "href": "slides/semana4-slides.html#trajetórias-não-lineares",
+    "title": "Teoria Ecológica Aplicada à Restauração I",
+    "section": "Trajetórias não lineares",
+    "text": "Trajetórias não lineares\n\nNem toda área “caminha sozinha” rumo à floresta original\nBarreiras bióticas e abióticas podem travar a sucessão\nResultado: estado estável alternativo\nPode exigir intervenção ativa para destravar"
+  },
+  {
+    "objectID": "slides/semana4-slides.html#a-metáfora-dos-filtros",
+    "href": "slides/semana4-slides.html#a-metáfora-dos-filtros",
+    "title": "Teoria Ecológica Aplicada à Restauração I",
+    "section": "A metáfora dos filtros",
+    "text": "A metáfora dos filtros\n\nFiltro de dispersão — a espécie consegue chegar?\nFiltro abiótico — as condições físicas permitem sobreviver?\nFiltro biótico — interações com outras espécies permitem persistir?"
+  },
+  {
+    "objectID": "slides/semana4-slides.html#efeito-de-prioridade",
+    "href": "slides/semana4-slides.html#efeito-de-prioridade",
+    "title": "Teoria Ecológica Aplicada à Restauração I",
+    "section": "Efeito de prioridade",
+    "text": "Efeito de prioridade\n\nA ordem de chegada das espécies importa\nQuem chega primeiro pode monopolizar recursos\nImplicação prática: sequência e proporção de espécies plantadas pode direcionar a trajetória sucessional"
+  },
+  {
+    "objectID": "slides/semana4-slides.html#síndromes-de-dispersão",
+    "href": "slides/semana4-slides.html#síndromes-de-dispersão",
+    "title": "Teoria Ecológica Aplicada à Restauração I",
+    "section": "Síndromes de dispersão",
+    "text": "Síndromes de dispersão\n\nZoocoria — animais (predominante em florestas tropicais)\nAnemocoria — vento\nAutocoria — mecanismo próprio da planta\nHidrocoria — água"
+  },
+  {
+    "objectID": "slides/semana4-slides.html#limitação-de-dispersão",
+    "href": "slides/semana4-slides.html#limitação-de-dispersão",
+    "title": "Teoria Ecológica Aplicada à Restauração I",
+    "section": "Limitação de dispersão",
+    "text": "Limitação de dispersão\n\nSementes viáveis não chegam a sítios ambientalmente adequados\nDiferente de limitação ambiental!\nDiagnóstico correto define a solução:\n\nLimitação de dispersão → poleiros, conectividade, espécies atrativas à fauna\nLimitação ambiental → manejo de solo, controle de competidores"
+  },
+  {
+    "objectID": "slides/semana4-slides.html#modelo-de-nathan-muller-landau",
+    "href": "slides/semana4-slides.html#modelo-de-nathan-muller-landau",
+    "title": "Teoria Ecológica Aplicada à Restauração I",
+    "section": "Modelo de Nathan & Muller-Landau",
+    "text": "Modelo de Nathan & Muller-Landau\n\nLimitação de dispersão: a semente não chega\nLimitação de estabelecimento: chega, mas não germina/sobrevive\n\nPredação de sementes\nHerbivoria\nCompetição com gramíneas exóticas\nCondições de solo/luz inadequadas"
+  },
+  {
+    "objectID": "slides/semana4-slides.html#bancos-de-regeneração",
+    "href": "slides/semana4-slides.html#bancos-de-regeneração",
+    "title": "Teoria Ecológica Aplicada à Restauração I",
+    "section": "Bancos de regeneração",
+    "text": "Bancos de regeneração\n\nBanco de sementes do solo: reservatório viável, pode durar anos\nBanco de plântulas: plântulas já estabelecidas, aguardando clareiras"
+  },
+  {
+    "objectID": "slides/semana4-slides.html#qual-estratégia-usar",
+    "href": "slides/semana4-slides.html#qual-estratégia-usar",
+    "title": "Teoria Ecológica Aplicada à Restauração I",
+    "section": "Qual estratégia usar?",
+    "text": "Qual estratégia usar?\n\n\n\n\n\n\n\nSituação\nEstratégia indicada\n\n\n\n\nBaixa limitação de dispersão/recrutamento\nRegeneração natural (passiva)\n\n\nAlta limitação de dispersão e/ou recrutamento\nRestauração ativa (plantio)\n\n\nLimitação pontual, paisagem parcialmente conectada\nNucleação (poleiros, ilhas de diversidade)"
+  },
+  {
+    "objectID": "slides/semana4-slides.html#o-que-diz-a-evidência",
+    "href": "slides/semana4-slides.html#o-que-diz-a-evidência",
+    "title": "Teoria Ecológica Aplicada à Restauração I",
+    "section": "O que diz a evidência",
+    "text": "O que diz a evidência\n\nMeta-análises em florestas tropicais indicam maior sucesso relativo da regeneração natural por unidade de custo, comparada à restauração ativa\nReforça a importância de diagnosticar os filtros antes de escolher a estratégia"
+  },
+  {
+    "objectID": "slides/semana4-slides.html#síntese-da-semana",
+    "href": "slides/semana4-slides.html#síntese-da-semana",
+    "title": "Teoria Ecológica Aplicada à Restauração I",
+    "section": "Síntese da semana",
+    "text": "Síntese da semana\n\nSucessão: como a comunidade muda no tempo\nMontagem: quais filtros definem quem coexiste\nDispersão: os propágulos chegam?\nRecrutamento: os propágulos se estabelecem?\n\n\nDiagnosticar corretamente esses processos é o que orienta decisões de restauração no campo."
+  },
+  {
+    "objectID": "slides/semana4-slides.html#referências-principais",
+    "href": "slides/semana4-slides.html#referências-principais",
+    "title": "Teoria Ecológica Aplicada à Restauração I",
+    "section": "Referências principais",
+    "text": "Referências principais\n\nCROUZEILLES et al. (2017) — Science Advances\nGANN et al. (2019) — Restoration Ecology\nNAVE et al. (2016) — Manual de Restauração Ecológica\nTYMUS et al. (2018) — Restauração da vegetação nativa no Brasil\nYOUNG; PETERSEN; CLARY (2005) — Ecology Letters"
   }
 ]
