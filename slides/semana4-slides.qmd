@@ -1,0 +1,153 @@
+---
+title: "Teoria Ecológica Aplicada à Restauração I"
+subtitle: "Sucessão, montagem de comunidades, dispersão e recrutamento"
+author: "Ecologia da Restauração — UFPE — Semana 4"
+date: today
+lang: pt
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    transition: slide
+    incremental: false
+    chalkboard: true
+    footer: "Ecologia da Restauração — Semana 4"
+---
+
+## Por que teoria importa? {.center}
+
+- Restauração não é só "plantar árvores"
+- É preciso entender **como comunidades se formam e se recuperam**
+- Quatro conceitos-chave desta semana:
+  1. Sucessão ecológica
+  2. Montagem de comunidades
+  3. Dispersão
+  4. Recrutamento
+
+---
+
+# 1. Sucessão ecológica
+
+## Duas visões clássicas
+
+::: {.incremental}
+- **Clements**: comunidade como "superorganismo", trajetória única e previsível rumo ao clímax
+- **Gleason**: visão individualista — cada espécie responde por conta própria; comunidade é contingente
+:::
+
+::: {.notes}
+A visão de Gleason é a que melhor sustenta a restauração moderna, pois explica variação entre sítios semelhantes.
+:::
+
+## Mecanismos de Connell & Slatyer (1977)
+
+| Mecanismo | O que faz |
+|---|---|
+| **Facilitação** | Pioneira melhora o ambiente para as próximas espécies |
+| **Tolerância** | Espécies posteriores se estabelecem independente das pioneiras |
+| **Inibição** | Pioneira dificulta a entrada de outras espécies |
+
+## Primária x Secundária
+
+- **Sucessão primária**: sem solo orgânico prévio (rocha nua, mineração severa) → lenta
+- **Sucessão secundária**: solo/banco de sementes já existem (pastagem abandonada) → cenário mais comum no Brasil
+
+## Trajetórias não lineares
+
+- Nem toda área "caminha sozinha" rumo à floresta original
+- Barreiras bióticas e abióticas podem travar a sucessão
+- Resultado: **estado estável alternativo**
+- Pode exigir intervenção ativa para destravar
+
+---
+
+# 2. Montagem de comunidades
+
+## A metáfora dos filtros
+
+::: {.incremental}
+1. **Filtro de dispersão** — a espécie consegue chegar?
+2. **Filtro abiótico** — as condições físicas permitem sobreviver?
+3. **Filtro biótico** — interações com outras espécies permitem persistir?
+:::
+
+## Efeito de prioridade
+
+- A **ordem de chegada** das espécies importa
+- Quem chega primeiro pode monopolizar recursos
+- Implicação prática: sequência e proporção de espécies plantadas pode direcionar a trajetória sucessional
+
+---
+
+# 3. Dispersão
+
+## Síndromes de dispersão
+
+- **Zoocoria** — animais (predominante em florestas tropicais)
+- **Anemocoria** — vento
+- **Autocoria** — mecanismo próprio da planta
+- **Hidrocoria** — água
+
+## Limitação de dispersão
+
+- Sementes viáveis não chegam a sítios ambientalmente adequados
+- Diferente de limitação ambiental!
+- Diagnóstico correto define a solução:
+  - Limitação de dispersão → poleiros, conectividade, espécies atrativas à fauna
+  - Limitação ambiental → manejo de solo, controle de competidores
+
+---
+
+# 4. Recrutamento
+
+## Modelo de Nathan & Muller-Landau
+
+::: {.incremental}
+- **Limitação de dispersão**: a semente não chega
+- **Limitação de estabelecimento**: chega, mas não germina/sobrevive
+  - Predação de sementes
+  - Herbivoria
+  - Competição com gramíneas exóticas
+  - Condições de solo/luz inadequadas
+:::
+
+## Bancos de regeneração
+
+- **Banco de sementes do solo**: reservatório viável, pode durar anos
+- **Banco de plântulas**: plântulas já estabelecidas, aguardando clareiras
+
+---
+
+# Integrando teoria e prática
+
+## Qual estratégia usar?
+
+| Situação | Estratégia indicada |
+|---|---|
+| Baixa limitação de dispersão/recrutamento | Regeneração natural (passiva) |
+| Alta limitação de dispersão e/ou recrutamento | Restauração ativa (plantio) |
+| Limitação pontual, paisagem parcialmente conectada | Nucleação (poleiros, ilhas de diversidade) |
+
+## O que diz a evidência
+
+- Meta-análises em florestas tropicais indicam maior sucesso relativo da **regeneração natural** por unidade de custo, comparada à restauração ativa
+- Reforça a importância de **diagnosticar os filtros** antes de escolher a estratégia
+
+---
+
+## Síntese da semana {.center}
+
+- **Sucessão**: como a comunidade muda no tempo
+- **Montagem**: quais filtros definem quem coexiste
+- **Dispersão**: os propágulos chegam?
+- **Recrutamento**: os propágulos se estabelecem?
+
+> Diagnosticar corretamente esses processos é o que orienta decisões de restauração no campo.
+
+## Referências principais
+
+- CROUZEILLES et al. (2017) — *Science Advances*
+- GANN et al. (2019) — *Restoration Ecology*
+- NAVE et al. (2016) — Manual de Restauração Ecológica
+- TYMUS et al. (2018) — Restauração da vegetação nativa no Brasil
+- YOUNG; PETERSEN; CLARY (2005) — *Ecology Letters*
