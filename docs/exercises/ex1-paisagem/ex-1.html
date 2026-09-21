@@ -1,22 +1,25 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="pt-br" xml:lang="pt-br"><head>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pt" xml:lang="pt"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.38">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Felipe Melo">
+<meta name="author" content="Ecologia da Restauração — UFPE">
 
-<title>Exercício 1: O Mosaico no Lance de Vista</title>
+<title>Exercício: Da Área Degradada ao Alvo de Restauração</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -24,7 +27,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 1em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -40,10 +63,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-26e067a947636f1d0ccf8f6b78508a1f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-ee3acdd36c54509ec1093f55d866e97f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <link href="../../site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
 <link href="../../site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
@@ -74,35 +97,6 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 </head>
 
@@ -146,6 +140,10 @@ window.Quarto = {
 <span class="menu-text">Todas as Aulas</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="../../exercises/index.html"> 
+<span class="menu-text">Exercícios</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="../../resources/index.html"> 
 <span class="menu-text">Recursos</span></a>
   </li>  
@@ -169,12 +167,14 @@ window.Quarto = {
     <h2 id="toc-title">Nesta página</h2>
    
   <ul>
-  <li><a href="#objetivo-do-exercício" id="toc-objetivo-do-exercício" class="nav-link active" data-scroll-target="#objetivo-do-exercício">Objetivo do Exercício</a></li>
-  <li><a href="#materiais-necessários" id="toc-materiais-necessários" class="nav-link" data-scroll-target="#materiais-necessários">Materiais Necessários</a></li>
-  <li><a href="#parte-1-delimitação-e-descrição-a-paisagem-humana" id="toc-parte-1-delimitação-e-descrição-a-paisagem-humana" class="nav-link" data-scroll-target="#parte-1-delimitação-e-descrição-a-paisagem-humana">Parte 1: Delimitação e Descrição (A Paisagem Humana)</a></li>
-  <li><a href="#parte-2-escala-granulação-e-transmutação" id="toc-parte-2-escala-granulação-e-transmutação" class="nav-link" data-scroll-target="#parte-2-escala-granulação-e-transmutação">Parte 2: Escala, Granulação e Transmutação</a></li>
-  <li><a href="#parte-3-a-lente-biológica-escala-de-percepção" id="toc-parte-3-a-lente-biológica-escala-de-percepção" class="nav-link" data-scroll-target="#parte-3-a-lente-biológica-escala-de-percepção">Parte 3: A “Lente Biológica” (Escala de Percepção)</a></li>
-  <li><a href="#questões-para-discussão" id="toc-questões-para-discussão" class="nav-link" data-scroll-target="#questões-para-discussão">Questões para Discussão</a></li>
+  <li><a href="#objetivos-de-aprendizagem" id="toc-objetivos-de-aprendizagem" class="nav-link active" data-scroll-target="#objetivos-de-aprendizagem"><span class="header-section-number">1</span> Objetivos de aprendizagem</a></li>
+  <li><a href="#instruções-gerais" id="toc-instruções-gerais" class="nav-link" data-scroll-target="#instruções-gerais"><span class="header-section-number">2</span> Instruções gerais</a></li>
+  <li><a href="#etapa-1-caracterização-da-área-alvo" id="toc-etapa-1-caracterização-da-área-alvo" class="nav-link" data-scroll-target="#etapa-1-caracterização-da-área-alvo"><span class="header-section-number">3</span> Etapa 1 — Caracterização da área alvo</a></li>
+  <li><a href="#etapa-2-histórico-de-degradação" id="toc-etapa-2-histórico-de-degradação" class="nav-link" data-scroll-target="#etapa-2-histórico-de-degradação"><span class="header-section-number">4</span> Etapa 2 — Histórico de degradação</a></li>
+  <li><a href="#etapa-3-alvo-de-restauração-a-partir-de-um-socioecossistema-de-referência" id="toc-etapa-3-alvo-de-restauração-a-partir-de-um-socioecossistema-de-referência" class="nav-link" data-scroll-target="#etapa-3-alvo-de-restauração-a-partir-de-um-socioecossistema-de-referência"><span class="header-section-number">5</span> Etapa 3 — Alvo de restauração a partir de um socioecossistema de referência</a></li>
+  <li><a href="#etapa-4-estados-alternativos-estáveis-e-a-estratégia-de-restauração" id="toc-etapa-4-estados-alternativos-estáveis-e-a-estratégia-de-restauração" class="nav-link" data-scroll-target="#etapa-4-estados-alternativos-estáveis-e-a-estratégia-de-restauração"><span class="header-section-number">6</span> Etapa 4 — Estados alternativos estáveis e a estratégia de restauração</a></li>
+  <li><a href="#síntese-final" id="toc-síntese-final" class="nav-link" data-scroll-target="#síntese-final"><span class="header-section-number">7</span> Síntese final</a></li>
+  <li><a href="#refs" id="toc-refs" class="nav-link" data-scroll-target="#refs"><span class="header-section-number">8</span> Referências</a></li>
   </ul>
 </nav>
     </div>
@@ -183,8 +183,8 @@ window.Quarto = {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Exercício 1: O Mosaico no Lance de Vista</h1>
-<p class="subtitle lead">Semana 1: Fundamentos de Ecologia de Paisagem</p>
+<h1 class="title">Exercício: Da Área Degradada ao Alvo de Restauração</h1>
+<p class="subtitle lead">Diagnóstico socioecológico e identificação de estados alternativos estáveis</p>
 </div>
 
 
@@ -194,14 +194,14 @@ window.Quarto = {
     <div>
     <div class="quarto-title-meta-heading">Autor</div>
     <div class="quarto-title-meta-contents">
-             <p>Felipe Melo </p>
+             <p>Ecologia da Restauração — UFPE </p>
           </div>
   </div>
     
     <div>
     <div class="quarto-title-meta-heading">Data de Publicação</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">26 de junho de 2026</p>
+      <p class="date">21 de setembro de 2026</p>
     </div>
   </div>
   
@@ -213,79 +213,203 @@ window.Quarto = {
 </header>
 
 
-<section id="objetivo-do-exercício" class="level2">
-<h2 class="anchored" data-anchor-id="objetivo-do-exercício">Objetivo do Exercício</h2>
-<p>Este exercício visa aplicar os conceitos fundamentais de <strong>heterogeneidade espacial</strong>, <strong>escala (extensão e grão)</strong> e <strong>percepção do observador</strong> de forma analógica. O objetivo é treinar o olhar ecológico para identificar a estrutura da paisagem sem o auxílio de ferramentas computacionais</p>
+<section id="objetivos-de-aprendizagem" class="level2" data-number="1">
+<h2 data-number="1" class="anchored" data-anchor-id="objetivos-de-aprendizagem"><span class="header-section-number">1</span> Objetivos de aprendizagem</h2>
+<p>Ao final deste exercício, você deverá ser capaz de:</p>
+<ol type="1">
+<li>Descrever uma área alvo de restauração de forma estruturada, integrando aspectos ecológicos e sociais;</li>
+<li>Reconstituir o histórico de degradação de um ecossistema e identificar seus principais vetores;</li>
+<li>Definir um alvo de restauração com base em um socioecossistema de referência, e não apenas em um “estado natural” abstrato;</li>
+<li>Avaliar se o ecossistema alvo está preso em um estado alternativo estável e propor estratégias de restauração capazes de superar esse limiar.</li>
+</ol>
+<p>Este exercício segue os princípios internacionais de prática da restauração ecológica, que definem o ecossistema de referência como parâmetro dinâmico e não como um ponto fixo no passado <span class="citation" data-cites="gann2019">(<a href="#ref-gann2019" role="doc-biblioref"><span class="nocase">Gann et al.</span>, 2019</a>)</span>.</p>
+</section>
+<section id="instruções-gerais" class="level2" data-number="2">
+<h2 data-number="2" class="anchored" data-anchor-id="instruções-gerais"><span class="header-section-number">2</span> Instruções gerais</h2>
+<p>Você pode desenvolver este exercício de duas formas — escolha uma:</p>
+<div class="callout callout-style-default callout-note callout-titled" title="Opção A — Área real">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Nota</span>Opção A — Área real
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Use uma área que você conhece (SAFE-UFPE, propriedade rural, unidade de conservação, área de pesquisa, quintal, fragmento urbano etc.) sobre a qual tenha informações mínimas de campo, imagens de satélite ou relatos de moradores/gestores.</p>
+</div>
+</div>
+<div class="callout callout-style-default callout-note callout-titled" title="Opção B — Estudo de caso fornecido">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Nota</span>Opção B — Estudo de caso fornecido
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Caso não tenha uma área própria, utilize o estudo de caso abaixo como base para responder às quatro etapas.</p>
+<blockquote class="blockquote">
+<p><strong>Estudo de caso:</strong> Um assentamento rural em zona de transição Caatinga–Mata Atlântica (agreste pernambucano) possui uma área de 40 ha antes coberta por caatinga arbórea densa, convertida há cerca de 35 anos em pastagem de capim-buffel para caprinocultura extensiva. Nos últimos 10 anos, o pastoreio foi reduzido, mas a área não regenerou espontaneamente: hoje é dominada por capim-buffel exótico, com poucos indivíduos lenhosos dispersos e sinais recorrentes de fogo acidental. Famílias assentadas dependem da área para pastejo residual e coleta de lenha, e relatam que “antigamente havia mais árvores frutíferas nativas e as nascentes não secavam no verão”.</p>
+</blockquote>
+</div>
+</div>
+<p>Registre suas respostas nos blocos indicados. Sempre que possível, cite a bibliografia do curso para embasar suas afirmações.</p>
 <hr>
 </section>
-<section id="materiais-necessários" class="level2">
-<h2 class="anchored" data-anchor-id="materiais-necessários">Materiais Necessários</h2>
+<section id="etapa-1-caracterização-da-área-alvo" class="level2" data-number="3">
+<h2 data-number="3" class="anchored" data-anchor-id="etapa-1-caracterização-da-área-alvo"><span class="header-section-number">3</span> Etapa 1 — Caracterização da área alvo</h2>
+<p>Descreva a área escolhida de forma estruturada, combinando componentes ecológicos e socioeconômicos — a restauração ecológica contemporânea é entendida como um processo socioecológico, não apenas biofísico <span class="citation" data-cites="elias2021 canedoli2021">(<a href="#ref-canedoli2021" role="doc-biblioref">Canedoli et al., 2021</a>; <a href="#ref-elias2021" role="doc-biblioref"><span class="nocase">Elias; Sigman; et al.</span>, 2021</a>)</span>.</p>
+<p>Responda:</p>
 <ul>
-<li>Papel A4 ou caderno de campo.</li>
-<li>Lápis, borracha e canetas coloridas (opcional).</li>
-<li>Uma régua.</li>
-<li>Sua própria percepção e imaginação.</li>
+<li><strong>Localização e contexto biogeográfico:</strong> bioma, região, clima, solo dominante.</li>
+<li><strong>Cobertura e uso atual do solo:</strong> o que existe hoje na área (vegetação, cultivos, infraestrutura)?</li>
+<li><strong>Estrutura da vegetação atual:</strong> estratos presentes, espécies dominantes (nativas e exóticas), cobertura de dossel/solo.</li>
+<li><strong>Elementos da paisagem:</strong> conectividade com fragmentos vizinhos, corpos d’água, proximidade a áreas urbanas ou de conservação.</li>
+<li><strong>Contexto social e de uso:</strong> quem usa a área, para quê, e há quanto tempo? Que valores (produtivos, culturais, espirituais) as pessoas atribuem a ela?</li>
 </ul>
+<div class="callout callout-style-default callout-tip callout-titled" title="Sua resposta — Etapa 1">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Dica</span>Sua resposta — Etapa 1
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<div class="panel-input card bg-light p-2">
+
+</div>
+</div>
+</div>
 <hr>
 </section>
-<section id="parte-1-delimitação-e-descrição-a-paisagem-humana" class="level2">
-<h2 class="anchored" data-anchor-id="parte-1-delimitação-e-descrição-a-paisagem-humana">Parte 1: Delimitação e Descrição (A Paisagem Humana)</h2>
-<p>A paisagem pode ser definida como o espaço de terreno que se abrange em um “lance de vista”</p>
-<ol type="1">
-<li><p><strong>Ponto de Observação:</strong> Escolha um local com vista ampla (janela, topo de morro ou varanda)</p></li>
-<li><p><strong>Desenho da Extensão:</strong> Em sua folha, desenhe um retângulo que delimite o horizonte visível. Este limite representa a sua <strong>extensão espacial</strong></p></li>
-<li><p><strong>Mapeamento Estrutural (Modelo PCM):</strong> Identifique e desenhe os elementos presentes no mosaico utilizando as definições clássicas:</p></li>
-</ol>
+<section id="etapa-2-histórico-de-degradação" class="level2" data-number="4">
+<h2 data-number="4" class="anchored" data-anchor-id="etapa-2-histórico-de-degradação"><span class="header-section-number">4</span> Etapa 2 — Histórico de degradação</h2>
+<p>Toda proposta de restauração depende de uma leitura correta da trajetória histórica do ecossistema — sem isso, corre-se o risco de mirar um alvo irreal ou de ignorar os fatores que ainda impedem a regeneração <span class="citation" data-cites="young2005">(<a href="#ref-young2005" role="doc-biblioref">Young; Petersen; Clary, 2005</a>)</span>.</p>
+<p>Responda:</p>
 <ul>
-<li><p><strong>Matriz:</strong> Identifique o elemento dominante que controla a dinâmica da área (ex: pastagem ou área urbana)</p></li>
-<li><p><strong>Manchas (Patches):</strong> Desenhe as unidades não-lineares que se distinguem do entorno (ex: capões de mata ou afloramentos rochosos)</p></li>
-<li><p><strong>Corredores:</strong> Identifique faixas lineares que conectam as manchas (ex: matas ciliares ou cercas vivas)</p></li>
+<li><strong>Linha do tempo:</strong> reconstitua, ainda que de forma aproximada, os principais eventos de mudança de uso e cobertura da terra (desmatamento, conversão agrícola, incêndios, abandono, etc.). Use décadas ou marcos históricos/sociais como referência.</li>
+<li><strong>Vetores diretos de degradação:</strong> quais atividades ou eventos causaram a degradação (desmatamento, fogo, pastejo, mineração, erosão, espécies invasoras)?</li>
+<li><strong>Vetores indiretos/estruturais:</strong> que fatores econômicos, fundiários ou políticos estão por trás dos vetores diretos (política agrária, mercado, falta de assistência técnica, legislação ambiental)?</li>
+<li><strong>Mudanças no regime de perturbação:</strong> o regime de fogo, hídrico ou de herbivoria mudou em relação ao histórico da área? Como?</li>
 </ul>
+<div class="callout callout-style-default callout-tip callout-titled" title="Sua resposta — Etapa 2">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Dica</span>Sua resposta — Etapa 2
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><em>(escreva aqui)</em></p>
+</div>
+</div>
 <hr>
 </section>
-<section id="parte-2-escala-granulação-e-transmutação" class="level2">
-<h2 class="anchored" data-anchor-id="parte-2-escala-granulação-e-transmutação">Parte 2: Escala, Granulação e Transmutação</h2>
-<p>A descrição de um sistema ecológico muda conforme a escala escolhida</p>
-<ol type="1">
-<li><strong>Definição do Grão:</strong> No seu desenho, identifique o menor elemento que você consegue distinguir claramente (ex: uma única árvore ou uma casa). Este é o seu <strong>grão (resolução)</strong> de observação</li>
-<li><strong>Exercício de Transmutação:</strong>
+<section id="etapa-3-alvo-de-restauração-a-partir-de-um-socioecossistema-de-referência" class="level2" data-number="5">
+<h2 data-number="5" class="anchored" data-anchor-id="etapa-3-alvo-de-restauração-a-partir-de-um-socioecossistema-de-referência"><span class="header-section-number">5</span> Etapa 3 — Alvo de restauração a partir de um socioecossistema de referência</h2>
+<p>Um <strong>ecossistema de referência</strong> não precisa ser um remanescente intocado: pode ser um socioecossistema historicamente manejado, que incorpora práticas humanas de uso sustentável como parte de sua identidade ecológica <span class="citation" data-cites="gann2019 tymus2018">(<a href="#ref-gann2019" role="doc-biblioref"><span class="nocase">Gann et al.</span>, 2019</a>; <a href="#ref-tymus2018" role="doc-biblioref">Tymus et al., 2018</a>)</span>. Definir o alvo dessa forma aproxima a restauração das necessidades e saberes das comunidades locais <span class="citation" data-cites="elias2021">(<a href="#ref-elias2021" role="doc-biblioref"><span class="nocase">Elias; Sigman; et al.</span>, 2021</a>)</span>.</p>
+<p>Responda:</p>
 <ul>
-<li>Escolha um quadrante do seu desenho (5x5 cm).</li>
-<li>Divida esse quadrante em pequenos quadrados de 1 cm.</li>
-<li>Dentro de cada quadrado de 1 cm, force a “homogeneização”: se houver mais floresta que campo, pinte o quadrado todo de verde.</li>
-<li><strong>Reflexão:</strong> Observe como o aumento do grão faz com que elementos pequenos (manchas menores) desapareçam da sua análise</li>
-</ul></li>
-</ol>
+<li><strong>Escolha do socioecossistema de referência:</strong> que área, relato histórico, memória local ou combinação de fontes você usará como referência? Pode ser um fragmento vizinho conservado, um relato de moradores mais antigos, dados históricos de uso da terra, ou uma combinação desses.</li>
+<li><strong>Justificativa:</strong> por que essa referência é apropriada (similaridade ambiental, histórico de manejo comparável, viabilidade de uso pelas pessoas que dependem da área)?</li>
+<li><strong>Componentes ecológicos do alvo:</strong> quais atributos estruturais e funcionais você espera recuperar (composição de espécies, cobertura de dossel, presença de determinados grupos funcionais, regime hídrico)?</li>
+<li><strong>Componentes sociais do alvo:</strong> que usos, práticas ou serviços ecossistêmicos culturalmente relevantes esse alvo deve voltar a oferecer (ex.: frutos nativos, sombra para o gado, recarga de nascentes, plantas medicinais)?</li>
+<li><strong>Indicadores de sucesso:</strong> liste 2–3 indicadores mensuráveis que permitiriam saber se o alvo está sendo alcançado.</li>
+</ul>
+<div class="callout callout-style-default callout-tip callout-titled" title="Sua resposta — Etapa 3">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Dica</span>Sua resposta — Etapa 3
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><em>(escreva aqui)</em></p>
+</div>
+</div>
 <hr>
 </section>
-<section id="parte-3-a-lente-biológica-escala-de-percepção" class="level2">
-<h2 class="anchored" data-anchor-id="parte-3-a-lente-biológica-escala-de-percepção">Parte 3: A “Lente Biológica” (Escala de Percepção)</h2>
-<p>A paisagem não é absoluta; ela existe “segundo um observador”</p>
-<ol type="1">
-<li><strong>Troca de Escala:</strong> Imagine a paisagem sob a ótica de uma espécie focal (ex: uma águia ou uma borboleta)</li>
-<li><strong>Redesenho Funcional:</strong>
+<section id="etapa-4-estados-alternativos-estáveis-e-a-estratégia-de-restauração" class="level2" data-number="6">
+<h2 data-number="6" class="anchored" data-anchor-id="etapa-4-estados-alternativos-estáveis-e-a-estratégia-de-restauração"><span class="header-section-number">6</span> Etapa 4 — Estados alternativos estáveis e a estratégia de restauração</h2>
+<p>Nem todo ecossistema degradado retorna espontaneamente à trajetória original quando a pressão é removida. Quando retroalimentações bióticas ou abióticas mantêm o sistema em uma configuração distinta e persistente — mesmo sob condições ambientais que antes sustentavam outro estado —, diz-se que ele está preso em um <strong>estado alternativo estável</strong>, separado do estado de referência por um limiar (<em>threshold</em>) <span class="citation" data-cites="ostapchuk2023">(<a href="#ref-ostapchuk2023" role="doc-biblioref"><span class="nocase">Ostapchuk et al.</span>, 2023</a>)</span>. Nessas situações, restauração passiva (isolamento e regeneração natural) tende a ser insuficiente, e intervenções ativas tornam-se necessárias para reverter as retroalimentações e empurrar o sistema de volta através do limiar <span class="citation" data-cites="crouzeilles2017">(<a href="#ref-crouzeilles2017" role="doc-biblioref"><span class="nocase">Crouzeilles et al.</span>, 2017</a>)</span>.</p>
+<p>Responda:</p>
 <ul>
-<li>Se você fosse um <strong>gafanhoto</strong>, sua paisagem total teria cerca de 4 <span class="math inline">\(m^2\)</span><br>
-</li>
-<li>Escolha um detalhe minúsculo da sua vista original (ex: uma moita de capim) e redesenhe-o ocupando a folha inteira.</li>
-<li>Nesta nova escala, o que antes era uma “mancha” insignificante agora é o seu mosaico complexo de habitats?</li>
-</ul></li>
-</ol>
+<li><strong>Diagnóstico do estado atual:</strong> há evidências de que a área está em um estado alternativo estável (ex.: dominância persistente de espécie exótica, ausência de regeneração mesmo após anos de exclusão de perturbação, alteração do regime de fogo ou do solo)? Justifique com base no que você descreveu nas Etapas 1 e 2.</li>
+<li><strong>Mecanismos de retroalimentação:</strong> que processos mantêm esse estado (ex.: competição por luz/água com gramínea exótica, compactação do solo, ausência de fonte de propágulos, fogo recorrente, herbivoria)?</li>
+<li><strong>Localização do limiar:</strong> o que precisaria mudar para que o sistema cruzasse de volta o limiar em direção ao alvo de restauração (Etapa 3)?</li>
+<li><strong>Intervenções propostas:</strong> proponha ao menos duas intervenções ativas coerentes com os mecanismos identificados (ex.: controle da espécie dominante, semeadura direta, plantio de mudas nucleadoras, reintrodução de regime de fogo/hídrico adequado, exclusão temporária de pastejo). Indique se a restauração passiva sozinha seria suficiente e por quê.</li>
+</ul>
+<div class="callout callout-style-default callout-tip callout-titled" title="Sua resposta — Etapa 4">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Dica</span>Sua resposta — Etapa 4
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><em>(escreva aqui)</em></p>
+</div>
+</div>
 <hr>
 </section>
-<section id="questões-para-discussão" class="level2">
-<h2 class="anchored" data-anchor-id="questões-para-discussão">Questões para Discussão</h2>
-<p>Após finalizar os desenhos, responda brevemente:</p>
-<ol type="1">
-<li>Ao aumentar o tamanho do <strong>grão</strong> (Parte 2), você perdeu informações que seriam vitais para a conservação de alguma espécie específica?</li>
-<li>Como a <strong>conectividade funcional</strong> mudou entre a sua visão humana e a visão do “gafanhoto”? Elementos que eram barreiras continuam sendo?</li>
-<li>Você consegue identificar algum <strong>distúrbio</strong> (natural ou antrópico) que foi o responsável por criar essa heterogeneidade que você desenhou?</li>
-</ol>
-
-
+<section id="síntese-final" class="level2" data-number="7">
+<h2 data-number="7" class="anchored" data-anchor-id="síntese-final"><span class="header-section-number">7</span> Síntese final</h2>
+<p>Em um parágrafo (8–12 linhas), integre as quatro etapas: explique por que o alvo de restauração que você definiu é ecologicamente e socialmente adequado para essa área específica, e como a estratégia proposta na Etapa 4 permite alcançá-lo a partir do estado atual.</p>
+<div class="callout callout-style-default callout-tip callout-titled" title="Síntese">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Dica</span>Síntese
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><em>(escreva aqui)</em></p>
+</div>
+</div>
 </section>
 
-</main> <!-- /main -->
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">Referências</h2><section id="refs" class="level2" data-number="8">
+<h2 data-number="8" class="anchored" data-anchor-id="refs"><span class="header-section-number">8</span> Referências</h2>
+
+
+<div id="refs" class="references csl-bib-body" data-entry-spacing="1" role="list">
+<div id="ref-canedoli2021" class="csl-entry" role="listitem">
+CANEDOLI, Claudia <em>et al.</em> <a href="https://doi.org/10.3390/su13041786">Re-Naturing the City: Linking Urban Political Ecology and Cultural Ecosystem Services</a>. <strong>Sustainability</strong>, v. 13, n. 4, p. 1786, 2021.
+</div>
+<div id="ref-crouzeilles2017" class="csl-entry" role="listitem">
+<span class="nocase">CROUZEILLES, Renato <em>et al.</em></span> <a href="https://doi.org/10.1126/sciadv.1701345">Ecological restoration success is higher for natural regeneration than for active restoration in tropical forests</a>. <strong>Science Advances</strong>, v. 3, n. 11, p. e1701345, 2017.
+</div>
+<div id="ref-elias2021" class="csl-entry" role="listitem">
+<span class="nocase">ELIAS, Marlène; SIGMAN, Elizabeth; <em>et al.</em></span> Restoration for Whom, by Whom? A Feminist Political Ecology of Restoration. <strong>Ecological Restoration</strong>, v. 39, n. 1-2, p. 3–26, 2021.
+</div>
+<div id="ref-gann2019" class="csl-entry" role="listitem">
+<span class="nocase">GANN, George D. <em>et al.</em></span> <a href="https://doi.org/10.1111/rec.13035">International principles and standards for the practice of ecological restoration</a>. <strong>Restoration Ecology</strong>, v. 27, n. S1, p. S1–S46, 2019.
+</div>
+<div id="ref-ostapchuk2023" class="csl-entry" role="listitem">
+<span class="nocase">OSTAPCHUK, S. M. <em>et al.</em></span> <a href="https://doi.org/10.3997/2214-4609.2023520225">Assessment of resilience and recovery potential of regional ecosystems under extreme conditions and sustainable management models</a>. <em>Em</em>: Kyiv, Ukraine: European Association of Geoscientists &amp; Engineers, 2023.
+</div>
+<div id="ref-tymus2018" class="csl-entry" role="listitem">
+TYMUS, Julio Ricardo Caetano <em>et al.</em> <strong>Restauração da vegetação nativa no Brasil: caracterização de técnicas e estimativas de custo como subsídio a programas e políticas públicas e privadas de restauração em larga escala</strong>. Brasília, DF: The Nature Conservancy (TNC) / IPEA / Embrapa, 2018. p. 72
+</div>
+<div id="ref-young2005" class="csl-entry" role="listitem">
+YOUNG, Truman P.; PETERSEN, D. A.; CLARY, J. J. <a href="https://doi.org/10.1111/j.1461-0248.2005.00764.x">The ecology of restoration: historical links, emerging issues and unexplored realms</a>. <strong>Ecology Letters</strong>, v. 8, n. 6, p. 662–673, 2005.
+</div>
+</div>
+</section></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

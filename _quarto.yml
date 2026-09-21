@@ -24,8 +24,8 @@ website:
         href: workbook/workbook.qmd
       - text: "Todas as Aulas"
         href: sessions/index.qmd
-      # - text: "Exercícios"
-      #   href: exercises/index.qmd
+      - text: "Exercícios"
+        href: exercises/index.qmd
       - text: "Recursos"
         href: resources/index.qmd
       - text: "Tipo de Avaliação"

@@ -1,76 +1,126 @@
 ---
-title: "Exercício 1: O Mosaico no Lance de Vista"
-subtitle: "Semana 1: Fundamentos de Ecologia de Paisagem"
-author: "Felipe Melo"
-date: last-modified
-format: 
+title: "Exercício: Da Área Degradada ao Alvo de Restauração"
+subtitle: "Diagnóstico socioecológico e identificação de estados alternativos estáveis"
+author: "Ecologia da Restauração — UFPE"
+date: today
+format:
   html:
     toc: true
-lang: pt-br
+    toc-depth: 3
+    number-sections: true
+lang: pt
+bibliography: refs.bib
+csl: "https://www.zotero.org/styles/associacao-brasileira-de-normas-tecnicas"
 ---
 
-## Objetivo do Exercício
+## Objetivos de aprendizagem
 
-Este exercício visa aplicar os conceitos fundamentais de **heterogeneidade espacial**, **escala (extensão e grão)** e **percepção do observador** de forma analógica. O objetivo é treinar o olhar ecológico para identificar a estrutura da paisagem sem o auxílio de ferramentas computacionais 
+Ao final deste exercício, você deverá ser capaz de:
 
----
+1. Descrever uma área alvo de restauração de forma estruturada, integrando aspectos ecológicos e sociais;
+2. Reconstituir o histórico de degradação de um ecossistema e identificar seus principais vetores;
+3. Definir um alvo de restauração com base em um socioecossistema de referência, e não apenas em um "estado natural" abstrato;
+4. Avaliar se o ecossistema alvo está preso em um estado alternativo estável e propor estratégias de restauração capazes de superar esse limiar.
 
-## Materiais Necessários
+Este exercício segue os princípios internacionais de prática da restauração ecológica, que definem o ecossistema de referência como parâmetro dinâmico e não como um ponto fixo no passado [@gann2019].
 
-*   Papel A4 ou caderno de campo.
-*   Lápis, borracha e canetas coloridas (opcional).
-*   Uma régua.
-*   Sua própria percepção e imaginação.
+## Instruções gerais
 
----
+Você pode desenvolver este exercício de duas formas — escolha uma:
 
-## Parte 1: Delimitação e Descrição (A Paisagem Humana)
+::: {.callout-note title="Opção A — Área real"}
+Use uma área que você conhece (SAFE-UFPE, propriedade rural, unidade de conservação, área de pesquisa, quintal, fragmento urbano etc.) sobre a qual tenha informações mínimas de campo, imagens de satélite ou relatos de moradores/gestores.
+:::
 
-A paisagem pode ser definida como o espaço de terreno que se abrange em um "lance de vista" 
+::: {.callout-note title="Opção B — Estudo de caso fornecido"}
+Caso não tenha uma área própria, utilize o estudo de caso abaixo como base para responder às quatro etapas.
 
-1.  **Ponto de Observação:** Escolha um local com vista ampla (janela, topo de morro ou varanda) 
+> **Estudo de caso:** Um assentamento rural em zona de transição Caatinga–Mata Atlântica (agreste pernambucano) possui uma área de 40 ha antes coberta por caatinga arbórea densa, convertida há cerca de 35 anos em pastagem de capim-buffel para caprinocultura extensiva. Nos últimos 10 anos, o pastoreio foi reduzido, mas a área não regenerou espontaneamente: hoje é dominada por capim-buffel exótico, com poucos indivíduos lenhosos dispersos e sinais recorrentes de fogo acidental. Famílias assentadas dependem da área para pastejo residual e coleta de lenha, e relatam que "antigamente havia mais árvores frutíferas nativas e as nascentes não secavam no verão".
 
-2.  **Desenho da Extensão:** Em sua folha, desenhe um retângulo que delimite o horizonte visível. Este limite representa a sua **extensão espacial** 
+:::
 
-3.  **Mapeamento Estrutural (Modelo PCM):** Identifique e desenhe os elementos presentes no mosaico utilizando as definições clássicas:
-
-   *   **Matriz:** Identifique o elemento dominante que controla a dinâmica da área (ex: pastagem ou área urbana) 
-   
-   *   **Manchas (Patches):** Desenhe as unidades não-lineares que se distinguem do entorno (ex: capões de mata ou afloramentos rochosos)
-    
-   *   **Corredores:** Identifique faixas lineares que conectam as manchas (ex: matas ciliares ou cercas vivas) 
-
----
-
-## Parte 2: Escala, Granulação e Transmutação
-
-A descrição de um sistema ecológico muda conforme a escala escolhida 
-
-1.  **Definição do Grão:** No seu desenho, identifique o menor elemento que você consegue distinguir claramente (ex: uma única árvore ou uma casa). Este é o seu **grão (resolução)** de observação 
-2.  **Exercício de Transmutação:** 
-    *   Escolha um quadrante do seu desenho (5x5 cm).
-    *   Divida esse quadrante em pequenos quadrados de 1 cm.
-    *   Dentro de cada quadrado de 1 cm, force a "homogeneização": se houver mais floresta que campo, pinte o quadrado todo de verde.
-    *   **Reflexão:** Observe como o aumento do grão faz com que elementos pequenos (manchas menores) desapareçam da sua análise 
+Registre suas respostas nos blocos indicados. Sempre que possível, cite a bibliografia do curso para embasar suas afirmações.
 
 ---
 
-## Parte 3: A "Lente Biológica" (Escala de Percepção)
+## Etapa 1 — Caracterização da área alvo
 
-A paisagem não é absoluta; ela existe "segundo um observador"
+Descreva a área escolhida de forma estruturada, combinando componentes ecológicos e socioeconômicos — a restauração ecológica contemporânea é entendida como um processo socioecológico, não apenas biofísico [@elias2021; @canedoli2021].
 
-1.  **Troca de Escala:** Imagine a paisagem sob a ótica de uma espécie focal (ex: uma águia ou uma borboleta) 
-2.  **Redesenho Funcional:** 
-    *   Se você fosse um **gafanhoto**, sua paisagem total teria cerca de 4 $m^2$  
-    *   Escolha um detalhe minúsculo da sua vista original (ex: uma moita de capim) e redesenhe-o ocupando a folha inteira. 
-    *   Nesta nova escala, o que antes era uma "mancha" insignificante agora é o seu mosaico complexo de habitats?
+Responda:
+
+- **Localização e contexto biogeográfico:** bioma, região, clima, solo dominante.
+- **Cobertura e uso atual do solo:** o que existe hoje na área (vegetação, cultivos, infraestrutura)?
+- **Estrutura da vegetação atual:** estratos presentes, espécies dominantes (nativas e exóticas), cobertura de dossel/solo.
+- **Elementos da paisagem:** conectividade com fragmentos vizinhos, corpos d'água, proximidade a áreas urbanas ou de conservação.
+- **Contexto social e de uso:** quem usa a área, para quê, e há quanto tempo? Que valores (produtivos, culturais, espirituais) as pessoas atribuem a ela?
+
+::: {.callout-tip title="Sua resposta — Etapa 1"}
+::: {.panel-input}
+
+:::
+:::
 
 ---
 
-## Questões para Discussão
+## Etapa 2 — Histórico de degradação
 
-Após finalizar os desenhos, responda brevemente:
+Toda proposta de restauração depende de uma leitura correta da trajetória histórica do ecossistema — sem isso, corre-se o risco de mirar um alvo irreal ou de ignorar os fatores que ainda impedem a regeneração [@young2005].
 
-1.  Ao aumentar o tamanho do **grão** (Parte 2), você perdeu informações que seriam vitais para a conservação de alguma espécie específica? 
-2.  Como a **conectividade funcional** mudou entre a sua visão humana e a visão do "gafanhoto"? Elementos que eram barreiras continuam sendo? 
-3.  Você consegue identificar algum **distúrbio** (natural ou antrópico) que foi o responsável por criar essa heterogeneidade que você desenhou? 
+Responda:
+
+- **Linha do tempo:** reconstitua, ainda que de forma aproximada, os principais eventos de mudança de uso e cobertura da terra (desmatamento, conversão agrícola, incêndios, abandono, etc.). Use décadas ou marcos históricos/sociais como referência.
+- **Vetores diretos de degradação:** quais atividades ou eventos causaram a degradação (desmatamento, fogo, pastejo, mineração, erosão, espécies invasoras)?
+- **Vetores indiretos/estruturais:** que fatores econômicos, fundiários ou políticos estão por trás dos vetores diretos (política agrária, mercado, falta de assistência técnica, legislação ambiental)?
+- **Mudanças no regime de perturbação:** o regime de fogo, hídrico ou de herbivoria mudou em relação ao histórico da área? Como?
+
+::: {.callout-tip title="Sua resposta — Etapa 2"}
+*(escreva aqui)*
+:::
+
+---
+
+## Etapa 3 — Alvo de restauração a partir de um socioecossistema de referência
+
+Um **ecossistema de referência** não precisa ser um remanescente intocado: pode ser um socioecossistema historicamente manejado, que incorpora práticas humanas de uso sustentável como parte de sua identidade ecológica [@gann2019; @tymus2018]. Definir o alvo dessa forma aproxima a restauração das necessidades e saberes das comunidades locais [@elias2021].
+
+Responda:
+
+- **Escolha do socioecossistema de referência:** que área, relato histórico, memória local ou combinação de fontes você usará como referência? Pode ser um fragmento vizinho conservado, um relato de moradores mais antigos, dados históricos de uso da terra, ou uma combinação desses.
+- **Justificativa:** por que essa referência é apropriada (similaridade ambiental, histórico de manejo comparável, viabilidade de uso pelas pessoas que dependem da área)?
+- **Componentes ecológicos do alvo:** quais atributos estruturais e funcionais você espera recuperar (composição de espécies, cobertura de dossel, presença de determinados grupos funcionais, regime hídrico)?
+- **Componentes sociais do alvo:** que usos, práticas ou serviços ecossistêmicos culturalmente relevantes esse alvo deve voltar a oferecer (ex.: frutos nativos, sombra para o gado, recarga de nascentes, plantas medicinais)?
+- **Indicadores de sucesso:** liste 2–3 indicadores mensuráveis que permitiriam saber se o alvo está sendo alcançado.
+
+::: {.callout-tip title="Sua resposta — Etapa 3"}
+*(escreva aqui)*
+:::
+
+---
+
+## Etapa 4 — Estados alternativos estáveis e a estratégia de restauração
+
+Nem todo ecossistema degradado retorna espontaneamente à trajetória original quando a pressão é removida. Quando retroalimentações bióticas ou abióticas mantêm o sistema em uma configuração distinta e persistente — mesmo sob condições ambientais que antes sustentavam outro estado —, diz-se que ele está preso em um **estado alternativo estável**, separado do estado de referência por um limiar (*threshold*) [@ostapchuk2023]. Nessas situações, restauração passiva (isolamento e regeneração natural) tende a ser insuficiente, e intervenções ativas tornam-se necessárias para reverter as retroalimentações e empurrar o sistema de volta através do limiar [@crouzeilles2017].
+
+Responda:
+
+- **Diagnóstico do estado atual:** há evidências de que a área está em um estado alternativo estável (ex.: dominância persistente de espécie exótica, ausência de regeneração mesmo após anos de exclusão de perturbação, alteração do regime de fogo ou do solo)? Justifique com base no que você descreveu nas Etapas 1 e 2.
+- **Mecanismos de retroalimentação:** que processos mantêm esse estado (ex.: competição por luz/água com gramínea exótica, compactação do solo, ausência de fonte de propágulos, fogo recorrente, herbivoria)?
+- **Localização do limiar:** o que precisaria mudar para que o sistema cruzasse de volta o limiar em direção ao alvo de restauração (Etapa 3)?
+- **Intervenções propostas:** proponha ao menos duas intervenções ativas coerentes com os mecanismos identificados (ex.: controle da espécie dominante, semeadura direta, plantio de mudas nucleadoras, reintrodução de regime de fogo/hídrico adequado, exclusão temporária de pastejo). Indique se a restauração passiva sozinha seria suficiente e por quê.
+
+::: {.callout-tip title="Sua resposta — Etapa 4"}
+*(escreva aqui)*
+:::
+
+---
+
+## Síntese final
+
+Em um parágrafo (8–12 linhas), integre as quatro etapas: explique por que o alvo de restauração que você definiu é ecologicamente e socialmente adequado para essa área específica, e como a estratégia proposta na Etapa 4 permite alcançá-lo a partir do estado atual.
+
+::: {.callout-tip title="Síntese"}
+*(escreva aqui)*
+:::
+
+## Referências {#refs}
