@@ -420,74 +420,221 @@
     "text": "3.1 A tipologia de Hobbs et al. (2006, 2014)\nHobbs et al. (2006) propõem uma tipologia com três categorias principais, organizadas segundo o grau de alteração biótica e abiótica:\n\nEcossistemas históricos\n\nComposição, estrutura e funcionamento similares ao estado pré-distúrbio. Alterações bióticas e abióticas abaixo dos limiares críticos. São o alvo tradicional da restauração.\n\nEcossistemas híbridos\n\nComposição alterada (presença de espécies exóticas, perda de espécies nativas), mas com estrutura e funcionamento abiótico relativamente preservados. Existe potencial de restauração, mas requer esforço ativo para reorientar a trajetória.\n\nEcossistemas novos (novel ecosystems)\n\nComposição, estrutura e funcionamento sem precedente histórico. As mudanças bióticas e abióticas cruzaram limiares irreversíveis. A “restauração” no sentido clássico não é viável; o objetivo mais realista é manejar esses ecossistemas para maximizar funções e serviços.\n\n\n\n\n\n\n\n\nDicaExemplo 1 — Mata Atlântica secundária com espécies exóticas\n\n\n\nFlorestas secundárias em regeneração no litoral nordestino frequentemente incorporam espécies exóticas como Artocarpus heterophyllus (jaqueira) e Mangifera indica (mangueira), introduzidas historicamente por comunidades rurais. A biomassa, a cobertura do dossel e os serviços hidrológicos dessas florestas são comparáveis aos de florestas nativas, mas sua composição é inédita. São ecossistemas híbridos que provêm serviços reais e hospedam espécies nativas, mas não se encaixam no modelo clássico de restauração.\n\n\n\n\n\n\n\n\n\nDicaExemplo 2 — Caatinga “nova” sob aridificação progressiva\n\n\n\nProjeções climáticas indicam que partes do Semiárido nordestino podem tornar-se tão áridas até 2070 que a vegetação histórica de Caatinga — adaptada a um regime pluviométrico já seco, mas ainda sazonal — seja inviável. Nesse cenário, o ecossistema resultante seria algo novo: uma combinação de espécies da Caatinga mais tolerantes, espécies de Caatinga hiperárida dos núcleos mais secos, e potencialmente espécies de biomas vizinhos, formando comunidades sem análogo nos últimos séculos."
   },
   {
-    "objectID": "slides/semana3_slides.html#objetivos-da-aula",
-    "href": "slides/semana3_slides.html#objetivos-da-aula",
-    "title": "Dinâmica de Ecossistemas e Mudança Ambiental Rápida",
-    "section": "Objetivos da Aula",
-    "text": "Objetivos da Aula\n\n\nAo final desta aula você será capaz de:\n\nContrastar os paradigmas de equilíbrio e não-equilíbrio\nDefinir novidade ecológica e seus tipos\nAplicar a tipologia histórico–híbrido–novo\n\n\n\nIdentificar vetores de mudança global relevantes para a restauração\nAvaliar quando intervir e quando manejar ecossistemas novos\nReformular metas de restauração sob incerteza climática"
+    "objectID": "sessions/week1/1-intro.html",
+    "href": "sessions/week1/1-intro.html",
+    "title": "Semana 01: Fundamentos e Princípios da Ecologia da Restauração",
+    "section": "",
+    "text": "Slides da Aula"
   },
   {
-    "objectID": "slides/semana3_slides.html#dois-paradigmas-uma-tensão",
-    "href": "slides/semana3_slides.html#dois-paradigmas-uma-tensão",
-    "title": "Dinâmica de Ecossistemas e Mudança Ambiental Rápida",
-    "section": "Dois Paradigmas, Uma Tensão",
-    "text": "Dois Paradigmas, Uma Tensão\n\n\nParadigma do Equilíbrio\n(clássico)\n\nEcossistemas → estado estável único\nPerturbação → desvio temporário\nSucessão → retorno ao equilíbrio\nRestauração = “ajudar a voltar”\n\nProblema: assume um mundo estacionário\n\nParadigma do Não-Equilíbrio\n(emergente)\n\nTrajetórias múltiplas e dependentes da história\nVariabilidade como norma, não ruído\nSem estado único “correto”\nRestauração = reorientar uma trajetória\n\nBase empírica: @pickett1992, @hobbs2014"
+    "objectID": "sessions/week1/1-intro.html#sec-ciencia",
+    "href": "sessions/week1/1-intro.html#sec-ciencia",
+    "title": "Semana 01: Fundamentos e Princípios da Ecologia da Restauração",
+    "section": "2.1 Ecologia da Restauração (Restoration Ecology) — a ciência",
+    "text": "2.1 Ecologia da Restauração (Restoration Ecology) — a ciência\nA Ecologia da Restauração é o corpo científico que investiga os processos ecológicos subjacentes à degradação e à recuperação de ecossistemas, gerando conhecimento teórico e metodológico para orientar intervenções práticas Society for Ecological Restoration (2023). Como disciplina acadêmica, integra ecologia de comunidades, ecofisiologia, pedologia, hidrologia e, cada vez mais, ciências sociais e humanidades (Aronson e Alexander (2013)).\n\n\n\n\n\n\nImportanteDefinição Canônica — SER (2023)\n\n\n\n\n“Restoration ecology is the scientific study underpinning the practice of ecological restoration, which is the process of assisting the recovery of an ecosystem that has been degraded, damaged, or destroyed.” (Society for Ecological Restoration 2023, 4)\n\nNote que a definição é deliberadamente bidirecional: a ciência informa a prática, mas a prática também gera hipóteses e dados que retroalimentam a ciência.\n\n\nA Ecologia da Restauração busca responder perguntas como:\n\nQuais mecanismos ecológicos limitam o retorno espontâneo de espécies nativas após a perturbação?\nEm que condições a regeneração natural é suficiente, e quando intervenções ativas são necessárias?\nComo escalar resultados de parcelas experimentais para paisagens inteiras?\nQue atributos de um ecossistema indicam que a restauração foi bem-sucedida?"
   },
   {
-    "objectID": "slides/semana3_slides.html#conceitos-centrais",
-    "href": "slides/semana3_slides.html#conceitos-centrais",
-    "title": "Dinâmica de Ecossistemas e Mudança Ambiental Rápida",
-    "section": "Conceitos Centrais",
-    "text": "Conceitos Centrais\n\n\n\nNão-equilíbrio\n\nsistemas ecológicos em mudança permanente, sem ponto de equilíbrio fixo\n\nDependência histórica (path dependence)\n\no estado atual só se explica pela trajetória pretérita\n\nNovidade ecológica\n\ncombinações de espécies, condições e interações sem análogo histórico [@hobbs2006]\n\nEcossistema novo (novel ecosystem)\n\ncomposição, estrutura e funcionamento inéditos — limiares cruzados de forma irreversível\n\n\n\n\n\n\nFigura: leque de trajetórias possíveis a partir de um estado degradado. Fonte: Hobbs et al. (2014), Fig. 2"
+    "objectID": "sessions/week1/1-intro.html#sec-pratica",
+    "href": "sessions/week1/1-intro.html#sec-pratica",
+    "title": "Semana 01: Fundamentos e Princípios da Ecologia da Restauração",
+    "section": "2.2 Restauração Ecológica (Ecological Restoration) — a prática",
+    "text": "2.2 Restauração Ecológica (Ecological Restoration) — a prática\nA Restauração Ecológica é a atividade intencional de assistir a recuperação de um ecossistema que foi degradado, danificado ou destruído Society for Ecological Restoration (2023). É uma prática aplicada, que mobiliza o conhecimento científico disponível em intervenções concretas no território — plantio de mudas, controle de espécies invasoras, reintrodução de fauna, restauração hidrológica, e assim por diante.\n\nDiferenças fundamentais entre a ciência e a prática da restauração.\n\n\n\n\n\n\n\nDimensão\nEcologia da Restauração\nRestauração Ecológica\n\n\n\n\nNatureza\nCiência\nPrática / atividade\n\n\nProduto\nConhecimento, teorias, modelos\nEcossistemas recuperados\n\n\nAgentes\nPesquisadores, universidades\nTécnicos, governos, comunidades, ONGs\n\n\nEscala temporal\nLonga (décadas, séculos)\nCurta a média (anos, décadas)\n\n\nMétricas centrais\nPublicações, modelos preditivos\nCobertura vegetal, biodiversidade, serviços"
   },
   {
-    "objectID": "slides/semana3_slides.html#tipologia-histórico-híbrido-novo",
-    "href": "slides/semana3_slides.html#tipologia-histórico-híbrido-novo",
-    "title": "Dinâmica de Ecossistemas e Mudança Ambiental Rápida",
-    "section": "Tipologia: Histórico — Híbrido — Novo",
-    "text": "Tipologia: Histórico — Híbrido — Novo\n\n\n\n\n\nFigura: triângulo diagnóstico de ecossistemas segundo grau de alteração biótica e abiótica. Fonte: Hobbs et al. (2006)\n\n\n\n\n\n\nTipo\nAlteração biótica\nAlteração abiótica\nEstratégia\n\n\n\n\nHistórico\nBaixa\nBaixa\nRestaurar\n\n\nHíbrido\nAlta\nBaixa/Média\nRestaurar com esforço\n\n\nNovo\nAlta\nAlta\nManejar\n\n\n\nA tipologia é uma ferramenta de decisão:\ndireciona recursos para onde a restauração é ecologicamente viável"
+    "objectID": "sessions/week1/1-intro.html#sec-gradacoes",
+    "href": "sessions/week1/1-intro.html#sec-gradacoes",
+    "title": "Semana 01: Fundamentos e Princípios da Ecologia da Restauração",
+    "section": "3.1 Gradações do contínuo",
+    "text": "3.1 Gradações do contínuo\nO contínuo pode ser organizado em quatro grandes categorias, em ordem crescente de intervenção e complexidade:\n\n1. Redução de impactos e proteção\n\nIntervenções que visam cessar ou atenuar os fatores de degradação sem necessariamente promover a recuperação ativa. Exemplos: cercamento de áreas para exclusão de gado, retirada de lixo, controle de queimadas. São pré-requisitos indispensáveis para qualquer ação subsequente.\n\n2. Remediação e reabilitação\n\nAções voltadas para a recuperação de funções e serviços ecossistêmicos sem necessariamente visar a plena biodiversidade nativa. Inclui estabilização de encostas, controle de erosão, revegetação com gramíneas ou espécies de uso múltiplo, e restauração de nascentes. O resultado esperado é um ecossistema funcional, mas não necessariamente um ecossistema nativo. Muitas vezes é o que a legislação ambiental exige de empreendimentos licenciados.\n\n3. Restauração ecológica assistida\n\nIntervenções que combinam proteção, enriquecimento e manejo ativo para acelerar trajetórias sucessionais em direção a um ecossistema nativo de referência. Inclui plantio de mudas nativas, semeadura direta, reintrodução de fauna-chave e controle de espécies invasoras. É o núcleo do que a SER denomina “restauração ecológica” no sentido estrito.\n\n4. Restauração reconstrutiva (ativa plena)\n\nA forma mais intensiva, empregada em ecossistemas severamente degradados onde o potencial de regeneração natural é mínimo. Requer o restabelecimento ativo de processos pedogenéticos, hidrológicos e bióticos, muitas vezes em paralelo. Exemplos incluem a restauração de manguezais após aterramento e a recuperação de áreas de mineração a céu aberto.\n\n\n\n\n\n\n\n\n\nA Figura clássica do contínuo restaurativo — mostrando o espectro de intervenções em um eixo de “grau de degradação × intensidade da intervenção”."
   },
   {
-    "objectID": "slides/semana3_slides.html#exemplos",
-    "href": "slides/semana3_slides.html#exemplos",
-    "title": "Dinâmica de Ecossistemas e Mudança Ambiental Rápida",
-    "section": "Exemplos",
-    "text": "Exemplos\n\n\nMata Atlântica + exóticas (híbrido)\n\nFlorestas secundárias com jaqueira (Artocarpus heterophyllus) e mangueira (Mangifera indica)\nCobertura, serviços hídricos e fauna nativa: comparáveis às florestas nativas\nComposição: inédita\n→ Manejo seletivo para reorientar composição\n\nCerrado + gramíneas africanas (novo)\n\nUrochloa spp. alteram o regime de fogo\nIncêndios mais intensos → impedem lenhosas nativas\n→ Restaurar o regime de fogo, não só as plantas\n\n\nCaatinga sob aridificação (emergente)\n\n+2–4°C até 2070 no Semiárido [@ipcc2022]\nVegetação histórica pode ser climaticamente inviável\n→ Meta futura: comunidade nova, identidade caatingueira\n\nManguezal aterrado (novo irreversível)\n\nSolo, hidrologia e salinidade permanentemente alterados\n→ Objetivo realista: funções, não composição histórica"
+    "objectID": "sessions/week1/1-intro.html#sec-resiliencia",
+    "href": "sessions/week1/1-intro.html#sec-resiliencia",
+    "title": "Semana 01: Fundamentos e Princípios da Ecologia da Restauração",
+    "section": "3.2 O papel da resiliência",
+    "text": "3.2 O papel da resiliência\nA escolha entre as estratégias do contínuo depende fundamentalmente do potencial de resiliência do ecossistema degradado, que opera em duas escalas:\n\nResiliência local: capacidade do próprio sítio degradado de regenerar-se, avaliada por indicadores como banco de sementes, rebrotas de raízes, disponibilidade de regeneração natural e integridade do solo.\nResiliência de paisagem: capacidade do contexto espacial de fornecer propágulos, polinizadores, dispersores e outros fluxos ecológicos para o sítio-alvo. Um sítio isolado em uma matriz degradada tem resiliência de paisagem muito baixa, mesmo que localmente apresente banco de sementes razoável Metzger (2010)."
   },
   {
-    "objectID": "slides/semana3_slides.html#vetores-de-mudança-global",
-    "href": "slides/semana3_slides.html#vetores-de-mudança-global",
-    "title": "Dinâmica de Ecossistemas e Mudança Ambiental Rápida",
-    "section": "Vetores de Mudança Global",
-    "text": "Vetores de Mudança Global\n\n\nPrincipais pressões simultâneas:\n\nAquecimento + eventos extremos (secas, ondas de calor)\nInvasões biológicas (flora e fauna exótica)\nExtinções em cascata (dispersores, predadores, engenheiros)\nDeposição de nitrogênio → homogeneização de comunidades\nAlteração de regimes de fogo (supressão ou intensificação)\n\n\nInterações não-lineares:\nOs vetores não somam — multiplicam-se\nExemplo: seca + gramíneas invasoras + supressão histórica do fogo → colapso do Cerrado em pastagem exótica\n\n\n\n\n\n\nAviso\n\n\nProjetar restauração sem cenários climáticos é planejar para um mundo que não existe mais"
+    "objectID": "sessions/week1/1-intro.html#sec-p1",
+    "href": "sessions/week1/1-intro.html#sec-p1",
+    "title": "Semana 01: Fundamentos e Princípios da Ecologia da Restauração",
+    "section": "4.1 Princípio 1 — Aspirar ao ecossistema de referência nativo",
+    "text": "4.1 Princípio 1 — Aspirar ao ecossistema de referência nativo\nTodo projeto de restauração deve ser orientado por um ecossistema de referência: um estado-alvo que represente o ecossistema nativo local em suas condições de integridade ecológica. O ecossistema de referência não é necessariamente o estado histórico pré-distúrbio (que pode ser desconhecido ou inatingível), mas sim o estado mais próximo do funcionamento pleno que é ecologicamente viável dado o contexto atual, incluindo as mudanças climáticas em curso Society for Ecological Restoration (2023).\n\n\n\n\n\n\nAvisoAtenção: o problema do “alvo móvel”\n\n\n\n\nEm biomas sob pressão das mudanças climáticas — como a Caatinga e os Campos Rupestres — o ecossistema de referência pode precisar ser projetado para o futuro, não apenas reconstituído a partir de registros históricos. Este é um debate aberto e central na Ecologia da Restauração contemporânea. Veja Harris et al. (2006) e Hobbs et al. (2014) para posições contrastantes."
   },
   {
-    "objectID": "slides/semana3_slides.html#implicações-para-a-prática",
-    "href": "slides/semana3_slides.html#implicações-para-a-prática",
-    "title": "Dinâmica de Ecossistemas e Mudança Ambiental Rápida",
-    "section": "Implicações para a Prática",
-    "text": "Implicações para a Prática\n\n\nMetas\n\nSubstituir metas rígidas e históricas por metas funcionais e flexíveis\nRevisão periódica obrigatória\nIncluir cenários climáticos IPCC no planejamento\n\n\nDecisão de intervir\n\nUsar a tipologia histórico–híbrido–novo\nEm ecossistemas novos funcionais: manejar &gt; restaurar\nAlocar recursos onde a recuperação é ecologicamente viável\n\n\nEstratégias robustas\n\nAlta diversidade funcional como seguro contra incerteza\nCombinar passiva + ativa\nMonitoramento adaptativo como componente central"
+    "objectID": "sessions/week1/1-intro.html#sec-p2",
+    "href": "sessions/week1/1-intro.html#sec-p2",
+    "title": "Semana 01: Fundamentos e Princípios da Ecologia da Restauração",
+    "section": "4.2 Princípio 2 — Engajar ativamente as partes interessadas (stakeholders)",
+    "text": "4.2 Princípio 2 — Engajar ativamente as partes interessadas (stakeholders)\nA restauração ecológica bem-sucedida depende do engajamento genuíno — não apenas consultivo — de todas as partes interessadas: comunidades locais, povos indígenas, agricultores familiares, governos municipais, estaduais e federal, setor privado e sociedade civil organizada Society for Ecological Restoration (2023).\nO engajamento não é apenas um requisito ético; é uma condição técnica. Projetos que ignoram o conhecimento local tendem a falhar por escolherem espécies inadequadas, ignorarem regimes de perturbação tradicionais (como o fogo manejado) ou gerarem conflitos fundiários que inviabilizam as intervenções Lave et al. (2018)."
   },
   {
-    "objectID": "slides/semana3_slides.html#debate-crítico",
-    "href": "slides/semana3_slides.html#debate-crítico",
-    "title": "Dinâmica de Ecossistemas e Mudança Ambiental Rápida",
-    "section": "Debate Crítico",
-    "text": "Debate Crítico\n\n\nO conceito de ecossistema novo pode ser instrumentalizado?\n\nArgumento conservacionista: aceitar ecossistemas novos é capitular à degradação\nArgumento pragmático: ignorar a novidade ecológica é desperdiçar recursos escassos\n\nTensão real:\n\nQuem decide que um ecossistema “cruzou o limiar”?\nO conceito libera atores de responsabilidades legais?\nA ecologia política alerta: novidade pode justificar inação diante de degradação evitável\n\n\n\n“Novel ecosystems are not an excuse for inaction — they are a call for a more sophisticated form of action.”\n— @hobbs2014\n\nPergunta central:\necossistema novo → manejar (pragmatismo) ou restaurar (princípio)? Sob quais condições cada posição é defensável?"
+    "objectID": "sessions/week1/1-intro.html#sec-p3",
+    "href": "sessions/week1/1-intro.html#sec-p3",
+    "title": "Semana 01: Fundamentos e Princípios da Ecologia da Restauração",
+    "section": "4.3 Princípio 3 — Restaurar a biodiversidade",
+    "text": "4.3 Princípio 3 — Restaurar a biodiversidade\nA restauração não deve visar apenas a cobertura vegetal, mas a diversidade funcional e filogenética do ecossistema nativo, incluindo flora, fauna, fungos, microbiota do solo e os processos ecológicos que esses grupos sustentam (polinização, dispersão de sementes, ciclagem de nutrientes, predação) Society for Ecological Restoration (2023)."
   },
   {
-    "objectID": "slides/semana3_slides.html#síntese-e-conexão-com-as-próximas-aulas",
-    "href": "slides/semana3_slides.html#síntese-e-conexão-com-as-próximas-aulas",
-    "title": "Dinâmica de Ecossistemas e Mudança Ambiental Rápida",
-    "section": "Síntese e Conexão com as Próximas Aulas",
-    "text": "Síntese e Conexão com as Próximas Aulas\n\n\nIdeias-chave desta semana:\n\nEquilíbrio é exceção → trajetórias múltiplas são a regra\nNovidade ≠ degradação → pode ser funcional e estável\nTipologia histórico–híbrido–novo = ferramenta de decisão prática\nMudanças globais exigem metas flexíveis e diversidade funcional como seguro\n\nSemana 4 — Teoria Ecológica I:\nsucessão, montagem de comunidades e dispersão como fundamentos mecanísticos das trajetórias vistas hoje\n\nBibliografia essencial:\n\n@hobbs2006 — tipologia de ecossistemas novos\n@hobbs2014 — panorama crítico e síntese\n@pickett1992 — paradigma do não-equilíbrio\n@ipcc2022 — cenários climáticos regionais\n\nTarefa prévia — Semana 4 (48h antes):\nLeia @hobbs2006 e classifique um ecossistema que você conhece como histórico, híbrido ou novo. Justifique em ≤ 200 palavras."
+    "objectID": "sessions/week1/1-intro.html#sec-p4",
+    "href": "sessions/week1/1-intro.html#sec-p4",
+    "title": "Semana 01: Fundamentos e Princípios da Ecologia da Restauração",
+    "section": "4.4 Princípio 4 — Promover o funcionamento dos ecossistemas",
+    "text": "4.4 Princípio 4 — Promover o funcionamento dos ecossistemas\nUm ecossistema restaurado deve ser capaz de autossustentação — ou seja, de manter seus processos ecológicos fundamentais sem intervenção humana contínua após o estabelecimento inicial. Isso implica restaurar não apenas a composição de espécies, mas as interações bióticas e os processos abióticos que garantem o funcionamento a longo prazo Society for Ecological Restoration (2023)."
   },
   {
-    "objectID": "slides/semana3_slides.html#referências",
-    "href": "slides/semana3_slides.html#referências",
-    "title": "Dinâmica de Ecossistemas e Mudança Ambiental Rápida",
-    "section": "Referências",
-    "text": "Referências"
+    "objectID": "sessions/week1/1-intro.html#sec-p5",
+    "href": "sessions/week1/1-intro.html#sec-p5",
+    "title": "Semana 01: Fundamentos e Princípios da Ecologia da Restauração",
+    "section": "4.5 Princípio 5 — Integrar o contexto da paisagem",
+    "text": "4.5 Princípio 5 — Integrar o contexto da paisagem\nNenhum ecosssitema que precisa de restauração existe isolado. O sucesso da restauração depende de sua conectividade com o entorno: de onde vêm os dispersores de sementes? Há corredores ecológicos? A matriz circundante é permeável ou hostil à fauna nativa? A escala de paisagem deve ser considerada tanto no planejamento quanto na avaliação (Society for Ecological Restoration 2023; Metzger 2010)."
+  },
+  {
+    "objectID": "sessions/week1/1-intro.html#sec-p6",
+    "href": "sessions/week1/1-intro.html#sec-p6",
+    "title": "Semana 01: Fundamentos e Princípios da Ecologia da Restauração",
+    "section": "4.6 Princípio 6 — Usar práticas adaptativas e baseadas em evidências",
+    "text": "4.6 Princípio 6 — Usar práticas adaptativas e baseadas em evidências\nA restauração deve seguir um ciclo de manejo adaptativo: planejar com base nas melhores evidências disponíveis, implementar, monitorar, avaliar e ajustar. O monitoramento não é opcional; é parte constitutiva do projeto. Indicadores devem ser definidos previamente e medidos de forma sistemática Society for Ecological Restoration (2023)."
+  },
+  {
+    "objectID": "sessions/week1/1-intro.html#sec-p7",
+    "href": "sessions/week1/1-intro.html#sec-p7",
+    "title": "Semana 01: Fundamentos e Princípios da Ecologia da Restauração",
+    "section": "4.7 Princípio 7 — Beneficiar o bem-estar humano e a equidade social",
+    "text": "4.7 Princípio 7 — Beneficiar o bem-estar humano e a equidade social\nA restauração deve gerar benefícios concretos para as pessoas, especialmente para as comunidades mais vulneráveis e diretamente dependentes dos ecossistemas restaurados. A Roda de Benefícios Sociais da SER (Society for Ecological Restoration 2023) sintetiza essas dimensões em categorias como segurança alimentar, saúde, identidade cultural e meios de vida."
+  },
+  {
+    "objectID": "sessions/week1/1-intro.html#sec-p8",
+    "href": "sessions/week1/1-intro.html#sec-p8",
+    "title": "Semana 01: Fundamentos e Princípios da Ecologia da Restauração",
+    "section": "4.8 Princípio 8 — Planejar para a persistência a longo prazo",
+    "text": "4.8 Princípio 8 — Planejar para a persistência a longo prazo\nProjetos de restauração devem ter horizontes temporais longos (décadas a séculos) e estratégias para garantir sua continuidade institucional, financeira e social. A maioria dos projetos fracassa não por razões técnicas, mas por abandono após o encerramento do financiamento inicial Society for Ecological Restoration (2023).\n\n\n\n\n\n\n\nA Roda de Benefícios Sociais (Social Benefits Wheel) organiza os benefícios da restauração em oito domínios — saúde, segurança alimentar, água, meios de vida, bem-estar espiritual/cultural, identidade, conhecimento e equidade — e é uma ferramenta visual poderosa para comunicar a multidimensionalidade da restauração a audiências não técnicas."
+  },
+  {
+    "objectID": "sessions/week1/1-intro.html#sec-passiva",
+    "href": "sessions/week1/1-intro.html#sec-passiva",
+    "title": "Semana 01: Fundamentos e Princípios da Ecologia da Restauração",
+    "section": "5.1 Restauração Natural (Passiva) ou Regeneração Natural",
+    "text": "5.1 Restauração Natural (Passiva) ou Regeneração Natural\nA estratégia mais simples e de menor custo consiste em remover ou reduzir os fatores de perturbação e permitir que os processos naturais de sucessão ecológica reconstituam o ecossistema. É adequada quando:\n\nO potencial de resiliência local é alto (banco de sementes ativo, rebrotas, regeneração espontânea visível);\nA paisagem do entorno fornece propágulos de espécies nativas (resiliência de paisagem alta);\nOs fatores de degradação podem ser efetivamente controlados (ex.: exclusão de gado).\n\nLimitações: em paisagens muito fragmentadas, em solos intensamente degradados ou em ecossistemas com histórico longo de degradação, a regeneração natural pode ser lenta, dominada por espécies generalistas ou estagnada em estágios sucessionais iniciais Chazdon (2014)."
+  },
+  {
+    "objectID": "sessions/week1/1-intro.html#sec-assistida",
+    "href": "sessions/week1/1-intro.html#sec-assistida",
+    "title": "Semana 01: Fundamentos e Princípios da Ecologia da Restauração",
+    "section": "5.2 Restauração Assistida",
+    "text": "5.2 Restauração Assistida\nCombina a proteção da regeneração natural com intervenções seletivas para superar gargalos ecológicos específicos. Pode incluir:\n\nNucleação: criação de ilhas de biodiversidade (poleiros artificiais, transposição de solo, grupos de plantio) que atraem fauna e aceleram a colonização natural do entorno;\nSemeadura direta: introdução de sementes de espécies nativas diretamente no campo, reduzindo custos em relação ao plantio de mudas;\nEnriquecimento de capoeiras: adição de espécies de estágios sucessionais mais avançados (especialmente espécies clímax) em vegetação secundária já estabelecida;\nTransposição de solo: movimentação de solo com banco de sementes de áreas nativas para áreas degradadas."
+  },
+  {
+    "objectID": "sessions/week1/1-intro.html#sec-ativa",
+    "href": "sessions/week1/1-intro.html#sec-ativa",
+    "title": "Semana 01: Fundamentos e Princípios da Ecologia da Restauração",
+    "section": "5.3 Restauração Reconstrutiva (Ativa Plena)",
+    "text": "5.3 Restauração Reconstrutiva (Ativa Plena)\nEstratégia mais intensiva, necessária quando o potencial de regeneração é mínimo. Inclui:\n\nPlantio de alta diversidade: modelos de restauração com 80, 100 ou mais espécies nativas, organizados por grupos funcionais (pioneiras, secundárias, clímax) e distribuídos segundo modelos de interação (ex.: modelo de Anderson-Teixeira);\nRestauração de processos abióticos: correção de solo, restauração de drenagem, controle de erosão severa;\nReintrodução de fauna-chave: animais com papel central na dispersão de sementes (antas, morcegos frugívoros, tucanos), na polinização ou no controle de herbívoros.\n\n\n\n\n\n\n\nAvisoReflexão crítica para a prova\n\n\n\nA restauração ecológica é hoje crescentemente inserida em lógicas de mercado (créditos de carbono, biodiversidade, pagamento por serviços ambientais). Essa inserção pode ampliar o financiamento disponível e escalar ações. Mas também pode distorcer prioridades, concentrar benefícios e aprofundar desigualdades. Ao elaborar ou avaliar um projeto de restauração, pergunte sempre: quem paga, quem decide, quem se beneficia e quem arca com os custos?"
+  },
+  {
+    "objectID": "slides/semana4-slides.html#por-que-teoria-importa",
+    "href": "slides/semana4-slides.html#por-que-teoria-importa",
+    "title": "Teoria Ecológica Aplicada à Restauração I",
+    "section": "Por que teoria importa?",
+    "text": "Por que teoria importa?\n\nRestauração não é só “plantar árvores”\nÉ preciso entender como comunidades se formam e se recuperam\nQuatro conceitos-chave desta semana:\n\nSucessão ecológica\nMontagem de comunidades\nDispersão\nRecrutamento"
+  },
+  {
+    "objectID": "slides/semana4-slides.html#duas-visões-clássicas",
+    "href": "slides/semana4-slides.html#duas-visões-clássicas",
+    "title": "Teoria Ecológica Aplicada à Restauração I",
+    "section": "Duas visões clássicas",
+    "text": "Duas visões clássicas\n\nClements: comunidade como “superorganismo”, trajetória única e previsível rumo ao clímax\nGleason: visão individualista — cada espécie responde por conta própria; comunidade é contingente\n\n\nA visão de Gleason é a que melhor sustenta a restauração moderna, pois explica variação entre sítios semelhantes."
+  },
+  {
+    "objectID": "slides/semana4-slides.html#mecanismos-de-connell-slatyer-1977",
+    "href": "slides/semana4-slides.html#mecanismos-de-connell-slatyer-1977",
+    "title": "Teoria Ecológica Aplicada à Restauração I",
+    "section": "Mecanismos de Connell & Slatyer (1977)",
+    "text": "Mecanismos de Connell & Slatyer (1977)\n\n\n\n\n\n\n\nMecanismo\nO que faz\n\n\n\n\nFacilitação\nPioneira melhora o ambiente para as próximas espécies\n\n\nTolerância\nEspécies posteriores se estabelecem independente das pioneiras\n\n\nInibição\nPioneira dificulta a entrada de outras espécies"
+  },
+  {
+    "objectID": "slides/semana4-slides.html#primária-x-secundária",
+    "href": "slides/semana4-slides.html#primária-x-secundária",
+    "title": "Teoria Ecológica Aplicada à Restauração I",
+    "section": "Primária x Secundária",
+    "text": "Primária x Secundária\n\nSucessão primária: sem solo orgânico prévio (rocha nua, mineração severa) → lenta\nSucessão secundária: solo/banco de sementes já existem (pastagem abandonada) → cenário mais comum no Brasil"
+  },
+  {
+    "objectID": "slides/semana4-slides.html#trajetórias-não-lineares",
+    "href": "slides/semana4-slides.html#trajetórias-não-lineares",
+    "title": "Teoria Ecológica Aplicada à Restauração I",
+    "section": "Trajetórias não lineares",
+    "text": "Trajetórias não lineares\n\nNem toda área “caminha sozinha” rumo à floresta original\nBarreiras bióticas e abióticas podem travar a sucessão\nResultado: estado estável alternativo\nPode exigir intervenção ativa para destravar"
+  },
+  {
+    "objectID": "slides/semana4-slides.html#a-metáfora-dos-filtros",
+    "href": "slides/semana4-slides.html#a-metáfora-dos-filtros",
+    "title": "Teoria Ecológica Aplicada à Restauração I",
+    "section": "A metáfora dos filtros",
+    "text": "A metáfora dos filtros\n\nFiltro de dispersão — a espécie consegue chegar?\nFiltro abiótico — as condições físicas permitem sobreviver?\nFiltro biótico — interações com outras espécies permitem persistir?"
+  },
+  {
+    "objectID": "slides/semana4-slides.html#efeito-de-prioridade",
+    "href": "slides/semana4-slides.html#efeito-de-prioridade",
+    "title": "Teoria Ecológica Aplicada à Restauração I",
+    "section": "Efeito de prioridade",
+    "text": "Efeito de prioridade\n\nA ordem de chegada das espécies importa\nQuem chega primeiro pode monopolizar recursos\nImplicação prática: sequência e proporção de espécies plantadas pode direcionar a trajetória sucessional"
+  },
+  {
+    "objectID": "slides/semana4-slides.html#síndromes-de-dispersão",
+    "href": "slides/semana4-slides.html#síndromes-de-dispersão",
+    "title": "Teoria Ecológica Aplicada à Restauração I",
+    "section": "Síndromes de dispersão",
+    "text": "Síndromes de dispersão\n\nZoocoria — animais (predominante em florestas tropicais)\nAnemocoria — vento\nAutocoria — mecanismo próprio da planta\nHidrocoria — água"
+  },
+  {
+    "objectID": "slides/semana4-slides.html#limitação-de-dispersão",
+    "href": "slides/semana4-slides.html#limitação-de-dispersão",
+    "title": "Teoria Ecológica Aplicada à Restauração I",
+    "section": "Limitação de dispersão",
+    "text": "Limitação de dispersão\n\nSementes viáveis não chegam a sítios ambientalmente adequados\nDiferente de limitação ambiental!\nDiagnóstico correto define a solução:\n\nLimitação de dispersão → poleiros, conectividade, espécies atrativas à fauna\nLimitação ambiental → manejo de solo, controle de competidores"
+  },
+  {
+    "objectID": "slides/semana4-slides.html#modelo-de-nathan-muller-landau",
+    "href": "slides/semana4-slides.html#modelo-de-nathan-muller-landau",
+    "title": "Teoria Ecológica Aplicada à Restauração I",
+    "section": "Modelo de Nathan & Muller-Landau",
+    "text": "Modelo de Nathan & Muller-Landau\n\nLimitação de dispersão: a semente não chega\nLimitação de estabelecimento: chega, mas não germina/sobrevive\n\nPredação de sementes\nHerbivoria\nCompetição com gramíneas exóticas\nCondições de solo/luz inadequadas"
+  },
+  {
+    "objectID": "slides/semana4-slides.html#bancos-de-regeneração",
+    "href": "slides/semana4-slides.html#bancos-de-regeneração",
+    "title": "Teoria Ecológica Aplicada à Restauração I",
+    "section": "Bancos de regeneração",
+    "text": "Bancos de regeneração\n\nBanco de sementes do solo: reservatório viável, pode durar anos\nBanco de plântulas: plântulas já estabelecidas, aguardando clareiras"
+  },
+  {
+    "objectID": "slides/semana4-slides.html#qual-estratégia-usar",
+    "href": "slides/semana4-slides.html#qual-estratégia-usar",
+    "title": "Teoria Ecológica Aplicada à Restauração I",
+    "section": "Qual estratégia usar?",
+    "text": "Qual estratégia usar?\n\n\n\n\n\n\n\nSituação\nEstratégia indicada\n\n\n\n\nBaixa limitação de dispersão/recrutamento\nRegeneração natural (passiva)\n\n\nAlta limitação de dispersão e/ou recrutamento\nRestauração ativa (plantio)\n\n\nLimitação pontual, paisagem parcialmente conectada\nNucleação (poleiros, ilhas de diversidade)"
+  },
+  {
+    "objectID": "slides/semana4-slides.html#o-que-diz-a-evidência",
+    "href": "slides/semana4-slides.html#o-que-diz-a-evidência",
+    "title": "Teoria Ecológica Aplicada à Restauração I",
+    "section": "O que diz a evidência",
+    "text": "O que diz a evidência\n\nMeta-análises em florestas tropicais indicam maior sucesso relativo da regeneração natural por unidade de custo, comparada à restauração ativa\nReforça a importância de diagnosticar os filtros antes de escolher a estratégia"
+  },
+  {
+    "objectID": "slides/semana4-slides.html#síntese-da-semana",
+    "href": "slides/semana4-slides.html#síntese-da-semana",
+    "title": "Teoria Ecológica Aplicada à Restauração I",
+    "section": "Síntese da semana",
+    "text": "Síntese da semana\n\nSucessão: como a comunidade muda no tempo\nMontagem: quais filtros definem quem coexiste\nDispersão: os propágulos chegam?\nRecrutamento: os propágulos se estabelecem?\n\n\nDiagnosticar corretamente esses processos é o que orienta decisões de restauração no campo."
+  },
+  {
+    "objectID": "slides/semana4-slides.html#referências-principais",
+    "href": "slides/semana4-slides.html#referências-principais",
+    "title": "Teoria Ecológica Aplicada à Restauração I",
+    "section": "Referências principais",
+    "text": "Referências principais\n\nCROUZEILLES et al. (2017) — Science Advances\nGANN et al. (2019) — Restoration Ecology\nNAVE et al. (2016) — Manual de Restauração Ecológica\nTYMUS et al. (2018) — Restauração da vegetação nativa no Brasil\nYOUNG; PETERSEN; CLARY (2005) — Ecology Letters"
   },
   {
     "objectID": "slides/semana1_slides.html#objetivos-da-aula",
@@ -770,123 +917,144 @@
     "text": "FIM"
   },
   {
-    "objectID": "sessions/week1/1-intro.html",
-    "href": "sessions/week1/1-intro.html",
-    "title": "Semana 01: Fundamentos e Princípios da Ecologia da Restauração",
+    "objectID": "slides/semana3_slides.html#objetivos-da-aula",
+    "href": "slides/semana3_slides.html#objetivos-da-aula",
+    "title": "Dinâmica de Ecossistemas e Mudança Ambiental Rápida",
+    "section": "Objetivos da Aula",
+    "text": "Objetivos da Aula\n\n\nAo final desta aula você será capaz de:\n\nContrastar os paradigmas de equilíbrio e não-equilíbrio\nDefinir novidade ecológica e seus tipos\nAplicar a tipologia histórico–híbrido–novo\n\n\n\nIdentificar vetores de mudança global relevantes para a restauração\nAvaliar quando intervir e quando manejar ecossistemas novos\nReformular metas de restauração sob incerteza climática"
+  },
+  {
+    "objectID": "slides/semana3_slides.html#dois-paradigmas-uma-tensão",
+    "href": "slides/semana3_slides.html#dois-paradigmas-uma-tensão",
+    "title": "Dinâmica de Ecossistemas e Mudança Ambiental Rápida",
+    "section": "Dois Paradigmas, Uma Tensão",
+    "text": "Dois Paradigmas, Uma Tensão\n\n\nParadigma do Equilíbrio\n(clássico)\n\nEcossistemas → estado estável único\nPerturbação → desvio temporário\nSucessão → retorno ao equilíbrio\nRestauração = “ajudar a voltar”\n\nProblema: assume um mundo estacionário\n\nParadigma do Não-Equilíbrio\n(emergente)\n\nTrajetórias múltiplas e dependentes da história\nVariabilidade como norma, não ruído\nSem estado único “correto”\nRestauração = reorientar uma trajetória\n\nBase empírica: @pickett1992, @hobbs2014"
+  },
+  {
+    "objectID": "slides/semana3_slides.html#conceitos-centrais",
+    "href": "slides/semana3_slides.html#conceitos-centrais",
+    "title": "Dinâmica de Ecossistemas e Mudança Ambiental Rápida",
+    "section": "Conceitos Centrais",
+    "text": "Conceitos Centrais\n\n\n\nNão-equilíbrio\n\nsistemas ecológicos em mudança permanente, sem ponto de equilíbrio fixo\n\nDependência histórica (path dependence)\n\no estado atual só se explica pela trajetória pretérita\n\nNovidade ecológica\n\ncombinações de espécies, condições e interações sem análogo histórico [@hobbs2006]\n\nEcossistema novo (novel ecosystem)\n\ncomposição, estrutura e funcionamento inéditos — limiares cruzados de forma irreversível\n\n\n\n\n\n\nFigura: leque de trajetórias possíveis a partir de um estado degradado. Fonte: Hobbs et al. (2014), Fig. 2"
+  },
+  {
+    "objectID": "slides/semana3_slides.html#tipologia-histórico-híbrido-novo",
+    "href": "slides/semana3_slides.html#tipologia-histórico-híbrido-novo",
+    "title": "Dinâmica de Ecossistemas e Mudança Ambiental Rápida",
+    "section": "Tipologia: Histórico — Híbrido — Novo",
+    "text": "Tipologia: Histórico — Híbrido — Novo\n\n\n\n\n\nFigura: triângulo diagnóstico de ecossistemas segundo grau de alteração biótica e abiótica. Fonte: Hobbs et al. (2006)\n\n\n\n\n\n\nTipo\nAlteração biótica\nAlteração abiótica\nEstratégia\n\n\n\n\nHistórico\nBaixa\nBaixa\nRestaurar\n\n\nHíbrido\nAlta\nBaixa/Média\nRestaurar com esforço\n\n\nNovo\nAlta\nAlta\nManejar\n\n\n\nA tipologia é uma ferramenta de decisão:\ndireciona recursos para onde a restauração é ecologicamente viável"
+  },
+  {
+    "objectID": "slides/semana3_slides.html#exemplos",
+    "href": "slides/semana3_slides.html#exemplos",
+    "title": "Dinâmica de Ecossistemas e Mudança Ambiental Rápida",
+    "section": "Exemplos",
+    "text": "Exemplos\n\n\nMata Atlântica + exóticas (híbrido)\n\nFlorestas secundárias com jaqueira (Artocarpus heterophyllus) e mangueira (Mangifera indica)\nCobertura, serviços hídricos e fauna nativa: comparáveis às florestas nativas\nComposição: inédita\n→ Manejo seletivo para reorientar composição\n\nCerrado + gramíneas africanas (novo)\n\nUrochloa spp. alteram o regime de fogo\nIncêndios mais intensos → impedem lenhosas nativas\n→ Restaurar o regime de fogo, não só as plantas\n\n\nCaatinga sob aridificação (emergente)\n\n+2–4°C até 2070 no Semiárido [@ipcc2022]\nVegetação histórica pode ser climaticamente inviável\n→ Meta futura: comunidade nova, identidade caatingueira\n\nManguezal aterrado (novo irreversível)\n\nSolo, hidrologia e salinidade permanentemente alterados\n→ Objetivo realista: funções, não composição histórica"
+  },
+  {
+    "objectID": "slides/semana3_slides.html#vetores-de-mudança-global",
+    "href": "slides/semana3_slides.html#vetores-de-mudança-global",
+    "title": "Dinâmica de Ecossistemas e Mudança Ambiental Rápida",
+    "section": "Vetores de Mudança Global",
+    "text": "Vetores de Mudança Global\n\n\nPrincipais pressões simultâneas:\n\nAquecimento + eventos extremos (secas, ondas de calor)\nInvasões biológicas (flora e fauna exótica)\nExtinções em cascata (dispersores, predadores, engenheiros)\nDeposição de nitrogênio → homogeneização de comunidades\nAlteração de regimes de fogo (supressão ou intensificação)\n\n\nInterações não-lineares:\nOs vetores não somam — multiplicam-se\nExemplo: seca + gramíneas invasoras + supressão histórica do fogo → colapso do Cerrado em pastagem exótica\n\n\n\n\n\n\nAviso\n\n\nProjetar restauração sem cenários climáticos é planejar para um mundo que não existe mais"
+  },
+  {
+    "objectID": "slides/semana3_slides.html#implicações-para-a-prática",
+    "href": "slides/semana3_slides.html#implicações-para-a-prática",
+    "title": "Dinâmica de Ecossistemas e Mudança Ambiental Rápida",
+    "section": "Implicações para a Prática",
+    "text": "Implicações para a Prática\n\n\nMetas\n\nSubstituir metas rígidas e históricas por metas funcionais e flexíveis\nRevisão periódica obrigatória\nIncluir cenários climáticos IPCC no planejamento\n\n\nDecisão de intervir\n\nUsar a tipologia histórico–híbrido–novo\nEm ecossistemas novos funcionais: manejar &gt; restaurar\nAlocar recursos onde a recuperação é ecologicamente viável\n\n\nEstratégias robustas\n\nAlta diversidade funcional como seguro contra incerteza\nCombinar passiva + ativa\nMonitoramento adaptativo como componente central"
+  },
+  {
+    "objectID": "slides/semana3_slides.html#debate-crítico",
+    "href": "slides/semana3_slides.html#debate-crítico",
+    "title": "Dinâmica de Ecossistemas e Mudança Ambiental Rápida",
+    "section": "Debate Crítico",
+    "text": "Debate Crítico\n\n\nO conceito de ecossistema novo pode ser instrumentalizado?\n\nArgumento conservacionista: aceitar ecossistemas novos é capitular à degradação\nArgumento pragmático: ignorar a novidade ecológica é desperdiçar recursos escassos\n\nTensão real:\n\nQuem decide que um ecossistema “cruzou o limiar”?\nO conceito libera atores de responsabilidades legais?\nA ecologia política alerta: novidade pode justificar inação diante de degradação evitável\n\n\n\n“Novel ecosystems are not an excuse for inaction — they are a call for a more sophisticated form of action.”\n— @hobbs2014\n\nPergunta central:\necossistema novo → manejar (pragmatismo) ou restaurar (princípio)? Sob quais condições cada posição é defensável?"
+  },
+  {
+    "objectID": "slides/semana3_slides.html#síntese-e-conexão-com-as-próximas-aulas",
+    "href": "slides/semana3_slides.html#síntese-e-conexão-com-as-próximas-aulas",
+    "title": "Dinâmica de Ecossistemas e Mudança Ambiental Rápida",
+    "section": "Síntese e Conexão com as Próximas Aulas",
+    "text": "Síntese e Conexão com as Próximas Aulas\n\n\nIdeias-chave desta semana:\n\nEquilíbrio é exceção → trajetórias múltiplas são a regra\nNovidade ≠ degradação → pode ser funcional e estável\nTipologia histórico–híbrido–novo = ferramenta de decisão prática\nMudanças globais exigem metas flexíveis e diversidade funcional como seguro\n\nSemana 4 — Teoria Ecológica I:\nsucessão, montagem de comunidades e dispersão como fundamentos mecanísticos das trajetórias vistas hoje\n\nBibliografia essencial:\n\n@hobbs2006 — tipologia de ecossistemas novos\n@hobbs2014 — panorama crítico e síntese\n@pickett1992 — paradigma do não-equilíbrio\n@ipcc2022 — cenários climáticos regionais\n\nTarefa prévia — Semana 4 (48h antes):\nLeia @hobbs2006 e classifique um ecossistema que você conhece como histórico, híbrido ou novo. Justifique em ≤ 200 palavras."
+  },
+  {
+    "objectID": "slides/semana3_slides.html#referências",
+    "href": "slides/semana3_slides.html#referências",
+    "title": "Dinâmica de Ecossistemas e Mudança Ambiental Rápida",
+    "section": "Referências",
+    "text": "Referências"
+  },
+  {
+    "objectID": "sessions/week4/semana4-resumo-expandido.html",
+    "href": "sessions/week4/semana4-resumo-expandido.html",
+    "title": "Semana 4 — Teoria Ecológica Aplicada à Restauração I",
     "section": "",
     "text": "Slides da Aula"
   },
   {
-    "objectID": "sessions/week1/1-intro.html#sec-ciencia",
-    "href": "sessions/week1/1-intro.html#sec-ciencia",
-    "title": "Semana 01: Fundamentos e Princípios da Ecologia da Restauração",
-    "section": "2.1 Ecologia da Restauração (Restoration Ecology) — a ciência",
-    "text": "2.1 Ecologia da Restauração (Restoration Ecology) — a ciência\nA Ecologia da Restauração é o corpo científico que investiga os processos ecológicos subjacentes à degradação e à recuperação de ecossistemas, gerando conhecimento teórico e metodológico para orientar intervenções práticas Society for Ecological Restoration (2023). Como disciplina acadêmica, integra ecologia de comunidades, ecofisiologia, pedologia, hidrologia e, cada vez mais, ciências sociais e humanidades (Aronson e Alexander (2013)).\n\n\n\n\n\n\nImportanteDefinição Canônica — SER (2023)\n\n\n\n\n“Restoration ecology is the scientific study underpinning the practice of ecological restoration, which is the process of assisting the recovery of an ecosystem that has been degraded, damaged, or destroyed.” (Society for Ecological Restoration 2023, 4)\n\nNote que a definição é deliberadamente bidirecional: a ciência informa a prática, mas a prática também gera hipóteses e dados que retroalimentam a ciência.\n\n\nA Ecologia da Restauração busca responder perguntas como:\n\nQuais mecanismos ecológicos limitam o retorno espontâneo de espécies nativas após a perturbação?\nEm que condições a regeneração natural é suficiente, e quando intervenções ativas são necessárias?\nComo escalar resultados de parcelas experimentais para paisagens inteiras?\nQue atributos de um ecossistema indicam que a restauração foi bem-sucedida?"
+    "objectID": "sessions/week4/semana4-resumo-expandido.html#introdução",
+    "href": "sessions/week4/semana4-resumo-expandido.html#introdução",
+    "title": "Semana 4 — Teoria Ecológica Aplicada à Restauração I",
+    "section": "1 Introdução",
+    "text": "1 Introdução\nA restauração ecológica não é apenas uma técnica de plantio: é uma prática fundamentada em teoria ecológica. Compreender como as comunidades se formam, se recuperam e se mantêm ao longo do tempo é essencial para orientar decisões práticas — desde a escolha de espécies até a definição de qual estratégia de intervenção (ativa, passiva ou nucleadora) é mais adequada para cada contexto.\nEsta semana trata de quatro conceitos centrais e interligados:\n\nSucessão ecológica — como as comunidades mudam ao longo do tempo após um distúrbio;\nMontagem de comunidades (community assembly) — quais processos determinam quais espécies coexistem em um dado local;\nDispersão — como propágulos (sementes, esporos, indivíduos) chegam a um sítio;\nRecrutamento — como esses propágulos efetivamente se estabelecem e se tornam parte da comunidade adulta.\n\nJuntos, esses processos explicam por que alguns ecossistemas se regeneram espontaneamente enquanto outros permanecem degradados indefinidamente sem intervenção humana."
   },
   {
-    "objectID": "sessions/week1/1-intro.html#sec-pratica",
-    "href": "sessions/week1/1-intro.html#sec-pratica",
-    "title": "Semana 01: Fundamentos e Princípios da Ecologia da Restauração",
-    "section": "2.2 Restauração Ecológica (Ecological Restoration) — a prática",
-    "text": "2.2 Restauração Ecológica (Ecological Restoration) — a prática\nA Restauração Ecológica é a atividade intencional de assistir a recuperação de um ecossistema que foi degradado, danificado ou destruído Society for Ecological Restoration (2023). É uma prática aplicada, que mobiliza o conhecimento científico disponível em intervenções concretas no território — plantio de mudas, controle de espécies invasoras, reintrodução de fauna, restauração hidrológica, e assim por diante.\n\nDiferenças fundamentais entre a ciência e a prática da restauração.\n\n\n\n\n\n\n\nDimensão\nEcologia da Restauração\nRestauração Ecológica\n\n\n\n\nNatureza\nCiência\nPrática / atividade\n\n\nProduto\nConhecimento, teorias, modelos\nEcossistemas recuperados\n\n\nAgentes\nPesquisadores, universidades\nTécnicos, governos, comunidades, ONGs\n\n\nEscala temporal\nLonga (décadas, séculos)\nCurta a média (anos, décadas)\n\n\nMétricas centrais\nPublicações, modelos preditivos\nCobertura vegetal, biodiversidade, serviços"
+    "objectID": "sessions/week4/semana4-resumo-expandido.html#sucessão-ecológica",
+    "href": "sessions/week4/semana4-resumo-expandido.html#sucessão-ecológica",
+    "title": "Semana 4 — Teoria Ecológica Aplicada à Restauração I",
+    "section": "2 Sucessão ecológica",
+    "text": "2 Sucessão ecológica\n\n2.1 Conceitos clássicos\nA teoria da sucessão tem raízes no início do século XX, com duas visões clássicas frequentemente contrastadas:\n\nClements (visão organísmica): a comunidade se comporta como um “superorganismo” que se desenvolve em direção a um estado clímax único e previsível, determinado pelo clima regional.\nGleason (visão individualista): cada espécie responde independentemente às condições ambientais e à disponibilidade de propágulos; a comunidade é uma coleção contingente de indivíduos, não uma unidade coesa com trajetória fixa.\n\nA visão individualista de Gleason é a que melhor sustenta a ecologia da restauração contemporânea, pois explica por que trajetórias sucessionais podem variar bastante entre sítios aparentemente semelhantes.\n\n\n2.2 Mecanismos de sucessão (Connell & Slatyer, 1977)\nUm marco na teoria de sucessão, revisitado em textos fundamentais de ecologia da restauração (Young; Petersen; Clary, 2005), foi a proposição de três mecanismos não excludentes pelos quais espécies pioneiras influenciam a colonização por espécies posteriores:\n\nFacilitação: espécies pioneiras modificam o ambiente (sombra, matéria orgânica, microclima) de forma a favorecer o estabelecimento de espécies subsequentes.\nTolerância: espécies posteriores conseguem se estabelecer independentemente da presença de pioneiras, apenas mais lentamente.\nInibição: espécies pioneiras dificultam ativamente a entrada de outras espécies (por competição, alelopatia), atrasando a sucessão até que sejam removidas por distúrbio, senescência ou herbivoria.\n\n\n\n2.3 Sucessão primária x secundária\n\nPrimária: ocorre em substratos sem solo orgânico preexistente (afloramentos rochosos, depósitos vulcânicos, áreas de mineração muito degradadas). É lenta, pois depende da formação de solo.\nSecundária: ocorre onde o solo e o banco de sementes/propágulos já existem, mesmo após remoção da vegetação (pastagens abandonadas, áreas de agricultura). É o cenário mais comum em projetos de restauração florestal no Brasil.\n\n\n\n2.4 Trajetórias não lineares e estados alternativos\nNem toda área degradada segue uma trajetória sucessional em direção à floresta original. Barreiras bióticas (gramíneas exóticas competitivamente dominantes, ausência de dispersores) e abióticas (solo compactado, fogo recorrente) podem travar a sucessão em um estado estável alternativo, exigindo intervenção ativa para “destravar” o processo — um dos princípios reconhecidos nos padrões internacionais de restauração ecológica (Gann et al., 2019)."
   },
   {
-    "objectID": "sessions/week1/1-intro.html#sec-gradacoes",
-    "href": "sessions/week1/1-intro.html#sec-gradacoes",
-    "title": "Semana 01: Fundamentos e Princípios da Ecologia da Restauração",
-    "section": "3.1 Gradações do contínuo",
-    "text": "3.1 Gradações do contínuo\nO contínuo pode ser organizado em quatro grandes categorias, em ordem crescente de intervenção e complexidade:\n\n1. Redução de impactos e proteção\n\nIntervenções que visam cessar ou atenuar os fatores de degradação sem necessariamente promover a recuperação ativa. Exemplos: cercamento de áreas para exclusão de gado, retirada de lixo, controle de queimadas. São pré-requisitos indispensáveis para qualquer ação subsequente.\n\n2. Remediação e reabilitação\n\nAções voltadas para a recuperação de funções e serviços ecossistêmicos sem necessariamente visar a plena biodiversidade nativa. Inclui estabilização de encostas, controle de erosão, revegetação com gramíneas ou espécies de uso múltiplo, e restauração de nascentes. O resultado esperado é um ecossistema funcional, mas não necessariamente um ecossistema nativo. Muitas vezes é o que a legislação ambiental exige de empreendimentos licenciados.\n\n3. Restauração ecológica assistida\n\nIntervenções que combinam proteção, enriquecimento e manejo ativo para acelerar trajetórias sucessionais em direção a um ecossistema nativo de referência. Inclui plantio de mudas nativas, semeadura direta, reintrodução de fauna-chave e controle de espécies invasoras. É o núcleo do que a SER denomina “restauração ecológica” no sentido estrito.\n\n4. Restauração reconstrutiva (ativa plena)\n\nA forma mais intensiva, empregada em ecossistemas severamente degradados onde o potencial de regeneração natural é mínimo. Requer o restabelecimento ativo de processos pedogenéticos, hidrológicos e bióticos, muitas vezes em paralelo. Exemplos incluem a restauração de manguezais após aterramento e a recuperação de áreas de mineração a céu aberto.\n\n\n\n\n\n\n\n\n\nA Figura clássica do contínuo restaurativo — mostrando o espectro de intervenções em um eixo de “grau de degradação × intensidade da intervenção”."
+    "objectID": "sessions/week4/semana4-resumo-expandido.html#montagem-de-comunidades-community-assembly",
+    "href": "sessions/week4/semana4-resumo-expandido.html#montagem-de-comunidades-community-assembly",
+    "title": "Semana 4 — Teoria Ecológica Aplicada à Restauração I",
+    "section": "3 Montagem de comunidades (Community Assembly)",
+    "text": "3 Montagem de comunidades (Community Assembly)\nA teoria de montagem de comunidades busca responder: de todas as espécies do pool regional, por que apenas um subconjunto ocorre em um determinado local? A resposta é organizada em torno da metáfora dos filtros ecológicos, aplicados sequencialmente:\n\nFiltro de dispersão: a espécie precisa conseguir chegar ao local.\nFiltro abiótico (ambiental): as condições físico-químicas do sítio (solo, luz, água) precisam permitir a sobrevivência da espécie.\nFiltro biótico: interações com outras espécies já presentes (competição, predação, facilitação, patógenos) determinam se o indivíduo se estabelece e persiste.\n\n\n3.1 Regras de montagem e efeitos de prioridade\nAlém dos filtros, a ordem de chegada das espécies pode influenciar fortemente a composição final da comunidade — o chamado efeito de prioridade (priority effect). Espécies que chegam primeiro podem monopolizar recursos e alterar as condições do sítio, favorecendo ou impedindo a entrada de espécies posteriores. Isso tem implicações diretas para o planejamento de restauração: a sequência e a proporção de espécies plantadas podem direcionar a trajetória sucessional."
   },
   {
-    "objectID": "sessions/week1/1-intro.html#sec-resiliencia",
-    "href": "sessions/week1/1-intro.html#sec-resiliencia",
-    "title": "Semana 01: Fundamentos e Princípios da Ecologia da Restauração",
-    "section": "3.2 O papel da resiliência",
-    "text": "3.2 O papel da resiliência\nA escolha entre as estratégias do contínuo depende fundamentalmente do potencial de resiliência do ecossistema degradado, que opera em duas escalas:\n\nResiliência local: capacidade do próprio sítio degradado de regenerar-se, avaliada por indicadores como banco de sementes, rebrotas de raízes, disponibilidade de regeneração natural e integridade do solo.\nResiliência de paisagem: capacidade do contexto espacial de fornecer propágulos, polinizadores, dispersores e outros fluxos ecológicos para o sítio-alvo. Um sítio isolado em uma matriz degradada tem resiliência de paisagem muito baixa, mesmo que localmente apresente banco de sementes razoável Metzger (2010)."
+    "objectID": "sessions/week4/semana4-resumo-expandido.html#dispersão",
+    "href": "sessions/week4/semana4-resumo-expandido.html#dispersão",
+    "title": "Semana 4 — Teoria Ecológica Aplicada à Restauração I",
+    "section": "4 Dispersão",
+    "text": "4 Dispersão\nA dispersão é o processo pelo qual propágulos se movem do local de origem até um novo sítio. Em paisagens fragmentadas, a dispersão é frequentemente o principal fator limitante da regeneração natural.\n\n4.1 Síndromes de dispersão\n\nZoocoria: dispersão por animais (aves, morcegos, mamíferos terrestres) — predominante em florestas tropicais.\nAnemocoria: dispersão pelo vento.\nAutocoria: dispersão por mecanismos próprios da planta (explosão de frutos, gravidade).\nHidrocoria: dispersão pela água.\n\nA zoocoria é particularmente relevante em florestas tropicais, o que conecta diretamente a restauração à conservação da fauna dispersora — sem aves e mamíferos frugívoros, muitas espécies arbóreas de estágios avançados de sucessão simplesmente não conseguem recolonizar áreas restauradas (Tymus et al., 2018).\n\n\n4.2 Limitação de dispersão\nO conceito de limitação de dispersão (dispersal limitation) descreve situações em que sementes viáveis de uma espécie não chegam a sítios ambientalmente adequados, mesmo que esses sítios pudessem sustentar a espécie caso as sementes chegassem lá. Isso é distinto da limitação por condições ambientais desfavoráveis, e a distinção tem implicações práticas centrais: se a limitação é de dispersão, medidas como poleiros artificiais, plantio de espécies atrativas para fauna e proximidade a fragmentos-fonte podem resolver o problema; se é uma limitação ambiental, isso pode exigir manejo do solo, controle de competidores ou irrigação."
   },
   {
-    "objectID": "sessions/week1/1-intro.html#sec-p1",
-    "href": "sessions/week1/1-intro.html#sec-p1",
-    "title": "Semana 01: Fundamentos e Princípios da Ecologia da Restauração",
-    "section": "4.1 Princípio 1 — Aspirar ao ecossistema de referência nativo",
-    "text": "4.1 Princípio 1 — Aspirar ao ecossistema de referência nativo\nTodo projeto de restauração deve ser orientado por um ecossistema de referência: um estado-alvo que represente o ecossistema nativo local em suas condições de integridade ecológica. O ecossistema de referência não é necessariamente o estado histórico pré-distúrbio (que pode ser desconhecido ou inatingível), mas sim o estado mais próximo do funcionamento pleno que é ecologicamente viável dado o contexto atual, incluindo as mudanças climáticas em curso Society for Ecological Restoration (2023).\n\n\n\n\n\n\nAvisoAtenção: o problema do “alvo móvel”\n\n\n\n\nEm biomas sob pressão das mudanças climáticas — como a Caatinga e os Campos Rupestres — o ecossistema de referência pode precisar ser projetado para o futuro, não apenas reconstituído a partir de registros históricos. Este é um debate aberto e central na Ecologia da Restauração contemporânea. Veja Harris et al. (2006) e Hobbs et al. (2014) para posições contrastantes."
+    "objectID": "sessions/week4/semana4-resumo-expandido.html#recrutamento",
+    "href": "sessions/week4/semana4-resumo-expandido.html#recrutamento",
+    "title": "Semana 4 — Teoria Ecológica Aplicada à Restauração I",
+    "section": "5 Recrutamento",
+    "text": "5 Recrutamento\nRecrutamento é o processo pelo qual um propágulo disperso efetivamente se torna um indivíduo estabelecido na comunidade — envolvendo germinação, sobrevivência de plântula e crescimento até estágios menos vulneráveis.\n\n5.1 O modelo de Nathan & Muller-Landau\nUm marco conceitual amplamente utilizado separa o recrutamento em dois componentes sequenciais:\n\nLimitação de dispersão: a semente não chega ao sítio.\nLimitação de estabelecimento (ou recrutamento propriamente dito): mesmo chegando, a semente não germina, ou a plântula não sobrevive, devido a condições de solo, luz, predação de sementes, herbivoria ou patógenos.\n\nEssa distinção é fundamental porque orienta diagnósticos práticos em projetos de restauração: uma área pode ter alta chegada de sementes (baixa limitação de dispersão) mas baixíssimo recrutamento efetivo devido a predação intensa por roedores ou formigas cortadeiras, ou à dominância de gramíneas exóticas que impedem a germinação.\n\n\n5.2 Banco de sementes e banco de plântulas\n\nBanco de sementes do solo: reservatório de sementes viáveis armazenadas no solo, que pode manter dormência por anos. É uma fonte importante de regeneração secundária, mas se esgota ou se torna dominado por espécies pioneiras/invasoras em áreas com histórico de uso intensivo.\nBanco de plântulas: conjunto de plântulas já estabelecidas no sub-bosque, aguardando condições (clareiras) para crescer até o dossel."
   },
   {
-    "objectID": "sessions/week1/1-intro.html#sec-p2",
-    "href": "sessions/week1/1-intro.html#sec-p2",
-    "title": "Semana 01: Fundamentos e Princípios da Ecologia da Restauração",
-    "section": "4.2 Princípio 2 — Engajar ativamente as partes interessadas (stakeholders)",
-    "text": "4.2 Princípio 2 — Engajar ativamente as partes interessadas (stakeholders)\nA restauração ecológica bem-sucedida depende do engajamento genuíno — não apenas consultivo — de todas as partes interessadas: comunidades locais, povos indígenas, agricultores familiares, governos municipais, estaduais e federal, setor privado e sociedade civil organizada Society for Ecological Restoration (2023).\nO engajamento não é apenas um requisito ético; é uma condição técnica. Projetos que ignoram o conhecimento local tendem a falhar por escolherem espécies inadequadas, ignorarem regimes de perturbação tradicionais (como o fogo manejado) ou gerarem conflitos fundiários que inviabilizam as intervenções Lave et al. (2018)."
+    "objectID": "sessions/week4/semana4-resumo-expandido.html#conectando-teoria-e-prática-implicações-para-a-restauração",
+    "href": "sessions/week4/semana4-resumo-expandido.html#conectando-teoria-e-prática-implicações-para-a-restauração",
+    "title": "Semana 4 — Teoria Ecológica Aplicada à Restauração I",
+    "section": "6 Conectando teoria e prática: implicações para a restauração",
+    "text": "6 Conectando teoria e prática: implicações para a restauração\nA integração desses quatro conceitos fundamenta a escolha entre diferentes estratégias de restauração:\n\nRegeneração natural (passiva): viável quando dispersão e recrutamento não são fortemente limitados — proximidade de fragmentos-fonte, presença de fauna dispersora, banco de sementes/plântulas ativo, ausência de barreiras bióticas fortes.\nRestauração ativa (plantio): necessária quando há limitação severa de dispersão e/ou recrutamento — paisagens muito fragmentadas, solos degradados, dominância de gramíneas exóticas.\nNucleação: técnicas como poleiros artificiais, ilhas de alta diversidade e transposição de solo/serapilheira atuam diretamente sobre os filtros de dispersão e recrutamento, “adiantando” etapas da sucessão sem exigir o plantio de toda a área (Nave et al., 2016).\n\nMeta-análises amplas mostram que, em florestas tropicais, a regeneração natural frequentemente apresenta maior sucesso relativo de restauração (biodiversidade e estrutura) por unidade de custo quando comparada à restauração ativa (Crouzeilles et al., 2017), o que reforça a importância de diagnosticar corretamente quais filtros (dispersão, ambiental, biótico) estão de fato limitando a regeneração em cada sítio antes de decidir a estratégia de intervenção."
   },
   {
-    "objectID": "sessions/week1/1-intro.html#sec-p3",
-    "href": "sessions/week1/1-intro.html#sec-p3",
-    "title": "Semana 01: Fundamentos e Princípios da Ecologia da Restauração",
-    "section": "4.3 Princípio 3 — Restaurar a biodiversidade",
-    "text": "4.3 Princípio 3 — Restaurar a biodiversidade\nA restauração não deve visar apenas a cobertura vegetal, mas a diversidade funcional e filogenética do ecossistema nativo, incluindo flora, fauna, fungos, microbiota do solo e os processos ecológicos que esses grupos sustentam (polinização, dispersão de sementes, ciclagem de nutrientes, predação) Society for Ecological Restoration (2023)."
+    "objectID": "sessions/week4/semana4-resumo-expandido.html#síntese",
+    "href": "sessions/week4/semana4-resumo-expandido.html#síntese",
+    "title": "Semana 4 — Teoria Ecológica Aplicada à Restauração I",
+    "section": "7 Síntese",
+    "text": "7 Síntese\n\n\n\n\n\n\n\n\nConceito\nPergunta-chave\nImplicação prática\n\n\n\n\nSucessão\nComo a comunidade muda ao longo do tempo?\nDefine expectativas de trajetória e tempo de recuperação\n\n\nMontagem de comunidades\nQuais filtros determinam quem coexiste?\nOrienta diagnóstico de barreiras (dispersão, solo, biótica)\n\n\nDispersão\nOs propágulos conseguem chegar ao sítio?\nJustifica poleiros, conectividade, proximidade de fontes\n\n\nRecrutamento\nOs propágulos que chegam se estabelecem?\nJustifica manejo de solo, controle de competidores, proteção contra predação"
   },
   {
-    "objectID": "sessions/week1/1-intro.html#sec-p4",
-    "href": "sessions/week1/1-intro.html#sec-p4",
-    "title": "Semana 01: Fundamentos e Princípios da Ecologia da Restauração",
-    "section": "4.4 Princípio 4 — Promover o funcionamento dos ecossistemas",
-    "text": "4.4 Princípio 4 — Promover o funcionamento dos ecossistemas\nUm ecossistema restaurado deve ser capaz de autossustentação — ou seja, de manter seus processos ecológicos fundamentais sem intervenção humana contínua após o estabelecimento inicial. Isso implica restaurar não apenas a composição de espécies, mas as interações bióticas e os processos abióticos que garantem o funcionamento a longo prazo Society for Ecological Restoration (2023)."
-  },
-  {
-    "objectID": "sessions/week1/1-intro.html#sec-p5",
-    "href": "sessions/week1/1-intro.html#sec-p5",
-    "title": "Semana 01: Fundamentos e Princípios da Ecologia da Restauração",
-    "section": "4.5 Princípio 5 — Integrar o contexto da paisagem",
-    "text": "4.5 Princípio 5 — Integrar o contexto da paisagem\nNenhum ecosssitema que precisa de restauração existe isolado. O sucesso da restauração depende de sua conectividade com o entorno: de onde vêm os dispersores de sementes? Há corredores ecológicos? A matriz circundante é permeável ou hostil à fauna nativa? A escala de paisagem deve ser considerada tanto no planejamento quanto na avaliação (Society for Ecological Restoration 2023; Metzger 2010)."
-  },
-  {
-    "objectID": "sessions/week1/1-intro.html#sec-p6",
-    "href": "sessions/week1/1-intro.html#sec-p6",
-    "title": "Semana 01: Fundamentos e Princípios da Ecologia da Restauração",
-    "section": "4.6 Princípio 6 — Usar práticas adaptativas e baseadas em evidências",
-    "text": "4.6 Princípio 6 — Usar práticas adaptativas e baseadas em evidências\nA restauração deve seguir um ciclo de manejo adaptativo: planejar com base nas melhores evidências disponíveis, implementar, monitorar, avaliar e ajustar. O monitoramento não é opcional; é parte constitutiva do projeto. Indicadores devem ser definidos previamente e medidos de forma sistemática Society for Ecological Restoration (2023)."
-  },
-  {
-    "objectID": "sessions/week1/1-intro.html#sec-p7",
-    "href": "sessions/week1/1-intro.html#sec-p7",
-    "title": "Semana 01: Fundamentos e Princípios da Ecologia da Restauração",
-    "section": "4.7 Princípio 7 — Beneficiar o bem-estar humano e a equidade social",
-    "text": "4.7 Princípio 7 — Beneficiar o bem-estar humano e a equidade social\nA restauração deve gerar benefícios concretos para as pessoas, especialmente para as comunidades mais vulneráveis e diretamente dependentes dos ecossistemas restaurados. A Roda de Benefícios Sociais da SER (Society for Ecological Restoration 2023) sintetiza essas dimensões em categorias como segurança alimentar, saúde, identidade cultural e meios de vida."
-  },
-  {
-    "objectID": "sessions/week1/1-intro.html#sec-p8",
-    "href": "sessions/week1/1-intro.html#sec-p8",
-    "title": "Semana 01: Fundamentos e Princípios da Ecologia da Restauração",
-    "section": "4.8 Princípio 8 — Planejar para a persistência a longo prazo",
-    "text": "4.8 Princípio 8 — Planejar para a persistência a longo prazo\nProjetos de restauração devem ter horizontes temporais longos (décadas a séculos) e estratégias para garantir sua continuidade institucional, financeira e social. A maioria dos projetos fracassa não por razões técnicas, mas por abandono após o encerramento do financiamento inicial Society for Ecological Restoration (2023).\n\n\n\n\n\n\n\nA Roda de Benefícios Sociais (Social Benefits Wheel) organiza os benefícios da restauração em oito domínios — saúde, segurança alimentar, água, meios de vida, bem-estar espiritual/cultural, identidade, conhecimento e equidade — e é uma ferramenta visual poderosa para comunicar a multidimensionalidade da restauração a audiências não técnicas."
-  },
-  {
-    "objectID": "sessions/week1/1-intro.html#sec-passiva",
-    "href": "sessions/week1/1-intro.html#sec-passiva",
-    "title": "Semana 01: Fundamentos e Princípios da Ecologia da Restauração",
-    "section": "5.1 Restauração Natural (Passiva) ou Regeneração Natural",
-    "text": "5.1 Restauração Natural (Passiva) ou Regeneração Natural\nA estratégia mais simples e de menor custo consiste em remover ou reduzir os fatores de perturbação e permitir que os processos naturais de sucessão ecológica reconstituam o ecossistema. É adequada quando:\n\nO potencial de resiliência local é alto (banco de sementes ativo, rebrotas, regeneração espontânea visível);\nA paisagem do entorno fornece propágulos de espécies nativas (resiliência de paisagem alta);\nOs fatores de degradação podem ser efetivamente controlados (ex.: exclusão de gado).\n\nLimitações: em paisagens muito fragmentadas, em solos intensamente degradados ou em ecossistemas com histórico longo de degradação, a regeneração natural pode ser lenta, dominada por espécies generalistas ou estagnada em estágios sucessionais iniciais Chazdon (2014)."
-  },
-  {
-    "objectID": "sessions/week1/1-intro.html#sec-assistida",
-    "href": "sessions/week1/1-intro.html#sec-assistida",
-    "title": "Semana 01: Fundamentos e Princípios da Ecologia da Restauração",
-    "section": "5.2 Restauração Assistida",
-    "text": "5.2 Restauração Assistida\nCombina a proteção da regeneração natural com intervenções seletivas para superar gargalos ecológicos específicos. Pode incluir:\n\nNucleação: criação de ilhas de biodiversidade (poleiros artificiais, transposição de solo, grupos de plantio) que atraem fauna e aceleram a colonização natural do entorno;\nSemeadura direta: introdução de sementes de espécies nativas diretamente no campo, reduzindo custos em relação ao plantio de mudas;\nEnriquecimento de capoeiras: adição de espécies de estágios sucessionais mais avançados (especialmente espécies clímax) em vegetação secundária já estabelecida;\nTransposição de solo: movimentação de solo com banco de sementes de áreas nativas para áreas degradadas."
-  },
-  {
-    "objectID": "sessions/week1/1-intro.html#sec-ativa",
-    "href": "sessions/week1/1-intro.html#sec-ativa",
-    "title": "Semana 01: Fundamentos e Princípios da Ecologia da Restauração",
-    "section": "5.3 Restauração Reconstrutiva (Ativa Plena)",
-    "text": "5.3 Restauração Reconstrutiva (Ativa Plena)\nEstratégia mais intensiva, necessária quando o potencial de regeneração é mínimo. Inclui:\n\nPlantio de alta diversidade: modelos de restauração com 80, 100 ou mais espécies nativas, organizados por grupos funcionais (pioneiras, secundárias, clímax) e distribuídos segundo modelos de interação (ex.: modelo de Anderson-Teixeira);\nRestauração de processos abióticos: correção de solo, restauração de drenagem, controle de erosão severa;\nReintrodução de fauna-chave: animais com papel central na dispersão de sementes (antas, morcegos frugívoros, tucanos), na polinização ou no controle de herbívoros.\n\n\n\n\n\n\n\nAvisoReflexão crítica para a prova\n\n\n\nA restauração ecológica é hoje crescentemente inserida em lógicas de mercado (créditos de carbono, biodiversidade, pagamento por serviços ambientais). Essa inserção pode ampliar o financiamento disponível e escalar ações. Mas também pode distorcer prioridades, concentrar benefícios e aprofundar desigualdades. Ao elaborar ou avaliar um projeto de restauração, pergunte sempre: quem paga, quem decide, quem se beneficia e quem arca com os custos?"
+    "objectID": "sessions/week4/semana4-resumo-expandido.html#referências",
+    "href": "sessions/week4/semana4-resumo-expandido.html#referências",
+    "title": "Semana 4 — Teoria Ecológica Aplicada à Restauração I",
+    "section": "8 Referências",
+    "text": "8 Referências\n\n\nBRASIL. Lei nº 12.651, de 25 de maio de 2012. Dispõe sobre a proteção da vegetação nativa (Código Florestal Brasileiro). Brasília, DFDiário Oficial da União, 2012.\n\n\nCAIAFA, Alessandra Nasser et al. Expectativa e realidade sobre os cursos em restauração de ecossistemas no Brasil: diagnóstico para apoio ao desenvolvimento de políticas públicas. Londrina, PR: Sociedade Brasileira de Restauração Ecológica (SOBRE), 2023.\n\n\nCANEDOLI, Claudia et al. Re-Naturing the City: Linking Urban Political Ecology and Cultural Ecosystem Services. Sustainability, v. 13, n. 4, p. 1786, 2021.\n\n\nCROUZEILLES, Renato et al. Ecological restoration success is higher for natural regeneration than for active restoration in tropical forests. Science Advances, v. 3, n. 11, p. e1701345, 2017.\n\n\nDUARTE, Edson Ferreira. Recursos e estratégias para a restauração florestal: ações para o Recôncavo da Bahia. Cruz das Almas, BA: EDUFRB, 2016. p. 154\n\n\nELIAS, Marlène; SIGMAN, Elizabeth; et al. Restoration for Whom, by Whom? A Feminist Political Ecology of Restoration. Ecological Restoration, v. 39, n. 1-2, p. 3–26, 2021.\n\n\nGANN, George D. et al. International principles and standards for the practice of ecological restoration. Restoration Ecology, v. 27, n. S1, p. S1–S46, 2019.\n\n\nGUERIN, Natalia; ISERNHAGEN, Ingo. Plantar, criar e conservar: unindo produtividade e meio ambiente. São Paulo: Instituto Socioambiental (ISA); Brasília, DF: Embrapa, 2013. p. 143\n\n\nMONGABAY. New restoration \"Playbook\" calls for political, economic, and social change. Mongabay Environmental News, 2021.\n\n\nNAVE, André Gustavo et al. Manual de Restauração Ecológica: técnicos e produtores rurais no Extremo Sul da Bahia. Piracicaba, SP: Bioflora / LERF / LASTROP / ESALQ-USP; Salvador, BA: Ministério Público do Estado da Bahia (MPBA), 2016. p. 48\n\n\nOSTAPCHUK, S. M. et al. Assessment of resilience and recovery potential of regional ecosystems under extreme conditions and sustainable management models. Em: Kyiv, Ukraine: European Association of Geoscientists & Engineers, 2023.\n\n\nSILVA, Thiago Cardoso et al. Guia metodológico para monitoramento do carbono em plantios mistos de recuperação da cobertura florestal na Amazônia. 1. ed. Porto Velho, RO: Ecoporé: Editora da Universidade Federal de Rondônia (UNIR), 2023.\n\n\nTYMUS, Julio Ricardo Caetano et al. Restauração da vegetação nativa no Brasil: caracterização de técnicas e estimativas de custo como subsídio a programas e políticas públicas e privadas de restauração em larga escala. Brasília, DF: The Nature Conservancy (TNC) / IPEA / Embrapa, 2018. p. 72\n\n\nUN DECADE ON ECOSYSTEM RESTORATION. Sobre a década da ONU (2021-2030). Organização das Nações Unidas / UNEP, [S.d.]. Disponível em: &lt;https://www.decadeonrestoration.org/pt-br/sobre-decada-da-onu&gt;\n\n\nUNIVERSITY OF ARIZONA LIBRARIES. Power theories in political ecology. Tucson, AZJournal of Political Ecology, University of Arizona Libraries, [S.d.].\n\n\nWIKIMEDIA FOUNDATION. Ecological restoration. FlóridaWikipedia, the free encyclopedia, 2024. Acesso em: 2024\n\n\nWIKIMEDIA FOUNDATION. Restauração ecológica. FlóridaWikipédia, a enciclopédia livre, 2026. Disponível em: &lt;https://pt.wikipedia.org/wiki/Restauração_ecológica&gt;. Acesso em: 2026\n\n\nYOUNG, Truman P.; PETERSEN, D. A.; CLARY, J. J. The ecology of restoration: historical links, emerging issues and unexplored realms. Ecology Letters, v. 8, n. 6, p. 662–673, 2005."
   },
   {
     "objectID": "sessions/index.html",
     "href": "sessions/index.html",
     "title": "Conteúdo",
     "section": "",
-    "text": "Semana 01: Fundamentos e Princípios da Ecologia da Restauração\n\n\n\n\n\n\nFelipe Melo\n\n\nAug 7, 2026\n\n\n\n\n\n\n\n\n\n\n\nSemana 02: Bases Conceituais e Definição de Metas\n\n\nGuia de estudos cobrindo os fundamentos conceituais para a definição de metas em projetos de restauração: a tensão entre estados históricos e futuros, critérios e…\n\n\n\nFelipe Melo\n\n\nAug 7, 2026\n\n\n\n\n\n\n\n\n\n\n\nSemana 03: Dinâmica de Ecossistemas e Mudança Ambiental Rápida\n\n\nResumo de aula cobrindo os paradigmas de equilíbrio e não-equilíbrio em ecologia, o conceito de novidade ecológica, a tipologia de ecossistemas novos, e as implicações das…\n\n\n\nFelipe Melo\n\n\nJul 29, 2026\n\n\n\n\n\n\nNo matching items"
+    "text": "Semana 01: Fundamentos e Princípios da Ecologia da Restauração\n\n\n\n\n\n\nFelipe Melo\n\n\nAug 7, 2026\n\n\n\n\n\n\n\n\n\n\n\nSemana 02: Bases Conceituais e Definição de Metas\n\n\nGuia de estudos cobrindo os fundamentos conceituais para a definição de metas em projetos de restauração: a tensão entre estados históricos e futuros, critérios e…\n\n\n\nFelipe Melo\n\n\nAug 7, 2026\n\n\n\n\n\n\n\n\n\n\n\nSemana 03: Dinâmica de Ecossistemas e Mudança Ambiental Rápida\n\n\nResumo de aula cobrindo os paradigmas de equilíbrio e não-equilíbrio em ecologia, o conceito de novidade ecológica, a tipologia de ecossistemas novos, e as implicações das…\n\n\n\nFelipe Melo\n\n\nJul 29, 2026\n\n\n\n\n\n\n\n\n\n\n\nSemana 4 — Teoria Ecológica Aplicada à Restauração I\n\n\n\n\n\n\nEcologia da Restauração — UFPE\n\n\nSep 21, 2026\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "syllabus.html",
@@ -1005,7 +1173,7 @@
     "href": "exercises/index.html",
     "title": "Lista de exercícios",
     "section": "",
-    "text": "Confira abaixo a lista de exercícios e seus tutoriais\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nAuthor\n\n\n\n\n\n\n\n\nSep 21, 2026\n\n\nExercício: Da Área Degradada ao Alvo de Restauração\n\n\nEcologia da Restauração — UFPE\n\n\n\n\n\n\nNo matching items"
+    "text": "Confira abaixo a lista de exercícios e seus tutoriais\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nAuthor\n\n\n\n\n\n\n\n\nSep 25, 2026\n\n\nExercício: Da Área Degradada ao Alvo de Restauração\n\n\nEcologia da Restauração — UFPE\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "overview/overview.html",
@@ -1208,185 +1376,6 @@
     "href": "resources/index.html",
     "title": "Lista de materiais úteis",
     "section": "",
-<<<<<<< HEAD
     "text": "Incluí abaixo uma lista de sites e materiais online como: cursos, apresentações e video-aulas. Aproveitem!\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nAuthor\n\n\n\n\n\n\n\n\nCursos de R Excelentes e Gratuitos\n\n\n \n\n\n\n\n\n\nObservatório da Restauração\n\n\n \n\n\n\n\n\n\nNo matching items"
-=======
-    "text": "Semana 01: Fundamentos e Princípios da Ecologia da Restauração\n\n\n\n\n\n\nFelipe Melo\n\n\nAug 20, 2026\n\n\n\n\n\n\n\n\n\n\n\nSemana 02: Bases Conceituais e Definição de Metas\n\n\nGuia de estudos cobrindo os fundamentos conceituais para a definição de metas em projetos de restauração: a tensão entre estados históricos e futuros, critérios e…\n\n\n\nFelipe Melo\n\n\nAug 10, 2026\n\n\n\n\n\n\n\n\n\n\n\nSemana 03: Dinâmica de Ecossistemas e Mudança Ambiental Rápida\n\n\nResumo de aula cobrindo os paradigmas de equilíbrio e não-equilíbrio em ecologia, o conceito de novidade ecológica, a tipologia de ecossistemas novos, e as implicações das…\n\n\n\nFelipe Melo\n\n\nAug 10, 2026\n\n\n\n\n\n\n\n\n\n\n\nSemana 4 — Teoria Ecológica Aplicada à Restauração I\n\n\n\n\n\n\nEcologia da Restauração — UFPE\n\n\nAug 25, 2026\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "sessions/week4/semana4-resumo-expandido.html",
-    "href": "sessions/week4/semana4-resumo-expandido.html",
-    "title": "Semana 4 — Teoria Ecológica Aplicada à Restauração I",
-    "section": "",
-    "text": "Slides da Aula"
-  },
-  {
-    "objectID": "sessions/week4/semana4-resumo-expandido.html#introdução",
-    "href": "sessions/week4/semana4-resumo-expandido.html#introdução",
-    "title": "Semana 4 — Teoria Ecológica Aplicada à Restauração I",
-    "section": "1 Introdução",
-    "text": "1 Introdução\nA restauração ecológica não é apenas uma técnica de plantio: é uma prática fundamentada em teoria ecológica. Compreender como as comunidades se formam, se recuperam e se mantêm ao longo do tempo é essencial para orientar decisões práticas — desde a escolha de espécies até a definição de qual estratégia de intervenção (ativa, passiva ou nucleadora) é mais adequada para cada contexto.\nEsta semana trata de quatro conceitos centrais e interligados:\n\nSucessão ecológica — como as comunidades mudam ao longo do tempo após um distúrbio;\nMontagem de comunidades (community assembly) — quais processos determinam quais espécies coexistem em um dado local;\nDispersão — como propágulos (sementes, esporos, indivíduos) chegam a um sítio;\nRecrutamento — como esses propágulos efetivamente se estabelecem e se tornam parte da comunidade adulta.\n\nJuntos, esses processos explicam por que alguns ecossistemas se regeneram espontaneamente enquanto outros permanecem degradados indefinidamente sem intervenção humana."
-  },
-  {
-    "objectID": "sessions/week4/semana4-resumo-expandido.html#sucessão-ecológica",
-    "href": "sessions/week4/semana4-resumo-expandido.html#sucessão-ecológica",
-    "title": "Semana 4 — Teoria Ecológica Aplicada à Restauração I",
-    "section": "2 Sucessão ecológica",
-    "text": "2 Sucessão ecológica\n\n2.1 Conceitos clássicos\nA teoria da sucessão tem raízes no início do século XX, com duas visões clássicas frequentemente contrastadas:\n\nClements (visão organísmica): a comunidade se comporta como um “superorganismo” que se desenvolve em direção a um estado clímax único e previsível, determinado pelo clima regional.\nGleason (visão individualista): cada espécie responde independentemente às condições ambientais e à disponibilidade de propágulos; a comunidade é uma coleção contingente de indivíduos, não uma unidade coesa com trajetória fixa.\n\nA visão individualista de Gleason é a que melhor sustenta a ecologia da restauração contemporânea, pois explica por que trajetórias sucessionais podem variar bastante entre sítios aparentemente semelhantes.\n\n\n2.2 Mecanismos de sucessão (Connell & Slatyer, 1977)\nUm marco na teoria de sucessão, revisitado em textos fundamentais de ecologia da restauração (Young; Petersen; Clary, 2005), foi a proposição de três mecanismos não excludentes pelos quais espécies pioneiras influenciam a colonização por espécies posteriores:\n\nFacilitação: espécies pioneiras modificam o ambiente (sombra, matéria orgânica, microclima) de forma a favorecer o estabelecimento de espécies subsequentes.\nTolerância: espécies posteriores conseguem se estabelecer independentemente da presença de pioneiras, apenas mais lentamente.\nInibição: espécies pioneiras dificultam ativamente a entrada de outras espécies (por competição, alelopatia), atrasando a sucessão até que sejam removidas por distúrbio, senescência ou herbivoria.\n\n\n\n2.3 Sucessão primária x secundária\n\nPrimária: ocorre em substratos sem solo orgânico preexistente (afloramentos rochosos, depósitos vulcânicos, áreas de mineração muito degradadas). É lenta, pois depende da formação de solo.\nSecundária: ocorre onde o solo e o banco de sementes/propágulos já existem, mesmo após remoção da vegetação (pastagens abandonadas, áreas de agricultura). É o cenário mais comum em projetos de restauração florestal no Brasil.\n\n\n\n2.4 Trajetórias não lineares e estados alternativos\nNem toda área degradada segue uma trajetória sucessional em direção à floresta original. Barreiras bióticas (gramíneas exóticas competitivamente dominantes, ausência de dispersores) e abióticas (solo compactado, fogo recorrente) podem travar a sucessão em um estado estável alternativo, exigindo intervenção ativa para “destravar” o processo — um dos princípios reconhecidos nos padrões internacionais de restauração ecológica (Gann et al., 2019)."
-  },
-  {
-    "objectID": "sessions/week4/semana4-resumo-expandido.html#montagem-de-comunidades-community-assembly",
-    "href": "sessions/week4/semana4-resumo-expandido.html#montagem-de-comunidades-community-assembly",
-    "title": "Semana 4 — Teoria Ecológica Aplicada à Restauração I",
-    "section": "3 Montagem de comunidades (Community Assembly)",
-    "text": "3 Montagem de comunidades (Community Assembly)\nA teoria de montagem de comunidades busca responder: de todas as espécies do pool regional, por que apenas um subconjunto ocorre em um determinado local? A resposta é organizada em torno da metáfora dos filtros ecológicos, aplicados sequencialmente:\n\nFiltro de dispersão: a espécie precisa conseguir chegar ao local.\nFiltro abiótico (ambiental): as condições físico-químicas do sítio (solo, luz, água) precisam permitir a sobrevivência da espécie.\nFiltro biótico: interações com outras espécies já presentes (competição, predação, facilitação, patógenos) determinam se o indivíduo se estabelece e persiste.\n\n\n3.1 Regras de montagem e efeitos de prioridade\nAlém dos filtros, a ordem de chegada das espécies pode influenciar fortemente a composição final da comunidade — o chamado efeito de prioridade (priority effect). Espécies que chegam primeiro podem monopolizar recursos e alterar as condições do sítio, favorecendo ou impedindo a entrada de espécies posteriores. Isso tem implicações diretas para o planejamento de restauração: a sequência e a proporção de espécies plantadas podem direcionar a trajetória sucessional."
-  },
-  {
-    "objectID": "sessions/week4/semana4-resumo-expandido.html#dispersão",
-    "href": "sessions/week4/semana4-resumo-expandido.html#dispersão",
-    "title": "Semana 4 — Teoria Ecológica Aplicada à Restauração I",
-    "section": "4 Dispersão",
-    "text": "4 Dispersão\nA dispersão é o processo pelo qual propágulos se movem do local de origem até um novo sítio. Em paisagens fragmentadas, a dispersão é frequentemente o principal fator limitante da regeneração natural.\n\n4.1 Síndromes de dispersão\n\nZoocoria: dispersão por animais (aves, morcegos, mamíferos terrestres) — predominante em florestas tropicais.\nAnemocoria: dispersão pelo vento.\nAutocoria: dispersão por mecanismos próprios da planta (explosão de frutos, gravidade).\nHidrocoria: dispersão pela água.\n\nA zoocoria é particularmente relevante em florestas tropicais, o que conecta diretamente a restauração à conservação da fauna dispersora — sem aves e mamíferos frugívoros, muitas espécies arbóreas de estágios avançados de sucessão simplesmente não conseguem recolonizar áreas restauradas (Tymus et al., 2018).\n\n\n4.2 Limitação de dispersão\nO conceito de limitação de dispersão (dispersal limitation) descreve situações em que sementes viáveis de uma espécie não chegam a sítios ambientalmente adequados, mesmo que esses sítios pudessem sustentar a espécie caso as sementes chegassem lá. Isso é distinto da limitação por condições ambientais desfavoráveis, e a distinção tem implicações práticas centrais: se a limitação é de dispersão, medidas como poleiros artificiais, plantio de espécies atrativas para fauna e proximidade a fragmentos-fonte podem resolver o problema; se é uma limitação ambiental, isso pode exigir manejo do solo, controle de competidores ou irrigação."
-  },
-  {
-    "objectID": "sessions/week4/semana4-resumo-expandido.html#recrutamento",
-    "href": "sessions/week4/semana4-resumo-expandido.html#recrutamento",
-    "title": "Semana 4 — Teoria Ecológica Aplicada à Restauração I",
-    "section": "5 Recrutamento",
-    "text": "5 Recrutamento\nRecrutamento é o processo pelo qual um propágulo disperso efetivamente se torna um indivíduo estabelecido na comunidade — envolvendo germinação, sobrevivência de plântula e crescimento até estágios menos vulneráveis.\n\n5.1 O modelo de Nathan & Muller-Landau\nUm marco conceitual amplamente utilizado separa o recrutamento em dois componentes sequenciais:\n\nLimitação de dispersão: a semente não chega ao sítio.\nLimitação de estabelecimento (ou recrutamento propriamente dito): mesmo chegando, a semente não germina, ou a plântula não sobrevive, devido a condições de solo, luz, predação de sementes, herbivoria ou patógenos.\n\nEssa distinção é fundamental porque orienta diagnósticos práticos em projetos de restauração: uma área pode ter alta chegada de sementes (baixa limitação de dispersão) mas baixíssimo recrutamento efetivo devido a predação intensa por roedores ou formigas cortadeiras, ou à dominância de gramíneas exóticas que impedem a germinação.\n\n\n5.2 Banco de sementes e banco de plântulas\n\nBanco de sementes do solo: reservatório de sementes viáveis armazenadas no solo, que pode manter dormência por anos. É uma fonte importante de regeneração secundária, mas se esgota ou se torna dominado por espécies pioneiras/invasoras em áreas com histórico de uso intensivo.\nBanco de plântulas: conjunto de plântulas já estabelecidas no sub-bosque, aguardando condições (clareiras) para crescer até o dossel."
-  },
-  {
-    "objectID": "sessions/week4/semana4-resumo-expandido.html#conectando-teoria-e-prática-implicações-para-a-restauração",
-    "href": "sessions/week4/semana4-resumo-expandido.html#conectando-teoria-e-prática-implicações-para-a-restauração",
-    "title": "Semana 4 — Teoria Ecológica Aplicada à Restauração I",
-    "section": "6 Conectando teoria e prática: implicações para a restauração",
-    "text": "6 Conectando teoria e prática: implicações para a restauração\nA integração desses quatro conceitos fundamenta a escolha entre diferentes estratégias de restauração:\n\nRegeneração natural (passiva): viável quando dispersão e recrutamento não são fortemente limitados — proximidade de fragmentos-fonte, presença de fauna dispersora, banco de sementes/plântulas ativo, ausência de barreiras bióticas fortes.\nRestauração ativa (plantio): necessária quando há limitação severa de dispersão e/ou recrutamento — paisagens muito fragmentadas, solos degradados, dominância de gramíneas exóticas.\nNucleação: técnicas como poleiros artificiais, ilhas de alta diversidade e transposição de solo/serapilheira atuam diretamente sobre os filtros de dispersão e recrutamento, “adiantando” etapas da sucessão sem exigir o plantio de toda a área (Nave et al., 2016).\n\nMeta-análises amplas mostram que, em florestas tropicais, a regeneração natural frequentemente apresenta maior sucesso relativo de restauração (biodiversidade e estrutura) por unidade de custo quando comparada à restauração ativa (Crouzeilles et al., 2017), o que reforça a importância de diagnosticar corretamente quais filtros (dispersão, ambiental, biótico) estão de fato limitando a regeneração em cada sítio antes de decidir a estratégia de intervenção."
-  },
-  {
-    "objectID": "sessions/week4/semana4-resumo-expandido.html#síntese",
-    "href": "sessions/week4/semana4-resumo-expandido.html#síntese",
-    "title": "Semana 4 — Teoria Ecológica Aplicada à Restauração I",
-    "section": "7 Síntese",
-    "text": "7 Síntese\n\n\n\n\n\n\n\n\nConceito\nPergunta-chave\nImplicação prática\n\n\n\n\nSucessão\nComo a comunidade muda ao longo do tempo?\nDefine expectativas de trajetória e tempo de recuperação\n\n\nMontagem de comunidades\nQuais filtros determinam quem coexiste?\nOrienta diagnóstico de barreiras (dispersão, solo, biótica)\n\n\nDispersão\nOs propágulos conseguem chegar ao sítio?\nJustifica poleiros, conectividade, proximidade de fontes\n\n\nRecrutamento\nOs propágulos que chegam se estabelecem?\nJustifica manejo de solo, controle de competidores, proteção contra predação"
-  },
-  {
-    "objectID": "sessions/week4/semana4-resumo-expandido.html#referências",
-    "href": "sessions/week4/semana4-resumo-expandido.html#referências",
-    "title": "Semana 4 — Teoria Ecológica Aplicada à Restauração I",
-    "section": "8 Referências",
-    "text": "8 Referências\n\n\nBRASIL. Lei nº 12.651, de 25 de maio de 2012. Dispõe sobre a proteção da vegetação nativa (Código Florestal Brasileiro). Brasília, DFDiário Oficial da União, 2012.\n\n\nCAIAFA, Alessandra Nasser et al. Expectativa e realidade sobre os cursos em restauração de ecossistemas no Brasil: diagnóstico para apoio ao desenvolvimento de políticas públicas. Londrina, PR: Sociedade Brasileira de Restauração Ecológica (SOBRE), 2023.\n\n\nCANEDOLI, Claudia et al. Re-Naturing the City: Linking Urban Political Ecology and Cultural Ecosystem Services. Sustainability, v. 13, n. 4, p. 1786, 2021.\n\n\nCROUZEILLES, Renato et al. Ecological restoration success is higher for natural regeneration than for active restoration in tropical forests. Science Advances, v. 3, n. 11, p. e1701345, 2017.\n\n\nDUARTE, Edson Ferreira. Recursos e estratégias para a restauração florestal: ações para o Recôncavo da Bahia. Cruz das Almas, BA: EDUFRB, 2016. p. 154\n\n\nELIAS, Marlène; SIGMAN, Elizabeth; et al. Restoration for Whom, by Whom? A Feminist Political Ecology of Restoration. Ecological Restoration, v. 39, n. 1-2, p. 3–26, 2021.\n\n\nGANN, George D. et al. International principles and standards for the practice of ecological restoration. Restoration Ecology, v. 27, n. S1, p. S1–S46, 2019.\n\n\nGUERIN, Natalia; ISERNHAGEN, Ingo. Plantar, criar e conservar: unindo produtividade e meio ambiente. São Paulo: Instituto Socioambiental (ISA); Brasília, DF: Embrapa, 2013. p. 143\n\n\nMONGABAY. New restoration \"Playbook\" calls for political, economic, and social change. Mongabay Environmental News, 2021.\n\n\nNAVE, André Gustavo et al. Manual de Restauração Ecológica: técnicos e produtores rurais no Extremo Sul da Bahia. Piracicaba, SP: Bioflora / LERF / LASTROP / ESALQ-USP; Salvador, BA: Ministério Público do Estado da Bahia (MPBA), 2016. p. 48\n\n\nOSTAPCHUK, S. M. et al. Assessment of resilience and recovery potential of regional ecosystems under extreme conditions and sustainable management models. Em: Kyiv, Ukraine: European Association of Geoscientists & Engineers, 2023.\n\n\nSILVA, Thiago Cardoso et al. Guia metodológico para monitoramento do carbono em plantios mistos de recuperação da cobertura florestal na Amazônia. 1. ed. Porto Velho, RO: Ecoporé: Editora da Universidade Federal de Rondônia (UNIR), 2023.\n\n\nTYMUS, Julio Ricardo Caetano et al. Restauração da vegetação nativa no Brasil: caracterização de técnicas e estimativas de custo como subsídio a programas e políticas públicas e privadas de restauração em larga escala. Brasília, DF: The Nature Conservancy (TNC) / IPEA / Embrapa, 2018. p. 72\n\n\nUN DECADE ON ECOSYSTEM RESTORATION. Sobre a década da ONU (2021-2030). Organização das Nações Unidas / UNEP, [S.d.]. Disponível em: &lt;https://www.decadeonrestoration.org/pt-br/sobre-decada-da-onu&gt;\n\n\nUNIVERSITY OF ARIZONA LIBRARIES. Power theories in political ecology. Tucson, AZJournal of Political Ecology, University of Arizona Libraries, [S.d.].\n\n\nWIKIMEDIA FOUNDATION. Ecological restoration. FlóridaWikipedia, the free encyclopedia, 2024. Acesso em: 2024\n\n\nWIKIMEDIA FOUNDATION. Restauração ecológica. FlóridaWikipédia, a enciclopédia livre, 2026. Disponível em: &lt;https://pt.wikipedia.org/wiki/Restauração_ecológica&gt;. Acesso em: 2026\n\n\nYOUNG, Truman P.; PETERSEN, D. A.; CLARY, J. J. The ecology of restoration: historical links, emerging issues and unexplored realms. Ecology Letters, v. 8, n. 6, p. 662–673, 2005."
-  },
-  {
-    "objectID": "slides/semana4-slides.html",
-    "href": "slides/semana4-slides.html",
-    "title": "Teoria Ecológica Aplicada à Restauração I",
-    "section": "",
-    "text": "Restauração não é só “plantar árvores”\nÉ preciso entender como comunidades se formam e se recuperam\nQuatro conceitos-chave desta semana:\n\nSucessão ecológica\nMontagem de comunidades\nDispersão\nRecrutamento"
-  },
-  {
-    "objectID": "slides/semana4-slides.html#por-que-teoria-importa",
-    "href": "slides/semana4-slides.html#por-que-teoria-importa",
-    "title": "Teoria Ecológica Aplicada à Restauração I",
-    "section": "Por que teoria importa?",
-    "text": "Por que teoria importa?\n\nRestauração não é só “plantar árvores”\nÉ preciso entender como comunidades se formam e se recuperam\nQuatro conceitos-chave desta semana:\n\nSucessão ecológica\nMontagem de comunidades\nDispersão\nRecrutamento"
-  },
-  {
-    "objectID": "slides/semana4-slides.html#duas-visões-clássicas",
-    "href": "slides/semana4-slides.html#duas-visões-clássicas",
-    "title": "Teoria Ecológica Aplicada à Restauração I",
-    "section": "Duas visões clássicas",
-    "text": "Duas visões clássicas\n\nClements: comunidade como “superorganismo”, trajetória única e previsível rumo ao clímax\nGleason: visão individualista — cada espécie responde por conta própria; comunidade é contingente\n\n\nA visão de Gleason é a que melhor sustenta a restauração moderna, pois explica variação entre sítios semelhantes."
-  },
-  {
-    "objectID": "slides/semana4-slides.html#mecanismos-de-connell-slatyer-1977",
-    "href": "slides/semana4-slides.html#mecanismos-de-connell-slatyer-1977",
-    "title": "Teoria Ecológica Aplicada à Restauração I",
-    "section": "Mecanismos de Connell & Slatyer (1977)",
-    "text": "Mecanismos de Connell & Slatyer (1977)\n\n\n\n\n\n\n\nMecanismo\nO que faz\n\n\n\n\nFacilitação\nPioneira melhora o ambiente para as próximas espécies\n\n\nTolerância\nEspécies posteriores se estabelecem independente das pioneiras\n\n\nInibição\nPioneira dificulta a entrada de outras espécies"
-  },
-  {
-    "objectID": "slides/semana4-slides.html#primária-x-secundária",
-    "href": "slides/semana4-slides.html#primária-x-secundária",
-    "title": "Teoria Ecológica Aplicada à Restauração I",
-    "section": "Primária x Secundária",
-    "text": "Primária x Secundária\n\nSucessão primária: sem solo orgânico prévio (rocha nua, mineração severa) → lenta\nSucessão secundária: solo/banco de sementes já existem (pastagem abandonada) → cenário mais comum no Brasil"
-  },
-  {
-    "objectID": "slides/semana4-slides.html#trajetórias-não-lineares",
-    "href": "slides/semana4-slides.html#trajetórias-não-lineares",
-    "title": "Teoria Ecológica Aplicada à Restauração I",
-    "section": "Trajetórias não lineares",
-    "text": "Trajetórias não lineares\n\nNem toda área “caminha sozinha” rumo à floresta original\nBarreiras bióticas e abióticas podem travar a sucessão\nResultado: estado estável alternativo\nPode exigir intervenção ativa para destravar"
-  },
-  {
-    "objectID": "slides/semana4-slides.html#a-metáfora-dos-filtros",
-    "href": "slides/semana4-slides.html#a-metáfora-dos-filtros",
-    "title": "Teoria Ecológica Aplicada à Restauração I",
-    "section": "A metáfora dos filtros",
-    "text": "A metáfora dos filtros\n\nFiltro de dispersão — a espécie consegue chegar?\nFiltro abiótico — as condições físicas permitem sobreviver?\nFiltro biótico — interações com outras espécies permitem persistir?"
-  },
-  {
-    "objectID": "slides/semana4-slides.html#efeito-de-prioridade",
-    "href": "slides/semana4-slides.html#efeito-de-prioridade",
-    "title": "Teoria Ecológica Aplicada à Restauração I",
-    "section": "Efeito de prioridade",
-    "text": "Efeito de prioridade\n\nA ordem de chegada das espécies importa\nQuem chega primeiro pode monopolizar recursos\nImplicação prática: sequência e proporção de espécies plantadas pode direcionar a trajetória sucessional"
-  },
-  {
-    "objectID": "slides/semana4-slides.html#síndromes-de-dispersão",
-    "href": "slides/semana4-slides.html#síndromes-de-dispersão",
-    "title": "Teoria Ecológica Aplicada à Restauração I",
-    "section": "Síndromes de dispersão",
-    "text": "Síndromes de dispersão\n\nZoocoria — animais (predominante em florestas tropicais)\nAnemocoria — vento\nAutocoria — mecanismo próprio da planta\nHidrocoria — água"
-  },
-  {
-    "objectID": "slides/semana4-slides.html#limitação-de-dispersão",
-    "href": "slides/semana4-slides.html#limitação-de-dispersão",
-    "title": "Teoria Ecológica Aplicada à Restauração I",
-    "section": "Limitação de dispersão",
-    "text": "Limitação de dispersão\n\nSementes viáveis não chegam a sítios ambientalmente adequados\nDiferente de limitação ambiental!\nDiagnóstico correto define a solução:\n\nLimitação de dispersão → poleiros, conectividade, espécies atrativas à fauna\nLimitação ambiental → manejo de solo, controle de competidores"
-  },
-  {
-    "objectID": "slides/semana4-slides.html#modelo-de-nathan-muller-landau",
-    "href": "slides/semana4-slides.html#modelo-de-nathan-muller-landau",
-    "title": "Teoria Ecológica Aplicada à Restauração I",
-    "section": "Modelo de Nathan & Muller-Landau",
-    "text": "Modelo de Nathan & Muller-Landau\n\nLimitação de dispersão: a semente não chega\nLimitação de estabelecimento: chega, mas não germina/sobrevive\n\nPredação de sementes\nHerbivoria\nCompetição com gramíneas exóticas\nCondições de solo/luz inadequadas"
-  },
-  {
-    "objectID": "slides/semana4-slides.html#bancos-de-regeneração",
-    "href": "slides/semana4-slides.html#bancos-de-regeneração",
-    "title": "Teoria Ecológica Aplicada à Restauração I",
-    "section": "Bancos de regeneração",
-    "text": "Bancos de regeneração\n\nBanco de sementes do solo: reservatório viável, pode durar anos\nBanco de plântulas: plântulas já estabelecidas, aguardando clareiras"
-  },
-  {
-    "objectID": "slides/semana4-slides.html#qual-estratégia-usar",
-    "href": "slides/semana4-slides.html#qual-estratégia-usar",
-    "title": "Teoria Ecológica Aplicada à Restauração I",
-    "section": "Qual estratégia usar?",
-    "text": "Qual estratégia usar?\n\n\n\n\n\n\n\nSituação\nEstratégia indicada\n\n\n\n\nBaixa limitação de dispersão/recrutamento\nRegeneração natural (passiva)\n\n\nAlta limitação de dispersão e/ou recrutamento\nRestauração ativa (plantio)\n\n\nLimitação pontual, paisagem parcialmente conectada\nNucleação (poleiros, ilhas de diversidade)"
-  },
-  {
-    "objectID": "slides/semana4-slides.html#o-que-diz-a-evidência",
-    "href": "slides/semana4-slides.html#o-que-diz-a-evidência",
-    "title": "Teoria Ecológica Aplicada à Restauração I",
-    "section": "O que diz a evidência",
-    "text": "O que diz a evidência\n\nMeta-análises em florestas tropicais indicam maior sucesso relativo da regeneração natural por unidade de custo, comparada à restauração ativa\nReforça a importância de diagnosticar os filtros antes de escolher a estratégia"
-  },
-  {
-    "objectID": "slides/semana4-slides.html#síntese-da-semana",
-    "href": "slides/semana4-slides.html#síntese-da-semana",
-    "title": "Teoria Ecológica Aplicada à Restauração I",
-    "section": "Síntese da semana",
-    "text": "Síntese da semana\n\nSucessão: como a comunidade muda no tempo\nMontagem: quais filtros definem quem coexiste\nDispersão: os propágulos chegam?\nRecrutamento: os propágulos se estabelecem?\n\n\nDiagnosticar corretamente esses processos é o que orienta decisões de restauração no campo."
-  },
-  {
-    "objectID": "slides/semana4-slides.html#referências-principais",
-    "href": "slides/semana4-slides.html#referências-principais",
-    "title": "Teoria Ecológica Aplicada à Restauração I",
-    "section": "Referências principais",
-    "text": "Referências principais\n\nCROUZEILLES et al. (2017) — Science Advances\nGANN et al. (2019) — Restoration Ecology\nNAVE et al. (2016) — Manual de Restauração Ecológica\nTYMUS et al. (2018) — Restauração da vegetação nativa no Brasil\nYOUNG; PETERSEN; CLARY (2005) — Ecology Letters"
->>>>>>> c7ce99ac6b6bb6e76be3895fcbf21125b2017bcf
   }
 ]
