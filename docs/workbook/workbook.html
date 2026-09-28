@@ -6,9 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Ecologia da Restauração — UFPE">
+<meta name="author" content="Felipe Melo">
+<meta name="description" content="Aprenda a criar seu caderno de estudos dinâmico e publicá-lo online.">
 
-<title>Semana 5 — Teoria Ecológica Aplicada à Restauração II</title>
+<title>Tutorial: Começando com uma página Web em Quarto</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -27,28 +28,63 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
-<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../../">
-<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../../site_libs/quarto-html/popper.min.js"></script>
-<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-ee3acdd36c54509ec1093f55d866e97f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
-<link href="../../site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
-<link href="../../site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-453d7d2c2e549b12eb921f7151c1b748.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -76,50 +112,26 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Procurar"
   }
 }</script>
-<style>html{ scroll-behavior: smooth; }</style>
+<style>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
+      .quarto-title-block .quarto-title-banner {
+        background: #990000;
       }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
+</style>
+
 
 </head>
 
-<body class="floating nav-fixed quarto-light">
+<body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top">
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
-    <img src="../../img/logo_branco_ufpe.png" alt="UFPE logo" class="navbar-logo light-content">
-    <img src="../../img/logo_branco_ufpe.png" alt="UFPE logo" class="navbar-logo dark-content">
+    <a href="../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../img/logo_branco_ufpe.png" alt="UFPE logo" class="navbar-logo light-content">
+    <img src="../img/logo_branco_ufpe.png" alt="UFPE logo" class="navbar-logo dark-content">
     </a>
   </div>
             <div id="quarto-search" class="" title="Procurar"></div>
@@ -129,36 +141,36 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../index.html"> 
+    <a class="nav-link" href="../index.html"> 
 <span class="menu-text">Início</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../syllabus.html"> 
+    <a class="nav-link" href="../syllabus.html"> 
 <span class="menu-text">Objetivos</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../schedule.html"> 
+    <a class="nav-link" href="../schedule.html"> 
 <span class="menu-text">Cronograma</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../workbook/workbook.html"> <i class="bi bi-tools" role="img">
+    <a class="nav-link active" href="../workbook/workbook.html" aria-current="page"> <i class="bi bi-tools" role="img">
 </i> 
 <span class="menu-text">Seu próprio site</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../sessions/index.html"> 
+    <a class="nav-link" href="../sessions/index.html"> 
 <span class="menu-text">Todas as Aulas</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../exercises/index.html"> 
+    <a class="nav-link" href="../exercises/index.html"> 
 <span class="menu-text">Exercícios</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../resources/index.html"> 
+    <a class="nav-link" href="../resources/index.html"> 
 <span class="menu-text">Recursos</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../avaliacao_final.html"> 
+    <a class="nav-link" href="../avaliacao_final.html"> 
 <span class="menu-text">Tipo de Avaliação</span></a>
   </li>  
 </ul>
@@ -169,205 +181,182 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-page-left">
+      <h1 class="title">Tutorial: Começando com uma página Web em Quarto</h1>
+            <p class="subtitle lead">Configuração básica e Publicação</p>
+                  <div>
+        <div class="description">
+          Aprenda a criar seu caderno de estudos dinâmico e publicá-lo online.
+        </div>
+      </div>
+                </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta column-page-left">
+
+      <div>
+      <div class="quarto-title-meta-heading">Autor</div>
+      <div class="quarto-title-meta-contents">
+               <p>Felipe Melo </p>
+            </div>
+    </div>
+      
+      <div>
+      <div class="quarto-title-meta-heading">Data de Publicação</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">1 de março de 2026</p>
+      </div>
+    </div>
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
-    <nav id="TOC" role="doc-toc" class="toc-active">
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">Nesta página</h2>
    
   <ul>
-  <li><a href="#introdução" id="toc-introdução" class="nav-link active" data-scroll-target="#introdução"><span class="header-section-number">1</span> Introdução</a></li>
-  <li><a href="#traços-funcionais-e-regras-de-montagem-assembly-rules" id="toc-traços-funcionais-e-regras-de-montagem-assembly-rules" class="nav-link" data-scroll-target="#traços-funcionais-e-regras-de-montagem-assembly-rules"><span class="header-section-number">2</span> Traços Funcionais e Regras de Montagem (<em>Assembly Rules</em>)</a>
+  <li><a href="#por-que-uma-página-em-quarto" id="toc-por-que-uma-página-em-quarto" class="nav-link active" data-scroll-target="#por-que-uma-página-em-quarto">Por que uma página em Quarto?</a></li>
+  <li><a href="#seu-livro-de-exercícios-workbook" id="toc-seu-livro-de-exercícios-workbook" class="nav-link" data-scroll-target="#seu-livro-de-exercícios-workbook">Seu livro de exercícios (Workbook)</a></li>
+  <li><a href="#pré-requisitos" id="toc-pré-requisitos" class="nav-link" data-scroll-target="#pré-requisitos">Pré-requisitos</a></li>
+  <li><a href="#criando-um-projeto-quarto-recomendado" id="toc-criando-um-projeto-quarto-recomendado" class="nav-link" data-scroll-target="#criando-um-projeto-quarto-recomendado">Criando um Projeto Quarto (Recomendado)</a></li>
+  <li><a href="#criando-o-conteúdo-da-sua-página" id="toc-criando-o-conteúdo-da-sua-página" class="nav-link" data-scroll-target="#criando-o-conteúdo-da-sua-página">Criando o Conteúdo da sua Página</a>
   <ul class="collapse">
-  <li><a href="#o-modelo-de-filtros-de-espécies" id="toc-o-modelo-de-filtros-de-espécies" class="nav-link" data-scroll-target="#o-modelo-de-filtros-de-espécies"><span class="header-section-number">2.1</span> O Modelo de Filtros de Espécies</a></li>
-  <li><a href="#convergência-vs.-divergência-de-traços" id="toc-convergência-vs.-divergência-de-traços" class="nav-link" data-scroll-target="#convergência-vs.-divergência-de-traços"><span class="header-section-number">2.2</span> Convergência vs.&nbsp;Divergência de Traços</a></li>
+  <li><a href="#exemplo-de-bloco-de-código" id="toc-exemplo-de-bloco-de-código" class="nav-link" data-scroll-target="#exemplo-de-bloco-de-código">Exemplo de Bloco de Código:</a></li>
+  <li><a href="#atalhos-úteis-no-rstudio" id="toc-atalhos-úteis-no-rstudio" class="nav-link" data-scroll-target="#atalhos-úteis-no-rstudio">Atalhos Úteis no RStudio:</a></li>
   </ul></li>
-  <li><a href="#coexistência-e-grupos-funcionais" id="toc-coexistência-e-grupos-funcionais" class="nav-link" data-scroll-target="#coexistência-e-grupos-funcionais"><span class="header-section-number">3</span> Coexistência e Grupos Funcionais</a>
+  <li><a href="#configuração-e-renderização" id="toc-configuração-e-renderização" class="nav-link" data-scroll-target="#configuração-e-renderização">Configuração e Renderização</a></li>
+  <li><a href="#como-publicar-no-rpubs" id="toc-como-publicar-no-rpubs" class="nav-link" data-scroll-target="#como-publicar-no-rpubs">Como publicar no RPubs</a>
   <ul class="collapse">
-  <li><a href="#diferenciação-de-nicho-e-redundância-funcional" id="toc-diferenciação-de-nicho-e-redundância-funcional" class="nav-link" data-scroll-target="#diferenciação-de-nicho-e-redundância-funcional"><span class="header-section-number">3.1</span> Diferenciação de Nicho e Redundância Funcional</a></li>
-  <li><a href="#guildas-funcionais-na-restauração-tropical" id="toc-guildas-funcionais-na-restauração-tropical" class="nav-link" data-scroll-target="#guildas-funcionais-na-restauração-tropical"><span class="header-section-number">3.2</span> Guildas Funcionais na Restauração Tropical</a></li>
+  <li><a href="#passo-a-passo-para-publicação" id="toc-passo-a-passo-para-publicação" class="nav-link" data-scroll-target="#passo-a-passo-para-publicação">Passo a Passo para Publicação:</a></li>
   </ul></li>
-  <li><a href="#facilitação-aplicada-à-restauração" id="toc-facilitação-aplicada-à-restauração" class="nav-link" data-scroll-target="#facilitação-aplicada-à-restauração"><span class="header-section-number">4</span> Facilitação Aplicada à Restauração</a>
-  <ul class="collapse">
-  <li><a href="#mecanismos-principais-de-facilitação" id="toc-mecanismos-principais-de-facilitação" class="nav-link" data-scroll-target="#mecanismos-principais-de-facilitação"><span class="header-section-number">4.1</span> Mecanismos Principais de Facilitação</a></li>
-  <li><a href="#hipótese-do-gradiente-de-estresse-stress-gradient-hypothesis" id="toc-hipótese-do-gradiente-de-estresse-stress-gradient-hypothesis" class="nav-link" data-scroll-target="#hipótese-do-gradiente-de-estresse-stress-gradient-hypothesis"><span class="header-section-number">4.2</span> Hipótese do Gradiente de Estresse (<em>Stress Gradient Hypothesis</em>)</a></li>
-  </ul></li>
-  <li><a href="#síntese-para-decisões-de-manejo" id="toc-síntese-para-decisões-de-manejo" class="nav-link" data-scroll-target="#síntese-para-decisões-de-manejo"><span class="header-section-number">5</span> Síntese para Decisões de Manejo</a></li>
-  <li><a href="#bibliografia-sugerida" id="toc-bibliografia-sugerida" class="nav-link" data-scroll-target="#bibliografia-sugerida"><span class="header-section-number">6</span> Bibliografia Sugerida</a></li>
+  <li><a href="#próximos-passos" id="toc-próximos-passos" class="nav-link" data-scroll-target="#próximos-passos">Próximos Passos</a></li>
   </ul>
 </nav>
-</nav>
-<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
-<!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
     </div>
 <!-- main -->
-<main class="content column-page-right" id="quarto-document-content">
+<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Semana 5 — Teoria Ecológica Aplicada à Restauração II</h1>
-<p class="subtitle lead">Traços funcionais, coexistência e facilitação aplicada à Restauração Ecológica</p>
+
+
+
+
+<section id="por-que-uma-página-em-quarto" class="level2">
+<h2 class="anchored" data-anchor-id="por-que-uma-página-em-quarto">Por que uma página em Quarto?</h2>
+<p>Este tutorial oferece uma introdução à criação de uma página web básica usando o <strong>Quarto</strong> dentro do <strong>RStudio</strong>. O Quarto, a versão de próxima geração do R Markdown, permite criar conteúdo dinâmico e pode renderizar para vários formatos, incluindo websites.</p>
+</section>
+<section id="seu-livro-de-exercícios-workbook" class="level2">
+<h2 class="anchored" data-anchor-id="seu-livro-de-exercícios-workbook">Seu livro de exercícios (Workbook)</h2>
+<p>Enquanto aprende <em>estatística</em> e programação, você também aprenderá a construir e publicar <strong>sites simples</strong> usando R e RStudio. Este site é vital para o seu aprendizado durante este módulo. Ele será o seu livro de curso “vivo”.</p>
+<p>Veja alguns exemplos de como os alunos da uma universidade inglesa (NTU) usaram isso para a avaliação no ano passado:</p>
+<ul>
+<li><a href="https://rpubs.com/katieprange/1265088">Exemplo 1</a></li>
+<li><a href="https://rpubs.com/Tbowne911/1226661">Exemplo 2</a></li>
+</ul>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
 </div>
-
-
-
-<div class="quarto-title-meta column-page-right">
-
-    <div>
-    <div class="quarto-title-meta-heading">Autor</div>
-    <div class="quarto-title-meta-contents">
-             <p>Ecologia da Restauração — UFPE </p>
-          </div>
-  </div>
-    
-    <div>
-    <div class="quarto-title-meta-heading">Data de Publicação</div>
-    <div class="quarto-title-meta-contents">
-      <p class="date">28 de setembro de 2026</p>
-    </div>
-  </div>
-  
-    
-  </div>
-  
-
-
-</header>
-
-
-<p>Slides da Aula</p>
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; border-radius: 8px; margin: 20px 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-<p><iframe src="../../slides/semana5_slides.html" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></p>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Dica</span>Invista no seu livro de exercícios
 </div>
-<section id="introdução" class="level1" data-number="1">
-<h1 data-number="1"><span class="header-section-number">1</span> Introdução</h1>
-<p>A aplicação de <strong>traços funcionais</strong>, modelos de <strong>coexistência</strong> e interações de <strong>facilitação</strong> marca a transição do paradigma clássico da restauração ecológica (focado na recomposição taxonômica estática) para o paradigma contemporâneo. Este novo paradigma foca na reconstrução de processos ecológicos, funções do ecossistema e interações bióticas complexas.</p>
+</div>
+<div class="callout-body-container callout-body">
+<p>Seu “workbook” será seu “melhor amigo” durante este módulo. Nele, você pode experimentar, criar notas pessoais e reunir bibliografia. Funciona como um caderno de papel, mas é um website.</p>
+</div>
+</div>
+<hr>
 </section>
-<section id="traços-funcionais-e-regras-de-montagem-assembly-rules" class="level1" data-number="2">
-<h1 data-number="2"><span class="header-section-number">2</span> Traços Funcionais e Regras de Montagem (<em>Assembly Rules</em>)</h1>
-<p>Os <strong>traços funcionais</strong> correspondem a atributos morfológicos, fisiológicos ou fenológicos dos organismos que afetam diretamente seu desempenho e sobrevivência em resposta às condições ambientais.</p>
-<p><img src="https://www.science.org/cms/10.1126/sciadv.abf2675/asset/9dd9db06-6836-45e2-9d99-3e583ba9f49a/assets/graphic/abf2675-f1.jpeg" class="img-fluid"></p>
-<section id="o-modelo-de-filtros-de-espécies" class="level2" data-number="2.1">
-<h2 data-number="2.1" class="anchored" data-anchor-id="o-modelo-de-filtros-de-espécies"><span class="header-section-number">2.1</span> O Modelo de Filtros de Espécies</h2>
-<p>De acordo com o modelo de regras de montagem (<em>assembly rules</em>), as comunidades locais não são formadas ao acaso, mas resultam da passagem do <em>pool</em> regional de espécies por filtros ambientais e bióticos sucessivos:</p>
+<section id="pré-requisitos" class="level2">
+<h2 class="anchored" data-anchor-id="pré-requisitos">Pré-requisitos</h2>
+<p>Antes de começar, certifique-se de ter o seguinte:</p>
+<ul>
+<li><strong>R</strong> instalado no seu computador.</li>
+<li><strong>RStudio</strong> instalado no seu computador.</li>
+<li>O <strong>pacote <code>quarto</code></strong> instalado (caso queira renderizar via console):</li>
+</ul>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co">#| eval: false</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="co">#| echo: true</span></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="fu">install.packages</span>(<span class="st">"quarto"</span>)</span></code></pre></div><button title="Copiar para a área de transferência" class="code-copy-button"><i class="bi"></i></button></div>
+<hr>
+</section>
+<section id="criando-um-projeto-quarto-recomendado" class="level2">
+<h2 class="anchored" data-anchor-id="criando-um-projeto-quarto-recomendado">Criando um Projeto Quarto (Recomendado)</h2>
+<p>Para criar uma página web organizada, o ideal é começar com um <strong>Projeto Quarto</strong>:</p>
 <ol type="1">
-<li><strong>Pool Regional de Espécies:</strong> O conjunto total de táxons disponíveis na paisagem biogeográfica.</li>
-<li><strong>Filtros Abióticos:</strong> Estresses físicos do ambiente degradado (como secas, extremos de temperatura, solos ácidos ou compactados) que eliminam espécies sem adaptações adequadas.</li>
-<li><strong>Filtros Bióticos:</strong> Interações locais como competição, herbivoria e contaminação por espécies exóticas invasoras.</li>
-<li><strong>Comunidade Local:</strong> O subconjunto de espécies cujos traços funcionais transpuseram os filtros locais.</li>
+<li>No RStudio, vá em <strong>File &gt; New Project…</strong>.</li>
+<li>Escolha <strong>New Directory</strong>.</li>
+<li>Selecione <strong>Quarto Project</strong>.</li>
+<li>Dê um nome ao projeto e um local para salvá-lo.</li>
+<li>Clique em <strong>Create Project</strong>.</li>
 </ol>
-<p><img src="../../img/montagem.png" class="img-fluid"></p>
+<p>Isso criará uma estrutura básica de pastas para o seu site.</p>
+<hr>
 </section>
-<section id="convergência-vs.-divergência-de-traços" class="level2" data-number="2.2">
-<h2 data-number="2.2" class="anchored" data-anchor-id="convergência-vs.-divergência-de-traços"><span class="header-section-number">2.2</span> Convergência vs.&nbsp;Divergência de Traços</h2>
-<ul>
-<li><strong>Convergência de Traços (<em>Trait Convergence</em>):</strong> Ocorre quando filtros abióticos severos selecionam espécies com estratégias funcionais semelhantes para suportar o estresse.</li>
-<li><strong>Divergência de Traços (<em>Trait Divergence</em>):</strong> Ocorre quando interações bióticas e competição local favorecem a diferenciação de nichos entre espécies coexistentes.</li>
-</ul>
-<p>Na restauração prática, o manejo consiste na manipulação deliberada dos filtros para direcionar a montagem da comunidade desejada.</p>
-</section>
-</section>
-<section id="coexistência-e-grupos-funcionais" class="level1" data-number="3">
-<h1 data-number="3"><span class="header-section-number">3</span> Coexistência e Grupos Funcionais</h1>
-<p>O entendimento dos mecanismos de coexistência é essencial para estruturar plantios florestais diversos, funcionais e resilientes.</p>
-<section id="diferenciação-de-nicho-e-redundância-funcional" class="level2" data-number="3.1">
-<h2 data-number="3.1" class="anchored" data-anchor-id="diferenciação-de-nicho-e-redundância-funcional"><span class="header-section-number">3.1</span> Diferenciação de Nicho e Redundância Funcional</h2>
-<ul>
-<li><strong>Exclusão Competitiva vs.&nbsp;Diferenciação de Nicho:</strong> A coexistência de espécies similares é viabilizada pela diferenciação de nicho ecológico, onde a competição intraespecífica supera a interespecífica.</li>
-<li><strong>Redundância Funcional:</strong> Presença de múltiplas espécies desempenhando papéis ecológicos semelhantes. A redundância confere resiliência à comunidade contra perturbações e flutuações ambientais.</li>
-</ul>
-</section>
-<section id="guildas-funcionais-na-restauração-tropical" class="level2" data-number="3.2">
-<h2 data-number="3.2" class="anchored" data-anchor-id="guildas-funcionais-na-restauração-tropical"><span class="header-section-number">3.2</span> Guildas Funcionais na Restauração Tropical</h2>
-<p>Projetos de restauração florestal em biomas tropicais agrupam espécies em duas guildas funcionais complementares para acelerar a sucessão:</p>
-<table class="caption-top table">
-<colgroup>
-<col style="width: 33%">
-<col style="width: 33%">
-<col style="width: 33%">
-</colgroup>
-<thead>
-<tr class="header">
-<th style="text-align: left;">Grupo Funcional</th>
-<th style="text-align: left;">Atributos Funcionais Típicos</th>
-<th style="text-align: left;">Papel na Restauração Ecológica</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;"><strong>Grupo de Recobrimento</strong> (<em>Pioneiras/Iniciais</em>)</td>
-<td style="text-align: left;">Crescimento rápido, copas densas e amplas, alta capacidade sombreadora.</td>
-<td style="text-align: left;">Rápido fechamento do dossel, sombreamento do solo e supressão de gramíneas exóticas invasoras.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><strong>Grupo de Diversidade</strong> (<em>Secundárias/Climácicas</em>)</td>
-<td style="text-align: left;">Crescimento moderado/lento, ciclo de vida longo, tolerância inicial à sombra.</td>
-<td style="text-align: left;">Garantia da sustentabilidade no longo prazo, substituição gradual do dossel inicial e atração de fauna.</td>
-</tr>
-</tbody>
-</table>
-</section>
-</section>
-<section id="facilitação-aplicada-à-restauração" class="level1" data-number="4">
-<h1 data-number="4"><span class="header-section-number">4</span> Facilitação Aplicada à Restauração</h1>
-<p>A <strong>facilitação</strong> é uma interação biótica positiva (+/0 ou +/+) na qual uma espécie modifica o ambiente físico de modo favorável ao estabelecimento e sobrevivência de outras espécies vizinhas.</p>
-<section id="mecanismos-principais-de-facilitação" class="level2" data-number="4.1">
-<h2 data-number="4.1" class="anchored" data-anchor-id="mecanismos-principais-de-facilitação"><span class="header-section-number">4.1</span> Mecanismos Principais de Facilitação</h2>
+<section id="criando-o-conteúdo-da-sua-página" class="level2">
+<h2 class="anchored" data-anchor-id="criando-o-conteúdo-da-sua-página">Criando o Conteúdo da sua Página</h2>
+<p>As páginas em um site Quarto são arquivos <strong><code>.qmd</code></strong>. Elas utilizam três componentes principais:</p>
 <ol type="1">
-<li><strong>Plantas Enfermeiras (<em>Nurse Plants</em>):</strong> Arbustos ou árvores pioneiras que atenuam condições estressantes no microclima local, reduzindo a radiação e a temperatura do solo.</li>
-<li><strong>Adubação Verde e Fixação de Nitrogênio:</strong> Leguminosas (ex.: <em>Inga spp.</em>, feijão-guandu) associadas a bactérias fixadoras de <span class="math inline">\(N_2\)</span> enriquecem o solo com matéria orgânica e nitrogênio, melhorando a nutrição de espécies exigentes.</li>
-<li><strong>Poleiros Naturais e Atração de Dispersores:</strong> Árvores ou estruturas funcionais que atraem a fauna frugívora, aumentando a chuva de sementes e o recrutamento de espécies tardias.</li>
-<li><strong>Engenharia de Ecossistemas:</strong> Organismos que modificam fisicamente a estrutura do habitat, criando novos microhabitats.</li>
+<li><strong>Cabeçalho YAML</strong>: Delimitado por <code>---</code>, define metadados como título e autor.</li>
+<li><strong>Texto Markdown</strong>: Use sintaxe padrão para títulos (<code>##</code>), negrito (<code>**</code>) e listas.</li>
+<li><strong>Blocos de Código (Chunks)</strong>: Onde você insere código R.</li>
 </ol>
+<section id="exemplo-de-bloco-de-código" class="level3">
+<h3 class="anchored" data-anchor-id="exemplo-de-bloco-de-código">Exemplo de Bloco de Código:</h3>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="co">#| echo: true</span></span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a><span class="fu">summary</span>(mtcars)</span></code></pre></div><button title="Copiar para a área de transferência" class="code-copy-button"><i class="bi"></i></button></div>
 </section>
-<section id="hipótese-do-gradiente-de-estresse-stress-gradient-hypothesis" class="level2" data-number="4.2">
-<h2 data-number="4.2" class="anchored" data-anchor-id="hipótese-do-gradiente-de-estresse-stress-gradient-hypothesis"><span class="header-section-number">4.2</span> Hipótese do Gradiente de Estresse (<em>Stress Gradient Hypothesis</em>)</h2>
-<p>A facilitação predomina em ambientes com severo estresse abiótico, onde o efeito protetor das plantas vizinhas supera a competição por recursos. Conforme o estresse abiótico diminui e o dossel se consolida, as interações locais passam crescentemente a ser dominadas por competição por luz e nutrientes.</p>
-</section>
-</section>
-<section id="síntese-para-decisões-de-manejo" class="level1" data-number="5">
-<h1 data-number="5"><span class="header-section-number">5</span> Síntese para Decisões de Manejo</h1>
-<table class="caption-top table">
-<colgroup>
-<col style="width: 33%">
-<col style="width: 33%">
-<col style="width: 33%">
-</colgroup>
-<thead>
-<tr class="header">
-<th style="text-align: left;">Princípio Ecológico</th>
-<th style="text-align: left;">Pergunta de Manejo Prático</th>
-<th style="text-align: left;">Ação de Campo Recomendada</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;"><strong>Traços Funcionais</strong></td>
-<td style="text-align: left;">Quais filtros abióticos estão bloqueando a regeneração natural?</td>
-<td style="text-align: left;">Seleção de espécies com traços funcionais adequados aos estresses locais do solo e clima.</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><strong>Coexistência</strong></td>
-<td style="text-align: left;">Como evitar a exclusão competitiva e aumentar a resiliência?</td>
-<td style="text-align: left;">Plantio consorciado alternando espécies de Recobrimento e Diversidade.</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><strong>Facilitação</strong></td>
-<td style="text-align: left;">Como reduzir custos de manutenção e acelerar o fechamento?</td>
-<td style="text-align: left;">Uso de adubação verde e plantas enfermeiras para controle de gramíneas invasoras.</td>
-</tr>
-</tbody>
-</table>
-</section>
-<section id="bibliografia-sugerida" class="level1" data-number="6">
-<h1 data-number="6"><span class="header-section-number">6</span> Bibliografia Sugerida</h1>
+<section id="atalhos-úteis-no-rstudio" class="level3">
+<h3 class="anchored" data-anchor-id="atalhos-úteis-no-rstudio">Atalhos Úteis no RStudio:</h3>
 <ul>
-<li>GANN, G. D. et al.&nbsp;<em>International principles and standards for the practice of ecological restoration</em>. 2nd ed.&nbsp;Restoration Ecology, 2019.</li>
-<li>KEDDY, P. A.; LAUGHLIN, D. C. <em>A Framework for Community Ecology: Species Pools, Filters and Traits</em>. Cambridge University Press, 2021.</li>
-<li>NAVE, A. G. et al.&nbsp;<em>Manual de Restauração Ecológica: técnicos e produtores rurais no Extremo Sul da Bahia</em>. MPBA / LERF ESALQ-USP, 2016.</li>
-<li>YOUNG, T. P. et al.&nbsp;The ecology of restoration: historical links, emerging issues and unexplored realms. <em>Ecology Letters</em>, 2005.</li>
+<li><strong>Alternar Editor Visual/Source</strong>: <code>Ctrl+Shift+F4</code> (Win) ou <code>⌘⇧ F4</code> (Mac).</li>
+<li><strong>Executar Bloco de Código</strong>: <code>Ctrl+Shift+Enter</code> (Win) ou <code>⇧⌘⏎</code> (Mac).</li>
 </ul>
+<hr>
+</section>
+</section>
+<section id="configuração-e-renderização" class="level2">
+<h2 class="anchored" data-anchor-id="configuração-e-renderização">Configuração e Renderização</h2>
+<p>Para transformar seu código em uma página web (HTML), você precisa <strong>Renderizar</strong>:</p>
+<ol type="1">
+<li>No topo do editor do RStudio, clique no botão <strong>Render</strong> (ícone de seta azul).</li>
+<li>O RStudio processará o código e abrirá uma prévia na aba <strong>Viewer</strong> no painel inferior direito.</li>
+</ol>
+<hr>
+</section>
+<section id="como-publicar-no-rpubs" class="level2">
+<h2 class="anchored" data-anchor-id="como-publicar-no-rpubs">Como publicar no RPubs</h2>
+<p>O <strong>RPubs</strong> é a forma mais simples e gratuita de hospedar seus documentos R online.</p>
+<section id="passo-a-passo-para-publicação" class="level3">
+<h3 class="anchored" data-anchor-id="passo-a-passo-para-publicação">Passo a Passo para Publicação:</h3>
+<ol type="1">
+<li><strong>Crie sua conta</strong>: Acesse <a href="https://rpubs.com">rpubs.com</a> e registre-se.</li>
+<li><strong>Gere o HTML</strong>: Clique em <strong>Render</strong> no seu arquivo <code>.qmd</code>.</li>
+<li><strong>Publique</strong>:
+<ul>
+<li>Na janela de visualização (<strong>Viewer</strong>), clique no ícone azul de publicação (um círculo azul ou botão <strong>Publish</strong>).</li>
+<li>Selecione <strong>RPubs</strong> na lista de opções.</li>
+<li>O RStudio pode solicitar a instalação do pacote <code>rsconnect</code>; clique em <strong>Sim</strong>.</li>
+</ul></li>
+<li><strong>Finalize no Navegador</strong>: Uma aba do seu navegador abrirá. Faça login no RPubs, dê um título ao seu documento e clique em <strong>Continue</strong>.</li>
+</ol>
+<blockquote class="blockquote">
+<p><strong>Dica Pro:</strong> Se você fizer alterações no arquivo, basta clicar em <strong>Render</strong> e depois em <strong>Publish</strong> novamente. O sistema perguntará se você deseja atualizar o documento existente.</p>
+</blockquote>
+<hr>
+</section>
+</section>
+<section id="próximos-passos" class="level2">
+<h2 class="anchored" data-anchor-id="próximos-passos">Próximos Passos</h2>
+<p>Agora que você já sabe o básico, tente personalizar seu arquivo: * Altere o <code>theme</code> no cabeçalho YAML para opções como <code>flatly</code>, <code>darkly</code> ou <code>slate</code>. * Adicione gráficos usando o pacote <code>ggplot2</code>. * Crie um arquivo <code>_quarto.yml</code> para adicionar uma barra de navegação superior caso tenha várias páginas.</p>
 
 
 </section>
@@ -791,5 +780,4 @@ window.Quarto = {
 
 
 
-<script src="../../site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>
