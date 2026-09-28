@@ -1,0 +1,354 @@
+---
+title: "Traços Funcionais, Coexistência e Facilitação na Restauração Ecológica"
+subtitle: "Aplicações Práticas da Ecologia de Comunidades na Restauração"
+author: "Ecologia da Restauração - UFPE"
+date: ""
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    transition: slide
+    incremental: false
+---
+
+
+## Paradigma Contemporâneo
+
+::: {.columns}
+::: {.column width="50%"}
+
+- A **Restauração Ecológica** contemporânea supera a mera recomposição taxonômica estática.
+
+:::
+
+::: {.column width="50%"}
+::: {.callout-note title="Esquema Conceitual dos Três Pilares"}
+```
+┌─────────────────────────────────────────┐
+│     ECOLOGIA DA RESTAURAÇÃO APLICADA     │
+└────────────────────┬────────────────────┘
+                     │
+       ┌─────────────┼─────────────┐
+       ▼             ▼             ▼
+┌─────────────┐ ┌───────────┐ ┌───────────┐
+│   TRAÇOS    │ │COEXISTÊNCIA│ │FACILITAÇÃO│
+│ FUNCIONAIS  │ │ DE NICHOS │ │  BIÓTICA  │
+└──────┬──────┘ └─────┬─────┘ └─────┬─────┘
+       │              │             │
+       └──────────────┼─────────────┘
+                      ▼
+┌─────────────────────────────────────────┐
+│   RECONSTRUÇÃO DA COMUNIDADE FUNCIONAL  │
+└─────────────────────────────────────────┘
+```
+*A integração entre atributos funcionais, partição de nichos e interações positivas acelera a sucessão natural.*
+:::
+:::
+:::
+
+## Evolução Teórica da Restauração
+
+::: {.columns}
+::: {.column width="50%"}
+
+
+**Paradigma Clássico** --> **Paradigma Contemporâneo**
+ 
+:::
+
+::: {.column width="50%"}
+::: {.callout-tip title="Matriz Comparativa de Paradigmas"}
+```
+┌──────────────────┬──────────────────┐
+│ P. CLÁSSICO      │ P. CONTEMPORÂNEO │
+├──────────────────┼──────────────────┤
+│ Composição       │ Processos e      │
+│ Taxonômica       │ Funções          │
+├──────────────────┼──────────────────┤
+│ Modelo "Clímax"  │ Trajetórias      │
+│ Estático         │ Dinâmicas        │
+├──────────────────┼──────────────────┤
+│ Seleção por      │ Seleção por      │
+│ Nomes de Espécies│ Traços Funcionais│
+├──────────────────┼──────────────────┤
+│ Visão Somente    │ Inclusão de      │
+│ Competitiva      │ Facilitação      │
+└──────────────────┴──────────────────┘
+```
+*Transição de um modelo de composição fixa para a restauração baseada na montagem funcional de comunidades.*
+:::
+:::
+:::
+
+## Conceito de Traços Funcionais (*Functional Traits*)
+
+
+- **Traços Funcionais** são atributos morfológicos, fisiológicos ou fenológicos mensuráveis no nível do indivíduo
+- Determinam o **desempenho biológico** (sobrevivência, crescimento, reprodução) em resposta ao ambiente
+
+
+## Regras de montagem de comunidades
+
+::: {.columns}
+::: {.column width="50%"}
+
+
+
+  1. **Pool Regional ($P$)**: Espécies disponíveis na paisagem.
+  2. **Filtros Abióticos ($E$)**: Limitações físicas 
+  3. **Filtros Bióticos**: Competição, herbivoria
+  4. **Comunidade Local ($C$)**: Conjunto viável final
+  
+:::
+
+::: {.column width="50%"}
+
+![](https://www.researchgate.net/publication/308038555/figure/fig2/AS:405857427836933@1473775359604/ntegrated-conceptual-framework-of-community-assembly-processes-over-the-course-of_W640.jpg)
+
+*A restauração é a manipulação consciente desses filtros para obter a composição funcional desejada.*
+
+:::
+:::
+
+---
+
+## Como agem os filtros?
+
+::: {.columns}
+::: {.column width="50%"}
+- Em áreas severamente degradadas, o **filtro abiótico** é a principal barreira.
+- Causa **Convergência de Traços** (*Trait Convergence / Underdispersion*):
+  - Espécies selecionadas compartilham estratégias adapativas similares.
+:::
+
+::: {.column width="50%"}
+::: {.callout-note title="Efeito da Convergência de Traços"}
+
+![](https://www.researchgate.net/profile/De-Zhu-Li/publication/303358448/figure/fig5/AS:363517912862720@1463680832091/An-illustration-of-incorporating-intraspecific-variation-in-tests-of-trait-based_W640.jpg)
+*Filtros físicos rigorosos restringem a amplitude de traços viáveis na fase inicial.*
+:::
+:::
+:::
+
+---
+
+## Como agem os filtros?
+
+::: {.columns}
+::: {.column width="50%"}
+### Divregência de atributos
+- Os **filtros bióticos** assumem papel central.
+- A competição por recursos limitados induz **Divergência de Traços** (*Trait Divergence / Overdispersion*):
+  - Favorece espécies com traços complementares para minimizar sobreposição de nichos.
+
+:::
+
+::: {.column width="50%"}
+::: {.callout-warning title="Divergência de Nichos"}
+![](https://www.davidzeleny.net/wiki/lib/exe/fetch.php/vegecol:figures:traits-convergence-divergence_garnier_et_al_2016.jpg)
+
+*A divergência de traços permite a exploração eficiente de diferentes estratos e nutrientes.*
+:::
+:::
+:::
+
+---
+
+## Média Ponderada da Comunidade (CWM)
+
+::: {.columns}
+::: {.column width="50%"}
+### Métrica de Desempenho do Ecossistema
+- **Community Weighted Mean (CWM)** representa o valor médio de um traço na comunidade, ponderado pela abundância das espécies.
+$$\text{CWM} = \sum_{i=1}^{S} p_i \cdot t_i$$
+
+:::
+
+::: {.column width="50%"}
+::: {.callout-note title="Monitoramento do CWM na Restauração"}
+
+- Onde $p_i$ é a abundância relativa da espécie $i$ e $t_i$ é o valor do traço.
+- Permite monitorar se a área restaurada está adquirindo o perfil funcional correto para prestar serviços ecossistêmicos.
+:::
+:::
+:::
+
+---
+
+## Exclusão Competitiva e Coexistência de Espécies
+
+::: {.columns}
+::: {.column width="50%"}
+- **Mecanismos de Coexistência**:
+  1. **Diferenciação de Nicho**: Partição temporal, espacial ou de forma química de recursos
+  2. **Trade-offs de Histórias de Vida**: Competidores fortes vs. Colonizadores rápidos  
+:::
+
+::: {.column width="50%"}
+::: {.callout-note title="Triângulo de Estratégias CSR (Grime)"}
+```
+                Competidoras (C)
+                     /\
+                    /  \
+                   /    \
+                  /      \
+                 /        \
+  Tolerantes ao /__________\ Ruderais (R)
+   Estresse (S)
+```
+*Espécies **C** dominam em baixa perturbação; **S** em alto estresse; **R** em alta perturbação [43, 45].*
+:::
+:::
+:::
+
+---
+
+## Complementaridade vs. Redundância funcional
+
+::: {.columns}
+::: {.column width="50%"}
+- **Complementaridade Funcional**:
+  - Combinação de traços contrastantes 
+  - Aumenta a produtividade primária e a ciclagem de nutrientes 
+- **Redundância Funcional**:
+  - Presença de várias espécies com funções equivalentes 
+  - Fornece o **seguro ecológico** 
+:::
+
+::: {.column width="50%"}
+::: {.callout-tip title="Matriz de Complementaridade e Redundância"}
+
+![](https://www.researchgate.net/profile/Nico-Bluethgen/publication/229404631/figure/fig1/AS:367425292914688@1464612424071/The-relationship-between-functional-niche-complementarity-biodiversity-and-ecosystem_W640.jpg)
+:::
+:::
+:::
+
+---
+
+## Aplicados à restauração
+
+::: {.columns}
+::: {.column width="50%"}
+- **Grupo de Recobrimento**:
+  - Rápido crescimento e ampla copa sombreadora 
+  - Função: Fechamento do dossel e supressão de capins exóticos 
+- **Grupo de Diversidade**:
+  - Crescimento moderado/lento e vida longa.
+  - Função: Perenidade da floresta e dossel definitivo.
+:::
+
+::: {.column width="50%"}
+::: {.callout-note title="Dinâmica Sucessional das Guildas"}
+
+![](https://s2-umsoplaneta.glbimg.com/KsyDMUgqBB-pxPxAPdKzR67_MiI=/0x0:1920x1968/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_7d5b9b5029304d27b7ef8a7f28b4d70f/internal_photos/bs/2022/P/i/qKuhvoT0GWLc3tqakc2g/infografico-cobrimento.jpg)
+
+*O grupo de recobrimento garante a estrutura inicial; a diversidade assume o dossel conforme o recobrimento entra em senescência*
+:::
+:::
+:::
+
+---
+
+## O Conceito de Facilitação Biótica
+
+::: {.columns}
+::: {.column width="50%"}
+- A **facilitação** é uma interação biótica (+/+ ou +/0) 
+- Reduz estresses físicos e barreiras de recrutamento 
+
+:::
+
+::: {.column width="50%"}
+::: {.callout-note title="Teia de Benefícios Facilitadores"}
+```
+         [ESPECIES FACILITADORAS]
+                    │
+   ┌────────────────┼────────────────┐
+   ▼                ▼                ▼
+Sombra &      Nodulação &      Aumento de
+Umidade       Fixação N2       Serapilheira
+ (Clima)       (Nutrientes)     (Solo)
+   │                │                │
+   └────────────────┼────────────────┘
+                    ▼
+      [ESTABELECIMENTO DE PLÂNTULAS
+       SENSÍVEIS E CLIMÁCICAS]
+```
+*Interações positivas são catalisadoras essenciais para o avanço da sucessão em solos degradados.*
+:::
+:::
+:::
+
+---
+
+## Plantas Enfermeiras (*Nurse Plants*)
+
+::: {.columns}
+::: {.column width="50%"}
+  - Reduz a temperatura da superfície do solo
+  - Diminui a evapotranspiração da plântula protegida.
+  - Protege contra a geada e herbivoria direta 
+- Amplamente utilizada na restauração de ecossistemas secos e montanhosos
+:::
+
+::: {.column width="50%"}
+::: {.callout-tip title="Microambiente da Planta Enfermeira"}
+![](https://upload.wikimedia.org/wikipedia/commons/e/ef/Nurse_plant.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
+*A planta enfermeira atua como um escudo físico que viabiliza o recrutamento de espécies tardias.*
+:::
+:::
+:::
+
+---
+
+
+## Atrativos de Fauna 
+
+::: {.columns}
+::: {.column width="50%"}
+### Reativação do Fluxo de Sementes
+- **Barreira de Dispersão**: Muitas áreas degradadas sofrem de limitação de propágulos
+- **Poleiros Naturais e Artificiais**:
+- **Árvores Zoocóricas Atrativas**:
+  - Plantio estratégico de espécies com frutos apetecíveis
+:::
+
+::: {.column width="50%"}
+::: {.callout-note title="Mecanismo de Poleiro e Núcleo de Dispersão"}
+
+![](https://i0.wp.com/matanativa.com.br/wp-content/uploads/2019/11/Design-sem-nome.png?w=810&ssl=1)
+
+*Mecanismo de catalisação da sucessão por meio de serviços de dispersão prestados pela fauna.*
+:::
+:::
+:::
+
+---
+
+
+## Monitoramento Baseado em Indicadores Funcionais
+
+- Substituição de métricas puramente florísticas por **indicadores de processos** 
+- **Principais Indicadores**:
+  - **Taxa de Cobertura do Dossel (%)**: Medida com densitômetro ou foto fisheye 
+  - **Acúmulo de Serapilheira ($kg/m^2$)**: Ciclagem de nutrientes e proteção do solo 
+  - **Densidade de Regenerantes Nativos**: Recrutamento espontâneo
+
+
+## Integração Sócio-Ecológica e Valor Econômico
+
+- A restauração deve ser inclusiva, justa e socialmente benéfica 
+- **Sistemas Agroflorestais (SAFs) e Manejo**:
+  - Permitidos em Reserva Legal e APPs de pequenas propriedades 
+  - Enriquecimento com espécies madeireiras nobres e frutíferas 
+- **Roda de Benefícios Sociais (SER)**: Avaliação do engajamento comunitário e equidade 
+
+
+## Conclusão e Diretrizes Práticas
+
+1. **Diagnosticar a Resiliência**: Usar a restauração passiva sempre que viável 
+2. **Selecionar por Traços**: Superar a lista estática de espécies; focar em CWM e funções 
+3. **Aproveitar a Facilitação**: Usar plantas enfermeiras e adubação verde para suprimir invasoras 
+4. **Garantir a Diversidade**: Consorciar grupos de recobrimento e diversidade para manter a resiliência
+
+## FIM {.center}

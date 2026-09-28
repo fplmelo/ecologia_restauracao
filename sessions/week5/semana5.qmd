@@ -1,0 +1,99 @@
+---
+title: "Semana 5 — Teoria Ecológica Aplicada à Restauração II"
+subtitle: "Traços funcionais, coexistência e facilitação aplicada à Restauração Ecológica"
+author: "Ecologia da Restauração — UFPE"
+date: last-modified
+lang: pt
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    toc-location: left
+    number-sections: true
+    # theme: cosmo
+    code-fold: false
+    smooth-scroll: true
+---
+
+Slides da Aula
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; border-radius: 8px; margin: 20px 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <iframe src="/slides/semana5_-_slides.html" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
+
+# Introdução
+
+A aplicação de **traços funcionais**, modelos de **coexistência** e interações de **facilitação** marca a transição do paradigma clássico da restauração ecológica (focado na recomposição taxonômica estática) para o paradigma contemporâneo. Este novo paradigma foca na reconstrução de processos ecológicos, funções do ecossistema e interações bióticas complexas.
+
+# Traços Funcionais e Regras de Montagem (*Assembly Rules*)
+
+Os **traços funcionais** correspondem a atributos morfológicos, fisiológicos ou fenológicos dos organismos que afetam diretamente seu desempenho e sobrevivência em resposta às condições ambientais.
+
+![](https://www.science.org/cms/10.1126/sciadv.abf2675/asset/9dd9db06-6836-45e2-9d99-3e583ba9f49a/assets/graphic/abf2675-f1.jpeg)
+
+## O Modelo de Filtros de Espécies
+
+De acordo com o modelo de regras de montagem (*assembly rules*), as comunidades locais não são formadas ao acaso, mas resultam da passagem do *pool* regional de espécies por filtros ambientais e bióticos sucessivos:
+
+1. **Pool Regional de Espécies:** O conjunto total de táxons disponíveis na paisagem biogeográfica.
+2. **Filtros Abióticos:** Estresses físicos do ambiente degradado (como secas, extremos de temperatura, solos ácidos ou compactados) que eliminam espécies sem adaptações adequadas.
+3. **Filtros Bióticos:** Interações locais como competição, herbivoria e contaminação por espécies exóticas invasoras.
+4. **Comunidade Local:** O subconjunto de espécies cujos traços funcionais transpuseram os filtros locais.
+
+![](/img/montagem.png)
+
+## Convergência vs. Divergência de Traços
+
+* **Convergência de Traços (*Trait Convergence*):** Ocorre quando filtros abióticos severos selecionam espécies com estratégias funcionais semelhantes para suportar o estresse.
+* **Divergência de Traços (*Trait Divergence*):** Ocorre quando interações bióticas e competição local favorecem a diferenciação de nichos entre espécies coexistentes.
+
+Na restauração prática, o manejo consiste na manipulação deliberada dos filtros para direcionar a montagem da comunidade desejada.
+
+# Coexistência e Grupos Funcionais
+
+O entendimento dos mecanismos de coexistência é essencial para estruturar plantios florestais diversos, funcionais e resilientes.
+
+## Diferenciação de Nicho e Redundância Funcional
+
+* **Exclusão Competitiva vs. Diferenciação de Nicho:** A coexistência de espécies similares é viabilizada pela diferenciação de nicho ecológico, onde a competição intraespecífica supera a interespecífica.
+* **Redundância Funcional:** Presença de múltiplas espécies desempenhando papéis ecológicos semelhantes. A redundância confere resiliência à comunidade contra perturbações e flutuações ambientais.
+
+## Guildas Funcionais na Restauração Tropical
+
+Projetos de restauração florestal em biomas tropicais agrupam espécies em duas guildas funcionais complementares para acelerar a sucessão:
+
+| Grupo Funcional | Atributos Funcionais Típicos | Papel na Restauração Ecológica |
+| :--- | :--- | :--- |
+| **Grupo de Recobrimento** (*Pioneiras/Iniciais*) | Crescimento rápido, copas densas e amplas, alta capacidade sombreadora. | Rápido fechamento do dossel, sombreamento do solo e supressão de gramíneas exóticas invasoras. |
+| **Grupo de Diversidade** (*Secundárias/Climácicas*) | Crescimento moderado/lento, ciclo de vida longo, tolerância inicial à sombra. | Garantia da sustentabilidade no longo prazo, substituição gradual do dossel inicial e atração de fauna. |
+
+# Facilitação Aplicada à Restauração
+
+A **facilitação** é uma interação biótica positiva (+/0 ou +/+) na qual uma espécie modifica o ambiente físico de modo favorável ao estabelecimento e sobrevivência de outras espécies vizinhas.
+
+## Mecanismos Principais de Facilitação
+
+1. **Plantas Enfermeiras (*Nurse Plants*):** Arbustos ou árvores pioneiras que atenuam condições estressantes no microclima local, reduzindo a radiação e a temperatura do solo.
+2. **Adubação Verde e Fixação de Nitrogênio:** Leguminosas (ex.: *Inga spp.*, feijão-guandu) associadas a bactérias fixadoras de $N_2$ enriquecem o solo com matéria orgânica e nitrogênio, melhorando a nutrição de espécies exigentes.
+3. **Poleiros Naturais e Atração de Dispersores:** Árvores ou estruturas funcionais que atraem a fauna frugívora, aumentando a chuva de sementes e o recrutamento de espécies tardias.
+4. **Engenharia de Ecossistemas:** Organismos que modificam fisicamente a estrutura do habitat, criando novos microhabitats.
+
+## Hipótese do Gradiente de Estresse (*Stress Gradient Hypothesis*)
+
+A facilitação predomina em ambientes com severo estresse abiótico, onde o efeito protetor das plantas vizinhas supera a competição por recursos. Conforme o estresse abiótico diminui e o dossel se consolida, as interações locais passam crescentemente a ser dominadas por competição por luz e nutrientes.
+
+# Síntese para Decisões de Manejo
+
+| Princípio Ecológico | Pergunta de Manejo Prático | Ação de Campo Recomendada |
+| :--- | :--- | :--- |
+| **Traços Funcionais** | Quais filtros abióticos estão bloqueando a regeneração natural? | Seleção de espécies com traços funcionais adequados aos estresses locais do solo e clima. |
+| **Coexistência** | Como evitar a exclusão competitiva e aumentar a resiliência? | Plantio consorciado alternando espécies de Recobrimento e Diversidade. |
+| **Facilitação** | Como reduzir custos de manutenção e acelerar o fechamento? | Uso de adubação verde e plantas enfermeiras para controle de gramíneas invasoras. |
+
+# Bibliografia Sugerida
+
+* GANN, G. D. et al. *International principles and standards for the practice of ecological restoration*. 2nd ed. Restoration Ecology, 2019.
+* KEDDY, P. A.; LAUGHLIN, D. C. *A Framework for Community Ecology: Species Pools, Filters and Traits*. Cambridge University Press, 2021.
+* NAVE, A. G. et al. *Manual de Restauração Ecológica: técnicos e produtores rurais no Extremo Sul da Bahia*. MPBA / LERF ESALQ-USP, 2016.
+* YOUNG, T. P. et al. The ecology of restoration: historical links, emerging issues and unexplored realms. *Ecology Letters*, 2005.
+
