@@ -179,7 +179,7 @@ format:
 
 ---
 
-## A existência de limiares
+## A existência de Limiares
 
 :::: {.columns}
 
