@@ -1,5 +1,12 @@
 [
   {
+    "listing": "/resources/index.html",
+    "items": [
+      "/resources/r.html",
+      "/resources/observ_rest.html"
+    ]
+  },
+  {
     "listing": "/exercises/index.html",
     "items": [
       "/exercises/ex1-paisagem/ex-1.html"
@@ -12,14 +19,8 @@
       "/sessions/week2/2-bases-conceituais.html",
       "/sessions/week3/3-dinamica-ecossistemas.html",
       "/sessions/week4/semana4-resumo-expandido.html",
-      "/sessions/week5/semana5.html"
-    ]
-  },
-  {
-    "listing": "/resources/index.html",
-    "items": [
-      "/resources/r.html",
-      "/resources/observ_rest.html"
+      "/sessions/week5/semana5.html",
+      "/sessions/week6/semana6-escala-paisagem.html"
     ]
   }
 ]
