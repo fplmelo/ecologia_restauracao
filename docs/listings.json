@@ -1,15 +1,15 @@
 [
   {
+    "listing": "/exercises/index.html",
+    "items": [
+      "/exercises/ex1-paisagem/ex-1.html"
+    ]
+  },
+  {
     "listing": "/resources/index.html",
     "items": [
       "/resources/r.html",
       "/resources/observ_rest.html"
-    ]
-  },
-  {
-    "listing": "/exercises/index.html",
-    "items": [
-      "/exercises/ex1-paisagem/ex-1.html"
     ]
   },
   {

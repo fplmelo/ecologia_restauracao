@@ -20,6 +20,8 @@ Slides da Aula
 
 # Introdução: A Transição da Escala Local para a Escala de Paisagem
 
+![](/img/escala.png)
+
 A ecologia de paisagem examina como a heterogeneidade espacial — composta por um mosaico de manchas (*patches*) imersas em uma matriz alterada — influencia a distribuição de organismos, os fluxos de matéria e energia e a dinâmica ecológica regional. Historicamente, as iniciativas de restauração eram planejadas de forma isolada, concentrando-se em parcelas locais. No entanto, o paradigma contemporâneo estabelece que a recuperação sustentável da biodiversidade e dos serviços ecossistêmicos exige o planejamento integrado na **escala de paisagem**.
 
 Essa abordagem integrada fundamenta o conceito de **Restauração de Paisagens Florestais** (*Forest Landscape Restoration — FLR*), definido como um processo planejado que visa recuperar a integridade ecológica e aumentar o bem-estar humano em paisagens desmatadas ou degradadas. O Princípio 7 dos Padrões Internacionais da *Society for Ecological Restoration* (SER) reforça que a restauração adquire valor cumulativo quando projetada em larga escala, pois os processos ecológicos fundamentais — como fluxo gênico, dispersão de sementes, teias tróficas e regimes de distúrbio — operam na escala da bacia hidrográfica e do território.
