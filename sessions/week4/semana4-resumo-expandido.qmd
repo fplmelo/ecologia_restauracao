@@ -27,6 +27,8 @@ Slides da Aula
 
 ## Introdução
 
+![](/img/paisagem.png)
+
 A restauração ecológica não é apenas uma técnica de plantio: é uma prática fundamentada em **teoria ecológica**. Compreender como as comunidades se formam, se recuperam e se mantêm ao longo do tempo é essencial para orientar decisões práticas — desde a escolha de espécies até a definição de qual estratégia de intervenção (ativa, passiva ou nucleadora) é mais adequada para cada contexto.
 
 Esta semana trata de quatro conceitos centrais e interligados:
