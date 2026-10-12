@@ -10,7 +10,7 @@ format:
     number-sections: true
 lang: pt
 bibliography: refs.bib
-csl: "https://www.zotero.org/styles/associacao-brasileira-de-normas-tecnicas"
+# csl: "https://www.zotero.org/styles/associacao-brasileira-de-normas-tecnicas"
 ---
 
 ## Objetivos de aprendizagem
