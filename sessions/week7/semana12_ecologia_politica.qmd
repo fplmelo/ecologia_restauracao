@@ -1,5 +1,5 @@
 ---
-title: "Semana 12: Ecologia Política"
+title: "Semana 07: Ecologia Política"
 subtitle: "Conflitos de terra, poder e a construção social da paisagem"
 author: "Prof. Felipe Melo"
 date: today
