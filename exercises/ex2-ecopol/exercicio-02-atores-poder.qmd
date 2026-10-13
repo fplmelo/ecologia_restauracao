@@ -1,0 +1,258 @@
+---
+title: "Exercício 2 — Atores, poder e justiça no planejamento da restauração"
+subtitle: "Ecologia da Restauração · Universidade Federal de Pernambuco · Departamento de Botânica"
+lang: pt-BR
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    embed-resources: true
+    code-fold: false
+---
+
+::: {.callout-note}
+## Em resumo
+
+**Formato:** trabalho individual · **Entrega:** relatório de 2 a 4 páginas + 1 figura (mapa de atores) · **Pré-requisito:** Exercício 1 (mesmo cenário, mesma paisagem) · 
+:::
+
+## Contexto: de "o que" restaurar para "para quem" e "por quem"
+
+No Exercício 1, vocês analisaram a paisagem hipotética de Mata Atlântica, sobre antigas terras de cana-de-açúcar em um assentamento de reforma agrária, a partir da biodiversidade, dos níveis de organização biológica e dos processos de montagem de comunidades de Vellend (2010). Aquela análise respondeu, em essência, a uma pergunta ecológica: **o que pode se regenerar e por quais processos**.
+
+Caso você tenha optado por analisar qualquer paisagem de seu iunteresse, o mesmo se aplica.
+
+Este exercício responde a outra pergunta, igualmente decisiva para o sucesso de um projeto: **quem decide, quem ganha e quem arca com os custos**. Restaurar não é uma intervenção neutra. Toda restauração acontece em um território onde já existem pessoas, direitos, histórias de uso da terra, desigualdades e disputas. Um projeto tecnicamente impecável pode reproduzir ou aprofundar injustiças se ignorar essa dimensão. A pergunta provocadora de Elias et al. (2021), *restauração para quem, por quem?*, resume o problema.
+
+Vocês vão usar ferramentas da **Ecologia Política** para mapear atores e relações de poder na área a ser restaurada, antecipar onde o planejamento pode manter ou criar injustiças e, por fim, **propor correções realistas que sejam incorporadas ao próprio desenho do projeto de restauração**.
+
+## Objetivos de aprendizagem
+
+Ao final do exercício, vocês deverão ser capazes de:
+
+1. Levantar e classificar atores (estabelecidos e interessados) relevantes para uma área a ser restaurada, em diferentes escalas.
+2. Aplicar conceitos de classificação da Ecologia Política (tipos de atores, modos e dimensões de poder, mecanismos de acesso) para caracterizar esses atores.
+3. Identificar e descrever assimetrias de poder, justificando-as com argumentos e evidências do cenário.
+4. Antecipar riscos de manutenção ou reprodução de injustiças em cada etapa do planejamento da restauração.
+5. Propor medidas corretivas viáveis, expressas como intervenções concretas do projeto, com indicadores de acompanhamento.
+
+## Cenário
+
+Usem **o mesmo cenário do Exercício 1**: uma paisagem de Mata Atlântica sobre antigas terras de cana-de-açúcar, hoje parte de um assentamento de reforma agrária, onde famílias assentadas pretendem restaurar corredores de vegetação e proteger nascentes e zonas ripárias.
+
+Ou, usem seu cenário escolhido.
+
+Como o cenário é hipotético, **vocês têm liberdade para detalhá-lo**, desde que sejam coerentes e explicitem suas premissas em um parágrafo inicial (por exemplo: tamanho do assentamento, origem das famílias, quem detém o entorno, quem financia a restauração, existência de comunidades tradicionais próximas, regime de posse dos lotes). Cada premissa que vocês criarem deve ser plausível para o contexto da Zona da Mata nordestina ou de outras regiões da Mata Atlântica.
+
+::: {.callout-warning}
+## Atenção
+
+Detalhar o cenário **não é** inventar um cenário que facilite a resposta. Premissas convenientes demais (por exemplo, "todos os atores concordam") serão consideradas fraquezas do trabalho. A riqueza da análise vem de reconhecer conflitos e desigualdades que um projeto real teria de enfrentar.
+:::
+
+## Conceitos-chave para a análise
+
+Esta seção funciona como seu "kit de ferramentas". Vocês devem usar **pelo menos quatro** dos referenciais abaixo, sempre citando a fonte.
+
+### Tipos de atores
+
+Bryant e Bailey (1997) organizam os atores da ecologia política em cinco categorias: **Estado**, **instituições multilaterais**, **empresas**, **organizações não governamentais** e **atores de base** (comunidades, movimentos, grupos locais). Vocês podem acrescentar categorias que o cenário exigir (por exemplo, academia, financiadores, mercado de carbono), mas precisam justificar.
+
+### Modos de poder (Wolf)
+
+Wolf (1990) distingue quatro modos de poder, úteis para ir além da ideia de "quem manda":
+
+| Modo | O que é | Pergunta-guia |
+|---|---|---|
+| Atributo | Capacidade ou recurso que o ator possui | O que este ator tem (terra, dinheiro, conhecimento, prestígio)? |
+| Relacional | Capacidade de impor a vontade em uma interação | Em que situações este ator consegue fazer o outro ceder? |
+| Tático/organizacional | Controle sobre os contextos em que outros agem | Quem define o cenário de ação (reuniões, editais, calendário, regras de acesso)? |
+| Estrutural | Poder de moldar o próprio sistema, o que é possível ou impensável | Que regras, leis e mercados limitam o que este ator ou os outros podem fazer? |
+
+### Três dimensões do poder (Lukes)
+
+Lukes (1974) propõe olhar o poder em três dimensões: (1) a **decisão** observável em conflitos abertos; (2) o controle da **agenda**, isto é, quem consegue manter certos temas fora da discussão; (3) a **formação de preferências**, quando certos grupos passam a aceitar como "natural" aquilo que os prejudica. A segunda e a terceira são as mais difíceis de enxergar e as mais importantes para projetos de restauração.
+
+### Acesso (Ribot e Peluso)
+
+Ribot e Peluso (2003) definem acesso como a **capacidade de obter benefícios** de algo, o que é diferente de ter direito de propriedade. Os mecanismos de acesso incluem direitos formais e informais, tecnologia, capital, mercados, trabalho, conhecimento, autoridade, identidade e relações sociais. Este referencial é especialmente útil para analisar quem realmente se beneficia (ou não) de uma floresta restaurada.
+
+### Poder, legitimidade e urgência (Mitchell, Agle e Wood)
+
+Mitchell, Agle e Wood (1997) classificam *stakeholders* pela combinação de **poder**, **legitimidade** e **urgência** de suas demandas. Atores com legitimidade e urgência, mas **sem poder**, são justamente os que costumam ficar invisíveis nos planejamentos. Vale prestar atenção a eles.
+
+### Dimensões da justiça (Schlosberg)
+
+Schlosberg (2007) propõe tratar a justiça ambiental em pelo menos três dimensões: **distributiva** (quem recebe benefícios e custos), de **reconhecimento** (quem tem seus saberes, identidades e modos de vida reconhecidos) e **procedimental/participativa** (quem participa das decisões e com que peso). Usaremos essas três dimensões para classificar as assimetrias.
+
+### Gênero, geração e outras interseções
+
+Elias et al. (2021) mostram, a partir da ecologia política feminista, que gênero, geração, raça/etnia e classe afetam quem participa, quem trabalha, quem controla recursos e quem é ouvido na restauração. Considerem essas interseções em todas as etapas.
+
+### Degraus de participação (Arnstein)
+
+Arnstein (1969) descreve uma "escada" que vai da manipulação ao controle cidadão. Ela será útil na Parte 5 para qualificar o tipo de participação que suas medidas propõem: informar, consultar e decidir juntos são coisas muito diferentes.
+
+## Roteiro do exercício
+
+### Parte 1 — Delimitação da área e premissas 
+
+1. Descreva em um parágrafo a **unidade de restauração** (área, limites, tipo de vegetação-alvo) e o **entorno relevante** (propriedades vizinhas, bacia hidrográfica, município).
+2. Liste as **premissas** adotadas sobre o cenário (posse da terra, financiamento, organização social, histórico de conflitos).
+3. Indique as **escalas** em que o projeto se relaciona com atores: local, municipal/regional, estadual/nacional, global.
+
+### Parte 2 — Levantamento de atores 
+
+Construa uma tabela com **no mínimo 12 atores**, cobrindo **no mínimo quatro das cinco categorias** de Bryant e Bailey (1997) e pelo menos **três escalas**. Distingam:
+
+- **Atores estabelecidos**: já presentes e com vínculos com o território (moradores, assentados, vizinhos, instituições locais, usos e direitos existentes).
+- **Atores interessados**: que passam a se interessar ou intervir por causa do projeto (financiadores, ONGs, empresas, gestores públicos, pesquisadores, mercado de carbono, mídia).
+
+Usem o modelo abaixo.
+
+| Ator | Categoria (Bryant e Bailey) | Escala | Estabelecido ou interessado | Interesse na área | Recursos que mobiliza | Posição frente à restauração |
+|---|---|---|---|---|---|---|
+| *Exemplo ilustrativo:* sindicato de trabalhadores rurais | Atores de base | Municipal | Estabelecido | Garantir renda e permanência das famílias | Capacidade de mobilização, vínculo com as famílias | Apoia, com condições |
+| ... | ... | ... | ... | ... | ... | ... |
+
+::: {.callout-tip}
+## Lista de verificação para não esquecer ninguém
+
+Antes de fechar a tabela, perguntem: incluímos mulheres, jovens e idosos como grupos com interesses próprios (e não só "as famílias")? Incluímos quem **trabalha** na restauração (viveiristas, coletores de sementes, diaristas), além de quem decide? Incluímos quem usa a área sem ter título formal (lenha, pesca, extrativismo, passagem)? Incluímos os vizinhos que podem perder ou ganhar com mudanças na água e no uso do solo? Incluímos atores **não humanos** que condicionam o jogo (a água, o fogo, a praga, a seca)? Esta última pergunta é opcional, mas costuma enriquecer a discussão.
+:::
+
+### Parte 3 — Classificação do poder 
+
+Para **cada um dos 6 atores mais importantes** (justifiquem a escolha), preencham a ficha abaixo, usando os conceitos da seção 5.
+
+| Elemento | Resposta |
+|---|---|
+| Ator | |
+| Modo(s) de poder predominante(s) (Wolf) | |
+| Dimensão de poder exercida (Lukes) | |
+| Mecanismos de acesso que controla (Ribot e Peluso) | |
+| Poder, legitimidade, urgência (Mitchell et al.) | |
+| Evidência no cenário que sustenta a classificação | |
+
+Em seguida, **posicionem todos os atores da Parte 2 em uma figura** (mapa de atores). Vocês podem usar o formato que preferirem, desde que seja legível e que represente pelo menos duas informações: (a) o **poder** de cada ator e (b) as **relações** entre eles (alianças, dependência, conflito, intermediação). Uma matriz poder × interesse com setas de relação é suficiente. Esboços feitos à mão e fotografados são aceitos.
+
+### Parte 4 — Assimetrias de poder 
+
+A partir das Partes 2 e 3, identifiquem **no mínimo cinco assimetrias** entre atores. Para cada uma, preencham:
+
+| Assimetria | Atores envolvidos | Tipo de justiça afetada (distributiva, reconhecimento, procedimental) | Mecanismo que a produz | Consequência provável para a restauração |
+|---|---|---|---|---|
+| *Exemplo ilustrativo:* decisão sobre espécies a plantar concentrada na equipe técnica | Equipe técnica x famílias assentadas | Procedimental e reconhecimento | Poder tático (controle da agenda) e conhecimento técnico | Espécies sem uso para as famílias; baixo cuidado no longo prazo |
+
+Pelo menos **uma** das assimetrias deve ser de **gênero ou geração**, e pelo menos **uma** deve ser de **escala** (entre atores locais e atores externos ao território).
+
+### Parte 5 — Riscos de manutenção ou criação de injustiças no planejamento 
+
+Percorram o ciclo do projeto e identifiquem, em cada etapa, **como o planejamento pode reproduzir as assimetrias da Parte 4**. Usem o quadro abaixo (podem preencher todas as linhas ou justificar a omissão de alguma).
+
+| Etapa do projeto | Risco de injustiça | Quem perde / quem ganha | Probabilidade (baixa, média, alta) | Gravidade (baixa, média, alta) |
+|---|---|---|---|---|
+| Diagnóstico e escuta | | | | |
+| Definição de metas e áreas prioritárias | | | | |
+| Escolha das técnicas (regeneração natural, plantio, nucleação) | | | | |
+| Escolha das espécies | | | | |
+| Financiamento, contratos e repartição de benefícios | | | | |
+| Implementação (trabalho, remuneração, ritmo) | | | | |
+| Monitoramento e definição de "sucesso" | | | | |
+| Governança após o fim do financiamento | | | | |
+
+Algumas perguntas para orientar a reflexão:
+
+- A escolha entre **regeneração natural** e **restauração ativa** (ver Crouzeilles *et al.*, 2017) tem consequências distribuídas de forma igual? Quem arca com o custo de oportunidade de manter áreas sem uso produtivo?
+- Quem define **o que conta como sucesso**? Cobertura florestal, diversidade, estoque de carbono, renda, segurança hídrica, valores culturais?
+- O arcabouço legal (por exemplo, a Lei nº 12.651/2012) distribui obrigações e direitos de forma equilibrada entre grandes proprietários e assentados?
+- Se houver **pagamento por serviços ambientais** ou venda de créditos de carbono, quem controla o contrato e quem recebe?
+- Quem fica com o conhecimento gerado (dados, publicações, imagens)?
+
+### Parte 6 — Medidas corretivas incorporadas ao projeto 
+
+Proponham **no mínimo cinco medidas** que corrijam ou reduzam as assimetrias e os riscos identificados. As medidas devem ser **intervenções do projeto de restauração**, isto é, algo que aparece no desenho, no orçamento, no cronograma, nos contratos ou na governança do projeto. Recomendações genéricas ("promover participação", "valorizar o saber local") **não serão aceitas** sem desdobramento concreto.
+
+Para cada medida, preencham:
+
+| Item | Descrição |
+|---|---|
+| Medida | |
+| Assimetria ou risco que corrige | |
+| Como entra no projeto (atividade, cláusula, orçamento, regra de governança) | |
+| Quem executa e quem decide | |
+| Degrau de participação (Arnstein) | |
+| Indicador de acompanhamento | |
+| Viabilidade (baixa, média, alta) e restrições (orçamento, legislação, prazo) | |
+| **Efeito colateral possível** (quem pode capturar a medida? o que pode dar errado?) | |
+
+**Critérios de realismo.** Uma boa medida: (a) cabe em um orçamento plausível de projeto de restauração; (b) respeita a legislação (Código Florestal, regras do assentamento); (c) tem responsável identificado; (d) prevê como será verificada; (e) reconhece seus próprios limites. Medidas que dependem de mudar a estrutura fundiária do país são legítimas como horizonte político, mas **não contam** como intervenção de projeto. Vocês podem citá-las na síntese final.
+
+Exemplos de *tipos* de intervenção (não de respostas prontas): arranjos de governança do projeto, critérios de seleção e compra de mudas e sementes, formas de remuneração do trabalho de restauração, desenho de espécies de uso múltiplo, regras de repartição de benefícios, calendário compatível com a rotina das famílias, formação técnica, regras de propriedade dos dados, mecanismos de reclamação e de revisão do projeto.
+
+### Parte 7 — Síntese crítica 
+
+Em 300 a 400 palavras, respondam:
+
+1. Considerando as medidas propostas, **o projeto redistribui poder** ou apenas o administra de forma mais cuidadosa? Justifiquem.
+2. Qual é a **assimetria mais difícil de corrigir** dentro do alcance de um projeto, e por quê?
+3. Que **conhecimento ou ator** vocês sentiram falta de ter ouvido diretamente, e como isso limita a análise?
+4. O que mudaria no seu **desenho ecológico** (Exercício 1) depois desta análise?
+
+## Entrega
+
+- **Formato:** um único arquivo PDF, em português, com as sete partes na ordem acima. Tabelas e figura incluídas no corpo do texto.
+
+- **Prazo:** 27 / 10 / 2026
+
+## Critérios de avaliação
+
+| Critério | O que se espera | Peso |
+|---|---|---|
+| Levantamento de atores | Diversidade, escalas, atores invisibilizados incluídos, coerência com o cenário | 1,5 |
+| Uso dos conceitos de Ecologia Política | Conceitos corretos, aplicados com evidência (e não só citados) | 2,5 |
+| Análise das assimetrias | Assimetrias bem justificadas, interseções (gênero, geração, escala) presentes | 2,0 |
+| Riscos no planejamento | Ligação clara entre assimetrias e etapas do projeto | 1,5 |
+| Medidas corretivas | Concretas, realistas, com indicador e efeito colateral | 2,0 |
+| Clareza, figura e referências | Texto claro, figura legível, ABNT correta | 0,5 |
+| **Total** | | **10,0** |
+
+## Erros comuns a evitar
+
+1. **Listar atores sem analisar relações.** O poder está nas relações entre atores, e não em cada um isoladamente.
+2. **Tratar "a comunidade" como bloco homogêneo.** Dentro de um assentamento há diferenças de gênero, geração, tempo de chegada, tamanho e qualidade de lote, acesso à água e filiação política.
+3. **Confundir propriedade com acesso.** Quem tem título não necessariamente se beneficia da floresta restaurada, e quem não tem título pode depender dela.
+4. **Propor "oficinas" e "rodas de conversa" como solução única.** Participação sem poder de decisão, no limite, é mera consulta.
+5. **Corrigir o problema só no papel.** Toda medida precisa aparecer em uma atividade, uma cláusula ou um orçamento.
+6. **Ignorar os efeitos colaterais das próprias medidas.** Cotas, comitês e pagamentos também podem ser capturados por quem já tem mais poder.
+
+## Referências sugerdas (incompletas, há muito mais) {.unnumbered}
+
+ARNSTEIN, Sherry R. A ladder of citizen participation. *Journal of the American Institute of Planners*, v. 35, n. 4, p. 216-224, 1969.
+
+BRASIL. *Lei nº 12.651, de 25 de maio de 2012*. Dispõe sobre a proteção da vegetação nativa (Código Florestal Brasileiro). Brasília, DF: Diário Oficial da União, 2012.
+
+BRYANT, Raymond L.; BAILEY, Sinéad. *Third World political ecology*. London: Routledge, 1997.
+
+CROUZEILLES, Renato; FERREIRA, M. S.; CHAZDON, R. L.; LINDENMAYER, D. B. *et al.* Ecological restoration success is higher for natural regeneration than for active restoration in tropical forests. *Science Advances*, v. 3, n. 11, e1701345, 2017. DOI: 10.1126/sciadv.1701345.
+
+ELIAS, Marlène; SIGMAN, Elizabeth *et al.*[ Restoration for whom, by whom? A feminist political ecology of restoration](https://cgspace.cgiar.org/server/api/core/bitstreams/8902631a-9b23-4e8b-9d63-9f06e785b383/content). *Ecological Restoration*, v. 39, n. 1-2, p. 3-26, 2021.
+
+GANN, George D.; MCDONALD, Tein; WALDER, Bethanie; ARONSON, James; NELSON, Cara R. *et al.* International principles and standards for the practice of ecological restoration. Second edition. *Restoration Ecology*, v. 27, n. S1, p. S1-S46, 2019. DOI: 10.1111/rec.13035.
+
+LUKES, Steven. *Power: a radical view*. London: Macmillan, 1974.
+
+MITCHELL, Ronald K.; AGLE, Bradley R.; WOOD, Donna J. Toward a theory of stakeholder identification and salience: defining the principle of who and what really counts. *Academy of Management Review*, v. 22, n. 4, p. 853-886, 1997.
+
+MONGABAY. [*New restoration "Playbook" calls for political, economic, and social change*](https://news.mongabay.com/2021/11/new-restoration-playbook-calls-for-political-economic-and-social-change/). Mongabay Environmental News, 2021.
+
+RIBOT, Jesse C.; PELUSO, Nancy Lee. A theory of access. *Rural Sociology*, v. 68, n. 2, p. 153-181, 2003.
+
+SCHLOSBERG, David. *Defining environmental justice: theories, movements, and nature*. Oxford: Oxford University Press, 2007.
+
+WOLF, Eric R. Facing power: old insights, new questions. *American Anthropologist*, v. 92, n. 3, p. 586-596, 1990.
+
+YOUNG, Truman P.; PETERSEN, D. A.; CLARY, J. J. The ecology of restoration: historical links, emerging issues and unexplored realms. *Ecology Letters*, v. 8, n. 6, p. 662-673, 2005. DOI: 10.1111/j.1461-0248.2005.00764.x.
+
+OSBORNE, T., et al. (2021). The political ecology playbook for ecosystem restoration: Principles for effective, equitable, and transformative landscapes. Global Environmental Change, 70, 102320. https://doi.org/10.1016/j.gloenvcha.2021.102320
