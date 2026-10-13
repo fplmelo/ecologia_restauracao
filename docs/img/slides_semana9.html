@@ -6,11 +6,11 @@
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="../site_libs/quarto-html/light-border.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.9.37">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
+  <meta name="generator" content="quarto-1.10.18">
 
   <meta name="author" content="Prof.&nbsp;Felipe Melo">
-  <meta name="dcterms.date" content="2026-10-12">
+  <meta name="dcterms.date" content="2026-10-13">
   <title>Tipos de Métricas de Paisagem</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -21,10 +21,13 @@
     /* Default styles provided by pandoc.
     ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
     */
-    code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    div.columns{display: flex; gap: min(4vw, 1.5em);}
-    div.column{flex: auto; overflow-x: auto;}
+    div.columns{display: flex; gap: 1.5em;}
+    div.column{flex: auto;}
+    @media screen {
+    div.columns{gap: min(4vw, 1.5em);}
+    div.column{overflow-x: auto;}
+    }
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
     ul.task-list li input[type="checkbox"] {
@@ -204,7 +207,7 @@
 <div class="quarto-title-authors">
 <div class="quarto-title-author">
 <div class="quarto-title-author-name">
-Prof.&nbsp;Felipe Melo 
+Prof.&nbsp;Felipe Melo
 </div>
         <p class="quarto-title-affiliation">
             Departamento de Botânica · UFPE
@@ -212,7 +215,7 @@ Prof.&nbsp;Felipe Melo
     </div>
 </div>
 
-  <p class="date">2026-10-12</p>
+  <p class="date">2026-10-13</p>
 </section>
 <section id="section" class="slide level2" data-background-color="#2c1a5e">
 <h2></h2>
@@ -470,14 +473,14 @@ Prof.&nbsp;Felipe Melo
 <li>5–8 métricas são suficientes para a maioria das análises</li>
 </ul>
 <p><strong>Conjunto para análise de fragmentação:</strong></p>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a></a><span class="fu">calculate_lsm</span>(paisagem, <span class="at">what =</span> <span class="fu">c</span>(</span>
-<span id="cb1-2"><a></a>  <span class="st">"lsm_c_pland"</span>,    <span class="co"># composição</span></span>
-<span id="cb1-3"><a></a>  <span class="st">"lsm_l_shdi"</span>,     <span class="co"># composição</span></span>
-<span id="cb1-4"><a></a>  <span class="st">"lsm_c_np"</span>,       <span class="co"># fragmentação</span></span>
-<span id="cb1-5"><a></a>  <span class="st">"lsm_c_ed"</span>,       <span class="co"># borda</span></span>
-<span id="cb1-6"><a></a>  <span class="st">"lsm_c_ai"</span>,       <span class="co"># agregação</span></span>
-<span id="cb1-7"><a></a>  <span class="st">"lsm_c_enn_mn"</span>    <span class="co"># isolamento</span></span>
-<span id="cb1-8"><a></a>))</span></code></pre></div><button title="Copiar para a área de transferência" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a aria-label="1"></a><span class="fu">calculate_lsm</span>(paisagem, <span class="at">what =</span> <span class="fu">c</span>(</span>
+<span id="cb1-2"><a aria-label="2"></a>  <span class="st">"lsm_c_pland"</span>,    <span class="co"># composição</span></span>
+<span id="cb1-3"><a aria-label="3"></a>  <span class="st">"lsm_l_shdi"</span>,     <span class="co"># composição</span></span>
+<span id="cb1-4"><a aria-label="4"></a>  <span class="st">"lsm_c_np"</span>,       <span class="co"># fragmentação</span></span>
+<span id="cb1-5"><a aria-label="5"></a>  <span class="st">"lsm_c_ed"</span>,       <span class="co"># borda</span></span>
+<span id="cb1-6"><a aria-label="6"></a>  <span class="st">"lsm_c_ai"</span>,       <span class="co"># agregação</span></span>
+<span id="cb1-7"><a aria-label="7"></a>  <span class="st">"lsm_c_enn_mn"</span>    <span class="co"># isolamento</span></span>
+<span id="cb1-8"><a aria-label="8"></a>))</span></code></pre></div><button title="Copiar para a área de transferência" class="code-copy-button"><i class="bi"></i></button></div>
 </div><div class="column" style="width:4%;">
 
 </div><div class="column" style="width:48%;">
@@ -489,22 +492,22 @@ Prof.&nbsp;Felipe Melo
 <div class="columns">
 <div class="column" style="width:48%;">
 <p><strong>Duas paisagens simuladas:</strong></p>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a></a><span class="co"># Paisagem A: xadrez (fragmentada)</span></span>
-<span id="cb2-2"><a></a>r_A <span class="ot">&lt;-</span> <span class="fu">rast</span>(<span class="at">nrows=</span><span class="dv">20</span>, <span class="at">ncols=</span><span class="dv">20</span>,</span>
-<span id="cb2-3"><a></a>  <span class="at">vals =</span> <span class="fu">rep</span>(<span class="fu">c</span>(<span class="dv">1</span>L, <span class="dv">2</span>L), <span class="dv">200</span>))</span>
-<span id="cb2-4"><a></a></span>
-<span id="cb2-5"><a></a><span class="co"># Paisagem B: dois blocos (agregada)</span></span>
-<span id="cb2-6"><a></a>r_B <span class="ot">&lt;-</span> <span class="fu">rast</span>(<span class="at">nrows=</span><span class="dv">20</span>, <span class="at">ncols=</span><span class="dv">20</span>,</span>
-<span id="cb2-7"><a></a>  <span class="at">vals =</span> <span class="fu">c</span>(<span class="fu">rep</span>(<span class="dv">1</span>L,<span class="dv">200</span>), <span class="fu">rep</span>(<span class="dv">2</span>L,<span class="dv">200</span>)))</span>
-<span id="cb2-8"><a></a></span>
-<span id="cb2-9"><a></a><span class="co"># Métricas: composição = IGUAL</span></span>
-<span id="cb2-10"><a></a><span class="co"># Métricas: configuração = DIFERENTE</span></span>
-<span id="cb2-11"><a></a><span class="fu">calculate_lsm</span>(<span class="fu">list</span>(r_A, r_B), <span class="at">what =</span> <span class="fu">c</span>(</span>
-<span id="cb2-12"><a></a>  <span class="st">"lsm_l_shdi"</span>,  <span class="co"># composição: igual</span></span>
-<span id="cb2-13"><a></a>  <span class="st">"lsm_l_np"</span>,    <span class="co"># config: muito diferente</span></span>
-<span id="cb2-14"><a></a>  <span class="st">"lsm_l_ed"</span>,    <span class="co"># config: muito diferente</span></span>
-<span id="cb2-15"><a></a>  <span class="st">"lsm_l_ai"</span>     <span class="co"># config: muito diferente</span></span>
-<span id="cb2-16"><a></a>))</span></code></pre></div><button title="Copiar para a área de transferência" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a aria-label="1"></a><span class="co"># Paisagem A: xadrez (fragmentada)</span></span>
+<span id="cb2-2"><a aria-label="2"></a>r_A <span class="ot">&lt;-</span> <span class="fu">rast</span>(<span class="at">nrows=</span><span class="dv">20</span>, <span class="at">ncols=</span><span class="dv">20</span>,</span>
+<span id="cb2-3"><a aria-label="3"></a>  <span class="at">vals =</span> <span class="fu">rep</span>(<span class="fu">c</span>(<span class="dv">1</span>L, <span class="dv">2</span>L), <span class="dv">200</span>))</span>
+<span id="cb2-4"><a aria-label="4"></a></span>
+<span id="cb2-5"><a aria-label="5"></a><span class="co"># Paisagem B: dois blocos (agregada)</span></span>
+<span id="cb2-6"><a aria-label="6"></a>r_B <span class="ot">&lt;-</span> <span class="fu">rast</span>(<span class="at">nrows=</span><span class="dv">20</span>, <span class="at">ncols=</span><span class="dv">20</span>,</span>
+<span id="cb2-7"><a aria-label="7"></a>  <span class="at">vals =</span> <span class="fu">c</span>(<span class="fu">rep</span>(<span class="dv">1</span>L,<span class="dv">200</span>), <span class="fu">rep</span>(<span class="dv">2</span>L,<span class="dv">200</span>)))</span>
+<span id="cb2-8"><a aria-label="8"></a></span>
+<span id="cb2-9"><a aria-label="9"></a><span class="co"># Métricas: composição = IGUAL</span></span>
+<span id="cb2-10"><a aria-label="10"></a><span class="co"># Métricas: configuração = DIFERENTE</span></span>
+<span id="cb2-11"><a aria-label="11"></a><span class="fu">calculate_lsm</span>(<span class="fu">list</span>(r_A, r_B), <span class="at">what =</span> <span class="fu">c</span>(</span>
+<span id="cb2-12"><a aria-label="12"></a>  <span class="st">"lsm_l_shdi"</span>,  <span class="co"># composição: igual</span></span>
+<span id="cb2-13"><a aria-label="13"></a>  <span class="st">"lsm_l_np"</span>,    <span class="co"># config: muito diferente</span></span>
+<span id="cb2-14"><a aria-label="14"></a>  <span class="st">"lsm_l_ed"</span>,    <span class="co"># config: muito diferente</span></span>
+<span id="cb2-15"><a aria-label="15"></a>  <span class="st">"lsm_l_ai"</span>     <span class="co"># config: muito diferente</span></span>
+<span id="cb2-16"><a aria-label="16"></a>))</span></code></pre></div><button title="Copiar para a área de transferência" class="code-copy-button"><i class="bi"></i></button></div>
 <p><strong>Resultado esperado:</strong> SHDI idêntico; NP, ED e AI opostos</p>
 </div><div class="column" style="width:4%;">
 
