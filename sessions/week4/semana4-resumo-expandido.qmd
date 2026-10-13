@@ -14,7 +14,7 @@ format:
     code-fold: false
     smooth-scroll: true
 bibliography: refs.bib
-csl: https://www.zotero.org/styles/associacao-brasileira-de-normas-tecnicas
+# csl: https://www.zotero.org/styles/associacao-brasileira-de-normas-tecnicas
 nocite: |
   @duarte2016, @guerin2013, @nave2016, @silva2023, @tymus2018, @canedoli2021, @crouzeilles2017, @elias2021, @gann2019, @ostapchuk2023, @young2005, @caiafa2023, @brasil2012, @mongabay2021, @wikipedia_restauracao_pt2026, @wikipedia_restoration_en2024, @arizona_libraries, @undecade
 ---
